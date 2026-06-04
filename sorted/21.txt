@@ -1,4 +1,7 @@
 adenozinmonofosfatoma | ADENOZINMONOFOSFAT - [farm.] ribonukleotid, ester adenozina in fosforjeve(V) kisline na mestu C-5 riboze, sestavina RNA in nekaterih koencimov
+akcijskousmerjevalnem | AKCIJSKOUSMERJEVALEN - [pravopis]
+akcijskousmerjevalnih | AKCIJSKOUSMERJEVALEN - [pravopis]
+akcijskousmerjevalnim | AKCIJSKOUSMERJEVALEN - [pravopis]
 aktuopaleontologijama | AKTUOPALEONTOLOGIJA - [geol.] veda, ki s proučevanjem sedanjih živalskih in rastlinskih vrst pojasnjuje življenje in razvoj podobnih, že izumrlih živalskih in rastlinskih vrst
 aktuopaleontologijami | AKTUOPALEONTOLOGIJA - [geol.] veda, ki s proučevanjem sedanjih živalskih in rastlinskih vrst pojasnjuje življenje in razvoj podobnih, že izumrlih živalskih in rastlinskih vrst
 anarhosindikalističen | nanašajoč se na anarhosindikalizem
@@ -6,6 +9,7 @@ anarhosindikalistična | ANARHOSINDIKALISTIČEN - nanašajoč se na anarhosindik
 anarhosindikalistične | ANARHOSINDIKALISTIČEN - nanašajoč se na anarhosindikalizem
 anarhosindikalistični | ANARHOSINDIKALISTIČEN - nanašajoč se na anarhosindikalizem
 anarhosindikalistično | ANARHOSINDIKALISTIČEN - nanašajoč se na anarhosindikalizem
+antidemokratičnostima | ANTIDEMOKRATIČNOST - [pravopis]
 antiglobalizacijskega | ANTIGLOBALIZACIJSKI - ki je proti globalizaciji
 antiglobalizacijskemu | ANTIGLOBALIZACIJSKI - ki je proti globalizaciji
 antiglobalizacijskima | ANTIGLOBALIZACIJSKI - ki je proti globalizaciji
@@ -15,78 +19,206 @@ antiimperialističnega | ANTIIMPERIALISTIČEN - ki je proti imperializmu
 antiimperialističnemu | ANTIIMPERIALISTIČEN - ki je proti imperializmu
 antiimperialističnima | ANTIIMPERIALISTIČEN - ki je proti imperializmu
 antiimperialističnimi | ANTIIMPERIALISTIČEN - ki je proti imperializmu
+antiimperialističnost | [pravopis]
+antimarksističnostima | ANTIMARKSISTIČNOST - [pravopis]
 antimaterialističnega | ANTIMATERIALISTIČEN - ki je proti materializmu
 antimaterialističnemu | ANTIMATERIALISTIČEN - ki je proti materializmu
 antimaterialističnima | ANTIMATERIALISTIČEN - ki je proti materializmu
 antimaterialističnimi | ANTIMATERIALISTIČEN - ki je proti materializmu
+antimaterialističnost | [pravopis]
 antimineralokortikoid | [farm.] antikaliuretični diuretik, ki z vezavo na aldosteronski receptor prepreči reabsorpcijo natrijevih, kloridnih ionov in vode, npr. spironolakton
+antirevolucionarnosti | ANTIREVOLUCIONARNOST - [pravopis]
 antropocentričnostima | ANTROPOCENTRIČNOST - lastnost, značilnost antropocentričnega
-botrioblastokonidijem | BOTRIOBLASTOKONIDIJ - [bot.] 
-botrioblastokonidijev | BOTRIOBLASTOKONIDIJ - [bot.] 
-botrioblastokonidijih | BOTRIOBLASTOKONIDIJ - [bot.] 
+argentinskoslovenskem | ARGENTINSKOSLOVENSKI - [epravopis] nanašajoč se na argentinske Slovence
+argentinskoslovenskih | ARGENTINSKOSLOVENSKI - [epravopis] nanašajoč se na argentinske Slovence
+argentinskoslovenskim | ARGENTINSKOSLOVENSKI - [epravopis] nanašajoč se na argentinske Slovence
+arilsulfonilsečninska | ARILSULFONILSEČNINSKI - > SULFONILSEČNINA - [farm.] peroralni antidiabetik z arilsulfonilsečninskim fragmentom, ki pospeši sproščanje inzulina, povečuje število inzulinskih receptorjev in njihovo afiniteto za inzulin, znižuje koncentracijo glukagona v serumu in zavira glukoneogenezo v jetrih, npr. glibenklamid, klorpropamid
+arilsulfonilsečninske | ARILSULFONILSEČNINSKI - > SULFONILSEČNINA - [farm.] peroralni antidiabetik z arilsulfonilsečninskim fragmentom, ki pospeši sproščanje inzulina, povečuje število inzulinskih receptorjev in njihovo afiniteto za inzulin, znižuje koncentracijo glukagona v serumu in zavira glukoneogenezo v jetrih, npr. glibenklamid, klorpropamid
+arilsulfonilsečninski | > SULFONILSEČNINA - [farm.] peroralni antidiabetik z arilsulfonilsečninskim fragmentom, ki pospeši sproščanje inzulina, povečuje število inzulinskih receptorjev in njihovo afiniteto za inzulin, znižuje koncentracijo glukagona v serumu in zavira glukoneogenezo v jetrih, npr. glibenklamid, klorpropamid
+arilsulfonilsečninsko | ARILSULFONILSEČNINSKI - > SULFONILSEČNINA - [farm.] peroralni antidiabetik z arilsulfonilsečninskim fragmentom, ki pospeši sproščanje inzulina, povečuje število inzulinskih receptorjev in njihovo afiniteto za inzulin, znižuje koncentracijo glukagona v serumu in zavira glukoneogenezo v jetrih, npr. glibenklamid, klorpropamid
+arteriosklerotičnosti | ARTERIOSKLEROTIČNOST - [pravopis]
+avstrijskoštajerskega | AVSTRIJSKOŠTAJERSKI - [epravopis] nanašajoč se na avstrijsko Štajersko
+avstrijskoštajerskemu | AVSTRIJSKOŠTAJERSKI - [epravopis] nanašajoč se na avstrijsko Štajersko
+avstrijskoštajerskima | AVSTRIJSKOŠTAJERSKI - [epravopis] nanašajoč se na avstrijsko Štajersko
+avstrijskoštajerskimi | AVSTRIJSKOŠTAJERSKI - [epravopis] nanašajoč se na avstrijsko Štajersko
+avtoelektrikaričinega | AVTOELEKTRIKARIČIN - [pravopis]
+avtoelektrikaričinemu | AVTOELEKTRIKARIČIN - [pravopis]
+avtoelektrikaričinima | AVTOELEKTRIKARIČIN - [pravopis]
+avtoelektrikaričinimi | AVTOELEKTRIKARIČIN - [pravopis]
+azaspirodekandionskem | AZASPIRODEKANDIONSKI - [farm.] v zvezi »azaspirodekandionski derivati«:
+azaspirodekandionskih | AZASPIRODEKANDIONSKI - [farm.] v zvezi »azaspirodekandionski derivati«:
+azaspirodekandionskim | AZASPIRODEKANDIONSKI - [farm.] v zvezi »azaspirodekandionski derivati«:
+bilateralnosimetričen | [geol.] v zvezi »bilateralnosimetrična hišica«: hišica, ki ima samo eno ravnino simetrije
+bilateralnosimetrična | BILATERALNOSIMETRIČEN - [geol.] v zvezi »bilateralnosimetrična hišica«: hišica, ki ima samo eno ravnino simetrije
+bilateralnosimetrične | BILATERALNOSIMETRIČEN - [geol.] v zvezi »bilateralnosimetrična hišica«: hišica, ki ima samo eno ravnino simetrije
+bilateralnosimetrični | BILATERALNOSIMETRIČEN - [geol.] v zvezi »bilateralnosimetrična hišica«: hišica, ki ima samo eno ravnino simetrije
+bilateralnosimetrično | BILATERALNOSIMETRIČEN - [geol.] v zvezi »bilateralnosimetrična hišica«: hišica, ki ima samo eno ravnino simetrije
+botrioblastokonidijem | BOTRIOBLASTOKONIDIJ - [bot.]
+botrioblastokonidijev | BOTRIOBLASTOKONIDIJ - [bot.]
+botrioblastokonidijih | BOTRIOBLASTOKONIDIJ - [bot.]
 brezkonfesionalnostih | BREZKONFESIONALNOST - lastnost, značilnost človeka brez konfesije, veroizpovedi
 brezkonfesionalnostim | BREZKONFESIONALNOST - lastnost, značilnost človeka brez konfesije, veroizpovedi
 brezkonfesionalnostjo | BREZKONFESIONALNOST - lastnost, značilnost človeka brez konfesije, veroizpovedi
 brezkonfesionalnostma | BREZKONFESIONALNOST - lastnost, značilnost človeka brez konfesije, veroizpovedi
 brezkonfesionalnostmi | BREZKONFESIONALNOST - lastnost, značilnost človeka brez konfesije, veroizpovedi
 brezperspektivnostima | BREZPERSPEKTIVNOST - brezperspektivno stanje
+britanskohonduraškega | BRITANSKOHONDURAŠKI - [pravopis]
+britanskohonduraškemu | BRITANSKOHONDURAŠKI - [pravopis]
+britanskohonduraškima | BRITANSKOHONDURAŠKI - [pravopis]
+britanskohonduraškimi | BRITANSKOHONDURAŠKI - [pravopis]
 buržoaznodemokratičen | nanašajoč se na buržoazno demokracijo
 buržoaznodemokratična | BURŽOAZNODEMOKRATIČEN - nanašajoč se na buržoazno demokracijo
 buržoaznodemokratične | BURŽOAZNODEMOKRATIČEN - nanašajoč se na buržoazno demokracijo
 buržoaznodemokratični | BURŽOAZNODEMOKRATIČEN - nanašajoč se na buržoazno demokracijo
 buržoaznodemokratično | BURŽOAZNODEMOKRATIČEN - nanašajoč se na buržoazno demokracijo
+cerkvenopolitičnostih | CERKVENOPOLITIČNOST - [pravopis]
+cerkvenopolitičnostim | CERKVENOPOLITIČNOST - [pravopis]
+cerkvenopolitičnostjo | CERKVENOPOLITIČNOST - [pravopis]
+cerkvenopolitičnostma | CERKVENOPOLITIČNOST - [pravopis]
+cerkvenopolitičnostmi | CERKVENOPOLITIČNOST - [pravopis]
+cerkvenoslovanščinama | CERKVENOSLOVANŠČINA - [pravopis]
+cerkvenoslovanščinami | CERKVENOSLOVANŠČINA - [pravopis]
+cirkumflektiranostima | CIRKUMFLEKTIRANOST - [pravopis]
+civilnozaščitničinega | CIVILNOZAŠČITNIČIN - [pravopis]
+civilnozaščitničinemu | CIVILNOZAŠČITNIČIN - [pravopis]
+civilnozaščitničinima | CIVILNOZAŠČITNIČIN - [pravopis]
+civilnozaščitničinimi | CIVILNOZAŠČITNIČIN - [pravopis]
+časopisnoagencijskega | ČASOPISNOAGENCIJSKI - [pravopis]
+časopisnoagencijskemu | ČASOPISNOAGENCIJSKI - [pravopis]
+časopisnoagencijskima | ČASOPISNOAGENCIJSKI - [pravopis]
+časopisnoagencijskimi | ČASOPISNOAGENCIJSKI - [pravopis]
+decentralističnostima | DECENTRALISTIČNOST - [pravopis]
+decentraliziranostima | DECENTRALIZIRANOST - [pravopis]
 deindustrializacijama | DEINDUSTRIALIZACIJA - [geog.] navadno načrtno nadomeščanje industrijske proizvodnje na določenem območju z drugimi dejavnostmi, s čimer industrija postaja gospodarsko postranska dejavnost
 deindustrializacijami | DEINDUSTRIALIZACIJA - [geog.] navadno načrtno nadomeščanje industrijske proizvodnje na določenem območju z drugimi dejavnostmi, s čimer industrija postaja gospodarsko postranska dejavnost
 deinstitucionalizacij | DEINSTITUCIONALIZACIJA - odvzem ustaljene, zakonske oblike
+dekompenzacijskostima | DEKOMPENZACIJSKOST - [pravopis]
 dematerializiranostih | DEMATERIALIZIRANOST - lastnost, značilnost dematerializiranega
 dematerializiranostim | DEMATERIALIZIRANOST - lastnost, značilnost dematerializiranega
 dematerializiranostjo | DEMATERIALIZIRANOST - lastnost, značilnost dematerializiranega
 dematerializiranostma | DEMATERIALIZIRANOST - lastnost, značilnost dematerializiranega
 dematerializiranostmi | DEMATERIALIZIRANOST - lastnost, značilnost dematerializiranega
+demilitariziranostima | DEMILITARIZIRANOST - [pravopis]
 denacionalizacijskega | DENACIONALIZACIJSKI - nanašajoč se na denacionalizacija 1
 denacionalizacijskemu | DENACIONALIZACIJSKI - nanašajoč se na denacionalizacija 1
 denacionalizacijskima | DENACIONALIZACIJSKI - nanašajoč se na denacionalizacija 1
 denacionalizacijskimi | DENACIONALIZACIJSKI - nanašajoč se na denacionalizacija 1
+denacionaliziranostih | DENACIONALIZIRANOST - [pravopis]
+denacionaliziranostim | DENACIONALIZIRANOST - [pravopis]
+denacionaliziranostjo | DENACIONALIZIRANOST - [pravopis]
+denacionaliziranostma | DENACIONALIZIRANOST - [pravopis]
+denacionaliziranostmi | DENACIONALIZIRANOST - [pravopis]
 dendrogeomorfologijah | DENDROGEOMORFOLOGIJA - [geol.] določanje reliefa in geomorfoloških procesov na podlagi letnega prirasta lesa
 dendrogeomorfologijam | DENDROGEOMORFOLOGIJA - [geol.] določanje reliefa in geomorfoloških procesov na podlagi letnega prirasta lesa
 dendroklimatologijama | DENDROKLIMATOLOGIJA - [geog.] del klimatologije, ki raziskuje podnebne razmere v posameznih obdobjih po enoletnih debelinskih prirastih drevesnih debel
 dendroklimatologijami | DENDROKLIMATOLOGIJA - [geog.] del klimatologije, ki raziskuje podnebne razmere v posameznih obdobjih po enoletnih debelinskih prirastih drevesnih debel
+deoksiribonukleinskem | DEOKSIRIBONUKLEINSKI - [esskj] 
+deoksiribonukleinskih | DEOKSIRIBONUKLEINSKI - [esskj] 
+deoksiribonukleinskim | DEOKSIRIBONUKLEINSKI - [esskj] 
 deoksiribonukleotidih | DEOKSIRIBONUKLEOTID - [farm.] deoksiribonukleozid, osnovni gradnik DNA, sestavljen iz deoksiriboze, na katero so na položaju 5' z estrsko vezjo vezane ena, dve ali tri fosfatne skupine
 deoksiribonukleotidom | DEOKSIRIBONUKLEOTID - [farm.] deoksiribonukleozid, osnovni gradnik DNA, sestavljen iz deoksiriboze, na katero so na položaju 5' z estrsko vezjo vezane ena, dve ali tri fosfatne skupine
 deoksiribonukleotidov | DEOKSIRIBONUKLEOTID - [farm.] deoksiribonukleozid, osnovni gradnik DNA, sestavljen iz deoksiriboze, na katero so na položaju 5' z estrsko vezjo vezane ena, dve ali tri fosfatne skupine
-deoksiribonukleozidih | DEOKSIRIBONUKLEOZID - [farm.] 
-deoksiribonukleozidom | DEOKSIRIBONUKLEOZID - [farm.] 
-deoksiribonukleozidov | DEOKSIRIBONUKLEOZID - [farm.] 
+deoksiribonukleozidih | DEOKSIRIBONUKLEOZID - [farm.]
+deoksiribonukleozidom | DEOKSIRIBONUKLEOZID - [farm.]
+deoksiribonukleozidov | DEOKSIRIBONUKLEOZID - [farm.]
 deprofesionalizacijah | DEPROFESIONALIZACIJA - odstranitev, ukinitev profesionalizacije
 deprofesionalizacijam | DEPROFESIONALIZACIJA - odstranitev, ukinitev profesionalizacije
 dermatovenerologijama | DERMATOVENEROLOGIJA - veda o kožnih in spolnih boleznih
 dermatovenerologijami | DERMATOVENEROLOGIJA - veda o kožnih in spolnih boleznih
+devetdesetletničinega | DEVETDESETLETNIČIN - [pravopis]
+devetdesetletničinemu | DEVETDESETLETNIČIN - [pravopis]
+devetdesetletničinima | DEVETDESETLETNIČIN - [pravopis]
+devetdesetletničinimi | DEVETDESETLETNIČIN - [pravopis]
+devetnajstletničinega | DEVETNAJSTLETNIČIN - [pravopis]
+devetnajstletničinemu | DEVETNAJSTLETNIČIN - [pravopis]
+devetnajstletničinima | DEVETNAJSTLETNIČIN - [pravopis]
+devetnajstletničinimi | DEVETNAJSTLETNIČIN - [pravopis]
+deziluzionističnostih | DEZILUZIONISTIČNOST - [pravopis]
+deziluzionističnostim | DEZILUZIONISTIČNOST - [pravopis]
+deziluzionističnostjo | DEZILUZIONISTIČNOST - [pravopis]
+deziluzionističnostma | DEZILUZIONISTIČNOST - [pravopis]
+deziluzionističnostmi | DEZILUZIONISTIČNOST - [pravopis]
+dezintegracijskostima | DEZINTEGRACIJSKOST - [pravopis]
 dezoksiribonukleinska | DEZOKSIRIBONUKLEINSKI - nukleinska kislina, ki nosi zapis genske informacije v vseh živih bitjih
 dezoksiribonukleinske | DEZOKSIRIBONUKLEINSKI - nukleinska kislina, ki nosi zapis genske informacije v vseh živih bitjih
 dezoksiribonukleinski | nukleinska kislina, ki nosi zapis genske informacije v vseh živih bitjih
 dezoksiribonukleinsko | DEZOKSIRIBONUKLEINSKI - nukleinska kislina, ki nosi zapis genske informacije v vseh živih bitjih
+dezorganizatoričinega | DEZORGANIZATORIČIN - [pravopis]
+dezorganizatoričinemu | DEZORGANIZATORIČIN - [pravopis]
+dezorganizatoričinima | DEZORGANIZATORIČIN - [pravopis]
+dezorganizatoričinimi | DEZORGANIZATORIČIN - [pravopis]
+diakisdodekaedričnega | DIAKISDODEKAEDRIČEN - [gem.] v zvezi »diakisdodekaedrični razred«: simetrijski razred kubičnega sistema s štirimi troštevnimi osmi, usmerjenimi po telesnih diagonalah kocke, in tremi medsebojno pravokotnimi ravninami simetrije
+diakisdodekaedričnemu | DIAKISDODEKAEDRIČEN - [gem.] v zvezi »diakisdodekaedrični razred«: simetrijski razred kubičnega sistema s štirimi troštevnimi osmi, usmerjenimi po telesnih diagonalah kocke, in tremi medsebojno pravokotnimi ravninami simetrije
+diakisdodekaedričnima | DIAKISDODEKAEDRIČEN - [gem.] v zvezi »diakisdodekaedrični razred«: simetrijski razred kubičnega sistema s štirimi troštevnimi osmi, usmerjenimi po telesnih diagonalah kocke, in tremi medsebojno pravokotnimi ravninami simetrije
+diakisdodekaedričnimi | DIAKISDODEKAEDRIČEN - [gem.] v zvezi »diakisdodekaedrični razred«: simetrijski razred kubičnega sistema s štirimi troštevnimi osmi, usmerjenimi po telesnih diagonalah kocke, in tremi medsebojno pravokotnimi ravninami simetrije
+difenilpropilaminskem | DIFENILPROPILAMINSKI - [farm.] v zvezi »difenilpropilaminski derivati«: opioidni analgetiki z dvema fenilnima obročema na določeni razdalji od bazičnega dušika, ki se vežejo na opioidne receptorje v centralnem živčnem sistemu, npr. metadon
+difenilpropilaminskih | DIFENILPROPILAMINSKI - [farm.] v zvezi »difenilpropilaminski derivati«: opioidni analgetiki z dvema fenilnima obročema na določeni razdalji od bazičnega dušika, ki se vežejo na opioidne receptorje v centralnem živčnem sistemu, npr. metadon
+difenilpropilaminskim | DIFENILPROPILAMINSKI - [farm.] v zvezi »difenilpropilaminski derivati«: opioidni analgetiki z dvema fenilnima obročema na določeni razdalji od bazičnega dušika, ki se vežejo na opioidne receptorje v centralnem živčnem sistemu, npr. metadon
+dihidrotestosteronoma | DIHIDROTESTOSTERON - > ANDROGEN - [farm.] steroidni hormon, ki se sintetizira in izloča v testisu, manj pa v skorji nadledvične žleze in jajčniku, in povzroča moške spolne znake, npr. testosteron, dihidrotestosteron
+diklorfenoksiocetnega | DIKLORFENOKSIOCETEN - [bot.] v zvezi »diklorfenoksiocetna kislina«: sintetični avksin, ki se uporablja zlasti kot herbicid za zatiranje širokolistnih plevelov
+diklorfenoksiocetnemu | DIKLORFENOKSIOCETEN - [bot.] v zvezi »diklorfenoksiocetna kislina«: sintetični avksin, ki se uporablja zlasti kot herbicid za zatiranje širokolistnih plevelov
+diklorfenoksiocetnima | DIKLORFENOKSIOCETEN - [bot.] v zvezi »diklorfenoksiocetna kislina«: sintetični avksin, ki se uporablja zlasti kot herbicid za zatiranje širokolistnih plevelov
+diklorfenoksiocetnimi | DIKLORFENOKSIOCETEN - [bot.] v zvezi »diklorfenoksiocetna kislina«: sintetični avksin, ki se uporablja zlasti kot herbicid za zatiranje širokolistnih plevelov
+diklorofenoksiocetnem | DIKLOROFENOKSIOCETEN - > ARILOKSIOCETEN - [farm.] v zvezi »derivat ariloksiocetne kisline«: diuretik Henlejeve zanke, derivat diklorofenoksiocetne kisline, ki se navadno uporablja kot antihipertenziv, npr. etakrinska kislina
+diklorofenoksiocetnih | DIKLOROFENOKSIOCETEN - > ARILOKSIOCETEN - [farm.] v zvezi »derivat ariloksiocetne kisline«: diuretik Henlejeve zanke, derivat diklorofenoksiocetne kisline, ki se navadno uporablja kot antihipertenziv, npr. etakrinska kislina
+diklorofenoksiocetnim | DIKLOROFENOKSIOCETEN - > ARILOKSIOCETEN - [farm.] v zvezi »derivat ariloksiocetne kisline«: diuretik Henlejeve zanke, derivat diklorofenoksiocetne kisline, ki se navadno uporablja kot antihipertenziv, npr. etakrinska kislina
+dimetilizoaloksazinih | DIMETILIZOALOKSAZIN - > RIBOFLAVIN - [farm.] v vodi topen vitamin, sestavljen iz ribitola in dimetilizoaloksazina, ki se v organizmu pretvori v flavinmononukleotid in nato v flavin-adenin-dinukleotid, ki je kofaktor pri številnih redoks reakcijah, kjer pride do prenašanja hidridnih anionov in sodeluje pri rasti, antioksidantni zaščiti in metabolizmu številnih organskih molekul
+dimetilizoaloksazinom | DIMETILIZOALOKSAZIN - > RIBOFLAVIN - [farm.] v vodi topen vitamin, sestavljen iz ribitola in dimetilizoaloksazina, ki se v organizmu pretvori v flavinmononukleotid in nato v flavin-adenin-dinukleotid, ki je kofaktor pri številnih redoks reakcijah, kjer pride do prenašanja hidridnih anionov in sodeluje pri rasti, antioksidantni zaščiti in metabolizmu številnih organskih molekul
+dimetilizoaloksazinov | DIMETILIZOALOKSAZIN - > RIBOFLAVIN - [farm.] v vodi topen vitamin, sestavljen iz ribitola in dimetilizoaloksazina, ki se v organizmu pretvori v flavinmononukleotid in nato v flavin-adenin-dinukleotid, ki je kofaktor pri številnih redoks reakcijah, kjer pride do prenašanja hidridnih anionov in sodeluje pri rasti, antioksidantni zaščiti in metabolizmu številnih organskih molekul
 dinamohidrometamorfoz | DINAMOHIDROMETAMORFOZA - [geol.] metamorfoza, ki je posledica tektonskih procesov, zvišanega tlaka in vodnih raztopin
+diskretnodogodkovnega | DISKRETNODOGODKOVEN - [avt.] v zvezi »diskretnodogodkovni sistem«: sistem, katerega dinamika je odvisna od asinhronega pojavljanja diskretnih dogodkov, npr. proizvodna linija v tovarni, sestavljalna linija v tovarni, prometni sistem, računalniško komunikacijsko omrežje
+diskretnodogodkovnemu | DISKRETNODOGODKOVEN - [avt.] v zvezi »diskretnodogodkovni sistem«: sistem, katerega dinamika je odvisna od asinhronega pojavljanja diskretnih dogodkov, npr. proizvodna linija v tovarni, sestavljalna linija v tovarni, prometni sistem, računalniško komunikacijsko omrežje
+diskretnodogodkovnima | DISKRETNODOGODKOVEN - [avt.] v zvezi »diskretnodogodkovni sistem«: sistem, katerega dinamika je odvisna od asinhronega pojavljanja diskretnih dogodkov, npr. proizvodna linija v tovarni, sestavljalna linija v tovarni, prometni sistem, računalniško komunikacijsko omrežje
+diskretnodogodkovnimi | DISKRETNODOGODKOVEN - [avt.] v zvezi »diskretnodogodkovni sistem«: sistem, katerega dinamika je odvisna od asinhronega pojavljanja diskretnih dogodkov, npr. proizvodna linija v tovarni, sestavljalna linija v tovarni, prometni sistem, računalniško komunikacijsko omrežje
+diskriminacijskostima | DISKRIMINACIJSKOST - [pravopis]
+diskvalificiranostima | DISKVALIFICIRANOST - [pravopis]
 disproporcionalnostih | DISPROPORCIONALNOST - značilnost disproporcionalnega
 disproporcionalnostim | DISPROPORCIONALNOST - značilnost disproporcionalnega
 disproporcionalnostjo | DISPROPORCIONALNOST - značilnost disproporcionalnega
 disproporcionalnostma | DISPROPORCIONALNOST - značilnost disproporcionalnega
 disproporcionalnostmi | DISPROPORCIONALNOST - značilnost disproporcionalnega
 disproporcioniranosti | DISPROPORCIONIRANOST - značilnost disproporcioniranega
+distributivnostnostih | DISTRIBUTIVNOSTNOST - [pravopis]
+distributivnostnostim | DISTRIBUTIVNOSTNOST - [pravopis]
+distributivnostnostjo | DISTRIBUTIVNOSTNOST - [pravopis]
+distributivnostnostma | DISTRIBUTIVNOSTNOST - [pravopis]
+distributivnostnostmi | DISTRIBUTIVNOSTNOST - [pravopis]
+dokapitaliziranostima | DOKAPITALIZIRANOST - [pravopis]
+dolnjelužiškosrbskega | DOLNJELUŽIŠKOSRBSKI - [pravopis]
+dolnjelužiškosrbskemu | DOLNJELUŽIŠKOSRBSKI - [pravopis]
+dolnjelužiškosrbskima | DOLNJELUŽIŠKOSRBSKI - [pravopis]
+dolnjelužiškosrbskimi | DOLNJELUŽIŠKOSRBSKI - [pravopis]
 drobnokapitalističnem | DROBNOKAPITALISTIČEN - nanašajoč se na drobne kapitaliste
 drobnokapitalističnih | DROBNOKAPITALISTIČEN - nanašajoč se na drobne kapitaliste
 drobnokapitalističnim | DROBNOKAPITALISTIČEN - nanašajoč se na drobne kapitaliste
+drobnoluknjičavostima | DROBNOLUKNJIČAVOST - [pravopis]
+drobnoposestniškostih | DROBNOPOSESTNIŠKOST - [pravopis]
+drobnoposestniškostim | DROBNOPOSESTNIŠKOST - [pravopis]
+drobnoposestniškostjo | DROBNOPOSESTNIŠKOST - [pravopis]
+drobnoposestniškostma | DROBNOPOSESTNIŠKOST - [pravopis]
+drobnoposestniškostmi | DROBNOPOSESTNIŠKOST - [pravopis]
 drobnoproizvajalskega | DROBNOPROIZVAJALSKI - nanašajoč se na drobne proizvajalce
 drobnoproizvajalskemu | DROBNOPROIZVAJALSKI - nanašajoč se na drobne proizvajalce
 drobnoproizvajalskima | DROBNOPROIZVAJALSKI - nanašajoč se na drobne proizvajalce
 drobnoproizvajalskimi | DROBNOPROIZVAJALSKI - nanašajoč se na drobne proizvajalce
+drobnoproizvajalskost | [pravopis]
 družbenogospodarskega | DRUŽBENOGOSPODARSKI - nanašajoč se na gospodarstvo določene družbe ali gospodarski položaj posameznikov ali skupin v njej
 družbenogospodarskemu | DRUŽBENOGOSPODARSKI - nanašajoč se na gospodarstvo določene družbe ali gospodarski položaj posameznikov ali skupin v njej
 družbenogospodarskima | DRUŽBENOGOSPODARSKI - nanašajoč se na gospodarstvo določene družbe ali gospodarski položaj posameznikov ali skupin v njej
 družbenogospodarskimi | DRUŽBENOGOSPODARSKI - nanašajoč se na gospodarstvo določene družbe ali gospodarski položaj posameznikov ali skupin v njej
+družbenopolitičnostih | DRUŽBENOPOLITIČNOST - [pravopis]
+družbenopolitičnostim | DRUŽBENOPOLITIČNOST - [pravopis]
+družbenopolitičnostjo | DRUŽBENOPOLITIČNOST - [pravopis]
+družbenopolitičnostma | DRUŽBENOPOLITIČNOST - [pravopis]
+družbenopolitičnostmi | DRUŽBENOPOLITIČNOST - [pravopis]
 družbenozgodovinskega | DRUŽBENOZGODOVINSKI - nanašajoč se na zgodovino družbe
 družbenozgodovinskemu | DRUŽBENOZGODOVINSKI - nanašajoč se na zgodovino družbe
 družbenozgodovinskima | DRUŽBENOZGODOVINSKI - nanašajoč se na zgodovino družbe
 družbenozgodovinskimi | DRUŽBENOZGODOVINSKI - nanašajoč se na zgodovino družbe
+družbenozgodovinskost | [pravopis]
+družinskosorodstvenem | DRUŽINSKOSORODSTVEN - [pravopis]
+družinskosorodstvenih | DRUŽINSKOSORODSTVEN - [pravopis]
+družinskosorodstvenim | DRUŽINSKOSORODSTVEN - [pravopis]
 državnokapitalističen | nanašajoč se na državni kapitalizem
 državnokapitalistična | DRŽAVNOKAPITALISTIČEN - nanašajoč se na državni kapitalizem
 državnokapitalistične | DRŽAVNOKAPITALISTIČEN - nanašajoč se na državni kapitalizem
@@ -104,11 +236,47 @@ dvainštirideseturnega | DVAINŠTIRIDESETUREN - ki traja dvainštirideset ur
 dvainštirideseturnemu | DVAINŠTIRIDESETUREN - ki traja dvainštirideset ur
 dvainštirideseturnima | DVAINŠTIRIDESETUREN - ki traja dvainštirideset ur
 dvainštirideseturnimi | DVAINŠTIRIDESETUREN - ki traja dvainštirideset ur
+dvanajsterokotnostima | DVANAJSTEROKOTNOST - [pravopis]
+dvanajsteroploskvenik | [geol.] v zvezi »pentagonski dvanajsteroploskvenik«: kristalni lik v kubičnem kristalografskem sistemu z dvanajstimi simetričnimi peterokotnimi ploskvami
+dvanajsterostranostih | DVANAJSTEROSTRANOST - [pravopis]
+dvanajsterostranostim | DVANAJSTEROSTRANOST - [pravopis]
+dvanajsterostranostjo | DVANAJSTEROSTRANOST - [pravopis]
+dvanajsterostranostma | DVANAJSTEROSTRANOST - [pravopis]
+dvanajsterostranostmi | DVANAJSTEROSTRANOST - [pravopis]
 dvodimenzionalnostima | DVODIMENZIONALNOST - značilnost dvodimenzionalnega
+eksemplifikativnostih | EKSEMPLIFIKATIVNOST - [pravopis]
+eksemplifikativnostim | EKSEMPLIFIKATIVNOST - [pravopis]
+eksemplifikativnostjo | EKSEMPLIFIKATIVNOST - [pravopis]
+eksemplifikativnostma | EKSEMPLIFIKATIVNOST - [pravopis]
+eksemplifikativnostmi | EKSEMPLIFIKATIVNOST - [pravopis]
+ekshibicionističnosti | EKSHIBICIONISTIČNOST - [pravopis]
 eksistencialističnega | EKSISTENCIALISTIČEN - nanašajoč se na eksistencializem
 eksistencialističnemu | EKSISTENCIALISTIČEN - nanašajoč se na eksistencializem
 eksistencialističnima | EKSISTENCIALISTIČEN - nanašajoč se na eksistencializem
 eksistencialističnimi | EKSISTENCIALISTIČEN - nanašajoč se na eksistencializem
+eksistencialističnost | [pravopis]
+ekskluzivističnostima | EKSKLUZIVISTIČNOST - [pravopis]
+ekspanzionističnostih | EKSPANZIONISTIČNOST - [pravopis]
+ekspanzionističnostim | EKSPANZIONISTIČNOST - [pravopis]
+ekspanzionističnostjo | EKSPANZIONISTIČNOST - [pravopis]
+ekspanzionističnostma | EKSPANZIONISTIČNOST - [pravopis]
+ekspanzionističnostmi | EKSPANZIONISTIČNOST - [pravopis]
+ekspresionističnostih | EKSPRESIONISTIČNOST - [pravopis]
+ekspresionističnostim | EKSPRESIONISTIČNOST - [pravopis]
+ekspresionističnostjo | EKSPRESIONISTIČNOST - [pravopis]
+ekspresionističnostma | EKSPRESIONISTIČNOST - [pravopis]
+ekspresionističnostmi | EKSPRESIONISTIČNOST - [pravopis]
+ekstrateritorialnosti | EKSTRATERITORIALNOST - [prav.] v zvezi »načelo ekstrateritorialnosti«: načelo, po katerem je država zavezana z določeno pravno normo tudi pri ravnanju zunaj svojega ozemlja
+ekvatorialnogvinejska | EKVATORIALNOGVINEJSKI - [epravopis] 
+ekvatorialnogvinejske | EKVATORIALNOGVINEJSKI - [epravopis] 
+ekvatorialnogvinejski | [epravopis] 
+ekvatorialnogvinejsko | EKVATORIALNOGVINEJSKI - [epravopis] 
+elektroakustičnostima | ELEKTROAKUSTIČNOST - [pravopis]
+elektrodinamičnostima | ELEKTRODINAMIČNOST - [pravopis]
+elektrodistribucijska | ELEKTRODISTRIBUCIJSKI - [gas.] v zvezi »elektrodistribucijska naprava«: oprema, ki se uporablja za distribucijo električne energije iz električnega omrežja do končnega uporabnika, npr. transformator, razdelilna omarica, stikalna postaja, kabli in vodniki
+elektrodistribucijske | ELEKTRODISTRIBUCIJSKI - [gas.] v zvezi »elektrodistribucijska naprava«: oprema, ki se uporablja za distribucijo električne energije iz električnega omrežja do končnega uporabnika, npr. transformator, razdelilna omarica, stikalna postaja, kabli in vodniki
+elektrodistribucijski | [gas.] v zvezi »elektrodistribucijska naprava«: oprema, ki se uporablja za distribucijo električne energije iz električnega omrežja do končnega uporabnika, npr. transformator, razdelilna omarica, stikalna postaja, kabli in vodniki
+elektrodistribucijsko | ELEKTRODISTRIBUCIJSKI - [gas.] v zvezi »elektrodistribucijska naprava«: oprema, ki se uporablja za distribucijo električne energije iz električnega omrežja do končnega uporabnika, npr. transformator, razdelilna omarica, stikalna postaja, kabli in vodniki
 elektroencefalografih | ELEKTROENCEFALOGRAF - naprava za snemanje razlik v električnih potencialih v možganih
 elektroencefalografij | ELEKTROENCEFALOGRAFIJA - snemanje razlik v električnih potencialih v možganih prek elektrod na površini glave
 elektroencefalografom | ELEKTROENCEFALOGRAF - naprava za snemanje razlik v električnih potencialih v možganih
@@ -116,6 +284,8 @@ elektroencefalografov | ELEKTROENCEFALOGRAF - naprava za snemanje razlik v elekt
 elektroencefalogramih | ELEKTROENCEFALOGRAM - grafični prikaz razlik v električnih potencialih v možganih
 elektroencefalogramom | ELEKTROENCEFALOGRAM - grafični prikaz razlik v električnih potencialih v možganih
 elektroencefalogramov | ELEKTROENCEFALOGRAM - grafični prikaz razlik v električnih potencialih v možganih
+elektroenergetičarkah | ELEKTROENERGETIČARKA - [pravopis]
+elektroenergetičarkam | ELEKTROENERGETIČARKA - [pravopis]
 elektrogospodarstvoma | ELEKTROGOSPODARSTVO - gospodarska panoga, ki se ukvarja s proizvajanjem električne energije in oskrbovanjem z njo
 elektroinstalacijskem | ELEKTROINŠTALACIJSKI - nanašajoč se na električne inštalacije
 elektroinstalacijskih | ELEKTROINŠTALACIJSKI - nanašajoč se na električne inštalacije
@@ -128,11 +298,14 @@ elektroinštalacijskem | ELEKTROINŠTALACIJSKI - nanašajoč se na električne i
 elektroinštalacijskih | ELEKTROINŠTALACIJSKI - nanašajoč se na električne inštalacije
 elektroinštalacijskim | ELEKTROINŠTALACIJSKI - nanašajoč se na električne inštalacije
 elektroinštalaterjema | ELEKTROINŠTALATER - kdor se poklicno ukvarja z inštalacijo električnih napeljav in naprav
+elektroinštalaterkama | ELEKTROINŠTALATERKA - [pravopis]
+elektroinštalaterkami | ELEKTROINŠTALATERKA - [pravopis]
 elektroinštalaterskem | ELEKTROINŠTALATERSKI - nanašajoč se na inštalacijo električnih napeljav in naprav
 elektroinštalaterskih | ELEKTROINŠTALATERSKI - nanašajoč se na inštalacijo električnih napeljav in naprav
 elektroinštalaterskim | ELEKTROINŠTALATERSKI - nanašajoč se na inštalacijo električnih napeljav in naprav
 elektrokardiografijah | ELEKTROKARDIOGRAFIJA - snemanje, zapisovanje razlik v električnih potencialih v srčni mišici prek elektrod na različnih delih telesa
 elektrokardiografijam | ELEKTROKARDIOGRAFIJA - snemanje, zapisovanje razlik v električnih potencialih v srčni mišici prek elektrod na različnih delih telesa
+elektrokinetičnostima | ELEKTROKINETIČNOST - [pravopis]
 elektrokonduktometrih | ELEKTROKONDUKTOMETER - [gem.] naprava za merjenje prevodnosti električnega toka pri dragih kamnih
 elektrokonduktometrom | ELEKTROKONDUKTOMETER - [gem.] naprava za merjenje prevodnosti električnega toka pri dragih kamnih
 elektrokonduktometrov | ELEKTROKONDUKTOMETER - [gem.] naprava za merjenje prevodnosti električnega toka pri dragih kamnih
@@ -152,30 +325,110 @@ elektroluminiscenčnim | ELEKTROLUMINISCENČEN - pridevnik od elektroluminiscenc
 elektroluminiscentnem | ELEKTROLUMINISCENTEN
 elektroluminiscentnih | ELEKTROLUMINISCENTEN
 elektroluminiscentnim | ELEKTROLUMINISCENTEN
+elektromagnetskostima | ELEKTROMAGNETSKOST - [pravopis]
+encimskoimunokemijska | ENCIMSKOIMUNOKEMIJSKI - [farm.] v zvezi »encimskoimunokemijski test«: tehnika merjenja antigena v vzorcih, pri kateri se količina nastalih imunskih kompleksov določi s kemijsko reakcijo, ki jo katalizira encim, vezan na protitelo, ki z antigenom tvori imunske komplekse
+encimskoimunokemijske | ENCIMSKOIMUNOKEMIJSKI - [farm.] v zvezi »encimskoimunokemijski test«: tehnika merjenja antigena v vzorcih, pri kateri se količina nastalih imunskih kompleksov določi s kemijsko reakcijo, ki jo katalizira encim, vezan na protitelo, ki z antigenom tvori imunske komplekse
+encimskoimunokemijski | [farm.] v zvezi »encimskoimunokemijski test«: tehnika merjenja antigena v vzorcih, pri kateri se količina nastalih imunskih kompleksov določi s kemijsko reakcijo, ki jo katalizira encim, vezan na protitelo, ki z antigenom tvori imunske komplekse
+encimskoimunokemijsko | ENCIMSKOIMUNOKEMIJSKI - [farm.] v zvezi »encimskoimunokemijski test«: tehnika merjenja antigena v vzorcih, pri kateri se količina nastalih imunskih kompleksov določi s kemijsko reakcijo, ki jo katalizira encim, vezan na protitelo, ki z antigenom tvori imunske komplekse
+endotraheopulmonalnem | ENDOTRAHEOPULMONALEN - [farm.] v zvezi »endotraheopulmonalna uporaba«: aplikacija zdravila skozi sapnik v pljuča
+endotraheopulmonalnih | ENDOTRAHEOPULMONALEN - [farm.] v zvezi »endotraheopulmonalna uporaba«: aplikacija zdravila skozi sapnik v pljuča
+endotraheopulmonalnim | ENDOTRAHEOPULMONALEN - [farm.] v zvezi »endotraheopulmonalna uporaba«: aplikacija zdravila skozi sapnik v pljuča
+enodimenzionalnostima | ENODIMENZIONALNOST - [pravopis]
+epikontinentalnostima | EPIKONTINENTALNOST - [pravopis]
+evapotranspiracijskem | EVAPOTRANSPIRACIJSKI - [bot.] v zvezi »evapotranspiracijski koeficient primarne produkcije«: razmerje med evapotranspiracijo in primarno produkcijo, izraženo kot masa organske suhe snovi, nastale med fotosintezo na enoti površine rastlinskega sestoja v času, ko sestoj izgubi količino vode, ekvivalentno 1 mm padavin
+evapotranspiracijskih | EVAPOTRANSPIRACIJSKI - [bot.] v zvezi »evapotranspiracijski koeficient primarne produkcije«: razmerje med evapotranspiracijo in primarno produkcijo, izraženo kot masa organske suhe snovi, nastale med fotosintezo na enoti površine rastlinskega sestoja v času, ko sestoj izgubi količino vode, ekvivalentno 1 mm padavin
+evapotranspiracijskim | EVAPOTRANSPIRACIJSKI - [bot.] v zvezi »evapotranspiracijski koeficient primarne produkcije«: razmerje med evapotranspiracijo in primarno produkcijo, izraženo kot masa organske suhe snovi, nastale med fotosintezo na enoti površine rastlinskega sestoja v času, ko sestoj izgubi količino vode, ekvivalentno 1 mm padavin
+evapotranspirometroma | EVAPOTRANSPIROMETER - [agr.] lizimeter za merjenje količine vode, ki v obliki vodne pare prehaja z vodne površine, s površine tal ali skozi listne reže v ozračje
+evolucionističnostima | EVOLUCIONISTIČNOST - [pravopis]
 farmakoepidemiologija | [farm.] veja farmacije, ki uporablja epidemiološke metode in znanja za raziskovanje uporabe zdravil in njihovih želenih in neželenih učinkov na človeški populaciji
 farmakoepidemiologije | FARMAKOEPIDEMIOLOGIJA - [farm.] veja farmacije, ki uporablja epidemiološke metode in znanja za raziskovanje uporabe zdravil in njihovih želenih in neželenih učinkov na človeški populaciji
 farmakoepidemiologiji | FARMAKOEPIDEMIOLOGIJA - [farm.] veja farmacije, ki uporablja epidemiološke metode in znanja za raziskovanje uporabe zdravil in njihovih želenih in neželenih učinkov na človeški populaciji
 farmakoepidemiologijo | FARMAKOEPIDEMIOLOGIJA - [farm.] veja farmacije, ki uporablja epidemiološke metode in znanja za raziskovanje uporabe zdravil in njihovih želenih in neželenih učinkov na človeški populaciji
+farmakoinformativnega | FARMAKOINFORMATIVEN - [farm.] v zvezi »farmakoinformativna služba«: služba v lekarni, ki zbira in posreduje nepristranske informacije o zdravilih / služba v farmacevtski industriji, ki skrbi za informacije o zdravilih, ki jih izdeluje
+farmakoinformativnemu | FARMAKOINFORMATIVEN - [farm.] v zvezi »farmakoinformativna služba«: služba v lekarni, ki zbira in posreduje nepristranske informacije o zdravilih / služba v farmacevtski industriji, ki skrbi za informacije o zdravilih, ki jih izdeluje
+farmakoinformativnima | FARMAKOINFORMATIVEN - [farm.] v zvezi »farmakoinformativna služba«: služba v lekarni, ki zbira in posreduje nepristranske informacije o zdravilih / služba v farmacevtski industriji, ki skrbi za informacije o zdravilih, ki jih izdeluje
+farmakoinformativnimi | FARMAKOINFORMATIVEN - [farm.] v zvezi »farmakoinformativna služba«: služba v lekarni, ki zbira in posreduje nepristranske informacije o zdravilih / služba v farmacevtski industriji, ki skrbi za informacije o zdravilih, ki jih izdeluje
 farmakoinformatorjema | FARMAKOINFORMATOR - [farm.] magister farmacije, zdravnik, veterinar ali druga ustrezno usposobljena oseba, ki informira strokovno in laično javnost o zdravilih
+feniletilizokinolinih | FENILETILIZOKINOLIN - > FENILETILIZOKINOLINSKI - [farm.] v zvezi »feniletilizokinolinski alkaloid«: alkaloid iz skupine izokinolinskih alkaloidov, katerega osnovna struktura je feniletilizokinolin, npr. autumnalin
+feniletilizokinolinom | FENILETILIZOKINOLIN - > FENILETILIZOKINOLINSKI - [farm.] v zvezi »feniletilizokinolinski alkaloid«: alkaloid iz skupine izokinolinskih alkaloidov, katerega osnovna struktura je feniletilizokinolin, npr. autumnalin
+feniletilizokinolinov | FENILETILIZOKINOLIN - > FENILETILIZOKINOLINSKI - [farm.] v zvezi »feniletilizokinolinski alkaloid«: alkaloid iz skupine izokinolinskih alkaloidov, katerega osnovna struktura je feniletilizokinolin, npr. autumnalin
+fenoksimetilpenicilin | > BETALAKTAMAZA - [farm.] v zvezi »penicilin, občutljiv na betalaktamaze«: penicilin, občutljiv na hidrolizo, katalizirano z bakterijskimi encimi iz skupine laktamaz beta, npr. benzilpenicilin, fenoksimetilpenicilin
+fizioterapevtskostima | FIZIOTERAPEVTSKOST - [pravopis]
+flavinmononukleotidih | FLAVINMONONUKLEOTID - > RIBOFLAVIN - [farm.] v vodi topen vitamin, sestavljen iz ribitola in dimetilizoaloksazina, ki se v organizmu pretvori v flavinmononukleotid in nato v flavin-adenin-dinukleotid, ki je kofaktor pri številnih redoks reakcijah, kjer pride do prenašanja hidridnih anionov in sodeluje pri rasti, antioksidantni zaščiti in metabolizmu številnih organskih molekul
+flavinmononukleotidom | FLAVINMONONUKLEOTID - > RIBOFLAVIN - [farm.] v vodi topen vitamin, sestavljen iz ribitola in dimetilizoaloksazina, ki se v organizmu pretvori v flavinmononukleotid in nato v flavin-adenin-dinukleotid, ki je kofaktor pri številnih redoks reakcijah, kjer pride do prenašanja hidridnih anionov in sodeluje pri rasti, antioksidantni zaščiti in metabolizmu številnih organskih molekul
+flavinmononukleotidov | FLAVINMONONUKLEOTID - > RIBOFLAVIN - [farm.] v vodi topen vitamin, sestavljen iz ribitola in dimetilizoaloksazina, ki se v organizmu pretvori v flavinmononukleotid in nato v flavin-adenin-dinukleotid, ki je kofaktor pri številnih redoks reakcijah, kjer pride do prenašanja hidridnih anionov in sodeluje pri rasti, antioksidantni zaščiti in metabolizmu številnih organskih molekul
 fluoroogljikovodikoma | FLUOROOGLJIKOVODIKI - [geog.] ozonski plasti škodljive tekoče spojine, pri katerih so vodikovi atomi v nasičenih ogljikovodikih v celoti ali delno zamenjani s fluorom in se uporabljajo kot pogonski plini v pršilnikih, hladilna sredstva v hladilnikih in klimatskih napravah, za maziva, gašenje
 fotosenzibilizatorjem | FOTOSENZIBILIZATOR - [farm.] učinkovina, ki povzroči povečano občutljivost na svetlobo
 fotosenzibilizatorjev | FOTOSENZIBILIZATOR - [farm.] učinkovina, ki povzroči povečano občutljivost na svetlobo
 fotosenzibilizatorjih | FOTOSENZIBILIZATOR - [farm.] učinkovina, ki povzroči povečano občutljivost na svetlobo
+funkcijskozvrstnostih | FUNKCIJSKOZVRSTNOST - [pravopis]
+funkcijskozvrstnostim | FUNKCIJSKOZVRSTNOST - [pravopis]
+funkcijskozvrstnostjo | FUNKCIJSKOZVRSTNOST - [pravopis]
+funkcijskozvrstnostma | FUNKCIJSKOZVRSTNOST - [pravopis]
+funkcijskozvrstnostmi | FUNKCIJSKOZVRSTNOST - [pravopis]
+galvanoplastičnostima | GALVANOPLASTIČNOST - [pravopis]
+gamaaminobutanojskega | GAMAAMINOBUTANOJSKI - [farm.] v zvezi »gamaaminobutanojska kislina«:
+gamaaminobutanojskemu | GAMAAMINOBUTANOJSKI - [farm.] v zvezi »gamaaminobutanojska kislina«:
+gamaaminobutanojskima | GAMAAMINOBUTANOJSKI - [farm.] v zvezi »gamaaminobutanojska kislina«:
+gamaaminobutanojskimi | GAMAAMINOBUTANOJSKI - [farm.] v zvezi »gamaaminobutanojska kislina«:
+generalpodpolkovnicah | GENERALPODPOLKOVNICA - [pravopis]
+generalpodpolkovnicam | GENERALPODPOLKOVNICA - [pravopis]
+generalpodpolkovničin | [pravopis]
 generalpodpolkovnikih | GENERALPODPOLKOVNIK - čin, za stopnjo višji od generalmajorja, ali nosilec tega čina
 generalpodpolkovnikom | GENERALPODPOLKOVNIK - čin, za stopnjo višji od generalmajorja, ali nosilec tega čina
 generalpodpolkovnikov | GENERALPODPOLKOVNIK - čin, za stopnjo višji od generalmajorja, ali nosilec tega čina
+generalpolkovničinega | GENERALPOLKOVNIČIN - [epravopis] 
+generalpolkovničinemu | GENERALPOLKOVNIČIN - [epravopis] 
+generalpolkovničinima | GENERALPOLKOVNIČIN - [epravopis] 
+generalpolkovničinimi | GENERALPOLKOVNIČIN - [epravopis] 
 geomorfokronologijama | GEOMORFOKRONOLOGIJA - [geog.] del geomorfologije, ki proučuje starost reliefnih oblik
 geomorfokronologijami | GEOMORFOKRONOLOGIJA - [geog.] del geomorfologije, ki proučuje starost reliefnih oblik
+glacioakumulacijskega | GLACIOAKUMULACIJSKI - [geog.] v zvezi »glacioakumulacijska oblika«: reliefna oblika, nastala z ledeniško akumulacijo
+glacioakumulacijskemu | GLACIOAKUMULACIJSKI - [geog.] v zvezi »glacioakumulacijska oblika«: reliefna oblika, nastala z ledeniško akumulacijo
+glacioakumulacijskima | GLACIOAKUMULACIJSKI - [geog.] v zvezi »glacioakumulacijska oblika«: reliefna oblika, nastala z ledeniško akumulacijo
+glacioakumulacijskimi | GLACIOAKUMULACIJSKI - [geog.] v zvezi »glacioakumulacijska oblika«: reliefna oblika, nastala z ledeniško akumulacijo
+glasbenoinformacijska | GLASBENOINFORMACIJSKI - [epravopis] nanašajoč se na glasbeno informatiko
+glasbenoinformacijske | GLASBENOINFORMACIJSKI - [epravopis] nanašajoč se na glasbeno informatiko
+glasbenoinformacijski | [epravopis] nanašajoč se na glasbeno informatiko
+glasbenoinformacijsko | GLASBENOINFORMACIJSKI - [epravopis] nanašajoč se na glasbeno informatiko
+glasbenonarodopisnega | GLASBENONARODOPISEN - [pravopis]
+glasbenonarodopisnemu | GLASBENONARODOPISEN - [pravopis]
+glasbenonarodopisnima | GLASBENONARODOPISEN - [pravopis]
+glasbenonarodopisnimi | GLASBENONARODOPISEN - [pravopis]
 glasbenozgodovinskega | GLASBENOZGODOVINSKI - nanašajoč se na glasbeno zgodovino
 glasbenozgodovinskemu | GLASBENOZGODOVINSKI - nanašajoč se na glasbeno zgodovino
 glasbenozgodovinskima | GLASBENOZGODOVINSKI - nanašajoč se na glasbeno zgodovino
 glasbenozgodovinskimi | GLASBENOZGODOVINSKI - nanašajoč se na glasbeno zgodovino
+globinskopsihološkega | GLOBINSKOPSIHOLOŠKI - [pravopis]
+globinskopsihološkemu | GLOBINSKOPSIHOLOŠKI - [pravopis]
+globinskopsihološkima | GLOBINSKOPSIHOLOŠKI - [pravopis]
+globinskopsihološkimi | GLOBINSKOPSIHOLOŠKI - [pravopis]
+glutamiltransferazama | GLUTAMILTRANSFERAZA - [farm.] v zvezi »gama glutamiltransferaza«: predstavnik skupine encimov, ki katalizirajo prenos končnega γ-glutamata od glutationa in drugih polipeptidov na nove aminokisline ali polipeptide
+glutamiltransferazami | GLUTAMILTRANSFERAZA - [farm.] v zvezi »gama glutamiltransferaza«: predstavnik skupine encimov, ki katalizirajo prenos končnega γ-glutamata od glutationa in drugih polipeptidov na nove aminokisline ali polipeptide
 gospodarskopolitičnem | GOSPODARSKOPOLITIČEN - nanašajoč se na gospodarsko politiko
 gospodarskopolitičnih | GOSPODARSKOPOLITIČEN - nanašajoč se na gospodarsko politiko
 gospodarskopolitičnim | GOSPODARSKOPOLITIČEN - nanašajoč se na gospodarsko politiko
+gospodarskoprometnega | GOSPODARSKOPROMETEN - [prav.] v zvezi »gospodarskoprometna klavzula«: klavzula v pogodbi, ki ni zakonsko opredeljena, a se med gospodarskimi subjekti običajno uporablja za določitev prevzema točno določenih pravic in obveznosti
+gospodarskoprometnemu | GOSPODARSKOPROMETEN - [prav.] v zvezi »gospodarskoprometna klavzula«: klavzula v pogodbi, ki ni zakonsko opredeljena, a se med gospodarskimi subjekti običajno uporablja za določitev prevzema točno določenih pravic in obveznosti
+gospodarskoprometnima | GOSPODARSKOPROMETEN - [prav.] v zvezi »gospodarskoprometna klavzula«: klavzula v pogodbi, ki ni zakonsko opredeljena, a se med gospodarskimi subjekti običajno uporablja za določitev prevzema točno določenih pravic in obveznosti
+gospodarskoprometnimi | GOSPODARSKOPROMETEN - [prav.] v zvezi »gospodarskoprometna klavzula«: klavzula v pogodbi, ki ni zakonsko opredeljena, a se med gospodarskimi subjekti običajno uporablja za določitev prevzema točno določenih pravic in obveznosti
+gvanozinmonofosfatoma | GVANOZINMONOFOSFAT - [farm.] v zvezi »ciklični gvanozinmonofosfat«: nukleotid, ciklični diester gvanozina in fosforjeve(V) kisline na mestih C-3 in C-5 riboze, ki deluje kot sekundarni prenašalec
+heksakisoktaedričnega | HEKSAKISOKTAEDRIČEN - [gem.] v zvezi »heksakisoktaedrični razred«: simetrijski razred kubičnega sistema s štirimi troštevnimi osmi, usmerjenimi po telesnih diagonalah kocke, tremi štirištevnimi osmi, ki sovpadajo s kristalografskimi osmi, štirimi vertikalnimi ravninami simetrije, štirimi poševnimi ravninami simetrije, ki se sekajo v troštevnih oseh, in eno horizontalno ravnino simetrije
+heksakisoktaedričnemu | HEKSAKISOKTAEDRIČEN - [gem.] v zvezi »heksakisoktaedrični razred«: simetrijski razred kubičnega sistema s štirimi troštevnimi osmi, usmerjenimi po telesnih diagonalah kocke, tremi štirištevnimi osmi, ki sovpadajo s kristalografskimi osmi, štirimi vertikalnimi ravninami simetrije, štirimi poševnimi ravninami simetrije, ki se sekajo v troštevnih oseh, in eno horizontalno ravnino simetrije
+heksakisoktaedričnima | HEKSAKISOKTAEDRIČEN - [gem.] v zvezi »heksakisoktaedrični razred«: simetrijski razred kubičnega sistema s štirimi troštevnimi osmi, usmerjenimi po telesnih diagonalah kocke, tremi štirištevnimi osmi, ki sovpadajo s kristalografskimi osmi, štirimi vertikalnimi ravninami simetrije, štirimi poševnimi ravninami simetrije, ki se sekajo v troštevnih oseh, in eno horizontalno ravnino simetrije
+heksakisoktaedričnimi | HEKSAKISOKTAEDRIČEN - [gem.] v zvezi »heksakisoktaedrični razred«: simetrijski razred kubičnega sistema s štirimi troštevnimi osmi, usmerjenimi po telesnih diagonalah kocke, tremi štirištevnimi osmi, ki sovpadajo s kristalografskimi osmi, štirimi vertikalnimi ravninami simetrije, štirimi poševnimi ravninami simetrije, ki se sekajo v troštevnih oseh, in eno horizontalno ravnino simetrije
+heksakistetraedričnem | HEKSAKISTETRAEDRIČEN - [gem.] v zvezi »heksakistetraedrični razred«: simetrijski razred kubičnega sistema s štirimi troštevnimi osmi, usmerjenimi po telesnih diagonalah kocke, tremi inverznimi štirištevnimi osmi, ki sovpadajo s kristalografskimi osmi, dvema vertikalnima ravninama simetrije in štirimi poševnimi ravninami simetrije, ki se sekajo v troštevnih oseh
+heksakistetraedričnih | HEKSAKISTETRAEDRIČEN - [gem.] v zvezi »heksakistetraedrični razred«: simetrijski razred kubičnega sistema s štirimi troštevnimi osmi, usmerjenimi po telesnih diagonalah kocke, tremi inverznimi štirištevnimi osmi, ki sovpadajo s kristalografskimi osmi, dvema vertikalnima ravninama simetrije in štirimi poševnimi ravninami simetrije, ki se sekajo v troštevnih oseh
+heksakistetraedričnim | HEKSAKISTETRAEDRIČEN - [gem.] v zvezi »heksakistetraedrični razred«: simetrijski razred kubičnega sistema s štirimi troštevnimi osmi, usmerjenimi po telesnih diagonalah kocke, tremi inverznimi štirištevnimi osmi, ki sovpadajo s kristalografskimi osmi, dvema vertikalnima ravninama simetrije in štirimi poševnimi ravninami simetrije, ki se sekajo v troštevnih oseh
+hidrazinoftalazinskem | HIDRAZINOFTALAZINSKI - [farm.] v zvezi »hidrazinoftalazinski derivat«: antihipertenziv, derivat ftalazina s hidrazinsko skupino, ki zmanjša periferni upor z neposrednim delovanjem na gladke mišične celice v steni arteriol, kjer upočasni sproščanje kalcijevih ionov iz sarkoplazemskega retikuluma, npr. hidralazin
+hidrazinoftalazinskih | HIDRAZINOFTALAZINSKI - [farm.] v zvezi »hidrazinoftalazinski derivat«: antihipertenziv, derivat ftalazina s hidrazinsko skupino, ki zmanjša periferni upor z neposrednim delovanjem na gladke mišične celice v steni arteriol, kjer upočasni sproščanje kalcijevih ionov iz sarkoplazemskega retikuluma, npr. hidralazin
+hidrazinoftalazinskim | HIDRAZINOFTALAZINSKI - [farm.] v zvezi »hidrazinoftalazinski derivat«: antihipertenziv, derivat ftalazina s hidrazinsko skupino, ki zmanjša periferni upor z neposrednim delovanjem na gladke mišične celice v steni arteriol, kjer upočasni sproščanje kalcijevih ionov iz sarkoplazemskega retikuluma, npr. hidralazin
 hidroksimetilfurfural | [čeb.] snov, ki nastaja v medu iz fruktoze ob dolgotrajnem skladiščenju pri višjih temperaturah ali ob premočnem segrevanju, izpostavljenosti soncu
+hiperholesterolemijah | HIPERHOLESTEROLEMIJA - > STATIN - [farm.] učinkovina, ki prepreči pretvorbo humanega menopavznega gonadotropina v mevalonat, znižuje plazemske koncentracije holesterola in se uporablja za zdravljenje hiperholesterolemij in hiperlipidemij, npr. simvastatin, lovastatin
+hiperholesterolemijam | HIPERHOLESTEROLEMIJA - > STATIN - [farm.] učinkovina, ki prepreči pretvorbo humanega menopavznega gonadotropina v mevalonat, znižuje plazemske koncentracije holesterola in se uporablja za zdravljenje hiperholesterolemij in hiperlipidemij, npr. simvastatin, lovastatin
 hiperkreatininemijama | HIPERKREATININEMIJA - [farm.] stanje zvišane koncentracije kreatinina v serumu pri odraslih, ki se navadno pojavi ob zmanjšanem delovanju ledvic
 hiperkreatininemijami | HIPERKREATININEMIJA - [farm.] stanje zvišane koncentracije kreatinina v serumu pri odraslih, ki se navadno pojavi ob zmanjšanem delovanju ledvic
+hiperkultiviranostima | HIPERKULTIVIRANOST - [pravopis]
 hiperlipoproteinemija | [farm.] koncentracija lipoproteinov v serumu nad referenčnim območjem, pogosto povezana z razvojem ateroskleroze
 hiperlipoproteinemije | HIPERLIPOPROTEINEMIJA - [farm.] koncentracija lipoproteinov v serumu nad referenčnim območjem, pogosto povezana z razvojem ateroskleroze
 hiperlipoproteinemiji | HIPERLIPOPROTEINEMIJA - [farm.] koncentracija lipoproteinov v serumu nad referenčnim območjem, pogosto povezana z razvojem ateroskleroze
@@ -185,6 +438,42 @@ hiperplastifikatorjev | HIPERPLASTIFIKATOR - [b.k.] plastifikator tretje generac
 hiperplastifikatorjih | HIPERPLASTIFIKATOR - [b.k.] plastifikator tretje generacije, ki omogoča še višje znižanje vsebnosti vode v svežem betonu in še večje povečanje razleza kot superplastifikator
 hipersenzibilizacijah | HIPERSENZIBILIZACIJA - povečanje občutljivosti emulzije
 hipersenzibilizacijam | HIPERSENZIBILIZACIJA - povečanje občutljivosti emulzije
+hiperspecializacijama | HIPERSPECIALIZACIJA - [pravopis]
+hiperspecializacijami | HIPERSPECIALIZACIJA - [pravopis]
+hipertehniziranostima | HIPERTEHNIZIRANOST - [pravopis]
+histokompatibilnosten | [farm.] v zvezi »poglavitni histokompatibilnostni kompleks«: velika skupina genov v genomu večine vretenčarjev in njihovi proteinski produkti, razredov I in II, ki v imunskem sistemu sodelujejo pri razločevanju med lastnimi in tujimi antigeni v organizmu in njihovem predstavljanju limfocitom T
+histokompatibilnostna | HISTOKOMPATIBILNOSTEN - [farm.] v zvezi »poglavitni histokompatibilnostni kompleks«: velika skupina genov v genomu večine vretenčarjev in njihovi proteinski produkti, razredov I in II, ki v imunskem sistemu sodelujejo pri razločevanju med lastnimi in tujimi antigeni v organizmu in njihovem predstavljanju limfocitom T
+histokompatibilnostne | HISTOKOMPATIBILNOSTEN - [farm.] v zvezi »poglavitni histokompatibilnostni kompleks«: velika skupina genov v genomu večine vretenčarjev in njihovi proteinski produkti, razredov I in II, ki v imunskem sistemu sodelujejo pri razločevanju med lastnimi in tujimi antigeni v organizmu in njihovem predstavljanju limfocitom T
+histokompatibilnostni | HISTOKOMPATIBILNOSTEN - [farm.] v zvezi »poglavitni histokompatibilnostni kompleks«: velika skupina genov v genomu večine vretenčarjev in njihovi proteinski produkti, razredov I in II, ki v imunskem sistemu sodelujejo pri razločevanju med lastnimi in tujimi antigeni v organizmu in njihovem predstavljanju limfocitom T
+histokompatibilnostno | HISTOKOMPATIBILNOSTEN - [farm.] v zvezi »poglavitni histokompatibilnostni kompleks«: velika skupina genov v genomu večine vretenčarjev in njihovi proteinski produkti, razredov I in II, ki v imunskem sistemu sodelujejo pri razločevanju med lastnimi in tujimi antigeni v organizmu in njihovem predstavljanju limfocitom T
+hitroprehranjevalnega | HITROPREHRANJEVALEN - [pravopis]
+hitroprehranjevalnemu | HITROPREHRANJEVALEN - [pravopis]
+hitroprehranjevalnima | HITROPREHRANJEVALEN - [pravopis]
+hitroprehranjevalnimi | HITROPREHRANJEVALEN - [pravopis]
+humusnoakumulativnega | HUMUSNOAKUMULATIVEN - [agr.] v zvezi »humusnoakumulativni horizont«: mineralni horizont, ki nastane v zgornjem delu talnega profila in je zaradi vsebnosti organske snovi, ki je v prevladujočem delu humificirana in mineralno vezana, navadno temnejši kot horizont, ki leži pod njim
+humusnoakumulativnemu | HUMUSNOAKUMULATIVEN - [agr.] v zvezi »humusnoakumulativni horizont«: mineralni horizont, ki nastane v zgornjem delu talnega profila in je zaradi vsebnosti organske snovi, ki je v prevladujočem delu humificirana in mineralno vezana, navadno temnejši kot horizont, ki leži pod njim
+humusnoakumulativnima | HUMUSNOAKUMULATIVEN - [agr.] v zvezi »humusnoakumulativni horizont«: mineralni horizont, ki nastane v zgornjem delu talnega profila in je zaradi vsebnosti organske snovi, ki je v prevladujočem delu humificirana in mineralno vezana, navadno temnejši kot horizont, ki leži pod njim
+humusnoakumulativnimi | HUMUSNOAKUMULATIVEN - [agr.] v zvezi »humusnoakumulativni horizont«: mineralni horizont, ki nastane v zgornjem delu talnega profila in je zaradi vsebnosti organske snovi, ki je v prevladujočem delu humificirana in mineralno vezana, navadno temnejši kot horizont, ki leži pod njim
+impresionističnostima | IMPRESIONISTIČNOST - [pravopis]
+indeterminističnostih | INDETERMINISTIČNOST - [pravopis]
+indeterminističnostim | INDETERMINISTIČNOST - [pravopis]
+indeterminističnostjo | INDETERMINISTIČNOST - [pravopis]
+indeterminističnostma | INDETERMINISTIČNOST - [pravopis]
+indeterminističnostmi | INDETERMINISTIČNOST - [pravopis]
+individualističnostih | INDIVIDUALISTIČNOST - [pravopis]
+individualističnostim | INDIVIDUALISTIČNOST - [pravopis]
+individualističnostjo | INDIVIDUALISTIČNOST - [pravopis]
+individualističnostma | INDIVIDUALISTIČNOST - [pravopis]
+individualističnostmi | INDIVIDUALISTIČNOST - [pravopis]
+individualiziranostih | INDIVIDUALIZIRANOST - [pravopis]
+individualiziranostim | INDIVIDUALIZIRANOST - [pravopis]
+individualiziranostjo | INDIVIDUALIZIRANOST - [pravopis]
+individualiziranostma | INDIVIDUALIZIRANOST - [pravopis]
+individualiziranostmi | INDIVIDUALIZIRANOST - [pravopis]
+industrializacijskega | INDUSTRIALIZACIJSKI - [geog.] v zvezi »industrializacijska stopnja«: stopnja industrijske razvitosti določene pokrajine, države, ki se najpogosteje izraža kot delež zaposlenih v industriji od vseh zaposlenih ali kot delež industrije v ustvarjenem bruto domačem proizvodu
+industrializacijskemu | INDUSTRIALIZACIJSKI - [geog.] v zvezi »industrializacijska stopnja«: stopnja industrijske razvitosti določene pokrajine, države, ki se najpogosteje izraža kot delež zaposlenih v industriji od vseh zaposlenih ali kot delež industrije v ustvarjenem bruto domačem proizvodu
+industrializacijskima | INDUSTRIALIZACIJSKI - [geog.] v zvezi »industrializacijska stopnja«: stopnja industrijske razvitosti določene pokrajine, države, ki se najpogosteje izraža kot delež zaposlenih v industriji od vseh zaposlenih ali kot delež industrije v ustvarjenem bruto domačem proizvodu
+industrializacijskimi | INDUSTRIALIZACIJSKI - [geog.] v zvezi »industrializacijska stopnja«: stopnja industrijske razvitosti določene pokrajine, države, ki se najpogosteje izraža kot delež zaposlenih v industriji od vseh zaposlenih ali kot delež industrije v ustvarjenem bruto domačem proizvodu
 industrializiranostih | INDUSTRIALIZIRANOST - lastnost, značilnost industrializiranega
 industrializiranostim | INDUSTRIALIZIRANOST - lastnost, značilnost industrializiranega
 industrializiranostjo | INDUSTRIALIZIRANOST - lastnost, značilnost industrializiranega
@@ -195,11 +484,22 @@ institucionalizirajmo | INSTITUCIONALIZIRATI - dati čemu ustaljeno, zakonsko ob
 institucionalizirajta | INSTITUCIONALIZIRATI - dati čemu ustaljeno, zakonsko obliko
 institucionalizirajte | INSTITUCIONALIZIRATI - dati čemu ustaljeno, zakonsko obliko
 institucionalizirajva | INSTITUCIONALIZIRATI - dati čemu ustaljeno, zakonsko obliko
+institucionaliziranem | INSTITUCIONALIZIRATI - dati čemu ustaljeno, zakonsko obliko
+institucionaliziranih | INSTITUCIONALIZIRATI - dati čemu ustaljeno, zakonsko obliko
+institucionaliziranim | INSTITUCIONALIZIRATI - dati čemu ustaljeno, zakonsko obliko
+instrumentalizacijama | INSTRUMENTALIZACIJA - [pravopis]
+instrumentalizacijami | INSTRUMENTALIZACIJA - [pravopis]
 inštitucionalizirajmo | INSTITUCIONALIZIRATI - dati čemu ustaljeno, zakonsko obliko
 inštitucionalizirajta | INSTITUCIONALIZIRATI - dati čemu ustaljeno, zakonsko obliko
 inštitucionalizirajte | INSTITUCIONALIZIRATI - dati čemu ustaljeno, zakonsko obliko
 inštitucionalizirajva | INSTITUCIONALIZIRATI - dati čemu ustaljeno, zakonsko obliko
+inštitucionaliziranem | INSTITUCIONALIZIRATI - dati čemu ustaljeno, zakonsko obliko
+inštitucionaliziranih | INSTITUCIONALIZIRATI - dati čemu ustaljeno, zakonsko obliko
+inštitucionaliziranim | INSTITUCIONALIZIRATI - dati čemu ustaljeno, zakonsko obliko
+intelektualističnosti | INTELEKTUALISTIČNOST - [pravopis]
+intelektualiziranosti | INTELEKTUALIZIRANOST - [pravopis]
 interdisciplinarnosti | INTERDISCIPLINARNOST - značilnost interdisciplinarnega
+interkontinentalnosti | INTERKONTINENTALNOST - [pravopis]
 internacionalističnem | INTERNACIONALISTIČEN - nanašajoč se na internacionaliste ali internacionalizem
 internacionalističnih | INTERNACIONALISTIČEN - nanašajoč se na internacionaliste ali internacionalizem
 internacionalističnim | INTERNACIONALISTIČEN - nanašajoč se na internacionaliste ali internacionalizem
@@ -216,24 +516,96 @@ intervencionističnega | INTERVENCIONISTIČEN - nanašajoč se na intervencionis
 intervencionističnemu | INTERVENCIONISTIČEN - nanašajoč se na intervencioniste ali intervencionizem
 intervencionističnima | INTERVENCIONISTIČEN - nanašajoč se na intervencioniste ali intervencionizem
 intervencionističnimi | INTERVENCIONISTIČEN - nanašajoč se na intervencioniste ali intervencionizem
+intervencionističnost | [pravopis]
+invalidskopokojninska | INVALIDSKOPOKOJNINSKI - [epravopis] nanašajoč se na invalidsko pokojnino
+invalidskopokojninske | INVALIDSKOPOKOJNINSKI - [epravopis] nanašajoč se na invalidsko pokojnino
+invalidskopokojninski | [epravopis] nanašajoč se na invalidsko pokojnino
+invalidskopokojninsko | INVALIDSKOPOKOJNINSKI - [epravopis] nanašajoč se na invalidsko pokojnino
+iracionalističnostima | IRACIONALISTIČNOST - [pravopis]
 izkristaliziranostima | IZKRISTALIZIRANOST
+jezikovnostilističnem | JEZIKOVNOSTILISTIČEN - [pravopis]
+jezikovnostilističnih | JEZIKOVNOSTILISTIČEN - [pravopis]
+jezikovnostilističnim | JEZIKOVNOSTILISTIČEN - [pravopis]
+kmetijskosvetovalnega | KMETIJSKOSVETOVALEN - [pravopis]
+kmetijskosvetovalnemu | KMETIJSKOSVETOVALEN - [pravopis]
+kmetijskosvetovalnima | KMETIJSKOSVETOVALEN - [pravopis]
+kmetijskosvetovalnimi | KMETIJSKOSVETOVALEN - [pravopis]
+kokamidopropilbetaina | KOKAMIDOPROPILBETAIN - > AMFIIONSKI - [farm.] v zvezi »amfiionska površinsko aktivna snov«: površinsko aktivna snov, pri kateri ima polarni del molekule pozitivni in negativni naboj, npr. kokamidopropilbetain
+kokamidopropilbetaine | KOKAMIDOPROPILBETAIN - > AMFIIONSKI - [farm.] v zvezi »amfiionska površinsko aktivna snov«: površinsko aktivna snov, pri kateri ima polarni del molekule pozitivni in negativni naboj, npr. kokamidopropilbetain
+kokamidopropilbetaini | KOKAMIDOPROPILBETAIN - > AMFIIONSKI - [farm.] v zvezi »amfiionska površinsko aktivna snov«: površinsko aktivna snov, pri kateri ima polarni del molekule pozitivni in negativni naboj, npr. kokamidopropilbetain
+kokamidopropilbetainu | KOKAMIDOPROPILBETAIN - > AMFIIONSKI - [farm.] v zvezi »amfiionska površinsko aktivna snov«: površinsko aktivna snov, pri kateri ima polarni del molekule pozitivni in negativni naboj, npr. kokamidopropilbetain
 kolaboracionističnega | KOLABORACIONISTIČEN - nanašajoč se na kolaboracioniste ali kolaboracijo
 kolaboracionističnemu | KOLABORACIONISTIČEN - nanašajoč se na kolaboracioniste ali kolaboracijo
 kolaboracionističnima | KOLABORACIONISTIČEN - nanašajoč se na kolaboracioniste ali kolaboracijo
 kolaboracionističnimi | KOLABORACIONISTIČEN - nanašajoč se na kolaboracioniste ali kolaboracijo
+kompjuteriziranostima | KOMPJUTERIZIRANOST - [pravopis]
+konstitucionalistkama | KONSTITUCIONALISTKA - [pravopis]
+konstitucionalistkami | KONSTITUCIONALISTKA - [pravopis]
+konstitucionalnostima | KONSTITUCIONALNOST - [pravopis]
+konstruktivističnosti | KONSTRUKTIVISTIČNOST - [pravopis]
+kontaktnometamorfnega | KONTAKTNOMETAMORFEN - [geol.] v zvezi »kontaktnometamorfno nahajališče mineralnih surovin«: nahajališče, v katerem so nastali minerali s kontaktno metamorfozo
+kontaktnometamorfnemu | KONTAKTNOMETAMORFEN - [geol.] v zvezi »kontaktnometamorfno nahajališče mineralnih surovin«: nahajališče, v katerem so nastali minerali s kontaktno metamorfozo
+kontaktnometamorfnima | KONTAKTNOMETAMORFEN - [geol.] v zvezi »kontaktnometamorfno nahajališče mineralnih surovin«: nahajališče, v katerem so nastali minerali s kontaktno metamorfozo
+kontaktnometamorfnimi | KONTAKTNOMETAMORFEN - [geol.] v zvezi »kontaktnometamorfno nahajališče mineralnih surovin«: nahajališče, v katerem so nastali minerali s kontaktno metamorfozo
+kontaktnometasomatska | KONTAKTNOMETASOMATSKI - [geol.] v zvezi »kontaktnometasomatska metamorfoza«: kemične spremembe v prikamnini ob vdoru taline ali raztopine, pri čemer nastajajo novi minerali
+kontaktnometasomatske | KONTAKTNOMETASOMATSKI - [geol.] v zvezi »kontaktnometasomatska metamorfoza«: kemične spremembe v prikamnini ob vdoru taline ali raztopine, pri čemer nastajajo novi minerali
+kontaktnometasomatski | [geol.] v zvezi »kontaktnometasomatska metamorfoza«: kemične spremembe v prikamnini ob vdoru taline ali raztopine, pri čemer nastajajo novi minerali
+kontaktnometasomatsko | KONTAKTNOMETASOMATSKI - [geol.] v zvezi »kontaktnometasomatska metamorfoza«: kemične spremembe v prikamnini ob vdoru taline ali raztopine, pri čemer nastajajo novi minerali
+kontraindiciranostima | KONTRAINDICIRANOST - [pravopis]
+kontraobveščevalnosti | KONTRAOBVEŠČEVALNOST - [pravopis]
 kontrarevolucionarjem | KONTRAREVOLUCIONAR - kdor nasprotuje revoluciji ali sodeluje v gibanju proti njej, protirevolucionar
 kontrarevolucionarjev | KONTRAREVOLUCIONAR - kdor nasprotuje revoluciji ali sodeluje v gibanju proti njej, protirevolucionar
 kontrarevolucionarjih | KONTRAREVOLUCIONAR - kdor nasprotuje revoluciji ali sodeluje v gibanju proti njej, protirevolucionar
+kontrarevolucionarkah | KONTRAREVOLUCIONARKA - [pravopis]
+kontrarevolucionarkam | KONTRAREVOLUCIONARKA - [pravopis]
 kontrarevolucionarnem | KONTRAREVOLUCIONAREN - ki je proti revoluciji
 kontrarevolucionarnih | KONTRAREVOLUCIONAREN - ki je proti revoluciji
 kontrarevolucionarnim | KONTRAREVOLUCIONAREN - ki je proti revoluciji
+kovinskopredelovalnem | KOVINSKOPREDELOVALEN - [pravopis]
+kovinskopredelovalnih | KOVINSKOPREDELOVALEN - [pravopis]
+kovinskopredelovalnim | KOVINSKOPREDELOVALEN - [pravopis]
+krajevnozgodovinskega | KRAJEVNOZGODOVINSKI - [pravopis]
+krajevnozgodovinskemu | KRAJEVNOZGODOVINSKI - [pravopis]
+krajevnozgodovinskima | KRAJEVNOZGODOVINSKI - [pravopis]
+krajevnozgodovinskimi | KRAJEVNOZGODOVINSKI - [pravopis]
 krščanskodemokratskem | KRŠČANSKODEMOKRATSKI - stranka, ki deluje na temeljih krščanskosocialnega gibanja
 krščanskodemokratskih | KRŠČANSKODEMOKRATSKI - stranka, ki deluje na temeljih krščanskosocialnega gibanja
 krščanskodemokratskim | KRŠČANSKODEMOKRATSKI - stranka, ki deluje na temeljih krščanskosocialnega gibanja
+ksenotransplantacijah | KSENOTRANSPLANTACIJA - [sprotni]
+ksenotransplantacijam | KSENOTRANSPLANTACIJA - [sprotni]
+kulturnoantropološkem | KULTURNOANTROPOLOŠKI - [epravopis] nanašajoč se na kulturno antropologijo
+kulturnoantropoloških | KULTURNOANTROPOLOŠKI - [epravopis] nanašajoč se na kulturno antropologijo
+kulturnoantropološkim | KULTURNOANTROPOLOŠKI - [epravopis] nanašajoč se na kulturno antropologijo
 kulturnozgodovinskega | KULTURNOZGODOVINSKI - nanašajoč se na kulturno zgodovino
 kulturnozgodovinskemu | KULTURNOZGODOVINSKI - nanašajoč se na kulturno zgodovino
 kulturnozgodovinskima | KULTURNOZGODOVINSKI - nanašajoč se na kulturno zgodovino
 kulturnozgodovinskimi | KULTURNOZGODOVINSKI - nanašajoč se na kulturno zgodovino
+kvazistrokovnjakinjah | KVAZISTROKOVNJAKINJA - [pravopis]
+kvazistrokovnjakinjam | KVAZISTROKOVNJAKINJA - [pravopis]
+laktoovovegetarijanca | LAKTOOVOVEGETARIJANEC - [epravopis] kdor je hrano rastlinskega in mlečnega izvora ter jajca
+laktoovovegetarijance | LAKTOOVOVEGETARIJANEC - [epravopis] kdor je hrano rastlinskega in mlečnega izvora ter jajca
+laktoovovegetarijanci | LAKTOOVOVEGETARIJANEC - [epravopis] kdor je hrano rastlinskega in mlečnega izvora ter jajca
+laktoovovegetarijancu | LAKTOOVOVEGETARIJANEC - [epravopis] kdor je hrano rastlinskega in mlečnega izvora ter jajca
+laktoovovegetarijanec | [epravopis] kdor je hrano rastlinskega in mlečnega izvora ter jajca
+laktovegetarijanskega | LAKTOVEGETARIJANSKI - [epravopis] nanašajoč se na jedi mlečnega in rastlinskega izvora
+laktovegetarijanskemu | LAKTOVEGETARIJANSKI - [epravopis] nanašajoč se na jedi mlečnega in rastlinskega izvora
+laktovegetarijanskima | LAKTOVEGETARIJANSKI - [epravopis] nanašajoč se na jedi mlečnega in rastlinskega izvora
+laktovegetarijanskimi | LAKTOVEGETARIJANSKI - [epravopis] nanašajoč se na jedi mlečnega in rastlinskega izvora
+larpurlartističnostih | LARPURLARTISTIČNOST - [pravopis]
+larpurlartističnostim | LARPURLARTISTIČNOST - [pravopis]
+larpurlartističnostjo | LARPURLARTISTIČNOST - [pravopis]
+larpurlartističnostma | LARPURLARTISTIČNOST - [pravopis]
+larpurlartističnostmi | LARPURLARTISTIČNOST - [pravopis]
+lažistrokovnjakinjama | LAŽISTROKOVNJAKINJA - [pravopis]
+lažistrokovnjakinjami | LAŽISTROKOVNJAKINJA - [pravopis]
+liberalnodemokratskem | LIBERALNODEMOKRATSKI - [epravopis] nanašajoč se na liberalno demokracijo
+liberalnodemokratskih | LIBERALNODEMOKRATSKI - [epravopis] nanašajoč se na liberalno demokracijo
+liberalnodemokratskim | LIBERALNODEMOKRATSKI - [epravopis] nanašajoč se na liberalno demokracijo
+literarnoinformativen | [pravopis]
+literarnoinformativna | LITERARNOINFORMATIVEN - [pravopis]
+literarnoinformativne | LITERARNOINFORMATIVEN - [pravopis]
+literarnoinformativni | LITERARNOINFORMATIVEN - [pravopis]
+literarnoinformativno | LITERARNOINFORMATIVEN - [pravopis]
 literarnoteoretičnega | LITERARNOTEORETIČEN - nanašajoč se na literarno teorijo
 literarnoteoretičnemu | LITERARNOTEORETIČEN - nanašajoč se na literarno teorijo
 literarnoteoretičnima | LITERARNOTEORETIČEN - nanašajoč se na literarno teorijo
@@ -245,6 +617,9 @@ ljudskodemokratičnega | LJUDSKODEMOKRATIČEN - nanašajoč se na ljudsko demokr
 ljudskodemokratičnemu | LJUDSKODEMOKRATIČEN - nanašajoč se na ljudsko demokracijo
 ljudskodemokratičnima | LJUDSKODEMOKRATIČEN - nanašajoč se na ljudsko demokracijo
 ljudskodemokratičnimi | LJUDSKODEMOKRATIČEN - nanašajoč se na ljudsko demokracijo
+magnetostratigrafskem | MAGNETOSTRATIGRAFSKI - [geol.] v zvezi »magnetostratigrafska časovna lestvica«: lestvica normalne in reverzne magnetne polarnosti v geološkem času
+magnetostratigrafskih | MAGNETOSTRATIGRAFSKI - [geol.] v zvezi »magnetostratigrafska časovna lestvica«: lestvica normalne in reverzne magnetne polarnosti v geološkem času
+magnetostratigrafskim | MAGNETOSTRATIGRAFSKI - [geol.] v zvezi »magnetostratigrafska časovna lestvica«: lestvica normalne in reverzne magnetne polarnosti v geološkem času
 makropaleontologijama | MAKROPALEONTOLOGIJA - [geol.] področje paleontologije, ki obravnava makrofosile
 makropaleontologijami | MAKROPALEONTOLOGIJA - [geol.] področje paleontologije, ki obravnava makrofosile
 mednarodnopolitičnega | MEDNARODNOPOLITIČEN - nanašajoč se na mednarodno politiko
@@ -252,10 +627,10 @@ mednarodnopolitičnemu | MEDNARODNOPOLITIČEN - nanašajoč se na mednarodno pol
 mednarodnopolitičnima | MEDNARODNOPOLITIČEN - nanašajoč se na mednarodno politiko
 mednarodnopolitičnimi | MEDNARODNOPOLITIČEN - nanašajoč se na mednarodno politiko
 meningoencefalitisoma | MENINGOENCEFALITIS - vnetje možganskih ovojnic in možganskega tkiva
-meristemartrokonidija | MERISTEMARTROKONIDIJ - [bot.] 
-meristemartrokonidije | MERISTEMARTROKONIDIJ - [bot.] 
-meristemartrokonidiji | MERISTEMARTROKONIDIJ - [bot.] 
-meristemartrokonidiju | MERISTEMARTROKONIDIJ - [bot.] 
+meristemartrokonidija | MERISTEMARTROKONIDIJ - [bot.]
+meristemartrokonidije | MERISTEMARTROKONIDIJ - [bot.]
+meristemartrokonidiji | MERISTEMARTROKONIDIJ - [bot.]
+meristemartrokonidiju | MERISTEMARTROKONIDIJ - [bot.]
 meščanskodemokratičen | nanašajoč se na meščansko demokracijo
 meščanskodemokratična | MEŠČANSKODEMOKRATIČEN - nanašajoč se na meščansko demokracijo
 meščanskodemokratične | MEŠČANSKODEMOKRATIČEN - nanašajoč se na meščansko demokracijo
@@ -267,13 +642,38 @@ mikrobiostratigrafija | [geol.] biostratigrafija, ki razvršča plasti po staros
 mikrobiostratigrafije | MIKROBIOSTRATIGRAFIJA - [geol.] biostratigrafija, ki razvršča plasti po starosti glede na mikrofosile
 mikrobiostratigrafiji | MIKROBIOSTRATIGRAFIJA - [geol.] biostratigrafija, ki razvršča plasti po starosti glede na mikrofosile
 mikrobiostratigrafijo | MIKROBIOSTRATIGRAFIJA - [geol.] biostratigrafija, ki razvršča plasti po starosti glede na mikrofosile
+mikroelektromehanskem | MIKROELEKTROMEHANSKI - [avt.] v zvezi »mikroelektromehanski sistem«: sestav mehanskih komponent, katerih velikost je običajno nekaj deset do nekaj sto mikronov, ki pogosto vključuje tudi senzorje, aktuatorje ter računalniške in komunikacijske zmogljivosti, npr. pospeškometer, mikrooptična komponenta, mikrofluidna komponenta, medicinska naprava
+mikroelektromehanskih | MIKROELEKTROMEHANSKI - [avt.] v zvezi »mikroelektromehanski sistem«: sestav mehanskih komponent, katerih velikost je običajno nekaj deset do nekaj sto mikronov, ki pogosto vključuje tudi senzorje, aktuatorje ter računalniške in komunikacijske zmogljivosti, npr. pospeškometer, mikrooptična komponenta, mikrofluidna komponenta, medicinska naprava
+mikroelektromehanskim | MIKROELEKTROMEHANSKI - [avt.] v zvezi »mikroelektromehanski sistem«: sestav mehanskih komponent, katerih velikost je običajno nekaj deset do nekaj sto mikronov, ki pogosto vključuje tudi senzorje, aktuatorje ter računalniške in komunikacijske zmogljivosti, npr. pospeškometer, mikrooptična komponenta, mikrofluidna komponenta, medicinska naprava
 mikropaleontologijama | MIKROPALEONTOLOGIJA - [geol.] področje paleontologije, ki obravnava mikrofosile
 mikropaleontologijami | MIKROPALEONTOLOGIJA - [geol.] področje paleontologije, ki obravnava mikrofosile
+mladoavstroalpinidska | MLADOAVSTROALPINIDSKI - [geol.] v zvezi »mladoavstroalpinidska orogenetska faza«: orogenetska faza alpinidske orogeneze med berriasijem in aptijem
+mladoavstroalpinidske | MLADOAVSTROALPINIDSKI - [geol.] v zvezi »mladoavstroalpinidska orogenetska faza«: orogenetska faza alpinidske orogeneze med berriasijem in aptijem
+mladoavstroalpinidski | [geol.] v zvezi »mladoavstroalpinidska orogenetska faza«: orogenetska faza alpinidske orogeneze med berriasijem in aptijem
+mladoavstroalpinidsko | MLADOAVSTROALPINIDSKI - [geol.] v zvezi »mladoavstroalpinidska orogenetska faza«: orogenetska faza alpinidske orogeneze med berriasijem in aptijem
+mlajšepleistocenskega | MLAJŠEPLEISTOCENSKI - > EEMSKI - [geog.] v zvezi »eemska otoplitev«: mlajšepleistocenska otoplitev na severu Evrope, med 130.000 in okrog 100.000 leti pred sedanjostjo, primerljiva z riško-würmsko medledeno dobo ali otoplitvijo v Alpah
+mlajšepleistocenskemu | MLAJŠEPLEISTOCENSKI - > EEMSKI - [geog.] v zvezi »eemska otoplitev«: mlajšepleistocenska otoplitev na severu Evrope, med 130.000 in okrog 100.000 leti pred sedanjostjo, primerljiva z riško-würmsko medledeno dobo ali otoplitvijo v Alpah
+mlajšepleistocenskima | MLAJŠEPLEISTOCENSKI - > EEMSKI - [geog.] v zvezi »eemska otoplitev«: mlajšepleistocenska otoplitev na severu Evrope, med 130.000 in okrog 100.000 leti pred sedanjostjo, primerljiva z riško-würmsko medledeno dobo ali otoplitvijo v Alpah
+mlajšepleistocenskimi | MLAJŠEPLEISTOCENSKI - > EEMSKI - [geog.] v zvezi »eemska otoplitev«: mlajšepleistocenska otoplitev na severu Evrope, med 130.000 in okrog 100.000 leti pred sedanjostjo, primerljiva z riško-würmsko medledeno dobo ali otoplitvijo v Alpah
+molekularnobiološkega | MOLEKULARNOBIOLOŠKI - > DETERMINACIJA - [bot.] določitev organizma, ki temelji na njegovih morfoloških, molekularnobioloških, biokemičnih, ekoloških lastnostih
+molekularnobiološkemu | MOLEKULARNOBIOLOŠKI - > DETERMINACIJA - [bot.] določitev organizma, ki temelji na njegovih morfoloških, molekularnobioloških, biokemičnih, ekoloških lastnostih
+molekularnobiološkima | MOLEKULARNOBIOLOŠKI - > DETERMINACIJA - [bot.] določitev organizma, ki temelji na njegovih morfoloških, molekularnobioloških, biokemičnih, ekoloških lastnostih
+molekularnobiološkimi | MOLEKULARNOBIOLOŠKI - > DETERMINACIJA - [bot.] določitev organizma, ki temelji na njegovih morfoloških, molekularnobioloških, biokemičnih, ekoloških lastnostih
+nacionalnoekonomskega | NACIONALNOEKONOMSKI - [pravopis]
+nacionalnoekonomskemu | NACIONALNOEKONOMSKI - [pravopis]
+nacionalnoekonomskima | NACIONALNOEKONOMSKI - [pravopis]
+nacionalnoekonomskimi | NACIONALNOEKONOMSKI - [pravopis]
+nacionalnogospodarska | NACIONALNOGOSPODARSKI - [epravopis] nanašajoč se na nacionalno gospodarstvo
+nacionalnogospodarske | NACIONALNOGOSPODARSKI - [epravopis] nanašajoč se na nacionalno gospodarstvo
+nacionalnogospodarski | [epravopis] nanašajoč se na nacionalno gospodarstvo
+nacionalnogospodarsko | NACIONALNOGOSPODARSKI - [epravopis] nanašajoč se na nacionalno gospodarstvo
 nacionalsocialističen | nanašajoč se na nacionalsocialiste ali nacionalsocializem
 nacionalsocialistična | NACIONALSOCIALISTIČEN - nanašajoč se na nacionalsocialiste ali nacionalsocializem
 nacionalsocialistične | NACIONALSOCIALISTIČEN - nanašajoč se na nacionalsocialiste ali nacionalsocializem
 nacionalsocialistični | NACIONALSOCIALISTIČEN - nanašajoč se na nacionalsocialiste ali nacionalsocializem
 nacionalsocialistično | NACIONALSOCIALISTIČEN - nanašajoč se na nacionalsocialiste ali nacionalsocializem
+nacionalsocialistkama | NACIONALSOCIALISTKA - [pravopis]
+nacionalsocialistkami | NACIONALSOCIALISTKA - [pravopis]
 najavtoritativnejšega | AVTORITATIVEN - nanašajoč se na avtoriteto
 najavtoritativnejšemu | AVTORITATIVEN - nanašajoč se na avtoriteto
 najavtoritativnejšima | AVTORITATIVEN - nanašajoč se na avtoriteto
@@ -298,6 +698,10 @@ najprizanesljivejšega | PRIZANESLJIV - ki za prestopek, negativno dejanje ne ka
 najprizanesljivejšemu | PRIZANESLJIV - ki za prestopek, negativno dejanje ne kaznuje rad
 najprizanesljivejšima | PRIZANESLJIV - ki za prestopek, negativno dejanje ne kaznuje rad
 najprizanesljivejšimi | PRIZANESLJIV - ki za prestopek, negativno dejanje ne kaznuje rad
+najreprezentativnejša | REPREZENTATIVEN - ki v najvišji meri posreduje lastnosti, značilnosti koga, česa
+najreprezentativnejše | REPREZENTATIVEN - ki v najvišji meri posreduje lastnosti, značilnosti koga, česa
+najreprezentativnejši | REPREZENTATIVEN - ki v najvišji meri posreduje lastnosti, značilnosti koga, česa
+najreprezentativnejšo | REPREZENTATIVEN - ki v najvišji meri posreduje lastnosti, značilnosti koga, česa
 najrevolucionarnejšem | REVOLUCIONAREN - nanašajoč se na revolucionarje ali revolucijo
 najrevolucionarnejših | REVOLUCIONAREN - nanašajoč se na revolucionarje ali revolucijo
 najrevolucionarnejšim | REVOLUCIONAREN - nanašajoč se na revolucionarje ali revolucijo
@@ -309,77 +713,374 @@ najvelikopoteznejšega | VELIKOPOTEZEN - ki zajema, upošteva veliko stvari in z
 najvelikopoteznejšemu | VELIKOPOTEZEN - ki zajema, upošteva veliko stvari in zahteva veliko dejanj
 najvelikopoteznejšima | VELIKOPOTEZEN - ki zajema, upošteva veliko stvari in zahteva veliko dejanj
 najvelikopoteznejšimi | VELIKOPOTEZEN - ki zajema, upošteva veliko stvari in zahteva veliko dejanj
+naravovarstveničinega | NARAVOVARSTVENIČIN - [pravopis]
+naravovarstveničinemu | NARAVOVARSTVENIČIN - [pravopis]
+naravovarstveničinima | NARAVOVARSTVENIČIN - [pravopis]
+naravovarstveničinimi | NARAVOVARSTVENIČIN - [pravopis]
+narodnoosvobodilnosti | NARODNOOSVOBODILNOST - [pravopis]
+narodnostnomanjšinska | NARODNOSTNOMANJŠINSKI - [epravopis] nanašajoč se na narodnostno manjšino
+narodnostnomanjšinske | NARODNOSTNOMANJŠINSKI - [epravopis] nanašajoč se na narodnostno manjšino
+narodnostnomanjšinski | [epravopis] nanašajoč se na narodnostno manjšino
+narodnostnomanjšinsko | NARODNOSTNOMANJŠINSKI - [epravopis] nanašajoč se na narodnostno manjšino
 nediscipliniranostima | NEDISCIPLINIRANOST - lastnost, značilnost nediscipliniranega človeka
+nediskriminatornostih | NEDISKRIMINATORNOST - [prav.] v zvezi »načelo nediskriminatornosti«: načelo, po katerem ni dovoljena diskriminacija posameznika, ki temelji na njegovih osebnih okoliščinah, kot so spol, rasno, narodnostno ali etnično poreklo, versko, politično ali drugo prepričanje, spolna usmerjenost, invalidnost
+nediskriminatornostim | NEDISKRIMINATORNOST - [prav.] v zvezi »načelo nediskriminatornosti«: načelo, po katerem ni dovoljena diskriminacija posameznika, ki temelji na njegovih osebnih okoliščinah, kot so spol, rasno, narodnostno ali etnično poreklo, versko, politično ali drugo prepričanje, spolna usmerjenost, invalidnost
+nediskriminatornostjo | NEDISKRIMINATORNOST - [prav.] v zvezi »načelo nediskriminatornosti«: načelo, po katerem ni dovoljena diskriminacija posameznika, ki temelji na njegovih osebnih okoliščinah, kot so spol, rasno, narodnostno ali etnično poreklo, versko, politično ali drugo prepričanje, spolna usmerjenost, invalidnost
+nediskriminatornostma | NEDISKRIMINATORNOST - [prav.] v zvezi »načelo nediskriminatornosti«: načelo, po katerem ni dovoljena diskriminacija posameznika, ki temelji na njegovih osebnih okoliščinah, kot so spol, rasno, narodnostno ali etnično poreklo, versko, politično ali drugo prepričanje, spolna usmerjenost, invalidnost
+nediskriminatornostmi | NEDISKRIMINATORNOST - [prav.] v zvezi »načelo nediskriminatornosti«: načelo, po katerem ni dovoljena diskriminacija posameznika, ki temelji na njegovih osebnih okoliščinah, kot so spol, rasno, narodnostno ali etnično poreklo, versko, politično ali drugo prepričanje, spolna usmerjenost, invalidnost
+nekompromitiranostima | NEKOMPROMITIRANOST - [pravopis]
 nekonvencionalnostima | NEKONVENCIONALNOST - lastnost, značilnost nekonvencionalnega
+nematerialističnostih | NEMATERIALISTIČNOST - [pravopis]
+nematerialističnostim | NEMATERIALISTIČNOST - [pravopis]
+nematerialističnostjo | NEMATERIALISTIČNOST - [pravopis]
+nematerialističnostma | NEMATERIALISTIČNOST - [pravopis]
+nematerialističnostmi | NEMATERIALISTIČNOST - [pravopis]
+neokapitalističnostih | NEOKAPITALISTIČNOST - [pravopis]
+neokapitalističnostim | NEOKAPITALISTIČNOST - [pravopis]
+neokapitalističnostjo | NEOKAPITALISTIČNOST - [pravopis]
+neokapitalističnostma | NEOKAPITALISTIČNOST - [pravopis]
+neokapitalističnostmi | NEOKAPITALISTIČNOST - [pravopis]
+neokolonialističnosti | NEOKOLONIALISTIČNOST - [pravopis]
+neproporcionalnostima | NEPROPORCIONALNOST - [pravopis]
+nesemaforiziranostima | NESEMAFORIZIRANOST - [pravopis]
+nestandardiziranostih | NESTANDARDIZIRANOST - [pravopis]
+nestandardiziranostim | NESTANDARDIZIRANOST - [pravopis]
+nestandardiziranostjo | NESTANDARDIZIRANOST - [pravopis]
+nestandardiziranostma | NESTANDARDIZIRANOST - [pravopis]
+nestandardiziranostmi | NESTANDARDIZIRANOST - [pravopis]
 nezainteresiranostima | NEZAINTERESIRANOST - lastnost, značilnost nezainteresiranega človeka
+notranjepolitičnostih | NOTRANJEPOLITIČNOST - [pravopis]
+notranjepolitičnostim | NOTRANJEPOLITIČNOST - [pravopis]
+notranjepolitičnostjo | NOTRANJEPOLITIČNOST - [pravopis]
+notranjepolitičnostma | NOTRANJEPOLITIČNOST - [pravopis]
+notranjepolitičnostmi | NOTRANJEPOLITIČNOST - [pravopis]
+novoustanovljenostima | NOVOUSTANOVLJENOST - [pravopis]
+oblikospreminjevalnem | OBLIKOSPREMINJEVALEN - [pravopis]
+oblikospreminjevalnih | OBLIKOSPREMINJEVALEN - [pravopis]
+oblikospreminjevalnim | OBLIKOSPREMINJEVALEN - [pravopis]
+okoljevarstveničinega | OKOLJEVARSTVENIČIN - [pravopis]
+okoljevarstveničinemu | OKOLJEVARSTVENIČIN - [pravopis]
+okoljevarstveničinima | OKOLJEVARSTVENIČIN - [pravopis]
+okoljevarstveničinimi | OKOLJEVARSTVENIČIN - [pravopis]
 ortokronostratigrafij | ORTOKRONOSTRATIGRAFIJA - [geol.] geokronologija plasti, ki jo določajo ortokronostratigrafski fosili
 otorinolaringologijah | OTORINOLARINGOLOGIJA - veda o ušesu, nosu, grlu in njihovih boleznih
 otorinolaringologijam | OTORINOLARINGOLOGIJA - veda o ušesu, nosu, grlu in njihovih boleznih
+otorinolaringologinja | [pravopis]
+otorinolaringologinje | OTORINOLARINGOLOGINJA - [pravopis]
+otorinolaringologinji | OTORINOLARINGOLOGINJA - [pravopis]
+otorinolaringologinjo | OTORINOLARINGOLOGINJA - [pravopis]
 otorinolaringološkega | OTORINOLARINGOLOŠKI - nanašajoč se na otorinolaringologe ali otorinolaringologijo
 otorinolaringološkemu | OTORINOLARINGOLOŠKI - nanašajoč se na otorinolaringologe ali otorinolaringologijo
 otorinolaringološkima | OTORINOLARINGOLOŠKI - nanašajoč se na otorinolaringologe ali otorinolaringologijo
 otorinolaringološkimi | OTORINOLARINGOLOŠKI - nanašajoč se na otorinolaringologe ali otorinolaringologijo
+parahidroksibenzojska | PARAHIDROKSIBENZOJSKI - [farm.] v zvezi »estri parahidroksibenzojske kisline«: konzervansi z izrazitim protibakterijskim in protiglivičnim delovanjem, ki motijo transport snovi skozi biološke membrane, verjetno tudi biosintezo nukleinskih kislin, in v nizkih koncentracijah delujejo kot hormonski motilci, pogosti v farmacevtskih in kozmetičnih izdelkih
+parahidroksibenzojske | PARAHIDROKSIBENZOJSKI - [farm.] v zvezi »estri parahidroksibenzojske kisline«: konzervansi z izrazitim protibakterijskim in protiglivičnim delovanjem, ki motijo transport snovi skozi biološke membrane, verjetno tudi biosintezo nukleinskih kislin, in v nizkih koncentracijah delujejo kot hormonski motilci, pogosti v farmacevtskih in kozmetičnih izdelkih
+parahidroksibenzojski | [farm.] v zvezi »estri parahidroksibenzojske kisline«: konzervansi z izrazitim protibakterijskim in protiglivičnim delovanjem, ki motijo transport snovi skozi biološke membrane, verjetno tudi biosintezo nukleinskih kislin, in v nizkih koncentracijah delujejo kot hormonski motilci, pogosti v farmacevtskih in kozmetičnih izdelkih
+parahidroksibenzojsko | PARAHIDROKSIBENZOJSKI - [farm.] v zvezi »estri parahidroksibenzojske kisline«: konzervansi z izrazitim protibakterijskim in protiglivičnim delovanjem, ki motijo transport snovi skozi biološke membrane, verjetno tudi biosintezo nukleinskih kislin, in v nizkih koncentracijah delujejo kot hormonski motilci, pogosti v farmacevtskih in kozmetičnih izdelkih
 parasimpatomimetikoma | PARASIMPATOMIMETIK - [farm.] učinkovina, ki deluje kot agonist na holinergičnih receptorjih v parasimpatičnem živčnem sistemu
+parastromatoporidnega | PARASTROMATOPORIDEN - [geol.] v zvezi »parastromatoporidni greben«: greben (1), ki ga gradijo parastromatoporidi
+parastromatoporidnemu | PARASTROMATOPORIDEN - [geol.] v zvezi »parastromatoporidni greben«: greben (1), ki ga gradijo parastromatoporidi
+parastromatoporidnima | PARASTROMATOPORIDEN - [geol.] v zvezi »parastromatoporidni greben«: greben (1), ki ga gradijo parastromatoporidi
+parastromatoporidnimi | PARASTROMATOPORIDEN - [geol.] v zvezi »parastromatoporidni greben«: greben (1), ki ga gradijo parastromatoporidi
 parastromatoporoidoma | PARASTROMATOPOROIDI - [geol.] skorjasti hidrozoji, ki so živeli v juri
+partikularističnostih | PARTIKULARISTIČNOST - [pravopis]
+partikularističnostim | PARTIKULARISTIČNOST - [pravopis]
+partikularističnostjo | PARTIKULARISTIČNOST - [pravopis]
+partikularističnostma | PARTIKULARISTIČNOST - [pravopis]
+partikularističnostmi | PARTIKULARISTIČNOST - [pravopis]
+pentagondodekaedričen | [geol.] v zvezi »pentagondodekaedrična vrsta simetrije«: vrsta simetrije, ki ima tri dvoštevne in štiri trištevne osi simetrije in tri ravnine simetrije
+pentagondodekaedrična | PENTAGONDODEKAEDRIČEN - [geol.] v zvezi »pentagondodekaedrična vrsta simetrije«: vrsta simetrije, ki ima tri dvoštevne in štiri trištevne osi simetrije in tri ravnine simetrije
+pentagondodekaedrične | PENTAGONDODEKAEDRIČEN - [geol.] v zvezi »pentagondodekaedrična vrsta simetrije«: vrsta simetrije, ki ima tri dvoštevne in štiri trištevne osi simetrije in tri ravnine simetrije
+pentagondodekaedrični | PENTAGONDODEKAEDRIČEN - [geol.] v zvezi »pentagondodekaedrična vrsta simetrije«: vrsta simetrije, ki ima tri dvoštevne in štiri trištevne osi simetrije in tri ravnine simetrije
+pentagondodekaedrično | PENTAGONDODEKAEDRIČEN - [geol.] v zvezi »pentagondodekaedrična vrsta simetrije«: vrsta simetrije, ki ima tri dvoštevne in štiri trištevne osi simetrije in tri ravnine simetrije
+pentagondodekaedrskem | PENTAGONDODEKAEDRSKI - [geol.] v zvezi »pentagondodekaedrski razred«: vrsta simetrije, ki ima tri dvoštevne in štiri trištevne osi simetrije in tri ravnine simetrije
+pentagondodekaedrskih | PENTAGONDODEKAEDRSKI - [geol.] v zvezi »pentagondodekaedrski razred«: vrsta simetrije, ki ima tri dvoštevne in štiri trištevne osi simetrije in tri ravnine simetrije
+pentagondodekaedrskim | PENTAGONDODEKAEDRSKI - [geol.] v zvezi »pentagondodekaedrski razred«: vrsta simetrije, ki ima tri dvoštevne in štiri trištevne osi simetrije in tri ravnine simetrije
 pentagontrioktaedroma | PENTAGONTRIOKTAEDER - [geol.] kristalni lik v kubičnem kristalografskem sistemu, ki ima na vsaki ploskvi oktaedra tri neenakostranične peterokotne ploskve
 pentagontritetraedrih | PENTAGONTRITETRAEDER - [geol.] kristalni lik v kubičnem kristalografskem sistemu, ki ima na vsaki ploskvi tetraedra tri neenakostranične peterokotne ploskve
 pentagontritetraedrom | PENTAGONTRITETRAEDER - [geol.] kristalni lik v kubičnem kristalografskem sistemu, ki ima na vsaki ploskvi tetraedra tri neenakostranične peterokotne ploskve
 pentagontritetraedrov | PENTAGONTRITETRAEDER - [geol.] kristalni lik v kubičnem kristalografskem sistemu, ki ima na vsaki ploskvi tetraedra tri neenakostranične peterokotne ploskve
+peptidiltransferazama | PEPTIDILTRANSFERAZA - > AMFENIKOLI - [farm.] antibiotiki, strukturno sorodni kloramfenikolu, ki zavirajo encim peptidiltransferazo in ovirajo sintezo proteinov pri bakterijah, npr. kloramfenikol, tiamfenikol
+peptidiltransferazami | PEPTIDILTRANSFERAZA - > AMFENIKOLI - [farm.] antibiotiki, strukturno sorodni kloramfenikolu, ki zavirajo encim peptidiltransferazo in ovirajo sintezo proteinov pri bakterijah, npr. kloramfenikol, tiamfenikol
+peroksiacetilnitratih | PEROKSIACETILNITRAT - > FOTOOKSIDANT - [bot.] sekundarno zračno onesnaževalo, ki nastaja iz primarnih onesnaževal, zlasti dušikovih oksidov, hlapnih ogljikovodikov, zaradi učinkovanja UV-sevanja, pri čemer je to zelo reaktivno, npr. ozon, peroksiacetilnitrat
+peroksiacetilnitratom | PEROKSIACETILNITRAT - > FOTOOKSIDANT - [bot.] sekundarno zračno onesnaževalo, ki nastaja iz primarnih onesnaževal, zlasti dušikovih oksidov, hlapnih ogljikovodikov, zaradi učinkovanja UV-sevanja, pri čemer je to zelo reaktivno, npr. ozon, peroksiacetilnitrat
+peroksiacetilnitratov | PEROKSIACETILNITRAT - > FOTOOKSIDANT - [bot.] sekundarno zračno onesnaževalo, ki nastaja iz primarnih onesnaževal, zlasti dušikovih oksidov, hlapnih ogljikovodikov, zaradi učinkovanja UV-sevanja, pri čemer je to zelo reaktivno, npr. ozon, peroksiacetilnitrat
+petdesetkilogramskega | PETDESETKILOGRAMSKI - [sinonimni]
+petdesetkilogramskemu | PETDESETKILOGRAMSKI - [sinonimni]
+petdesetkilogramskima | PETDESETKILOGRAMSKI - [sinonimni]
+petdesetkilogramskimi | PETDESETKILOGRAMSKI - [sinonimni]
 petindvajsetletnicama | PETINDVAJSETLETNICA - petindvajseta obletnica
 petindvajsetletnicami | PETINDVAJSETLETNICA - petindvajseta obletnica
+petindvajsetletničina | PETINDVAJSETLETNIČIN - [pravopis]
+petindvajsetletničine | PETINDVAJSETLETNIČIN - [pravopis]
+petindvajsetletničini | PETINDVAJSETLETNIČIN - [pravopis]
+petindvajsetletničino | PETINDVAJSETLETNIČIN - [pravopis]
+petindvajsetletnikoma | PETINDVAJSETLETNIK - [pravopis]
 petinsedemdesetletnic | PETINSEDEMDESETLETNICA - petinsedemdeseta obletnica
+petinsedemdesetletnik | [pravopis]
+plazmodioforomicetama | PLAZMODIOFOROMICETA - > PARAPLAZMODIJ - [bot.] plazmodij, ki nastane intracelularno v gostiteljski celici z razmnoževanjem jedra enocelične miksamebe, značilen za plazmodioforomicete (Plasmadiophoromycetes)
+plazmodioforomicetami | PLAZMODIOFOROMICETA - > PARAPLAZMODIJ - [bot.] plazmodij, ki nastane intracelularno v gostiteljski celici z razmnoževanjem jedra enocelične miksamebe, značilen za plazmodioforomicete (Plasmadiophoromycetes)
+podkapitaliziranostih | PODKAPITALIZIRANOST - [pravopis]
+podkapitaliziranostim | PODKAPITALIZIRANOST - [pravopis]
+podkapitaliziranostjo | PODKAPITALIZIRANOST - [pravopis]
+podkapitaliziranostma | PODKAPITALIZIRANOST - [pravopis]
+podkapitaliziranostmi | PODKAPITALIZIRANOST - [pravopis]
+poimpresionističnosti | POIMPRESIONISTIČNOST - [pravopis]
+pokrajinskoekološkega | POKRAJINSKOEKOLOŠKI - [geog.] v zvezi »pokrajinskoekološka členitev«: členitev okolja po lastnostih njegovih posameznih sestavin, pri čemer se navadno upoštevajo zlasti značilnosti dominantnih oziroma stabilnih sestavin okolja
+pokrajinskoekološkemu | POKRAJINSKOEKOLOŠKI - [geog.] v zvezi »pokrajinskoekološka členitev«: členitev okolja po lastnostih njegovih posameznih sestavin, pri čemer se navadno upoštevajo zlasti značilnosti dominantnih oziroma stabilnih sestavin okolja
+pokrajinskoekološkima | POKRAJINSKOEKOLOŠKI - [geog.] v zvezi »pokrajinskoekološka členitev«: členitev okolja po lastnostih njegovih posameznih sestavin, pri čemer se navadno upoštevajo zlasti značilnosti dominantnih oziroma stabilnih sestavin okolja
+pokrajinskoekološkimi | POKRAJINSKOEKOLOŠKI - [geog.] v zvezi »pokrajinskoekološka členitev«: členitev okolja po lastnostih njegovih posameznih sestavin, pri čemer se navadno upoštevajo zlasti značilnosti dominantnih oziroma stabilnih sestavin okolja
+policijskoveteranskem | POLICIJSKOVETERANSKI - [epravopis] nanašajoč se na policijske veterane
+policijskoveteranskih | POLICIJSKOVETERANSKI - [epravopis] nanašajoč se na policijske veterane
+policijskoveteranskim | POLICIJSKOVETERANSKI - [epravopis] nanašajoč se na policijske veterane
 polifarmakoterapijama | POLIFARMAKOTERAPIJA - [farm.] sočasna uporaba več zdravil
 polifarmakoterapijami | POLIFARMAKOTERAPIJA - [farm.] sočasna uporaba več zdravil
+političnogeografskega | POLITIČNOGEOGRAFSKI - [epravopis] nanašajoč se na politično geografijo
+političnogeografskemu | POLITIČNOGEOGRAFSKI - [epravopis] nanašajoč se na politično geografijo
+političnogeografskima | POLITIČNOGEOGRAFSKI - [epravopis] nanašajoč se na politično geografijo
+političnogeografskimi | POLITIČNOGEOGRAFSKI - [epravopis] nanašajoč se na politično geografijo
+političnogospodarskem | POLITIČNOGOSPODARSKI - [pravopis]
+političnogospodarskih | POLITIČNOGOSPODARSKI - [pravopis]
+političnogospodarskim | POLITIČNOGOSPODARSKI - [pravopis]
 političnoteritorialen | nanašajoč se na političnoupravno delitev državnega ozemlja
 političnoteritorialna | POLITIČNOTERITORIALEN - nanašajoč se na političnoupravno delitev državnega ozemlja
 političnoteritorialne | POLITIČNOTERITORIALEN - nanašajoč se na političnoupravno delitev državnega ozemlja
 političnoteritorialni | POLITIČNOTERITORIALEN - nanašajoč se na političnoupravno delitev državnega ozemlja
 političnoteritorialno | POLITIČNOTERITORIALEN - nanašajoč se na političnoupravno delitev državnega ozemlja
 polivinilpirolidonoma | POLIVINILPIROLIDON - [farm.] bel ali bledorumenkast higroskopen prah ali kosmiči, linearni polimer N-vinil-2-pirolidinona z različno stopnjo polimerizacije in viskoznosti vodne raztopine, ki se uporablja kot vezivo pri tabletiranju in granuliranju, polimer za zaščito tabletnih jeder
+polkvalificiranostima | POLKVALIFICIRANOST - [pravopis]
+polvelterkategorijama | POLVELTERKATEGORIJA - [pravopis]
+polvelterkategorijami | POLVELTERKATEGORIJA - [pravopis]
+pomenskorazlikovalnem | POMENSKORAZLIKOVALNI - [sinonimni]
+pomenskorazlikovalnih | POMENSKORAZLIKOVALNI - [sinonimni]
+pomenskorazlikovalnim | POMENSKORAZLIKOVALNI - [sinonimni]
 pomenskorazločevalnem | POMENSKORAZLOČEVALEN - ki (lahko) razločuje pomen
 pomenskorazločevalnih | POMENSKORAZLOČEVALEN - ki (lahko) razločuje pomen
 pomenskorazločevalnim | POMENSKORAZLOČEVALEN - ki (lahko) razločuje pomen
+poslovnoinformacijska | POSLOVNOINFORMACIJSKI - [epravopis] nanašajoč se na poslovne informacije
+poslovnoinformacijske | POSLOVNOINFORMACIJSKI - [epravopis] nanašajoč se na poslovne informacije
+poslovnoinformacijski | [epravopis] nanašajoč se na poslovne informacije
+poslovnoinformacijsko | POSLOVNOINFORMACIJSKI - [epravopis] nanašajoč se na poslovne informacije
 postimpresionističnem | POSTIMPRESIONISTIČEN - nanašajoč se na postimpresionizem
 postimpresionističnih | POSTIMPRESIONISTIČEN - nanašajoč se na postimpresionizem
 postimpresionističnim | POSTIMPRESIONISTIČEN - nanašajoč se na postimpresionizem
+posttranskripcijskega | POSTTRANSKRIPCIJSKI - [farm.] v zvezi »posttranskripcijska modifikacija«: sprememba na molekuli RNA, ki poteka po transkripciji ali sočasno z njo, npr. izrezovanje intronov, poliadenilacija
+posttranskripcijskemu | POSTTRANSKRIPCIJSKI - [farm.] v zvezi »posttranskripcijska modifikacija«: sprememba na molekuli RNA, ki poteka po transkripciji ali sočasno z njo, npr. izrezovanje intronov, poliadenilacija
+posttranskripcijskima | POSTTRANSKRIPCIJSKI - [farm.] v zvezi »posttranskripcijska modifikacija«: sprememba na molekuli RNA, ki poteka po transkripciji ali sočasno z njo, npr. izrezovanje intronov, poliadenilacija
+posttranskripcijskimi | POSTTRANSKRIPCIJSKI - [farm.] v zvezi »posttranskripcijska modifikacija«: sprememba na molekuli RNA, ki poteka po transkripciji ali sočasno z njo, npr. izrezovanje intronov, poliadenilacija
 povsodpričujočnostima | POVSODPRIČUJOČNOST - dejstvo, da je Bog povsod pričujoč
+pravnoinformacijskega | PRAVNOINFORMACIJSKI - [epravopis] nanašajoč se na pravne informacije
+pravnoinformacijskemu | PRAVNOINFORMACIJSKI - [epravopis] nanašajoč se na pravne informacije
+pravnoinformacijskima | PRAVNOINFORMACIJSKI - [epravopis] nanašajoč se na pravne informacije
+pravnoinformacijskimi | PRAVNOINFORMACIJSKI - [epravopis] nanašajoč se na pravne informacije
+pravnoorganizacijskem | PRAVNOORGANIZACIJSKI - [epravopis] nanašajoč se na pravno organizacijo
+pravnoorganizacijskih | PRAVNOORGANIZACIJSKI - [epravopis] nanašajoč se na pravno organizacijo
+pravnoorganizacijskim | PRAVNOORGANIZACIJSKI - [epravopis] nanašajoč se na pravno organizacijo
 predimenzioniranostih | PREDIMENZIONIRANOST - značilnost predimenzioniranega
 predimenzioniranostim | PREDIMENZIONIRANOST - značilnost predimenzioniranega
 predimenzioniranostjo | PREDIMENZIONIRANOST - značilnost predimenzioniranega
 predimenzioniranostma | PREDIMENZIONIRANOST - značilnost predimenzioniranega
 predimenzioniranostmi | PREDIMENZIONIRANOST - značilnost predimenzioniranega
+predmetnopomenskostih | PREDMETNOPOMENSKOST - [pravopis]
+predmetnopomenskostim | PREDMETNOPOMENSKOST - [pravopis]
+predmetnopomenskostjo | PREDMETNOPOMENSKOST - [pravopis]
+predmetnopomenskostma | PREDMETNOPOMENSKOST - [pravopis]
+predmetnopomenskostmi | PREDMETNOPOMENSKOST - [pravopis]
+predpripravljenostima | PREDPRIPRAVLJENOST - [pravopis]
+prekvalificirančevega | PREKVALIFICIRANČEV - [pravopis]
+prekvalificirančevemu | PREKVALIFICIRANČEV - [pravopis]
+prekvalificirančevima | PREKVALIFICIRANČEV - [pravopis]
+prekvalificirančevimi | PREKVALIFICIRANČEV - [pravopis]
+prekvalificiranostima | PREKVALIFICIRANOST - [pravopis]
+prestolonasledničinem | PRESTOLONASLEDNIČIN - [pravopis]
+prestolonasledničinih | PRESTOLONASLEDNIČIN - [pravopis]
+prestolonasledničinim | PRESTOLONASLEDNIČIN - [pravopis]
+prestrukturiranostima | PRESTRUKTURIRANOST - [pravopis]
+preterintencionalnega | PRETERINTENCIONALEN - [prav.] v zvezi »preterintencionalna posledica«: iz malomarnosti povzročena posledica, ki je hujša, kot je bila predvidena v storilčevem naklepu, npr. telesna poškodba s posledico smrti
+preterintencionalnemu | PRETERINTENCIONALEN - [prav.] v zvezi »preterintencionalna posledica«: iz malomarnosti povzročena posledica, ki je hujša, kot je bila predvidena v storilčevem naklepu, npr. telesna poškodba s posledico smrti
+preterintencionalnima | PRETERINTENCIONALEN - [prav.] v zvezi »preterintencionalna posledica«: iz malomarnosti povzročena posledica, ki je hujša, kot je bila predvidena v storilčevem naklepu, npr. telesna poškodba s posledico smrti
+preterintencionalnimi | PRETERINTENCIONALEN - [prav.] v zvezi »preterintencionalna posledica«: iz malomarnosti povzročena posledica, ki je hujša, kot je bila predvidena v storilčevem naklepu, npr. telesna poškodba s posledico smrti
+problematiziranostima | PROBLEMATIZIRANOST - [pravopis]
+profesionaliziranosti | PROFESIONALIZIRANOST - [pravopis]
+prometnoinformacijska | PROMETNOINFORMACIJSKI - [epravopis] nanašajoč se na prometne informacije
+prometnoinformacijske | PROMETNOINFORMACIJSKI - [epravopis] nanašajoč se na prometne informacije
+prometnoinformacijski | [epravopis] nanašajoč se na prometne informacije
+prometnoinformacijsko | PROMETNOINFORMACIJSKI - [epravopis] nanašajoč se na prometne informacije
+propagandističnostima | PROPAGANDISTIČNOST - [pravopis]
+prosocialističnostima | PROSOCIALISTIČNOST - [pravopis]
+prostorskoureditvenem | PROSTORSKOUREDITVENI - [sprotni]
+prostorskoureditvenih | PROSTORSKOUREDITVENI - [sprotni]
+prostorskoureditvenim | PROSTORSKOUREDITVENI - [sprotni]
 protiabsolutističnega | PROTIABSOLUTISTIČEN - ki je proti absolutizmu
 protiabsolutističnemu | PROTIABSOLUTISTIČEN - ki je proti absolutizmu
 protiabsolutističnima | PROTIABSOLUTISTIČEN - ki je proti absolutizmu
 protiabsolutističnimi | PROTIABSOLUTISTIČEN - ki je proti absolutizmu
+protiabsolutističnost | [pravopis]
+protiavtoritarnostima | PROTIAVTORITARNOST - [pravopis]
+protibirokratskostima | PROTIBIROKRATSKOST - [pravopis]
+protiboljševiškostima | PROTIBOLJŠEVIŠKOST - [pravopis]
+protidemokratičnostih | PROTIDEMOKRATIČNOST - [pravopis]
+protidemokratičnostim | PROTIDEMOKRATIČNOST - [pravopis]
+protidemokratičnostjo | PROTIDEMOKRATIČNOST - [pravopis]
+protidemokratičnostma | PROTIDEMOKRATIČNOST - [pravopis]
+protidemokratičnostmi | PROTIDEMOKRATIČNOST - [pravopis]
+protidialektičnostima | PROTIDIALEKTIČNOST - [pravopis]
 protiglobalizacijskem | PROTIGLOBALIZACIJSKI - ki je proti globalizaciji
 protiglobalizacijskih | PROTIGLOBALIZACIJSKI - ki je proti globalizaciji
 protiglobalizacijskim | PROTIGLOBALIZACIJSKI - ki je proti globalizaciji
+protihitlerjevskostih | PROTIHITLERJEVSKOST - [pravopis]
+protihitlerjevskostim | PROTIHITLERJEVSKOST - [pravopis]
+protihitlerjevskostjo | PROTIHITLERJEVSKOST - [pravopis]
+protihitlerjevskostma | PROTIHITLERJEVSKOST - [pravopis]
+protihitlerjevskostmi | PROTIHITLERJEVSKOST - [pravopis]
 protiimperialističnem | PROTIIMPERIALISTIČEN - ki je proti imperializmu
 protiimperialističnih | PROTIIMPERIALISTIČEN - ki je proti imperializmu
 protiimperialističnim | PROTIIMPERIALISTIČEN - ki je proti imperializmu
+protiinflacijskostima | PROTIINFLACIJSKOST - [pravopis]
+protiitalijanskostima | PROTIITALIJANSKOST - [pravopis]
+protijanzenističnosti | PROTIJANZENISTIČNOST - [pravopis]
+protijugoslovanskosti | PROTIJUGOSLOVANSKOST - [pravopis]
 protikapitalističnega | PROTIKAPITALISTIČEN - ki je proti kapitalizmu
 protikapitalističnemu | PROTIKAPITALISTIČEN - ki je proti kapitalizmu
 protikapitalističnima | PROTIKAPITALISTIČEN - ki je proti kapitalizmu
 protikapitalističnimi | PROTIKAPITALISTIČEN - ki je proti kapitalizmu
+protikapitalističnost | [pravopis]
+protikomunističnostih | PROTIKOMUNISTIČNOST - [pravopis]
+protikomunističnostim | PROTIKOMUNISTIČNOST - [pravopis]
+protikomunističnostjo | PROTIKOMUNISTIČNOST - [pravopis]
+protikomunističnostma | PROTIKOMUNISTIČNOST - [pravopis]
+protikomunističnostmi | PROTIKOMUNISTIČNOST - [pravopis]
+protimarksističnostih | PROTIMARKSISTIČNOST - [pravopis]
+protimarksističnostim | PROTIMARKSISTIČNOST - [pravopis]
+protimarksističnostjo | PROTIMARKSISTIČNOST - [pravopis]
+protimarksističnostma | PROTIMARKSISTIČNOST - [pravopis]
+protimarksističnostmi | PROTIMARKSISTIČNOST - [pravopis]
+protimaterialističnem | PROTIMATERIALISTIČEN - [pravopis]
+protimaterialističnih | PROTIMATERIALISTIČEN - [pravopis]
+protimaterialističnim | PROTIMATERIALISTIČEN - [pravopis]
+protimetafizičnostima | PROTIMETAFIZIČNOST - [pravopis]
 protimilitarističnega | PROTIMILITARISTIČEN - ki je proti militarizmu
 protimilitarističnemu | PROTIMILITARISTIČEN - ki je proti militarizmu
 protimilitarističnima | PROTIMILITARISTIČEN - ki je proti militarizmu
 protimilitarističnimi | PROTIMILITARISTIČEN - ki je proti militarizmu
+protimilitarističnost | [pravopis]
+protimonarhističnosti | PROTIMONARHISTIČNOST - [pravopis]
+protiobveščevalnostih | PROTIOBVEŠČEVALNOST - [pravopis]
+protiobveščevalnostim | PROTIOBVEŠČEVALNOST - [pravopis]
+protiobveščevalnostjo | PROTIOBVEŠČEVALNOST - [pravopis]
+protiobveščevalnostma | PROTIOBVEŠČEVALNOST - [pravopis]
+protiobveščevalnostmi | PROTIOBVEŠČEVALNOST - [pravopis]
+protipartizanskostima | PROTIPARTIZANSKOST - [pravopis]
+protireformacijskosti | PROTIREFORMACIJSKOST - [pravopis]
 protirevolucionarjema | PROTIREVOLUCIONAR - kdor nasprotuje revoluciji ali sodeluje v gibanju proti njej
+protirevolucionarkama | PROTIREVOLUCIONARKA - [pravopis]
+protirevolucionarkami | PROTIREVOLUCIONARKA - [pravopis]
 protirevolucionarnega | PROTIREVOLUCIONAREN - ki je proti revoluciji
 protirevolucionarnemu | PROTIREVOLUCIONAREN - ki je proti revoluciji
 protirevolucionarnima | PROTIREVOLUCIONAREN - ki je proti revoluciji
 protirevolucionarnimi | PROTIREVOLUCIONAREN - ki je proti revoluciji
+protirevolucionarnost | [pravopis]
+protisamoupravnostima | PROTISAMOUPRAVNOST - [pravopis]
+protisocialističnosti | PROTISOCIALISTIČNOST - [pravopis]
+protiterorističnostih | PROTITERORISTIČNOST - [pravopis]
+protiterorističnostim | PROTITERORISTIČNOST - [pravopis]
+protiterorističnostjo | PROTITERORISTIČNOST - [pravopis]
+protiterorističnostma | PROTITERORISTIČNOST - [pravopis]
+protiterorističnostmi | PROTITERORISTIČNOST - [pravopis]
+provalencienezijskega | PROVALENCIENEZIJSKI - [geol.] v zvezi »provalencienezijske plasti«: plasti s provalencienezijo v srednjem panoniju v Panonskem bazenu
+provalencienezijskemu | PROVALENCIENEZIJSKI - [geol.] v zvezi »provalencienezijske plasti«: plasti s provalencienezijo v srednjem panoniju v Panonskem bazenu
+provalencienezijskima | PROVALENCIENEZIJSKI - [geol.] v zvezi »provalencienezijske plasti«: plasti s provalencienezijo v srednjem panoniju v Panonskem bazenu
+provalencienezijskimi | PROVALENCIENEZIJSKI - [geol.] v zvezi »provalencienezijske plasti«: plasti s provalencienezijo v srednjem panoniju v Panonskem bazenu
+psevdofilozofskostima | PSEVDOFILOZOFSKOST - [pravopis]
+psevdohistoričnostima | PSEVDOHISTORIČNOST - [pravopis]
+psevdokrasinucelatnem | PSEVDOKRASINUCELATEN - [bot.] v zvezi »psevdokrasinucelatna semenska zasnova«: semenska zasnova, pri kateri se epidermalna celica nucela deli periklino, pri čemer nastane nucelarna kapa
+psevdokrasinucelatnih | PSEVDOKRASINUCELATEN - [bot.] v zvezi »psevdokrasinucelatna semenska zasnova«: semenska zasnova, pri kateri se epidermalna celica nucela deli periklino, pri čemer nastane nucelarna kapa
+psevdokrasinucelatnim | PSEVDOKRASINUCELATEN - [bot.] v zvezi »psevdokrasinucelatna semenska zasnova«: semenska zasnova, pri kateri se epidermalna celica nucela deli periklino, pri čemer nastane nucelarna kapa
+psevdomarksističnosti | PSEVDOMARKSISTIČNOST - [pravopis]
 psevdorevolucionarnem | PSEVDOREVOLUCIONAREN - lažno, navidezno revolucionaren
 psevdorevolucionarnih | PSEVDOREVOLUCIONAREN - lažno, navidezno revolucionaren
 psevdorevolucionarnim | PSEVDOREVOLUCIONAREN - lažno, navidezno revolucionaren
+psevdoromantičnostima | PSEVDOROMANTIČNOST - [pravopis]
+psevdoschwagerinskega | PSEVDOSCHWAGERINSKI - [geol.] v zvezi »psevdoschwagerinski apnenec«: spodnjepermski temnosiv apnenec, ki vsebuje ostanke psevdoschwagerin v Dolžanovi soteski
+psevdoschwagerinskemu | PSEVDOSCHWAGERINSKI - [geol.] v zvezi »psevdoschwagerinski apnenec«: spodnjepermski temnosiv apnenec, ki vsebuje ostanke psevdoschwagerin v Dolžanovi soteski
+psevdoschwagerinskima | PSEVDOSCHWAGERINSKI - [geol.] v zvezi »psevdoschwagerinski apnenec«: spodnjepermski temnosiv apnenec, ki vsebuje ostanke psevdoschwagerin v Dolžanovi soteski
+psevdoschwagerinskimi | PSEVDOSCHWAGERINSKI - [geol.] v zvezi »psevdoschwagerinski apnenec«: spodnjepermski temnosiv apnenec, ki vsebuje ostanke psevdoschwagerin v Dolžanovi soteski
+psevdoznanstvenostima | PSEVDOZNANSTVENOST - [pravopis]
+psiholingvističnostih | PSIHOLINGVISTIČNOST - [pravopis]
+psiholingvističnostim | PSIHOLINGVISTIČNOST - [pravopis]
+psiholingvističnostjo | PSIHOLINGVISTIČNOST - [pravopis]
+psiholingvističnostma | PSIHOLINGVISTIČNOST - [pravopis]
+psiholingvističnostmi | PSIHOLINGVISTIČNOST - [pravopis]
+radionavigatoričinega | RADIONAVIGATORIČIN - [pravopis]
+radionavigatoričinemu | RADIONAVIGATORIČIN - [pravopis]
+radionavigatoričinima | RADIONAVIGATORIČIN - [pravopis]
+radionavigatoričinimi | RADIONAVIGATORIČIN - [pravopis]
+razbremenjevalnostima | RAZBREMENJEVALNOST - [pravopis]
+razvojnogospodarskega | RAZVOJNOGOSPODARSKI - [epravopis] nanašajoč se na razvojno gospodarstvo
+razvojnogospodarskemu | RAZVOJNOGOSPODARSKI - [epravopis] nanašajoč se na razvojno gospodarstvo
+razvojnogospodarskima | RAZVOJNOGOSPODARSKI - [epravopis] nanašajoč se na razvojno gospodarstvo
+razvojnogospodarskimi | RAZVOJNOGOSPODARSKI - [epravopis] nanašajoč se na razvojno gospodarstvo
+razvojnoraziskovalnem | RAZVOJNORAZISKOVALEN - [pravopis]
+razvojnoraziskovalnih | RAZVOJNORAZISKOVALEN - [pravopis]
+razvojnoraziskovalnim | RAZVOJNORAZISKOVALEN - [pravopis]
+reggionellemilijskega | REGGIONELLEMILIJSKI - [pravopis]
+reggionellemilijskemu | REGGIONELLEMILIJSKI - [pravopis]
+reggionellemilijskima | REGGIONELLEMILIJSKI - [pravopis]
+reggionellemilijskimi | REGGIONELLEMILIJSKI - [pravopis]
+regionalnogeografskem | REGIONALNOGEOGRAFSKI - [epravopis] nanašajoč se na regionalno geografijo
+regionalnogeografskih | REGIONALNOGEOGRAFSKI - [epravopis] nanašajoč se na regionalno geografijo
+regionalnogeografskim | REGIONALNOGEOGRAFSKI - [epravopis] nanašajoč se na regionalno geografijo
+ribonukleoproteinskem | RIBONUKLEOPROTEINSKI - [bot.] v zvezi »ribonukleoproteinski kompleks«: proteinski kompleks z vezanimi ribonukleinskimi kislinami, npr. mRNK, patogene RNK, majhne molekule RNK, ki se prenaša po floemu
+ribonukleoproteinskih | RIBONUKLEOPROTEINSKI - [bot.] v zvezi »ribonukleoproteinski kompleks«: proteinski kompleks z vezanimi ribonukleinskimi kislinami, npr. mRNK, patogene RNK, majhne molekule RNK, ki se prenaša po floemu
+ribonukleoproteinskim | RIBONUKLEOPROTEINSKI - [bot.] v zvezi »ribonukleoproteinski kompleks«: proteinski kompleks z vezanimi ribonukleinskimi kislinami, npr. mRNK, patogene RNK, majhne molekule RNK, ki se prenaša po floemu
+rumenosivozelenkastem | RUMENOSIVOZELENKAST - > MARKAZIT - [geol.] rumenosivozelenkast kovinski rombični mineral, železov disulfid, dimorfen s piritom
+rumenosivozelenkastih | RUMENOSIVOZELENKAST - > MARKAZIT - [geol.] rumenosivozelenkast kovinski rombični mineral, železov disulfid, dimorfen s piritom
+rumenosivozelenkastim | RUMENOSIVOZELENKAST - > MARKAZIT - [geol.] rumenosivozelenkast kovinski rombični mineral, železov disulfid, dimorfen s piritom
+samodiscipliniranosti | SAMODISCIPLINIRANOST - [pravopis]
+samoizobraževalnostih | SAMOIZOBRAŽEVALNOST - [pravopis]
+samoizobraževalnostim | SAMOIZOBRAŽEVALNOST - [pravopis]
+samoizobraževalnostjo | SAMOIZOBRAŽEVALNOST - [pravopis]
+samoizobraževalnostma | SAMOIZOBRAŽEVALNOST - [pravopis]
+samoizobraževalnostmi | SAMOIZOBRAŽEVALNOST - [pravopis]
 samoizpopolnjevanjema | SAMOIZPOPOLNJEVANJE - izpopolnjevanje samega sebe
+samomikroemulgirajoča | SAMOMIKROEMULGIRAJOČ - [farm.] v zvezi »samomikroemulgirajoči sistem«: zmes lipidov, površinsko aktivnih snovi in učinkovine, ki v stiku z vodnim medijem ob rahlem mešanju hitro in spontano tvori mikroemulzijo olje v vodi
+samomikroemulgirajoče | SAMOMIKROEMULGIRAJOČ - [farm.] v zvezi »samomikroemulgirajoči sistem«: zmes lipidov, površinsko aktivnih snovi in učinkovine, ki v stiku z vodnim medijem ob rahlem mešanju hitro in spontano tvori mikroemulzijo olje v vodi
+samomikroemulgirajoči | SAMOMIKROEMULGIRAJOČ - [farm.] v zvezi »samomikroemulgirajoči sistem«: zmes lipidov, površinsko aktivnih snovi in učinkovine, ki v stiku z vodnim medijem ob rahlem mešanju hitro in spontano tvori mikroemulzijo olje v vodi
+samomikroemulgirajočo | SAMOMIKROEMULGIRAJOČ - [farm.] v zvezi »samomikroemulgirajoči sistem«: zmes lipidov, površinsko aktivnih snovi in učinkovine, ki v stiku z vodnim medijem ob rahlem mešanju hitro in spontano tvori mikroemulzijo olje v vodi
 samoobsebiumevnostima | SAMOOBSEBIUMEVNOST - dejstvo, da je kaj sámo ob sebi umevno
 samoposebiumevnostima | SAMOPOSEBIUMEVNOST - dejstvo, da je kaj sámo po sebi umevno
+samopoveličevalnostih | SAMOPOVELIČEVALNOST - [pravopis]
+samopoveličevalnostim | SAMOPOVELIČEVALNOST - [pravopis]
+samopoveličevalnostjo | SAMOPOVELIČEVALNOST - [pravopis]
+samopoveličevalnostma | SAMOPOVELIČEVALNOST - [pravopis]
+samopoveličevalnostmi | SAMOPOVELIČEVALNOST - [pravopis]
 samopožrtvovalnostima | SAMOPOŽRTVOVALNOST
+samoregulacijskostima | SAMOREGULACIJSKOST - [pravopis]
+sedemdesetletničinega | SEDEMDESETLETNIČIN - [pravopis]
+sedemdesetletničinemu | SEDEMDESETLETNIČIN - [pravopis]
+sedemdesetletničinima | SEDEMDESETLETNIČIN - [pravopis]
+sedemdesetletničinimi | SEDEMDESETLETNIČIN - [pravopis]
+sedemindvajsetericama | SEDEMINDVAJSETERICA - [sprotni]
+sedemindvajsetericami | SEDEMINDVAJSETERICA - [sprotni]
+sedemnajstletničinega | SEDEMNAJSTLETNIČIN - [pravopis]
+sedemnajstletničinemu | SEDEMNAJSTLETNIČIN - [pravopis]
+sedemnajstletničinima | SEDEMNAJSTLETNIČIN - [pravopis]
+sedemnajstletničinimi | SEDEMNAJSTLETNIČIN - [pravopis]
 seizmostratigrafijama | SEIZMOSTRATIGRAFIJA - [geol.] stratigrafija plasti, določena na podlagi seizmike (2)
 seizmostratigrafijami | SEIZMOSTRATIGRAFIJA - [geol.] stratigrafija plasti, določena na podlagi seizmike (2)
+senzacionalističnosti | SENZACIONALISTIČNOST - [pravopis]
+severnoledenomorskega | SEVERNOLEDENOMORSKI - [pravopis]
+severnoledenomorskemu | SEVERNOLEDENOMORSKI - [pravopis]
+severnoledenomorskima | SEVERNOLEDENOMORSKI - [pravopis]
+severnoledenomorskimi | SEVERNOLEDENOMORSKI - [pravopis]
+severnoteritorijskega | SEVERNOTERITORIJSKI - [pravopis]
+severnoteritorijskemu | SEVERNOTERITORIJSKI - [pravopis]
+severnoteritorijskima | SEVERNOTERITORIJSKI - [pravopis]
+severnoteritorijskimi | SEVERNOTERITORIJSKI - [pravopis]
+shakespearoslovčevega | SHAKESPEAROSLOVČEV - [pravopis]
+shakespearoslovčevemu | SHAKESPEAROSLOVČEV - [pravopis]
+shakespearoslovčevima | SHAKESPEAROSLOVČEV - [pravopis]
+shakespearoslovčevimi | SHAKESPEAROSLOVČEV - [pravopis]
 sinhrotransformatorja | SINHROTRANSFORMATOR - [avt.] trifazni motor, uporaben kot merilnik zasuka, pri katerem merjenec premika rotor, napajan z izmenično napetostjo, kar v navitjih statorjev inducira napetosti, iz katerih je mogoče določiti zasuk, pri čemer se povezava v par ali verigo uporablja za prenos kota ali signala na daljavo
 sinhrotransformatorje | SINHROTRANSFORMATOR - [avt.] trifazni motor, uporaben kot merilnik zasuka, pri katerem merjenec premika rotor, napajan z izmenično napetostjo, kar v navitjih statorjev inducira napetosti, iz katerih je mogoče določiti zasuk, pri čemer se povezava v par ali verigo uporablja za prenos kota ali signala na daljavo
 sinhrotransformatorji | SINHROTRANSFORMATOR - [avt.] trifazni motor, uporaben kot merilnik zasuka, pri katerem merjenec premika rotor, napajan z izmenično napetostjo, kar v navitjih statorjev inducira napetosti, iz katerih je mogoče določiti zasuk, pri čemer se povezava v par ali verigo uporablja za prenos kota ali signala na daljavo
@@ -396,9 +1097,17 @@ skonvencionalizirajva | SKONVENCIONALIZIRATI - narediti konvencionalno
 skonvencionaliziranem | SKONVENCIONALIZIRATI - narediti konvencionalno
 skonvencionaliziranih | SKONVENCIONALIZIRATI - narediti konvencionalno
 skonvencionaliziranim | SKONVENCIONALIZIRATI - narediti konvencionalno
+slonokoščenoobalskega | SLONOKOŠČENOOBALSKI - [epravopis] 
+slonokoščenoobalskemu | SLONOKOŠČENOOBALSKI - [epravopis] 
+slonokoščenoobalskima | SLONOKOŠČENOOBALSKI - [epravopis] 
+slonokoščenoobalskimi | SLONOKOŠČENOOBALSKI - [epravopis] 
+slovstvenofolklornega | SLOVSTVENOFOLKLOREN - [pravopis]
+slovstvenofolklornemu | SLOVSTVENOFOLKLOREN - [pravopis]
+slovstvenofolklornima | SLOVSTVENOFOLKLOREN - [pravopis]
+slovstvenofolklornimi | SLOVSTVENOFOLKLOREN - [pravopis]
 slovstvenozgodovinska | SLOVSTVENOZGODOVINSKI
 slovstvenozgodovinske | SLOVSTVENOZGODOVINSKI
-slovstvenozgodovinski | 
+slovstvenozgodovinski |
 slovstvenozgodovinsko | SLOVSTVENOZGODOVINSKI
 socialnodemokratičnem | SOCIALNODEMOKRATIČEN - nanašajoč se na socialno demokracijo
 socialnodemokratičnih | SOCIALNODEMOKRATIČEN - nanašajoč se na socialno demokracijo
@@ -407,6 +1116,10 @@ socialnodemokratskega | SOCIALNODEMOKRATSKI - nanašajoč se na socialne demokra
 socialnodemokratskemu | SOCIALNODEMOKRATSKI - nanašajoč se na socialne demokrate ali socialno demokracijo
 socialnodemokratskima | SOCIALNODEMOKRATSKI - nanašajoč se na socialne demokrate ali socialno demokracijo
 socialnodemokratskimi | SOCIALNODEMOKRATSKI - nanašajoč se na socialne demokrate ali socialno demokracijo
+socialnogospodarskega | SOCIALNOGOSPODARSKI - [pravopis]
+socialnogospodarskemu | SOCIALNOGOSPODARSKI - [pravopis]
+socialnogospodarskima | SOCIALNOGOSPODARSKI - [pravopis]
+socialnogospodarskimi | SOCIALNOGOSPODARSKI - [pravopis]
 socialnorealističnega | SOCIALNOREALISTIČEN - nanašajoč se na socialni realizem
 socialnorealističnemu | SOCIALNOREALISTIČEN - nanašajoč se na socialni realizem
 socialnorealističnima | SOCIALNOREALISTIČEN - nanašajoč se na socialni realizem
@@ -419,9 +1132,40 @@ socialnozgodovinskega | SOCIALNOZGODOVINSKI - nanašajoč se na zgodovino v pove
 socialnozgodovinskemu | SOCIALNOZGODOVINSKI - nanašajoč se na zgodovino v povezavi s čim socialnim
 socialnozgodovinskima | SOCIALNOZGODOVINSKI - nanašajoč se na zgodovino v povezavi s čim socialnim
 socialnozgodovinskimi | SOCIALNOZGODOVINSKI - nanašajoč se na zgodovino v povezavi s čim socialnim
+sopovzročiteljičinega | SOPOVZROČITELJIČIN - [pravopis]
+sopovzročiteljičinemu | SOPOVZROČITELJIČIN - [pravopis]
+sopovzročiteljičinima | SOPOVZROČITELJIČIN - [pravopis]
+sopovzročiteljičinimi | SOPOVZROČITELJIČIN - [pravopis]
+sopredlagateljičinega | SOPREDLAGATELJIČIN - [pravopis]
+sopredlagateljičinemu | SOPREDLAGATELJIČIN - [pravopis]
+sopredlagateljičinima | SOPREDLAGATELJIČIN - [pravopis]
+sopredlagateljičinimi | SOPREDLAGATELJIČIN - [pravopis]
+soustanoviteljičinega | SOUSTANOVITELJIČIN - [pravopis]
+soustanoviteljičinemu | SOUSTANOVITELJIČIN - [pravopis]
+soustanoviteljičinima | SOUSTANOVITELJIČIN - [pravopis]
+soustanoviteljičinimi | SOUSTANOVITELJIČIN - [pravopis]
+soutemeljiteljičinega | SOUTEMELJITELJIČIN - [pravopis]
+soutemeljiteljičinemu | SOUTEMELJITELJIČIN - [pravopis]
+soutemeljiteljičinima | SOUTEMELJITELJIČIN - [pravopis]
+soutemeljiteljičinimi | SOUTEMELJITELJIČIN - [pravopis]
+spektrofotometričnega | SPEKTROFOTOMETRIČEN - > OKSIMETRIJA - [farm.] plinska analiza, ki vključuje tudi spektrofotometrične meritve nekaterih vrst hemoglobinov v krvi in omogoča točnejšo določitev nasičenja hemoglobina s kisikom v krvi preiskovanca
+spektrofotometričnemu | SPEKTROFOTOMETRIČEN - > OKSIMETRIJA - [farm.] plinska analiza, ki vključuje tudi spektrofotometrične meritve nekaterih vrst hemoglobinov v krvi in omogoča točnejšo določitev nasičenja hemoglobina s kisikom v krvi preiskovanca
+spektrofotometričnima | SPEKTROFOTOMETRIČEN - > OKSIMETRIJA - [farm.] plinska analiza, ki vključuje tudi spektrofotometrične meritve nekaterih vrst hemoglobinov v krvi in omogoča točnejšo določitev nasičenja hemoglobina s kisikom v krvi preiskovanca
+spektrofotometričnimi | SPEKTROFOTOMETRIČEN - > OKSIMETRIJA - [farm.] plinska analiza, ki vključuje tudi spektrofotometrične meritve nekaterih vrst hemoglobinov v krvi in omogoča točnejšo določitev nasičenja hemoglobina s kisikom v krvi preiskovanca
+splošnocivilizacijska | SPLOŠNOCIVILIZACIJSKI - [pravopis]
+splošnocivilizacijske | SPLOŠNOCIVILIZACIJSKI - [pravopis]
+splošnocivilizacijski | [pravopis]
+splošnocivilizacijsko | [pravopis]
 splošnoizobraževalnem | SPLOŠNOIZOBRAŽEVALEN - nanašajoč se na izobraževanje, ki obsega osnove vseh glavnih področij človekove dejavnosti
 splošnoizobraževalnih | SPLOŠNOIZOBRAŽEVALEN - nanašajoč se na izobraževanje, ki obsega osnove vseh glavnih področij človekove dejavnosti
 splošnoizobraževalnim | SPLOŠNOIZOBRAŽEVALEN - nanašajoč se na izobraževanje, ki obsega osnove vseh glavnih področij človekove dejavnosti
+spodnjejakobskodolska | SPODNJEJAKOBSKODOLSKI - [pravopis]
+spodnjejakobskodolske | SPODNJEJAKOBSKODOLSKI - [pravopis]
+spodnjejakobskodolski | [pravopis]
+spodnjejakobskodolsko | SPODNJEJAKOBSKODOLSKI - [pravopis]
+spodnjepleistocenskem | SPODNJEPLEISTOCENSKI - > CALABRIJSKI - [geol.] v zvezi »calabrijski nivo«: spodnjepleistocenske plasti s hladnoljubno morsko favno
+spodnjepleistocenskih | SPODNJEPLEISTOCENSKI - > CALABRIJSKI - [geol.] v zvezi »calabrijski nivo«: spodnjepleistocenske plasti s hladnoljubno morsko favno
+spodnjepleistocenskim | SPODNJEPLEISTOCENSKI - > CALABRIJSKI - [geol.] v zvezi »calabrijski nivo«: spodnjepleistocenske plasti s hladnoljubno morsko favno
 spomeniškovarstvenega | SPOMENIŠKOVARSTVEN - nanašajoč se na spomeniško varstvo
 spomeniškovarstvenemu | SPOMENIŠKOVARSTVEN - nanašajoč se na spomeniško varstvo
 spomeniškovarstvenima | SPOMENIŠKOVARSTVEN - nanašajoč se na spomeniško varstvo
@@ -434,10 +1178,22 @@ sprofesionaliziranega | SPROFESIONALIZIRATI - narediti, da postane kaj poklicno
 sprofesionaliziranemu | SPROFESIONALIZIRATI - narediti, da postane kaj poklicno
 sprofesionaliziranima | SPROFESIONALIZIRATI - narediti, da postane kaj poklicno
 sprofesionaliziranimi | SPROFESIONALIZIRATI - narediti, da postane kaj poklicno
+sprofesionaliziranost | [pravopis]
+sproletariziranostima | SPROLETARIZIRANOST - [pravopis]
+srednjedolgodelujočem | SREDNJEDOLGODELUJOČ - [farm.] v zvezi »srednjedolgodelujoči sulfanilamid«: sulfanilamid z razpolovno dobo 8–20 ur, ki se v terapiji najpogosteje uporablja, npr. sulfametoksazol, sulfadiazin
+srednjedolgodelujočih | SREDNJEDOLGODELUJOČ - [farm.] v zvezi »srednjedolgodelujoči sulfanilamid«: sulfanilamid z razpolovno dobo 8–20 ur, ki se v terapiji najpogosteje uporablja, npr. sulfametoksazol, sulfadiazin
+srednjedolgodelujočim | SREDNJEDOLGODELUJOČ - [farm.] v zvezi »srednjedolgodelujoči sulfanilamid«: sulfanilamid z razpolovno dobo 8–20 ur, ki se v terapiji najpogosteje uporablja, npr. sulfametoksazol, sulfadiazin
+srednjepleistocenskem | SREDNJEPLEISTOCENSKI - > HOTTINŠKI - [geol.] v zvezi »höttinška breča«: rdeč do bel, močno sprijet srednjepleistocenski pobočni grušč v dolini reke Inn pri Innsbrucku z vezivom, ki vsebuje pelod toploljubnega rastlinstva, npr. divje trte, pontskega sleča
+srednjepleistocenskih | SREDNJEPLEISTOCENSKI - > HOTTINŠKI - [geol.] v zvezi »höttinška breča«: rdeč do bel, močno sprijet srednjepleistocenski pobočni grušč v dolini reke Inn pri Innsbrucku z vezivom, ki vsebuje pelod toploljubnega rastlinstva, npr. divje trte, pontskega sleča
+srednjepleistocenskim | SREDNJEPLEISTOCENSKI - > HOTTINŠKI - [geol.] v zvezi »höttinška breča«: rdeč do bel, močno sprijet srednjepleistocenski pobočni grušč v dolini reke Inn pri Innsbrucku z vezivom, ki vsebuje pelod toploljubnega rastlinstva, npr. divje trte, pontskega sleča
 srednjevisokonemškega | SREDNJEVISOKONEMŠKI - ki sloni na osrednjih in južnih nemških narečjih od 11. do 16. stoletja
 srednjevisokonemškemu | SREDNJEVISOKONEMŠKI - ki sloni na osrednjih in južnih nemških narečjih od 11. do 16. stoletja
 srednjevisokonemškima | SREDNJEVISOKONEMŠKI - ki sloni na osrednjih in južnih nemških narečjih od 11. do 16. stoletja
 srednjevisokonemškimi | SREDNJEVISOKONEMŠKI - ki sloni na osrednjih in južnih nemških narečjih od 11. do 16. stoletja
+starejšepleistocenska | STAREJŠEPLEISTOCENSKI - > GUNŠKI - [geog.] v zvezi »günška poledenitev«: starejšepleistocenska poledenitev v Alpah, med okrog 500.000 in 350.000 leti pred sedanjostjo, primerljiva z elstrsko poledenitvijo na severu Evrope in s kansaško poledenitvijo v Severni Ameriki
+starejšepleistocenske | STAREJŠEPLEISTOCENSKI - > GUNŠKI - [geog.] v zvezi »günška poledenitev«: starejšepleistocenska poledenitev v Alpah, med okrog 500.000 in 350.000 leti pred sedanjostjo, primerljiva z elstrsko poledenitvijo na severu Evrope in s kansaško poledenitvijo v Severni Ameriki
+starejšepleistocenski | > GUNŠKI - [geog.] v zvezi »günška poledenitev«: starejšepleistocenska poledenitev v Alpah, med okrog 500.000 in 350.000 leti pred sedanjostjo, primerljiva z elstrsko poledenitvijo na severu Evrope in s kansaško poledenitvijo v Severni Ameriki
+starejšepleistocensko | STAREJŠEPLEISTOCENSKI - > GUNŠKI - [geog.] v zvezi »günška poledenitev«: starejšepleistocenska poledenitev v Alpah, med okrog 500.000 in 350.000 leti pred sedanjostjo, primerljiva z elstrsko poledenitvijo na severu Evrope in s kansaško poledenitvijo v Severni Ameriki
 stenodaktilografijama | STENODAKTILOGRAFIJA - pisanje s stenografskimi znaki in prepisovanje stenogramov na pisalni stroj
 stenodaktilografijami | STENODAKTILOGRAFIJA - pisanje s stenografskimi znaki in prepisovanje stenogramov na pisalni stroj
 stenodaktilografskega | STENODAKTILOGRAFSKI - nanašajoč se na stenodaktilografijo
@@ -451,6 +1207,18 @@ stereospecifičnostima | STEREOSPECIFIČNOST - [farm.] pojav, ko lahko v določe
 strankarskopolitičnem | STRANKARSKOPOLITIČEN - nanašajoč se na strankarsko politiko
 strankarskopolitičnih | STRANKARSKOPOLITIČEN - nanašajoč se na strankarsko politiko
 strankarskopolitičnim | STRANKARSKOPOLITIČEN - nanašajoč se na strankarsko politiko
+strokovnomedicinskega | STROKOVNOMEDICINSKI - [epravopis] nanašajoč se na medicinsko stroko
+strokovnomedicinskemu | STROKOVNOMEDICINSKI - [epravopis] nanašajoč se na medicinsko stroko
+strokovnomedicinskima | STROKOVNOMEDICINSKI - [epravopis] nanašajoč se na medicinsko stroko
+strokovnomedicinskimi | STROKOVNOMEDICINSKI - [epravopis] nanašajoč se na medicinsko stroko
+strokovnoteoretičnega | STROKOVNOTEORETIČEN - [pravopis]
+strokovnoteoretičnemu | STROKOVNOTEORETIČEN - [pravopis]
+strokovnoteoretičnima | STROKOVNOTEORETIČEN - [pravopis]
+strokovnoteoretičnimi | STROKOVNOTEORETIČEN - [pravopis]
+sturmunddrangovčevega | STURMUNDDRANGOVČEV - [pravopis]
+sturmunddrangovčevemu | STURMUNDDRANGOVČEV - [pravopis]
+sturmunddrangovčevima | STURMUNDDRANGOVČEV - [pravopis]
+sturmunddrangovčevimi | STURMUNDDRANGOVČEV - [pravopis]
 superplastifikatorjem | SUPERPLASTIFIKATOR - [b.k.] plastifikator druge generacije, ki omogoča višje znižanje vsebnosti vode v svežem betonu in znatno povečanje razleza
 superplastifikatorjev | SUPERPLASTIFIKATOR - [b.k.] plastifikator druge generacije, ki omogoča višje znižanje vsebnosti vode v svežem betonu in znatno povečanje razleza
 superplastifikatorjih | SUPERPLASTIFIKATOR - [b.k.] plastifikator druge generacije, ki omogoča višje znižanje vsebnosti vode v svežem betonu in znatno povečanje razleza
@@ -461,25 +1229,48 @@ supranaturalističnega | SUPRANATURALISTIČEN - nanašajoč se na supranaturaliz
 supranaturalističnemu | SUPRANATURALISTIČEN - nanašajoč se na supranaturalizem
 supranaturalističnima | SUPRANATURALISTIČEN - nanašajoč se na supranaturalizem
 supranaturalističnimi | SUPRANATURALISTIČEN - nanašajoč se na supranaturalizem
+svetorimskocesarskega | SVETORIMSKOCESARSKI - [pravopis]
+svetorimskocesarskemu | SVETORIMSKOCESARSKI - [pravopis]
+svetorimskocesarskima | SVETORIMSKOCESARSKI - [pravopis]
+svetorimskocesarskimi | SVETORIMSKOCESARSKI - [pravopis]
 svetovnozgodovinskega | SVETOVNOZGODOVINSKI - nanašajoč se na svetovno zgodovino
 svetovnozgodovinskemu | SVETOVNOZGODOVINSKI - nanašajoč se na svetovno zgodovino
 svetovnozgodovinskima | SVETOVNOZGODOVINSKI - nanašajoč se na svetovno zgodovino
 svetovnozgodovinskimi | SVETOVNOZGODOVINSKI - nanašajoč se na svetovno zgodovino
+šolskoizobraževalnega | ŠOLSKOIZOBRAŽEVALEN - [pravopis]
+šolskoizobraževalnemu | ŠOLSKOIZOBRAŽEVALEN - [pravopis]
+šolskoizobraževalnima | ŠOLSKOIZOBRAŽEVALEN - [pravopis]
+šolskoizobraževalnimi | ŠOLSKOIZOBRAŽEVALEN - [pravopis]
+športnoinformacijskem | ŠPORTNOINFORMACIJSKI - [epravopis] nanašajoč se na športne informacije
+športnoinformacijskih | ŠPORTNOINFORMACIJSKI - [epravopis] nanašajoč se na športne informacije
+športnoinformacijskim | ŠPORTNOINFORMACIJSKI - [epravopis] nanašajoč se na športne informacije
 športnorekreacijskega | ŠPORTNOREKREACIJSKI - nanašajoč se na športno rekreacijo
 športnorekreacijskemu | ŠPORTNOREKREACIJSKI - nanašajoč se na športno rekreacijo
 športnorekreacijskima | ŠPORTNOREKREACIJSKI - nanašajoč se na športno rekreacijo
 športnorekreacijskimi | ŠPORTNOREKREACIJSKI - nanašajoč se na športno rekreacijo
+štiridesetletničinega | ŠTIRIDESETLETNIČIN - [pravopis]
+štiridesetletničinemu | ŠTIRIDESETLETNIČIN - [pravopis]
+štiridesetletničinima | ŠTIRIDESETLETNIČIN - [pravopis]
+štiridesetletničinimi | ŠTIRIDESETLETNIČIN - [pravopis]
+štirinajstletničinega | ŠTIRINAJSTLETNIČIN - [pravopis]
+štirinajstletničinemu | ŠTIRINAJSTLETNIČIN - [pravopis]
+štirinajstletničinima | ŠTIRINAJSTLETNIČIN - [pravopis]
+štirinajstletničinimi | ŠTIRINAJSTLETNIČIN - [pravopis]
+tehničnoinformativnem | TEHNIČNOINFORMATIVEN - [pravopis]
+tehničnoinformativnih | TEHNIČNOINFORMATIVEN - [pravopis]
+tehničnoinformativnim | TEHNIČNOINFORMATIVEN - [pravopis]
 tetragontrioktaedroma | TETRAGONTRIOKTAEDER - [geol.] kristalni lik v kubičnem kristalografskem sistemu, ki ima na vsaki ploskvi oktaedra tri deltoide
 tetragontritetraedrih | TETRAGONTRITETRAEDER - [geol.] kristalni lik v kubičnem kristalografskem sistemu, ki ima na vsaki ploskvi tetraedra tri deltoide
 tetragontritetraedrom | TETRAGONTRITETRAEDER - [geol.] kristalni lik v kubičnem kristalografskem sistemu, ki ima na vsaki ploskvi tetraedra tri deltoide
 tetragontritetraedrov | TETRAGONTRITETRAEDER - [geol.] kristalni lik v kubičnem kristalografskem sistemu, ki ima na vsaki ploskvi tetraedra tri deltoide
-tetrahidrokanabinolih | TETRAHIDROKANABINOL - [bot.] 
-tetrahidrokanabinolom | TETRAHIDROKANABINOL - [bot.] 
-tetrahidrokanabinolov | TETRAHIDROKANABINOL - [bot.] 
+tetrahidrokanabinolih | TETRAHIDROKANABINOL - [bot.]
+tetrahidrokanabinolom | TETRAHIDROKANABINOL - [bot.]
+tetrahidrokanabinolov | TETRAHIDROKANABINOL - [bot.]
 toplotnoizolacijskega | TOPLOTNOIZOLACIJSKI - nanašajoč se na toplotno izolacijo
 toplotnoizolacijskemu | TOPLOTNOIZOLACIJSKI - nanašajoč se na toplotno izolacijo
 toplotnoizolacijskima | TOPLOTNOIZOLACIJSKI - nanašajoč se na toplotno izolacijo
 toplotnoizolacijskimi | TOPLOTNOIZOLACIJSKI - nanašajoč se na toplotno izolacijo
+tradicionalističnosti | TRADICIONALISTIČNOST - [pravopis]
 transcendentalnostima | TRANSCENDENTALNOST - lastnost, značilnost transcendentalnega
 transdisciplinarnosti | TRANSDISCIPLINARNOST - lastnost transdisciplinarnega
 transnacionalizacijah | TRANSNACIONALIZACIJA - širjenje delovanja in vpliva prek državnih meja
@@ -488,6 +1279,10 @@ transsubstanciacijama | TRANSSUBSTANCIACIJA - sprememba bistva kruha in vina v b
 transsubstanciacijami | TRANSSUBSTANCIACIJA - sprememba bistva kruha in vina v bistvo Kristusovega telesa in krvi
 tridimenzionalnostima | TRIDIMENZIONALNOST - značilnost tridimenzionalnega
 trodimenzionalnostima | TRODIMENZIONALNOST
+tržnokomunikacijskega | TRŽNOKOMUNIKACIJSKI - [epravopis] nanašajoč se na tržno komunikacijo
+tržnokomunikacijskemu | TRŽNOKOMUNIKACIJSKI - [epravopis] nanašajoč se na tržno komunikacijo
+tržnokomunikacijskima | TRŽNOKOMUNIKACIJSKI - [epravopis] nanašajoč se na tržno komunikacijo
+tržnokomunikacijskimi | TRŽNOKOMUNIKACIJSKI - [epravopis] nanašajoč se na tržno komunikacijo
 turističnopropaganden | nanašajoč se na turistično propagando
 turističnopropagandna | TURISTIČNOPROPAGANDEN - nanašajoč se na turistično propagando
 turističnopropagandne | TURISTIČNOPROPAGANDEN - nanašajoč se na turistično propagando
@@ -497,22 +1292,75 @@ ultranacionalističnem | ULTRANACIONALISTIČEN - skrajno nacionalističen
 ultranacionalističnih | ULTRANACIONALISTIČEN - skrajno nacionalističen
 ultranacionalističnim | ULTRANACIONALISTIČEN - skrajno nacionalističen
 ultrarevolucionarjema | ULTRAREVOLUCIONAR - kdor zagovarja skrajno revolucionarne nazore, stališča
+ultrarevolucionarkama | ULTRAREVOLUCIONARKA - [pravopis]
+ultrarevolucionarkami | ULTRAREVOLUCIONARKA - [pravopis]
 umetnostnogeografskem | UMETNOSTNOGEOGRAFSKI - nanašajoč se na umetnostno geografijo
 umetnostnogeografskih | UMETNOSTNOGEOGRAFSKI - nanašajoč se na umetnostno geografijo
 umetnostnogeografskim | UMETNOSTNOGEOGRAFSKI - nanašajoč se na umetnostno geografijo
+umetnostnoterapevtska | UMETNOSTNOTERAPEVTSKI - [pravopis]
+umetnostnoterapevtske | UMETNOSTNOTERAPEVTSKI - [pravopis]
+umetnostnoterapevtski | [pravopis]
+umetnostnoterapevtsko | UMETNOSTNOTERAPEVTSKI - [pravopis]
 umetnostnozgodovinska | UMETNOSTNOZGODOVINSKI - nanašajoč se na umetnostno zgodovino
 umetnostnozgodovinske | UMETNOSTNOZGODOVINSKI - nanašajoč se na umetnostno zgodovino
 umetnostnozgodovinski | nanašajoč se na umetnostno zgodovino
 umetnostnozgodovinsko | UMETNOSTNOZGODOVINSKI - nanašajoč se na umetnostno zgodovino
+upravnoorganizacijska | UPRAVNOORGANIZACIJSKI - [pravopis]
+upravnoorganizacijske | UPRAVNOORGANIZACIJSKI - [pravopis]
+upravnoorganizacijski | [pravopis]
+upravnoorganizacijsko | UPRAVNOORGANIZACIJSKI - [pravopis]
+ustavobraniteljičinem | USTAVOBRANITELJIČIN - [pravopis]
+ustavobraniteljičinih | USTAVOBRANITELJIČIN - [pravopis]
+ustavobraniteljičinim | USTAVOBRANITELJIČIN - [pravopis]
+ustničnomehkonebnikih | USTNIČNOMEHKONEBNIK - [pravopis]
+ustničnomehkonebnikom | USTNIČNOMEHKONEBNIK - [pravopis]
+ustničnomehkonebnikov | USTNIČNOMEHKONEBNIK - [pravopis]
+varnostnoinformativen | [pravopis]
+varnostnoinformativna | VARNOSTNOINFORMATIVEN - [pravopis]
+varnostnoinformativne | VARNOSTNOINFORMATIVEN - [pravopis]
+varnostnoinformativni | VARNOSTNOINFORMATIVEN - [pravopis]
+varnostnoinformativno | VARNOSTNOINFORMATIVEN - [pravopis]
+varnostnoobveščevalen | [pravopis]
+varnostnoobveščevalna | VARNOSTNOOBVEŠČEVALEN - [pravopis]
+varnostnoobveščevalne | VARNOSTNOOBVEŠČEVALEN - [pravopis]
+varnostnoobveščevalni | VARNOSTNOOBVEŠČEVALEN - [pravopis]
+varnostnoobveščevalno | VARNOSTNOOBVEŠČEVALEN - [pravopis]
 večdimenzionalnostima | VEČDIMENZIONALNOST - značilnost večdimenzionalnega
+velikoprostorninskega | VELIKOPROSTORNINSKI - [čeb.] v zvezi »velikoprostorninski panj«: panj z večjo prostornino od standardnega AŽ-panja
+velikoprostorninskemu | VELIKOPROSTORNINSKI - [čeb.] v zvezi »velikoprostorninski panj«: panj z večjo prostornino od standardnega AŽ-panja
+velikoprostorninskima | VELIKOPROSTORNINSKI - [čeb.] v zvezi »velikoprostorninski panj«: panj z večjo prostornino od standardnega AŽ-panja
+velikoprostorninskimi | VELIKOPROSTORNINSKI - [čeb.] v zvezi »velikoprostorninski panj«: panj z večjo prostornino od standardnega AŽ-panja
+verthajmključavnicama | VERTHAJMKLJUČAVNICA - [pravopis]
+verthajmključavnicami | VERTHAJMKLJUČAVNICA - [pravopis]
 visokokvalificiranega | VISOKOKVALIFICIRAN - delavec na delovnem mestu, za katero je potrebna srednješolska izobrazba
 visokokvalificiranemu | VISOKOKVALIFICIRAN - delavec na delovnem mestu, za katero je potrebna srednješolska izobrazba
 visokokvalificiranima | VISOKOKVALIFICIRAN - delavec na delovnem mestu, za katero je potrebna srednješolska izobrazba
 visokokvalificiranimi | VISOKOKVALIFICIRAN - delavec na delovnem mestu, za katero je potrebna srednješolska izobrazba
+visokokvalificiranost | [pravopis]
+visokozmogljivostnega | VISOKOZMOGLJIVOSTEN - [farm.] v zvezi »visokozmogljivostna metoda«: metoda, ki omogoča analizo velikega števila vzorcev v kratkem času
+visokozmogljivostnemu | VISOKOZMOGLJIVOSTEN - [farm.] v zvezi »visokozmogljivostna metoda«: metoda, ki omogoča analizo velikega števila vzorcev v kratkem času
+visokozmogljivostnima | VISOKOZMOGLJIVOSTEN - [farm.] v zvezi »visokozmogljivostna metoda«: metoda, ki omogoča analizo velikega števila vzorcev v kratkem času
+visokozmogljivostnimi | VISOKOZMOGLJIVOSTEN - [farm.] v zvezi »visokozmogljivostna metoda«: metoda, ki omogoča analizo velikega števila vzorcev v kratkem času
 vojaškoindustrijskega | VOJAŠKOINDUSTRIJSKI - nanašajoč se na vojaško industrijo
 vojaškoindustrijskemu | VOJAŠKOINDUSTRIJSKI - nanašajoč se na vojaško industrijo
 vojaškoindustrijskima | VOJAŠKOINDUSTRIJSKI - nanašajoč se na vojaško industrijo
 vojaškoindustrijskimi | VOJAŠKOINDUSTRIJSKI - nanašajoč se na vojaško industrijo
+zasebnokapitalističen | [pravopis]
+zasebnokapitalistična | ZASEBNOKAPITALISTIČEN - [pravopis]
+zasebnokapitalistične | ZASEBNOKAPITALISTIČEN - [pravopis]
+zasebnokapitalistični | ZASEBNOKAPITALISTIČEN - [pravopis]
+zasebnokapitalistično | ZASEBNOKAPITALISTIČEN - [pravopis]
+zbirokratiziranostima | ZBIROKRATIZIRANOST - [pravopis]
+zdemokratiziranostima | ZDEMOKRATIZIRANOST - [pravopis]
+zdraviliškoturističen | [pravopis]
+zdraviliškoturistična | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zdraviliškoturistične | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zdraviliškoturistični | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zdraviliškoturistično | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zemljiškokatastrskega | ZEMLJIŠKOKATASTRSKI - [urb.] v zvezi »zemljiškokatastrski načrt«: grafični prikaz zemljiških in gradbenih parcel, ki so evidentirane s koordinatami zemljiškokatastrskih točk v državnem koordinatnem sistemu in s parcelno številko
+zemljiškokatastrskemu | ZEMLJIŠKOKATASTRSKI - [urb.] v zvezi »zemljiškokatastrski načrt«: grafični prikaz zemljiških in gradbenih parcel, ki so evidentirane s koordinatami zemljiškokatastrskih točk v državnem koordinatnem sistemu in s parcelno številko
+zemljiškokatastrskima | ZEMLJIŠKOKATASTRSKI - [urb.] v zvezi »zemljiškokatastrski načrt«: grafični prikaz zemljiških in gradbenih parcel, ki so evidentirane s koordinatami zemljiškokatastrskih točk v državnem koordinatnem sistemu in s parcelno številko
+zemljiškokatastrskimi | ZEMLJIŠKOKATASTRSKI - [urb.] v zvezi »zemljiškokatastrski načrt«: grafični prikaz zemljiških in gradbenih parcel, ki so evidentirane s koordinatami zemljiškokatastrskih točk v državnem koordinatnem sistemu in s parcelno številko
 zemljiškolastninskega | ZEMLJIŠKOLASTNINSKI - nanašajoč se na zemljiško lastnino
 zemljiškolastninskemu | ZEMLJIŠKOLASTNINSKI - nanašajoč se na zemljiško lastnino
 zemljiškolastninskima | ZEMLJIŠKOLASTNINSKI - nanašajoč se na zemljiško lastnino
@@ -525,19 +1373,37 @@ zgodnjekapitalistična | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapi
 zgodnjekapitalistične | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapitalizem
 zgodnjekapitalistični | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapitalizem
 zgodnjekapitalistično | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapitalizem
+zgodnjepleistocenskem | ZGODNJEPLEISTOCENSKI - > TEGELENSKI - [geog.] v zvezi »tegelenska otoplitev«: zgodnjepleistocenska otoplitev na severu Evrope, med eburonsko in predtegelensko ohladitvijo
+zgodnjepleistocenskih | ZGODNJEPLEISTOCENSKI - > TEGELENSKI - [geog.] v zvezi »tegelenska otoplitev«: zgodnjepleistocenska otoplitev na severu Evrope, med eburonsko in predtegelensko ohladitvijo
+zgodnjepleistocenskim | ZGODNJEPLEISTOCENSKI - > TEGELENSKI - [geog.] v zvezi »tegelenska otoplitev«: zgodnjepleistocenska otoplitev na severu Evrope, med eburonsko in predtegelensko ohladitvijo
 zgodnjesrednjeveškega | ZGODNJESREDNJEVEŠKI - nanašajoč se na zgodnji srednji vek
 zgodnjesrednjeveškemu | ZGODNJESREDNJEVEŠKI - nanašajoč se na zgodnji srednji vek
 zgodnjesrednjeveškima | ZGODNJESREDNJEVEŠKI - nanašajoč se na zgodnji srednji vek
 zgodnjesrednjeveškimi | ZGODNJESREDNJEVEŠKI - nanašajoč se na zgodnji srednji vek
+zgodovinskopolitičnem | ZGODOVINSKOPOLITIČEN - [pravopis]
+zgodovinskopolitičnih | ZGODOVINSKOPOLITIČEN - [pravopis]
+zgodovinskopolitičnim | ZGODOVINSKOPOLITIČEN - [pravopis]
+zgornjekostrivniškega | ZGORNJEKOSTRIVNIŠKI - [pravopis]
+zgornjekostrivniškemu | ZGORNJEKOSTRIVNIŠKI - [pravopis]
+zgornjekostrivniškima | ZGORNJEKOSTRIVNIŠKI - [pravopis]
+zgornjekostrivniškimi | ZGORNJEKOSTRIVNIŠKI - [pravopis]
+zindividualiziranosti | ZINDIVIDUALIZIRANOST - [pravopis]
 zintelektualiziranega | ZINTELEKTUALIZIRATI - uveljaviti, poudariti um, razum v kaki dejavnosti
 zintelektualiziranemu | ZINTELEKTUALIZIRATI - uveljaviti, poudariti um, razum v kaki dejavnosti
 zintelektualiziranima | ZINTELEKTUALIZIRATI - uveljaviti, poudariti um, razum v kaki dejavnosti
 zintelektualiziranimi | ZINTELEKTUALIZIRATI - uveljaviti, poudariti um, razum v kaki dejavnosti
+zintelektualiziranost | [pravopis]
 znanstvenofantastičen | nanašajoč se na znanstveno fantastiko
 znanstvenofantastična | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
 znanstvenofantastične | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
 znanstvenofantastični | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
 znanstvenofantastično | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
+zracionaliziranostima | ZRACIONALIZIRANOST - [pravopis]
+zrevolucioniranostima | ZREVOLUCIONIRANOST - [pravopis]
 živilskopredelovalnem | ŽIVILSKOPREDELOVALEN - nanašajoč se na predelovanje živil
 živilskopredelovalnih | ŽIVILSKOPREDELOVALEN - nanašajoč se na predelovanje živil
 živilskopredelovalnim | ŽIVILSKOPREDELOVALEN - nanašajoč se na predelovanje živil
+življenjskonazorskega | ŽIVLJENJSKONAZORSKI - [pravopis]
+življenjskonazorskemu | ŽIVLJENJSKONAZORSKI - [pravopis]
+življenjskonazorskima | ŽIVLJENJSKONAZORSKI - [pravopis]
+življenjskonazorskimi | ŽIVLJENJSKONAZORSKI - [pravopis]

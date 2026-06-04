@@ -21,6 +21,7 @@ ck | posnema odsekani glas pri pretrgu, udarcu, trku
 ča | (klic volu) na desno!
 če | za izražanje pogoja, s katerim se uresniči dejanje nadrednega stavka
 či | posnema glas jerebice ali nekaterih drugih ptic
+čo | [pravopis]
 da | za uvajanje stavka, ki dopolnjuje nadrednega
 de | DEJATI - izraziti z besedami, reči
 do | solmizacijski zlog, ki označuje ton c ali prvo stopnjo v lestvici
@@ -43,6 +44,7 @@ hk | posnema glas pri kolcanju
 hm | izraža obotavljanje, pomislek, dvom
 ho | posnema glas pri smejanju
 hu | izraža občutek groze, zoprnosti
+ia | [esskj] posnema glas osla
 ib | IBA - (nar.) grm ali drevo s širokimi, jajčastimi, na spodnji strani belo dlakavimi listi, Salix caprea; IVA
 ic | ICA - telica ali majhna krava
 id | IDE - trinajsti oziroma petnajsti dan v mesecu
@@ -97,7 +99,7 @@ po | za izražanje premikanja z namenom, da pride oseba, stvar na cilju na izhod
 pš | posnema šepetanje, polglasno govorjenje
 pu | izraža zoprnost
 re | solmizacijski zlog, ki označuje ton d ali drugo stopnjo v lestvici
-ro | [pravopis] grška črka ρ
+ro | [epravopis] grška črka ρ
 rt | skrajni, navadno ozki, skalnati del polotoka, otoka
 rž | kulturna rastlina z dolgim steblom in dolgim klasom ali njeno seme
 se | izraža predmet ali določilo glagolskega dejanja, kadar sta identična z osebkom dejanja
@@ -117,6 +119,7 @@ to | izraža veliko mero ali stopnjo povedanega
 ts | izraža nejevoljo, prezir
 tt | posnema glas pri pokanju, streljanju
 tu | izraža kraj, prostor, kjer govoreči je, se nahaja
+uč | [sinonimni] oko
 ud | del človeškega telesa, ki se uporablja za premikanje ali prijemanje
 uf | izraža olajšanje, sprostitev po napetosti, naporu
 uh | izraža čustveno prizadetost, zaskrbljenost

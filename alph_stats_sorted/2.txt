@@ -1,0 +1,101 @@
+ad 2 ad da
+ag 2 ag ga
+ah 2 ah ha
+aj 2 aj ja
+ak 2 ak ka
+am 2 am ma
+at 2 at ta
+bi 2 bi ib
+bo 2 bo ob
+ci 2 ci ic
+do 2 do od
+eh 2 eh he
+ej 2 ej je
+en 2 en ne
+er 2 er re
+es 2 es se
+et 2 et te
+hi 2 hi ih
+hk 2 hk kh
+hm 2 hm mh
+ho 2 ho oh
+hu 2 hu uh
+il 2 il li
+in 2 in ni
+it 2 it ti
+iv 2 iv vi
+jo 2 jo oj
+ju 2 ju uj
+ko 2 ko ok
+mu 2 mu um
+no 2 no on
+op 2 op po
+or 2 or ro
+os 2 os so
+pu 2 pu up
+st 2 st ts
+tu 2 tu ut
+čo 2 čo oč
+ab 1 ba
+af 1 fa
+ai 1 ia
+al 1 la
+an 1 na
+ap 1 pa
+ar 1 ar
+as 1 as
+au 1 au
+av 1 av
+az 1 za
+ač 1 ča
+be 1 be
+br 1 br
+bu 1 bu
+bz 1 bz
+cf 1 fc
+ck 1 ck
+cš 1 šc
+de 1 de
+di 1 id
+du 1 ud
+el 1 le
+em 1 me
+ep 1 ep
+ev 1 ve
+eš 1 še
+ež 1 že
+fi 1 fi
+fu 1 uf
+go 1 go
+hp 1 ph
+ij 1 ji
+ik 1 ki
+im 1 mi
+ip 1 pi
+is 1 si
+iz 1 iz
+kp 1 pk
+ks 1 ks
+kt 1 tk
+ku 1 uk
+kz 1 zk
+lo 1 ol
+mm 1 mm
+mo 1 om
+nu 1 nu
+ot 1 to
+ov 1 ov
+pš 1 pš
+rt 1 rt
+ru 1 ur
+rž 1 rž
+su 1 su
+tt 1 tt
+zz 1 zz
+če 1 če
+či 1 či
+ču 1 uč
+št 1 št
+šu 1 uš
+šv 1 vš
+šš 1 šš

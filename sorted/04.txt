@@ -1,8 +1,10 @@
+aapa | [bot.] v zvezi »aapa barje«: mešano barje zlasti v borealnih območjih na rahlo nagnjeni površini, ki ga sestavljajo izohipsasto, koncentrično ali ekscentrično razporejeni grebeni, porasli z rastlinami, značilnimi za ombrotrofna barja, in vmesni jarki z zastajajočo, z mineralnimi solmi bogato vodo, porasli z rastlinami, značilnimi za minerotrofna barja
+abaj | ABAJA - [sprotni] (zlasti v muslimanskem okolju) halji podobno vrhnje žensko oblačilo, ki sega do tal in ne zakriva obraza
 abak | plošča za mehanično računanje
 abbe | naslov za katoliškega duhovnika
 abot | ABOTA
 abri | [geog.] kratka, skoraj vodoravna votlina z visoko previsno steno na vhodu
-abur | ABURA - [umetn.] 
+abur | ABURA - [umetn.]
 acid | glasba, ki temelji na jazzu, funku in hip hopu
 ačih | posnema glas pri kihanju
 adut | klicana barva pri kartanju, ki jemlje
@@ -25,10 +27,19 @@ agar | želatina iz morskih alg
 agat | [geol.] različek kremena, v katerem se menjavajo plasti kremena, različno obarvanega kalcedona in opala, okrasni kamen (1)
 agav | AGAVA - tropska rastlina z mesnatimi, bodičastimi listi
 agba | [umetn.]
-agbe | AGBA - [umetn.] 
-agbi | AGBA - [umetn.] 
-agbo | AGBA - [umetn.] 
+agbe | AGBA - [umetn.]
+agbi | AGBA - [umetn.]
+agbo | AGBA - [umetn.]
+agfa | [pravopis]
+agfe | AGFA - [pravopis]
+agfi | AGFA - [pravopis]
+agfo | AGFA - [pravopis]
+agia | AGIO - [pravopis]
+agie | AGIO - [pravopis]
 agih | AGA - nižji vojaški ali civilni oblastnik
+agii | AGIO - [pravopis]
+agio | [pravopis]
+agiu | AGIO - [pravopis]
 agom | AGA - nižji vojaški ali civilni oblastnik
 agon | tekmovanje v telesnih vajah ali v umetnostih
 agor | AGORA - glavni trg mesta
@@ -45,6 +56,10 @@ ahle | priprava za česanje volne
 ahne | AHNITI - z ah izraziti čustvo
 ahni | AHNITI - z ah izraziti čustvo
 ahoj | izraža opozorilo
+aida | [pravopis]
+aide | AIDA - [pravopis]
+aidi | AIDA - [pravopis]
+aido | AIDA - [pravopis]
 aids | nalezljiva virusna bolezen, ki oslabi imunski sistem organizma
 aisa | AIS - za polton zvišani ton a
 aise | AIS - za polton zvišani ton a
@@ -62,7 +77,7 @@ ajdo | AJDA - kulturna rastlina z gostimi rdečkastimi ali belimi cveti v gostem
 ajdu | AJD
 ajej | izraža bolečino, obžalovanje
 ajem | A - prva črka slovenske abecede
-ajer | 
+ajer |
 ajev | A - prva črka slovenske abecede
 ajih | A - prva črka slovenske abecede
 ajmo | hitro! pojdimo!
@@ -71,6 +86,7 @@ ajnc | hazardna igra s kartami za vsoto enaindvajset
 ajne | AJN - [pravopis] arabska črka
 ajni | AJN - [pravopis] arabska črka
 ajnu | AJN - [pravopis] arabska črka
+ajoj | [esskj] izraža, da govorec česa ne odobrava, se zgraža, negoduje
 ajsa | izraža bolečino zaradi vročine, pika
 ajte | AJMO - hitro! pojdimo!
 akaj | AKATI - izgovarjati glas a namesto o
@@ -80,14 +96,16 @@ akaš | AKATI - izgovarjati glas a namesto o
 akat | AKATI - izgovarjati glas a namesto o
 akel | [umetn.] trdi filipinski les temnorjave barve, podoben orehovini, v rabi za pohištvo
 aken | AKNA
-aker | 
+aker |
 akia | AKIJA - čolnu podobna naprava za reševanje ponesrečenca v gorah zlasti v zimskem času
-akie | AKIJA - čolnu podobna naprava za reševanje ponesrečenca v gorah zlasti v zimskem času
+akie | AKIA - čolnu podobna naprava za reševanje ponesrečenca v gorah zlasti v zimskem času
 akih | AK - drog z železno kljuko za plavljenje lesa
-akii | AKIJA - čolnu podobna naprava za reševanje ponesrečenca v gorah zlasti v zimskem času
+akii | AKIA - čolnu podobna naprava za reševanje ponesrečenca v gorah zlasti v zimskem času
+akij | AKIA - [plan.] čolnu podobna sestavljiva aluminijasta priprava za prevoz ponesrečencev po snegu
 akio | AKIA - [plan.] čolnu podobna sestavljiva aluminijasta priprava za prevoz ponesrečencev po snegu
-akiu | AKIJA - čolnu podobna naprava za reševanje ponesrečenca v gorah zlasti v zimskem času
-akna | 
+akiu | AKIA - čolnu podobna naprava za reševanje ponesrečenca v gorah zlasti v zimskem času
+akme | [pravopis]
+akna |
 akne | AKNA
 akni | AKNA
 akno | AKNA
@@ -103,7 +121,7 @@ akti | AKT - zunanji izraz odločitve ali volje, dejanje
 aktu | AKT - zunanji izraz odločitve ali volje, dejanje
 akut | grafično znamenje za dolgi naglašeni samoglasnik ali nizki ton naglašenega dolgega zloga, ostrivec
 alar | [geol.] prvi stranski sept ob kardinalnem septu pri rugoznih koralah
-alas | [geog.] podolgovata depresija, nastala z različnimi periglacialnimi, zlasti termokraškimi  procesi, podobna dolini, globoka do nekaj deset m in dolga do nekaj km, značilna za osrednjo Jakutijo in vzhodno Sibirijo
+alas | [geog.] podolgovata depresija, nastala z različnimi periglacialnimi, zlasti termokraškimi procesi, podobna dolini, globoka do nekaj deset m in dolga do nekaj km, značilna za osrednjo Jakutijo in vzhodno Sibirijo
 alba | dolgo belo liturgično oblačilo duhovnikov
 albe | ALBA - dolgo belo liturgično oblačilo duhovnikov
 albi | ALBA - dolgo belo liturgično oblačilo duhovnikov
@@ -168,8 +186,6 @@ apni | APNO - bela snov, ki nastane iz apnenca, če se ta žge
 apno | bela snov, ki nastane iz apnenca, če se ta žge
 apnu | APNO - bela snov, ki nastane iz apnenca, če se ta žge
 apta | APT - [geol.] stopnja spodnje krede med albijem in barremijem
-apte | APT - [geol.] stopnja spodnje krede med albijem in barremijem
-apti | APT - [geol.] stopnja spodnje krede med albijem in barremijem
 aptu | APT - [geol.] stopnja spodnje krede med albijem in barremijem
 arah | ARA - znesek, ki se plača naprej kot dokaz, da je pogodba sklenjena, naplačilo
 arak | žgana pijača, navadno iz riža
@@ -185,14 +201,19 @@ aret | [geog.] priostren greben med krnicama
 argo | posebna, drugim ljudem nerazumljiva tipična govorica potepuhov, tatov
 arih | ARA - velika živobarvna papiga z dolgim repom, Ara
 arij | ARIJA - skladba ali del večje skladbe za glas in instrumentalno spremljavo
-aril | [bot.]
+aril | [agr.] sočen ovoj, ki delno ali v celoti obdaja seme pri nekaterih rastlinskih vrstah in je lahko različnih barv, npr. pri granatnem jabolku bele, svetlordeče ali temnordeče barve
 arka | [geol.] školjka s taksodontnim sklepom in rebrasto površino, ki živi od neogena dalje
 arke | ARKA - [geol.] školjka s taksodontnim sklepom in rebrasto površino, ki živi od neogena dalje
 arki | ARKA - [geol.] školjka s taksodontnim sklepom in rebrasto površino, ki živi od neogena dalje
 arko | ARKA - [geol.] školjka s taksodontnim sklepom in rebrasto površino, ki živi od neogena dalje
 arom | ARA - velika živobarvna papiga z dolgim repom, Ara
 arov | ARA - velika živobarvna papiga z dolgim repom, Ara
+arsa | [pravopis]
+arse | ARSA - [pravopis]
+arsi | ARSA - [pravopis]
+arso | ARSA - [pravopis]
 asan | ASANA - vsaka od telesnih vaj pri jogi za razvijanje telesnih sposobnosti in doseganje popolne miselne zbranosti
+asic | ASICA - [sprotni] (ekspresivno) ženska, ki se posebno odlikuje v čem, zlasti v športu
 asih | AS - igralna karta z enim znakom na sredi, navadno z najvišjo vrednostjo
 aska | ASK - [bot.] mešičku podobna mejosporocista, v kateri potekajo kariogamija, mejoza in sporogeneza, pri čemer najpogosteje nastane osem jeder ali haploidnih askospor, značilna za zaprtotrosnice (Ascomycota)
 aske | ASK - [bot.] mešičku podobna mejosporocista, v kateri potekajo kariogamija, mejoza in sporogeneza, pri čemer najpogosteje nastane osem jeder ali haploidnih askospor, značilna za zaprtotrosnice (Ascomycota)
@@ -200,11 +221,13 @@ aski | ASK - [bot.] mešičku podobna mejosporocista, v kateri potekajo kariogam
 asku | ASK - [bot.] mešičku podobna mejosporocista, v kateri potekajo kariogamija, mejoza in sporogeneza, pri čemer najpogosteje nastane osem jeder ali haploidnih askospor, značilna za zaprtotrosnice (Ascomycota)
 asom | AS - igralna karta z enim znakom na sredi, navadno z najvišjo vrednostjo
 asov | AS - igralna karta z enim znakom na sredi, navadno z najvišjo vrednostjo
+ašur | [epravopis] AŠURA
 atah | ATA - moški v odnosu do svojega otroka
 atak | ATAKA - nenaden močen vojaški naskok
 atam | ATA - moški v odnosu do svojega otroka
-atej | 
-atek | 
+atar | [geog.] v zvezi »vaški atar«: funkcionalno zemljišče okrog posameznega podeželskega naselja, zaselka, ki je večinoma v lasti in uporabi kmetij iz matične vasi, dela vasi
+atej |
+atek |
 atih | ATA - moški v odnosu do svojega otroka
 atik | ATIKA - zid nad pročeljem, da zakriva streho
 atil | ATILA - kratka suknja, okrašena z vrvicami, zlasti huzarska
@@ -222,6 +245,7 @@ avba | žensko pokrivalo gorenjske ljudske noše z okroglim oglavjem in bogato v
 avbe | AVBA - žensko pokrivalo gorenjske ljudske noše z okroglim oglavjem in bogato vezenino nad čelom
 avbi | AVBA - žensko pokrivalo gorenjske ljudske noše z okroglim oglavjem in bogato vezenino nad čelom
 avbo | AVBA - žensko pokrivalo gorenjske ljudske noše z okroglim oglavjem in bogato vezenino nad čelom
+avel | AVLA - velika veža v javnih poslopjih
 aver | AVRA - neugodni občutek pred napadom epilepsije, migrene
 aviz | AVIZA - sporočilo, obvestilo, navadno o poslanem blagu
 avla | velika veža v javnih poslopjih
@@ -261,7 +285,8 @@ bace | BAC
 baci | BAC
 back | BACKA - mlada ovčja samica, jagnje
 bacu | BAC
-bači | 
+bači |
+baft | [epravopis] BAFTA
 baga | gošča, ostanki v pipi
 bage | BAGA - gošča, ostanki v pipi
 bagi | BAGA - gošča, ostanki v pipi
@@ -289,6 +314,7 @@ bani | BATI SE - čutiti strah, biti v strahu
 banj | BANJA - velika posoda za kopanje
 bank | delovna miza, pult
 bano | BATI SE - čutiti strah, biti v strahu
+bans | [sprotni] otroška pesem, pri kateri besedilo spremljajo ponazoritveni gibi
 banu | BAN - predstojnik banovine
 bara | močvirnat svet
 barb | BARBA
@@ -296,10 +322,12 @@ bard | ljudski pesnik in pevec
 bare | BAR - kulturna ali divja trava z debelim klasom, Setaria italica
 bari | BAR - kulturna ali divja trava z debelim klasom, Setaria italica
 bark | trijamborna jadrnica s križnimi jadri
+barn | [pravopis]
 baro | BARA - močvirnat svet
-bart | 
+bart |
 baru | BAR - kulturna ali divja trava z debelim klasom, Setaria italica
 barv | BARVA - lastnost predmeta, katero očesu posreduje svetloba, ki jo telo seva, odbija ali prepušča
+barž | BARŽA - [pravopis]
 basa | BASATI - s silo polniti, tlačiti
 base | BAS - najnižji moški glas
 basi | BAS - najnižji moški glas
@@ -319,14 +347,16 @@ baza | snov, ki tvori s kislinami soli, v vodni raztopini pa hidroksilne ione
 baze | BAZA - snov, ki tvori s kislinami soli, v vodni raztopini pa hidroksilne ione
 bazi | BAZA - snov, ki tvori s kislinami soli, v vodni raztopini pa hidroksilne ione
 bazo | BAZA - snov, ki tvori s kislinami soli, v vodni raztopini pa hidroksilne ione
-baža | 
+baža |
 baže | BAŽA
 baži | BAŽA
 bažo | BAŽA
+bdeč | BEDETI - biti buden
 bdel | BEDETI - biti buden
 bdet | BEDETI - biti buden
 bdim | BEDETI - biti buden
 bdiš | BEDETI - biti buden
+bear | [pravopis]
 beat | stil moderne zabavne glasbe, ki se izvaja s petjem in električnimi kitarami
 beba | neodločen, omahljiv človek
 bebe | BEBA - neodločen, omahljiv človek
@@ -367,8 +397,9 @@ beli | BEL - enota za merjenje jakosti zvoka ali glasnosti
 belk | BELKA - ženska bele rase
 belo | BEL - ki je take barve kot sneg ali mleko
 belš | BELŠA - belkasta krava
+belt | [gem.] v zvezi »sistem belt«: postopek za izdelavo sintetičnih diamantov pri visokem tlaku in visoki temperaturi
 belu | BEL - enota za merjenje jakosti zvoka ali glasnosti
-bena | 
+bena |
 bend | glasbena skupina, ansambel
 bene | BENA
 beni | BENA
@@ -378,7 +409,6 @@ berd | BERDA - največja, kontrabasovska tamburica
 bere | BRATI - razpoznavati znake za glasove in jih vezati v besede
 beri | BRATI - razpoznavati znake za glasove in jih vezati v besede
 berm | BERMA - [geog.] umetna terasa v regulirani strugi reke, potoka, ki utrjuje prečni profil in omogoča pretok visoke vode
-bern | BRNA - šema, ki predstavlja dvonogo ali četveronogo žival
 bero | BERA - kar je nabrano, zbirka
 bers | BERSA - plesen na vinu
 bert | BERTA - težek nemški top iz prve svetovne vojne
@@ -439,10 +469,11 @@ biri | BERA - kar je nabrano, zbirka
 birm | BIRMA - drugi od sedmih zakramentov Katoliške cerkve
 biro | vodilni organ v organizaciji
 birs | BERSA - plesen na vinu
-birt | 
+birt |
 bisa | BISUS - fina lanena tkanina
 bise | BISUS - fina lanena tkanina
 bisi | BISUS - fina lanena tkanina
+bist | BISTA - [pravopis]
 bisu | BISUS - fina lanena tkanina
 bita | BIT - najmanjši, nedeljivi del informacije v binarnem sistemu
 bite | BIT - najmanjši, nedeljivi del informacije v binarnem sistemu
@@ -457,13 +488,13 @@ bled | ki je brez zdrave naravne barve
 blef | bleščeč, bahav videz brez vsebine, slepilo
 blel | BLESTI - v vročici zmedeno govoriti
 blen | strupena dlakava rastlina z rumenimi cveti
-blez | 
+blez |
 blid | BLIDA - [umetn.] katapult za metanje težjih izstrelkov z dvonožnim stojalom in dolgim vzvodom, na katerega je pritrjena protiutež
 blin | palačinki podobna jed iz tanko razvaljanega, navadno nevzhajanega testa
 blod | razuzdano življenje, razvrat
 blog | spletno mesto, na katerem avtorji s pomočjo preprostega vmesnika objavljajo besedila, slike, posnetke, bralci pa imajo navadno možnost komentiranja, spletni dnevnik
 blok | veliko, večstanovanjsko poslopje
-bluf | 
+bluf |
 bluz | BLUZA - žensko oblačilo za h krilu, navadno iz tanjšega blaga
 boah | BOA - zelo velika nestrupena tropska kača
 boam | BOA - zelo velika nestrupena tropska kača
@@ -480,6 +511,8 @@ bodu | BOD
 body | BODI - enodelno oprijeto otroško ali žensko oblačilo iz životka in spodnjih hlačk
 boem | kdor živi neurejeno, ne oziraje se na družbene norme, navadno umetnik
 boga | BLAGO - izdelek ali pridelek, namenjen tržišču
+boge | BOG - [epravopis] nadnaravno vsemogočno bitje
+bogi | BOG - [epravopis] nadnaravno vsemogočno bitje
 bogu | BLAGO - izdelek ali pridelek, namenjen tržišču
 boha | BOH - s prašiča odrta, nerazrezana slanina
 bohe | BOH - s prašiča odrta, nerazrezana slanina
@@ -552,14 +585,14 @@ boze | BOZA - osvežujoča orientalska pijača iz koruzne moke in sladkorja
 bozi | BOZA - osvežujoča orientalska pijača iz koruzne moke in sladkorja
 bozo | BOZA - osvežujoča orientalska pijača iz koruzne moke in sladkorja
 boža | BOŽATI - ljubkujoče premikati roko po čem
-bože | 
+bože |
 brač | srednje velika tamburica za spremljavo ali vodilno melodijo
 brad | BRADA - spodnji del obraza
 brak | večji lovski pes, navadno lisast
 bral | BRATI - razpoznavati znake za glasove in jih vezati v besede
 bran | zid z nasipom, ki varuje pristanišče pred valovi
 brat | moški v odnosu do drugih otrok svojih staršev
-brav | 
+brav |
 brba | BRBATI
 brca | sunek, udarec z nogo
 brce | BRCA - sunek, udarec z nogo
@@ -589,7 +622,7 @@ brij | BRITI - rezati dlake tik ob koži
 brik | embalaža v obliki kvadra za tekočine znamke Tetra Brik
 bril | BRITI - rezati dlake tik ob koži
 brin | zimzelen iglast grm z drobnimi jagodami
-brio | 
+brio |
 bris | kužna snov za bakteriološko preiskavo
 brit | BRITI - rezati dlake tik ob koži
 briu | BRIO
@@ -607,17 +640,18 @@ brno | BRNA - šema, ki predstavlja dvonogo ali četveronogo žival
 broč | rastlina z rdečim barvilom v koreniki
 brod | splav ali čoln za prevoz čez vodo
 broh | [bot.] z murom obdan del površine retikulatnega pelodnega zrna
-broj | 
+broj |
 brom | kadeča se težka tekočina rjave barve, element Br
 bron | zlitina bakra in drugih kovin
 broš | BROŠA - okrasna naprsna zaponka
+brrm | posnema zvok motornega vozila
 brst | nastavek lista, poganjka, komaj razvit iz popka
 bruc | slušatelj prvega letnika na univerzi
 brun | BRUNO - na dveh straneh obtesano deblo
 brus | kamen ali priprava za brušenje
+brut | [epravopis] zarotnik, izdajalski človek
 brvc | BRVICA - manjšalnica od brv
 brvi | BRV - deska ali bruno za prehod čez vodo
-brvn | BRVNO
 brza | BRZ
 brzd | BRZDA - železo pri uzdi, ki ga ima konj v gobcu
 brze | BRZETI - hitro, lahkotno se premikati
@@ -629,6 +663,9 @@ bube | BUBA - žuželka na razvojni stopnji med ličinko in razvito žuželko
 bubi | BUBA - žuželka na razvojni stopnji med ličinko in razvito žuželko
 bubo | BUBA - žuželka na razvojni stopnji med ličinko in razvito žuželko
 buca | BUCATI - na rahlo dregati ali zbadati
+buce | BUC - [esskj] nežen trk glave ob glavo kot izraz naklonjenosti, ljubeznivosti, navadno z majhnim otrokom
+buci | [esskj] navadno podvojeno
+bucu | BUC - [esskj] nežen trk glave ob glavo kot izraz naklonjenosti, ljubeznivosti, navadno z majhnim otrokom
 buča | kulturna rastlina s plazečim se steblom ali njen debeli sad
 buče | BUČA - kulturna rastlina s plazečim se steblom ali njen debeli sad
 buči | BUČA - kulturna rastlina s plazečim se steblom ali njen debeli sad
@@ -644,8 +681,10 @@ bugu | BUG - napaka v programski kodi računalniškega programa, sistema
 buha | BUHATI - s silo in z zamolklim glasom udarjati na dan
 buhe | BUH - močen, nenaden sunek zraka
 buhi | BUH - močen, nenaden sunek zraka
+buhl | BÜHL - [geog.] prvo poznoglacialno ledeniško napredovanje na začetku najstarejšega dryasa, pred okrog 15.000 leti
 buht | BUHTA
 buhu | BUH - močen, nenaden sunek zraka
+bujk | [pravopis]
 bujt | prekmurska jed iz repe, kaše in svinjskega mesa
 buka | zelo gluh
 buke | BUKET - vonj vina
@@ -654,11 +693,13 @@ buko | BUKA - zelo gluh
 bula | pomembna papeška ali vladarska listina s kovinskim pečatom
 bule | BULA - pomembna papeška ali vladarska listina s kovinskim pečatom
 buli | udarec pri hokeju, s katerim se igra začne ali prekinjena igra nadaljuje
+bull | [pravopis]
 bulo | BULA - pomembna papeška ali vladarska listina s kovinskim pečatom
 buma | BUM - nagel, kratkotrajen dvig, porast zlasti gospodarske aktivnosti
 bume | BUM - nagel, kratkotrajen dvig, porast zlasti gospodarske aktivnosti
 bumf | posnema močen pok, glas pri padcu, udarcu
 bumi | BUM - nagel, kratkotrajen dvig, porast zlasti gospodarske aktivnosti
+bump | [pravopis]
 bumu | BUM - nagel, kratkotrajen dvig, porast zlasti gospodarske aktivnosti
 buna | sintetični kavčuk
 bund | BUNDA - zimsko vrhnje oblačilo, ki pokriva zgornji del telesa
@@ -670,6 +711,7 @@ buno | BUNA - sintetični kavčuk
 buri | BURITI - delati razgibano, valovito
 burk | BURKA - širok trak, kos blaga, s katerim si muslimanke pokrivajo obraz
 burl | BURLA - [gled.] daljši, šaljiv prizor, temelječ na igralski improvizaciji
+burs | BURSA - [pravopis]
 burš | član nemškega visokošolskega društva
 burz | BURZA - vrečka za prenašanje hostij in svetega olja bolnikom
 busa | BUS
@@ -688,8 +730,11 @@ bute | BUTO - sodobni ples ekspresionističnega značaja, po izvoru iz Japonske
 buti | BUTO - sodobni ples ekspresionističnega značaja, po izvoru iz Japonske
 buto | sodobni ples ekspresionističnega značaja, po izvoru iz Japonske
 butu | BUTO - sodobni ples ekspresionističnega značaja, po izvoru iz Japonske
-buzi | 
-bühl | [geog.] prvo poznoglacialno ledeniško napredovanje na začetku najstarejšega dryasa, pred okrog 15.000 leti
+buzi |
+buža | [sinonimni]
+buže | BUŽA - [sinonimni]
+buži | BUŽA - [sinonimni]
+bužo | BUŽA - [sinonimni]
 byta | BAJT - mera za količino pomnilnika, navadno osem bitov
 byte | BAJT - mera za količino pomnilnika, navadno osem bitov
 byti | BAJT - mera za količino pomnilnika, navadno osem bitov
@@ -704,8 +749,9 @@ capa | raztrgana, ponošena obleka
 cape | CAPA - raztrgana, ponošena obleka
 capi | CAPA - raztrgana, ponošena obleka
 capo | CAPA - raztrgana, ponošena obleka
-capu | CAPE - [gem.] rumenkasti kristali z vključki  in nepravilnimi kristalnimi oblikami
-cave | [farm.] previdno
+caps | CAPSA - [pravopis]
+capu | CAPE - [gem.] rumenkasti kristali z vključki in nepravilnimi kristalnimi oblikami
+cash | [pravopis]
 ceba | CEBATI
 ceca | CECATI
 cece | žuželka, ki prenaša povzročitelja spalne bolezni
@@ -717,10 +763,10 @@ cehi | CEHA - znesek, ki se plača v gostilni, zlasti za pijačo
 ceho | CEHA - znesek, ki se plača v gostilni, zlasti za pijačo
 ceht | CEHTA - debela, močna ženska
 cehu | CEH - stanovska organizacija obrtnikov iste stroke
-ceka | CEK
-ceke | CEK
-ceki | CEK
-ceku | CEK
+ceka | CEK - majhen zajedavec na koži človeka in nekaterih živali, s trdim, nazobčanim sesalom
+ceke | CEK - majhen zajedavec na koži človeka in nekaterih živali, s trdim, nazobčanim sesalom
+ceki | CEK - majhen zajedavec na koži človeka in nekaterih živali, s trdim, nazobčanim sesalom
+ceku | CEK - majhen zajedavec na koži človeka in nekaterih živali, s trdim, nazobčanim sesalom
 cela | tesen, zaprt prostor
 cele | CEL - ki ni razdeljen na kose, dele
 celi | CELITI - delati kaj celo, navadno rane
@@ -753,10 +799,16 @@ cevk | CEVKA - manjša, tanjša cev
 ceze | CEZETI - zelo počasi in v majhnih količinah teči
 cezi | CEZETI - zelo počasi in v majhnih količinah teči
 chat | sinhrona komunikacija med uporabniki interneta, klepet
-chic | 
+chef | [esskj] profesionalni kuhar, zlasti kot vodja kuhinje, pripravljalec inovativnih, izbranih jedi
+chia | [sprotni] rastlina z bodičastimi izrastki na koncu stebel in grozdastimi cvetovi belkaste ali vijoličaste barve, po izvoru iz Mehike; Salvia hispanica
+chic |
+chie | CHIA - [sprotni] rastlina z bodičastimi izrastki na koncu stebel in grozdastimi cvetovi belkaste ali vijoličaste barve, po izvoru iz Mehike; Salvia hispanica
+chii | CHIA - [sprotni] rastlina z bodičastimi izrastki na koncu stebel in grozdastimi cvetovi belkaste ali vijoličaste barve, po izvoru iz Mehike; Salvia hispanica
+chij | CHIA - [sprotni] rastlina z bodičastimi izrastki na koncu stebel in grozdastimi cvetovi belkaste ali vijoličaste barve, po izvoru iz Mehike; Salvia hispanica
+chio | CHIA - [sprotni] rastlina z bodičastimi izrastki na koncu stebel in grozdastimi cvetovi belkaste ali vijoličaste barve, po izvoru iz Mehike; Salvia hispanica
 cian | brezbarven, zelo strupen plin, spojina ogljika in dušika,
 ciao | ČAO - izraža pozdrav pri slovesu
-ciba | 
+ciba |
 cibe | CIBA
 cibi | CIBA
 cibk | CIBKA
@@ -800,15 +852,20 @@ cise | CIS - za polton zvišani ton c
 cisi | CIS - za polton zvišani ton c
 cist | CISTA - mehurjasta tvorba s posebno steno in tekočo vsebino
 cisu | CIS - za polton zvišani ton c
-cito | [farm.] hitro, prednostno
 city | trgovska in bančna četrt v središču velikega mesta
 ciza | ročni voziček na dveh kolesih
 cize | CIZETI - zelo počasi in v majhnih količinah teči
 cizi | CIZETI - zelo počasi in v majhnih količinah teči
 cizo | CIZA - ročni voziček na dveh kolesih
+clia | CLIO - [pravopis]
+clie | CLIO - [pravopis]
+clii | CLIO - [pravopis]
+clio | [pravopis]
+cliu | CLIO - [pravopis]
 cmer | CMERA - kdor se (rad) joka
 cmok | posnema zamolkel glas pri udarcu, padcu
 cmrk | vodni vrtinec
+coax | [gas.] v zvezi »coax cev«: dvosmerna cev za kroženje olja, ki je sestavljena iz dveh cevi, nameščenih ena v drugi, pri čemer po notranji cevi olje priteka, po zunanji obodni pa odteka in se uporablja pri hidravličnem reševalnem orodju
 cofa | COF - urejen, povezan šop niti za okras
 cofe | COF - urejen, povezan šop niti za okras
 cofi | COF - urejen, povezan šop niti za okras
@@ -818,10 +875,12 @@ cola | dolžinska mera, približno 2,5 cm
 cole | COLA - dolžinska mera, približno 2,5 cm
 coli | COLA - dolžinska mera, približno 2,5 cm
 colo | COLA - dolžinska mera, približno 2,5 cm
+colt | [pravopis]
 colu | COL
 comp | posnema votlo odmevajoč glas pri težki, okorni hoji
 cona | zaključeno ozemlje zlasti glede na kako dejavnost, namembnost
 cone | CONA - zaključeno ozemlje zlasti glede na kako dejavnost, namembnost
+cong | CONGA - [pravopis]
 coni | CONA - zaključeno ozemlje zlasti glede na kako dejavnost, namembnost
 cono | CONA - zaključeno ozemlje zlasti glede na kako dejavnost, namembnost
 cool | stil v jazzu po drugi svetovni vojni, za katerega je značilna umirjenost melodije in harmonska bogatost
@@ -836,10 +895,10 @@ crke | CRKA - poginula žival
 crki | CRKA - poginula žival
 crko | CRKA - poginula žival
 crus | [geol.] del zadnje ali spodnje okončine med kolenom in gležnjem pri večini vretenčarjev
-cuca | CUCATI
-cuce | CUC
-cuci | CUC
-cucu | CUC
+cuca | CUC - (nar.) cevasti končni del kake priprave, posode
+cuce | CUC - (nar.) cevasti končni del kake priprave, posode
+cuci | CUC - (nar.) cevasti končni del kake priprave, posode
+cucu | CUC - (nar.) cevasti končni del kake priprave, posode
 cufa | CUFATI - trgati v kosme, nitke
 cuga | CUG - [gled.] naprava s protiutežmi za obešanje, dviganje in spuščanje scenskih elementov ali reflektorjev
 cuge | CUG - [gled.] naprava s protiutežmi za obešanje, dviganje in spuščanje scenskih elementov ali reflektorjev
@@ -852,6 +911,10 @@ culi | CULA - kos blaga ali ruta z zavozlanimi ogli, ki se rabi za prenašanje
 culo | CULA - kos blaga ali ruta z zavozlanimi ogli, ki se rabi za prenašanje
 cuma | CUMATI
 cunj | CUNJA - kos izrabljenega blaga
+cupa | [esskj] 
+cupe | CUP - [pravopis]
+cupi | CUP - [pravopis]
+cupu | CUP - [pravopis]
 cura | CURATI - opravljati malo potrebo
 cure | CURETI - teči, polzeti v tankem curku
 curi | CURETI - teči, polzeti v tankem curku
@@ -865,12 +928,12 @@ cvet | del rastline, značilen po lepi obliki in barvi
 cvib | CVIBA
 cvič | oglašanje z visokim, tožečim glasom
 cvik | hazardna igra z dvaintridesetimi ali dvainpetdesetimi kartami
-cvil | 
+cvil |
 cvre | CVRETI - pripravljati jed v vroči maščobi
 cvri | CVRETI - pripravljati jed v vroči maščobi
-cvrk | 
+cvrk |
 cvrl | CVRETI - pripravljati jed v vroči maščobi
-čača | 
+čača |
 čače | ČAČA
 čači | ČAČA
 čačk | ČAČKA - črta, narejena brez pravega namena
@@ -927,7 +990,7 @@ cvrl | CVRETI - pripravljati jed v vroči maščobi
 čehe | ČEH
 čehi | ČEH
 čehu | ČEH
-čeja | 
+čeja |
 čeje | ČEJA
 čeji | ČEJA
 čejo | HOTETI - izraža voljo, željo osebka
@@ -958,7 +1021,7 @@ cvrl | CVRETI - pripravljati jed v vroči maščobi
 čerh | (koruzni) storž
 čeri | ČER - večja, ostra skala
 česa | KAJ - izraža vprašanje po neznani stvari, pojavu
-čest | 
+čest |
 češe | ČESATI - urejevati, gladiti z glavnikom
 češi | ČESATI - urejevati, gladiti z glavnikom
 češp | ČEŠPA
@@ -966,7 +1029,7 @@ cvrl | CVRETI - pripravljati jed v vroči maščobi
 čete | ČETA - osnovna vojaška enota iz več vodov
 četi | ČETA - osnovna vojaška enota iz več vodov
 četo | ČETA - osnovna vojaška enota iz več vodov
-čiba | 
+čiba |
 čibe | ČIBA
 čibi | ČIBA
 čibk | ČIBKA - manjšalnica od čiba
@@ -977,6 +1040,7 @@ cvrl | CVRETI - pripravljati jed v vroči maščobi
 čičk | ČIČKA
 čičo | ČIČA - starejši znan moški
 čiču | ČIČ
+čiha | [sinonimni]
 čija | ČI - univerzalna kozmična energija
 čije | ČI - univerzalna kozmična energija
 čiji | ČI - univerzalna kozmična energija
@@ -1037,7 +1101,12 @@ cvrl | CVRETI - pripravljati jed v vroči maščobi
 čopk | ČOPKA - čopasta kokoš
 čopo | ČOPA - šop las, dlake, perja
 čopu | ČOP - šop las, dlake, perja
+čora | ČORO - [sinonimni]
 čorb | ČORBA - slaba redka jed, navadno juha
+čore | ČORO - [sinonimni]
+čori | ČORO - [sinonimni]
+čoro | [sinonimni]
+čoru | ČORO - [sinonimni]
 čota | ČOTATI
 črča | s travo porasel izkrčen svet
 črče | ČRČA - s travo porasel izkrčen svet
@@ -1046,7 +1115,8 @@ cvrl | CVRETI - pripravljati jed v vroči maščobi
 čred | ČREDA - večja skupina živali iste vrste
 črep | gladka, na enem koncu zaokrožena strešna opeka
 čret | močviren nižinski svet, porasel s travo in nizkim grmičjem
-črez | 
+črev | ČREVA - [sinonimni]
+črez |
 črka | znak za glas
 črke | ČRKA - znak za glas
 črki | ČRKA - znak za glas
@@ -1076,10 +1146,12 @@ cvrl | CVRETI - pripravljati jed v vroči maščobi
 čubi | ČUBETI
 čučk | ČUČKA - zavezati ruto z vozlom na tilniku
 čuda | izraža nenavadno visoko stopnjo
+čude | ČUDITI - čutiti in izražati presenečenje, začudenje
 čudi | ČUD - skupek človekovih lastnosti, iz katerih izhaja njegovo ravnanje
 čudo | nenavaden, izreden dogodek ali naključje
 čudu | ČUDO - nenavaden, izreden dogodek ali naključje
 čufa | ČUFATI
+čuft | [sprotni] (navadno v množini) jed iz mletega mesa, navadno v obliki kroglic in z omako
 čuga | parkovno iglasto drevo s kratkimi, ploščatimi iglicami in majhnimi storži, Tsuga canadensis
 čuge | ČUGA - parkovno iglasto drevo s kratkimi, ploščatimi iglicami in majhnimi storži, Tsuga canadensis
 čugi | ČUGA - parkovno iglasto drevo s kratkimi, ploščatimi iglicami in majhnimi storži, Tsuga canadensis
@@ -1117,7 +1189,7 @@ cvrl | CVRETI - pripravljati jed v vroči maščobi
 čuva | ČUVATI - prizadevati si, skrbeti, da se odvrne nevarnost od česa
 čužk | ČUŽKA - trava, katere seme se uporablja za ptičjo krmo, Phalaris canariensis
 čvek | ČVEKA - kdor vsebinsko prazno, nespametno govori
-čvrš | 
+čvrš |
 daca | DAC - davščina na prodajanje tržnega blaga, zlasti živil
 dace | DAC - davščina na prodajanje tržnega blaga, zlasti živil
 daci | DAC - davščina na prodajanje tržnega blaga, zlasti živil
@@ -1141,14 +1213,12 @@ dahi | DAH - enkraten sprejem zraka v pljuča in njegovo iztisnjenje
 dahu | DAH - enkraten sprejem zraka v pljuča in njegovo iztisnjenje
 daih | DAO - [umetn.] kitajski meč z blago ukrivljenim enoreznim rezilom, ki se pred konico razširi, in ročajem z diskastim branikom
 daja | DAJATI - delati, da prehaja kaj k drugemu
-daje | DA - [umetn.] indokinski tradicionalni meč, navadno z blago ukrivljenim enoreznim rezilom in preprostim ročajem brez izrazitega branika
+daje | DAJATI
 daji | DA - [umetn.] indokinski tradicionalni meč, navadno z blago ukrivljenim enoreznim rezilom in preprostim ročajem brez izrazitega branika
 dajk | [kamn.] žilnina v obliki vertikalne ali prečne žile, ki seka prej nastale kamnine ali plasti, npr. pegmatitni dajk, aplitni dajk
 dajo | DATI - napraviti, da preide kaj k drugemu
 daju | DA - [umetn.] indokinski tradicionalni meč, navadno z blago ukrivljenim enoreznim rezilom in preprostim ročajem brez izrazitega branika
 daka | DAK - [geol.] stopnja srednjega pliocena med pontijem in romanijem v Paratetidi
-dake | DAK - [geol.] stopnja srednjega pliocena med pontijem in romanijem v Paratetidi
-daki | DAK - [geol.] stopnja srednjega pliocena med pontijem in romanijem v Paratetidi
 daku | DAK - [geol.] stopnja srednjega pliocena med pontijem in romanijem v Paratetidi
 dala | DATI - napraviti, da preide kaj k drugemu
 dale | DATI - napraviti, da preide kaj k drugemu
@@ -1163,7 +1233,7 @@ dana | DAN - na katerega se v obravnavanem primeru misli
 danc | DANCE - manjšalnica od dno
 dane | DAN - na katerega se v obravnavanem primeru misli
 dani | DAN - na katerega se v obravnavanem primeru misli
-danj | 
+danj |
 dank | DANKA - zadnji del debelega črevesa
 dano | DAN - na katerega se v obravnavanem primeru misli
 danu | DAN - [geol.] stopnja spodnjega paleocena med maastrichtijem in selandijem
@@ -1174,14 +1244,16 @@ dare | DAR - kar je dano komu v last brez plačila
 dari | DAR - kar je dano komu v last brez plačila
 daru | DAR - kar je dano komu v last brez plačila
 dasi | za izražanje dejstva, kljub kateremu se dejanje nadrednega stavka uresniči
-data | 
+daši | [sprotni] jušna osnova iz alg in posušenih fermentiranih rib, po izvoru iz Japonske
+data |
 dati | napraviti, da preide kaj k drugemu
+dato | [prav.] v zvezi »dato menica«: menica, katere dospelost je določena z navedbo datuma
 daun | [geog.] poznoglacialno ledeniško napredovanje v najstarejšem ali starejšem dryasu, pred okrog 12.000 leti
 dava | DATI - napraviti, da preide kaj k drugemu
 davi | danes zjutraj
 davk | DAVKA - doza, odmerek, vzemek (zdravila)
 debi | prvi javni nastop, navadno umetnikov
-deca | 
+deca |
 dece | DECA
 deci | DECA
 deco | DECA
@@ -1198,6 +1270,7 @@ dega | DEGATI - nadlegovati, siliti v koga
 dege | DEGA - [geog.] najvišji podnebno-rastlinski višinski pas v Etiopskem višavju, na nadmorski višini med 2500 in 3900 m, za katerega so značilni travniki in pašniki
 degi | DEGA - [geog.] najvišji podnebno-rastlinski višinski pas v Etiopskem višavju, na nadmorski višini med 2500 in 3900 m, za katerega so značilni travniki in pašniki
 dego | DEGA - [geog.] najvišji podnebno-rastlinski višinski pas v Etiopskem višavju, na nadmorski višini med 2500 in 3900 m, za katerega so značilni travniki in pašniki
+degu | [sprotni] hrčku ali manjši veverici podoben južnoameriški glodalec z dolgim tankim repom, po izvoru iz osrednjega Čila; Octodon degus
 deja | DEJ - kar povzroči, da kaka stvar je
 deje | DEJ - kar povzroči, da kaka stvar je
 deji | DEJ - kar povzroči, da kaka stvar je
@@ -1207,11 +1280,12 @@ deka | (volnena) odeja
 deke | DEKA - (volnena) odeja
 deki | DEKA - (volnena) odeja
 deko | DEKA - (volnena) odeja
+deku | DEK - [sinonimni] dekagram
 dela | DELATI - zavestno uporabljati telesno ali duševno energijo za pridobivanje dobrin
 delc | DELCE - manjše umetniško, literarno delo
 dele | DELITI - iz celote delati, napravljati dele
 deli | DELO - zavestno uporabljanje telesne ali duševne energije za pridobivanje dobrin
-delj | 
+delj |
 delo | zavestno uporabljanje telesne ali duševne energije za pridobivanje dobrin
 delt | DELTA - svet ob ustju reke, podaljšan zaradi nasipavanja ob več rokavih v morje ali jezero
 delu | DELO - zavestno uporabljanje telesne ali duševne energije za pridobivanje dobrin
@@ -1223,8 +1297,10 @@ demu | DEM - [bot.] populacija med seboj ozko sorodnih osebkov, ki jih druži do
 dena | DEN - [plan.] enota za finost vlaken, ki se izraža z grami na 9 kilometrov
 denc | DENCE - manjšalnica od dno
 dene | DETI - napraviti, da pride kaj na določeno mesto
+deng | [epravopis] DENGA
 deni | DETI - napraviti, da pride kaj na določeno mesto
 denu | DEN - [plan.] enota za finost vlaken, ki se izraža z grami na 9 kilometrov
+deoo | [epravopis] družba z omejeno odgovornostjo
 depo | prostor, v katerem se kaj shrani, uskladišči za določen čas
 dera | dninarsko delo, pri katerem si mora delavec prinesti hrano s seboj
 dere | DERA - dninarsko delo, pri katerem si mora delavec prinesti hrano s seboj
@@ -1248,6 +1324,7 @@ deže | DEŽA - okrogla, spodaj širša nizka posoda, zlasti za shranjevanje mas
 deži | DEŽA - okrogla, spodaj širša nizka posoda, zlasti za shranjevanje masti
 dežo | DEŽA - okrogla, spodaj širša nizka posoda, zlasti za shranjevanje masti
 diad | DIADA - [bot.] par homolognih kromosomov, povezan s sinaptičnim kompleksom v profazi mejoze I
+dial | [pravopis]
 dian | DIANA - tip manjšega francoskega osebnega avtomobila z manj zaokroženo karoserijo znamke Citroën
 dias | diapozitiv
 diči | izraža spodbudo, veselje
@@ -1262,7 +1339,7 @@ dihi | DIH - enkraten sprejem zraka v pljuča in njegovo iztisnjenje
 dihu | DIH - enkraten sprejem zraka v pljuča in njegovo iztisnjenje
 diih | DIA - [pravopis] (fot. žarg.) diapozitiv
 dije | DITI - rahlo pihati, pihljati
-dijo | 
+dijo |
 dika | DIKE - [geol.] magmatsko telo, ki se je prečno vrinilo med plasti
 dike | DIKA
 diki | DIKA
@@ -1277,7 +1354,7 @@ dima | temno siva krava
 dime | DIM - plini, pomešani z drobci saj in pepela, ki nastajajo pri zgorevanju
 dimi | DIM - plini, pomešani z drobci saj in pepela, ki nastajajo pri zgorevanju
 dimk | DIMKA - temno siva krava
-dimo | DEJATI - izraziti z besedami, reči
+dimo | DIMA - temno siva krava
 dimu | DIM - plini, pomešani z drobci saj in pepela, ki nastajajo pri zgorevanju
 dina | enota za merjenje sile, stotisočina newtona
 dine | glavni dnevni obrok hrane
@@ -1285,6 +1362,7 @@ dini | DINA - enota za merjenje sile, stotisočina newtona
 dinj | DINJA - kulturna rastlina s plazečim se steblom ali njen rumeni sladki sad
 dino | DINA - enota za merjenje sile, stotisočina newtona
 diod | DIODA - polprevodniška priprava, ki prepušča tok le v eni smeri
+diol | > OKSIRAN - [farm.] v zvezi »hidroliza oksiranov«: metabolična reakcija I. reda iz skupine hidroliz, pri kateri se potencialno toksični oksirani pretvorijo v vicinalne diole
 diom | DIA - [pravopis] (fot. žarg.) diapozitiv
 diov | DIA - [pravopis] (fot. žarg.) diapozitiv
 dira | voz z ravno nakladalno ploskvijo
@@ -1300,12 +1378,11 @@ disk | okrogla lesena, okovana plošča za metanje
 disu | DIS - za polton zvišani ton d
 diše | DIHATI - zajemati zrak v pljuča in ga iz njih iztiskati
 diši | DIHATI - zajemati zrak v pljuča in ga iz njih iztiskati
-dita | DEJATI - izraziti z besedami, reči
-dite | DEJATI - izraziti z besedami, reči
 diti | rahlo pihati, pihljati
 diva | zelo slavna igralka ali pevka
 dive | DIVA - zelo slavna igralka ali pevka
 divi | DIVITI SE - čutiti in izražati občudovanje
+divk | DIVKA - [pravopis]
 divo | DIVA - zelo slavna igralka ali pevka
 dlak | DLAKA - nitast izrastek na koži sesalcev
 dlan | notranja stran roke od zapestja do prstov
@@ -1313,6 +1390,7 @@ dlet | DLETO - orodje za dolbenje s kratkim prečnim rezilom
 dlje | izraža večjo razdaljo
 dneh | DAN - čas štiriindvajsetih ur, ki se začne ob polnoči in traja do polnoči
 dnem | DAN - čas štiriindvajsetih ur, ki se začne ob polnoči in traja do polnoči
+dnen | [pravopis]
 dnih | DNO - spodnji, osnovni del posode ali posodi podobne priprave
 dnik | DNIKA - plitvejša vdolbina, kotanja v zemljišču
 dnil | DNITI - vstavljati dno
@@ -1338,14 +1416,16 @@ doja | DO - solmizacijski zlog, ki označuje ton c ali prvo stopnjo v lestvici
 doje | DO - solmizacijski zlog, ki označuje ton c ali prvo stopnjo v lestvici
 doji | DO - solmizacijski zlog, ki označuje ton c ali prvo stopnjo v lestvici
 dojk | DOJKA - vzboklina na ženskem oprsju z mlečnimi žlezami
+dojo | [sprotni] prostor za vadbo, urjenje v disciplini, (borilnih) veščinah, po izvoru iz Japonske
 doju | DO - solmizacijski zlog, ki označuje ton c ali prvo stopnjo v lestvici
 dojv | DOJVA
 doka | DOK - pristaniška naprava za popravljanje ali čiščenje podvodnih delov ladje
 doke | DOK - pristaniška naprava za popravljanje ali čiščenje podvodnih delov ladje
 doki | DOK - pristaniška naprava za popravljanje ali čiščenje podvodnih delov ladje
+doks | DOKSA - [pravopis]
 doku | DOK - pristaniška naprava za popravljanje ali čiščenje podvodnih delov ladje
 dola | DOL
-dolb | 
+dolb |
 dole | DOL
 dolg | ki ima med skrajnima koncema razmeroma veliko razsežnost
 doli | izraža stanje ali položaj na nižjem kraju
@@ -1364,10 +1444,6 @@ donj | DONJA
 donn | DONA
 dono | DONA
 donu | DON - glas donečega predmeta
-doña | DONJA
-doñe | DONJA
-doñi | DONJA
-doño | DONJA
 dopa | DOP - [gem.] priprava, v katero se pri brušenju s kitom prilepi kamen
 dope | DOP - [gem.] priprava, v katero se pri brušenju s kitom prilepi kamen
 dopi | DOP - [gem.] priprava, v katero se pri brušenju s kitom prilepi kamen
@@ -1380,6 +1456,8 @@ dota | denar, premoženje, ki ga prinese žena v zakon
 dote | DOTA - denar, premoženje, ki ga prinese žena v zakon
 doti | DOTA - denar, premoženje, ki ga prinese žena v zakon
 doto | DOTA - denar, premoženje, ki ga prinese žena v zakon
+doul | DOULA - [sprotni] ženska, ki porodnici nudi podporo, čustveno oporo, pomoč sploh
+dove | DOVEDETI SE
 doza | določena, natančno odmerjena količina česa, navadno zdravila, odmerek
 doze | DOZA - določena, natančno odmerjena količina česa, navadno zdravila, odmerek
 dozi | DOZA - določena, natančno odmerjena količina česa, navadno zdravila, odmerek
@@ -1388,24 +1466,25 @@ doža | DOŽ - voljen dosmrtni poglavar
 dože | DOŽ - voljen dosmrtni poglavar
 doži | DOŽ - voljen dosmrtni poglavar
 dožu | DOŽ - voljen dosmrtni poglavar
-drač | 
+drač |
 drag | ki stane veliko denarja
 dram | DRAMA - literarno delo v obliki dialogov
 drap | ki je zelo svetlo rjave barve
-drat | 
+drat |
 drav | DRAVA - cigareta slabše kakovosti z imenom Drava
 draž | čutno vznemirjenje
 drča | plitva vdolbina v strmem pobočju, navadno za spravljanje lesa v dolino
 drče | DRČA - plitva vdolbina v strmem pobočju, navadno za spravljanje lesa v dolino
 drči | DRČA - plitva vdolbina v strmem pobočju, navadno za spravljanje lesa v dolino
 drčo | DRČA - plitva vdolbina v strmem pobočju, navadno za spravljanje lesa v dolino
+dred | [sprotni] (navadno v množini) lasje, prepleteni, zlepljeni v podolgovat zvitek, podoben kiti
 drek | pri prebavi neizkoriščeni delci hrane, ki jih organizem izloča skozi črevo
 drem | DRETI - odstranjevati kožo z živali, navadno z ostrim predmetom
 dren | grm ali nizko drevo z zelo trdim lesom, drobnimi rumenimi cveti v kobulih in koščičastimi plodovi
 dres | oblačilo za nošenje pri vadbi ali tekmovanju
 dreš | DRETI - odstranjevati kožo z živali, navadno z ostrim predmetom
 dret | DRETI - odstranjevati kožo z živali, navadno z ostrim predmetom
-drev | 
+drev |
 drga | DRGATI
 drič | DRIČA
 dril | urjenje ali učenje z mehaničnim ponavljanjem
@@ -1440,9 +1519,9 @@ druz | DRUZA - skupina kristalov, nastala na ravni podlagi
 drva | razžagan in navadno naklan les za kurjavo
 drvc | DRVCE - manjšalnica od drvo
 drve | DRVETI - zelo hitro se premikati
-drvi | DRVETI - zelo hitro se premikati
-drvo | neroden, okoren človek
-drvu | DRVO - neroden, okoren človek
+drvi | DRVO - razžagan neobdelan kos lesa za kurjavo
+drvo | razžagan neobdelan kos lesa za kurjavo
+drvu | DRVO - razžagan neobdelan kos lesa za kurjavo
 drza | DRZATI - odstranjevati lubje in ličje z debla, ko ni muževno
 drža | način držanja telesa, zlasti pri hoji ali sedenju
 drže | DRŽA - način držanja telesa, zlasti pri hoji ali sedenju
@@ -1456,8 +1535,8 @@ dude | DUDA - gumijast tulec za pitje iz stekleničke ali za sesanje
 dudi | DUDA - gumijast tulec za pitje iz stekleničke ali za sesanje
 dudk | DUDKA
 dudo | DUDA - gumijast tulec za pitje iz stekleničke ali za sesanje
-duel | 
-dueñ | DUENJA - spremljevalka, družabnica mladega dekleta ali žene
+duel |
+duen | DUENJA - spremljevalka, družabnica mladega dekleta ali žene
 duet | skladba za dva glasova ali dve enaki glasbili
 duha | DUH - značilnost, ki se zaznava z vohom
 duhe | DUH - značilnost, ki se zaznava z vohom
@@ -1465,6 +1544,11 @@ duhi | DUH - značilnost, ki se zaznava z vohom
 duhu | DUH - značilnost, ki se zaznava z vohom
 duih | DUO - skladba za dve različni glasbili
 duje | DUTI - (star.) pihati, vleči
+duka | DUKE - [pravopis]
+duke | [pravopis]
+duki | DUKE - [pravopis]
+duks | [pravopis]
+duku | DUKE - [pravopis]
 dula | DUTI - (star.) pihati, vleči
 dule | DUTI - (star.) pihati, vleči
 duli | DUTI - (star.) pihati, vleči
@@ -1492,35 +1576,36 @@ duši | DUŠA - nematerialno, neumrljivo bistvo človeka
 dušk | DUŠKA
 dušo | DUŠA - nematerialno, neumrljivo bistvo človeka
 dušu | DUŠ - koruzni kruh, koruzni žganci
-duti | 
+duti |
 duxa | DUX - [pravopis] (izobr.) voditelj
 duxe | DUX - [pravopis] (izobr.) voditelj
 duxi | DUX - [pravopis] (izobr.) voditelj
 duxu | DUX - [pravopis] (izobr.) voditelj
 dveh | DVA - izraža število dve [2]
-dver | 
+dver |
 dvig | glagolnik od dvigniti ali dvigati
 dvoj | ki je dveh vrst
 dvom | odnos do okolja, ki izključuje zanesljivo sklepanje o resničnosti česa
 dvor | veliko, razkošno grajeno poslopje, vladarjevo bivališče
-dyka | DYKE - [geog.] žilnata magmatska kamnina, ki sega  v večje globine Zemlje
-dyke | [geog.] žilnata magmatska kamnina, ki sega  v večje globine Zemlje
-dyki | DYKE - [geog.] žilnata magmatska kamnina, ki sega  v večje globine Zemlje
-dyku | DYKE - [geog.] žilnata magmatska kamnina, ki sega  v večje globine Zemlje
-dzet | DZETA - [pravopis] grška črka ζ
+dyka | DYKE - [geog.] žilnata magmatska kamnina, ki sega v večje globine Zemlje
+dyke | [geog.] žilnata magmatska kamnina, ki sega v večje globine Zemlje
+dyki | DYKE - [geog.] žilnata magmatska kamnina, ki sega v večje globine Zemlje
+dyku | DYKE - [geog.] žilnata magmatska kamnina, ki sega v večje globine Zemlje
+dzet | DZETA - [epravopis] grška črka ζ
 džek | kdor zaradi svojih uspehov, zanimivih, prijetnih značilnosti vzbuja občudovanje
 džem | v sladkorni raztopini kuhani koščki sadja
 džet | [gem.] fosilni rjavi premog, G = 1,30–1,35, T = 2½, n = 1,66
 džez | JAZZ - popolnoma ali delno improvizirana glasba, ki temelji na folklorni glasbi ameriških črncev
 džin | GIN - žganje z okusom po brinovih jagodah
 džip | majhen osebni terenski avtomobil, ki se uporablja predvsem v vojaške namene
+džul | [esskj] izpeljana merska enota za izražanje energije ali opravljenega dela, ki ustreza energiji ali delu, kot ga opravi sila enega njutna pri premiku telesa za en meter;
 džus | osvežujoča pijača iz drobno zmečkanega sadja, sladkorja in vode ali sodavice
 earl | plemič, za stopnjo nižji od markija
-eben | 
+eben |
 ebol | EBOLA - virus, ki povzroča hemoragično mrzlico
 ecij | [bot.] konidiom pri rjah (Pucciniales), pogosto obdan s kožastim psevdoperidijem v obliki čaše, mehurja ali cevke, ki je lahko raztrgana v trakove, ali je brez psevdoperidija
 edem | nabreklina kože ali organa zaradi nabiranja tekočine
-eden | [tolk.] oznaka za enega izvajalca, eno  tolkalo
+eden | [tolk.] oznaka za enega izvajalca, eno tolkalo
 edil | nadzornik javnega reda, tržne organizacije, javnih zgradb ter organizator javnih prireditev v starem Rimu
 edin | ki je enakih misli, istega mnenja
 efeb | mladenič svobodnega rodu, star okoli 18 let
@@ -1541,6 +1626,7 @@ eisi | EIS - za polton zvišani ton e
 eisu | EIS - za polton zvišani ton e
 ejem | E - šesta črka slovenske abecede
 ejev | E - šesta črka slovenske abecede
+ejga | [esskj] neformalno
 ejih | E - šesta črka slovenske abecede
 ekip | EKIPA - skupina ljudi, sestavljena za določeno delo, nalogo
 eksa | EKSATI - izpiti v dušku do dna (kozarca)
@@ -1552,7 +1638,12 @@ elfu | ELF - [pravopis] škrat
 elis | ELISA - (letalski) vijak, propeler
 elit | ELITA - posamezniki, ki izstopajo po družbenem položaju, pomembnosti, kakovosti
 elka | ELKATI - izgovarjati glas l namesto normalnega (dvoustničnega) u̯
+elko | [gem.] v zvezi »biser elko«: imitacija bisera
+emih | [epravopis] EMO
 emir | visok plemič, knez
+emmy | [epravopis] nagrada
+emom | [epravopis] EMO
+emov | [epravopis] EMO
 emša | EMŠO - starost, leta in s tem povezana pozabljivost, okornost
 emše | EMŠO - starost, leta in s tem povezana pozabljivost, okornost
 emši | EMŠO - starost, leta in s tem povezana pozabljivost, okornost
@@ -1567,7 +1658,12 @@ enka | številka ena
 enke | ENKA - številka ena
 enki | ENKA - številka ena
 enko | ENKA - številka ena
+enoj | [pravopis]
 enot | ENOTA - dogovorjena količina za merjenje količin iste vrste
+ensa | ENS - [pravopis]
+ense | ENS - [pravopis]
+ensi | ENS - [pravopis]
+ensu | ENS - [pravopis]
 eona | EON - (pesn.) vek, doba
 eone | EON - (pesn.) vek, doba
 eoni | EON - (pesn.) vek, doba
@@ -1576,7 +1672,7 @@ epih | EP - pripovedno literarno delo v verzih, ki obširno govori o kakem velik
 epik | kdor piše epska dela, navadno epske pesmi
 epoh | EPOHA - omejeno trajanje z razmerami, okoliščinami, stvarnostjo vred
 epom | EP - pripovedno literarno delo v verzih, ki obširno govori o kakem velikem in slavnem dogodku
-epos | 
+epos | [esskj] dolga pripovedna pesnitev, navadno o pomembnem dogodku, v kateri nastopajo junaki, bogovi
 epov | EP - pripovedno literarno delo v verzih, ki obširno govori o kakem velikem in slavnem dogodku
 erah | ERA - omejeno trajanje z razmerami, okoliščinami, stvarnostjo vred
 eram | ERA - omejeno trajanje z razmerami, okoliščinami, stvarnostjo vred
@@ -1584,14 +1680,21 @@ erar | država kot lastnik premoženja
 erga | ERG - enota za merjenje dela, energije in toplote, desetmilijonina joula
 erge | ERG - enota za merjenje dela, energije in toplote, desetmilijonina joula
 ergi | ERG - enota za merjenje dela, energije in toplote, desetmilijonina joula
-ergo | 
+ergo |
 ergu | ERG - enota za merjenje dela, energije in toplote, desetmilijonina joula
 eros | ljubezen, zlasti čutna
+erot | [pravopis]
+esca | [agr.] glivična bolezen vinske trte, ki jo povzroči kompleks gliv, ki skozi rane okužijo les trte ter zamašijo in uničijo prevodna tkiva v večletnem lesu, zato vinska trta propade
+esce | ESCA - [agr.] glivična bolezen vinske trte, ki jo povzroči kompleks gliv, ki skozi rane okužijo les trte ter zamašijo in uničijo prevodna tkiva v večletnem lesu, zato vinska trta propade
+esci | ESCA - [agr.] glivična bolezen vinske trte, ki jo povzroči kompleks gliv, ki skozi rane okužijo les trte ter zamašijo in uničijo prevodna tkiva v večletnem lesu, zato vinska trta propade
+esco | ESCA - [agr.] glivična bolezen vinske trte, ki jo povzroči kompleks gliv, ki skozi rane okužijo les trte ter zamašijo in uničijo prevodna tkiva v večletnem lesu, zato vinska trta propade
 esej | živahno pisano literarno delo, navadno o kakem kulturnem problemu
+esen | [epravopis] pripadnik judovske ločine
 eser | član drobnoburžoazne protimarksistične stranke
 esih | ES - za polton znižani ton e
 esom | ES - za polton znižani ton e
 esov | ES - za polton znižani ton e
+espe | [epravopis] samostojni podjetnik
 etah | ETA - sedma črka grške abecede
 etam | ETA - sedma črka grške abecede
 etan | gorljiv plin, ki je sestavina nafte
@@ -1601,6 +1704,8 @@ etaž | ETAŽA - del stavbe med dvema stropoma
 eten | nenasičen ogljikovodik, katerega molekula vsebuje dva atoma ogljika
 eter | domnevna snov, ki napolnjuje ves prostor in telesa in po kateri se širi elektromagnetno valovanje
 etik | strokovnjak za etiko
+etil | [pravopis]
+etin | > JEDKOST - [gas.] lastnost snovi ali zmesi, da povzroča razjede tkiva živih organizmov in materialov, zaradi česar nastanejo kemijske opekline in kemijske reakcije, pri katerih se lahko sproščajo nevarni plini, npr. vodik, etin
 etna | ETNO - glasba, ki temelji na glasbeni tradiciji posameznih etničnih skupin
 etne | ETNO - glasba, ki temelji na glasbeni tradiciji posameznih etničnih skupin
 etni | ETNO - glasba, ki temelji na glasbeni tradiciji posameznih etničnih skupin
@@ -1613,15 +1718,17 @@ etri | ETER - domnevna snov, ki napolnjuje ves prostor in telesa in po kateri se
 etru | ETER - domnevna snov, ki napolnjuje ves prostor in telesa in po kateri se širi elektromagnetno valovanje
 etud | ETUDA - instrumentalna ali vokalna skladba, namenjena za vajo
 etui | (vrečici podobna) škatlica za hranjenje majhnih predmetov, tok
+evin | [pravopis]
 evra | EVRO - denarna enota Evropske monetarne unije in nekaterih drugih evropskih držav
 evre | EVRO - denarna enota Evropske monetarne unije in nekaterih drugih evropskih držav
 evri | EVRO - denarna enota Evropske monetarne unije in nekaterih drugih evropskih držav
 evro | denarna enota Evropske monetarne unije in nekaterih drugih evropskih držav
 evru | EVRO - denarna enota Evropske monetarne unije in nekaterih drugih evropskih držav
-ezul | 
+ezul |
 faca | prednja stran glave
 face | FACA - prednja stran glave
 faci | FACA - prednja stran glave
+fack | FACKA - [pravopis]
 faco | FACA - prednja stran glave
 fača | [geog.] stanovanjska planšarska stavba
 fače | FAČA - [geog.] stanovanjska planšarska stavba
@@ -1639,6 +1746,7 @@ fahi | FAH - [gled.] opredelitev igralcev za določene vrste vlog glede na njiho
 fahu | FAH - [gled.] opredelitev igralcev za določene vrste vlog glede na njihove psihofizične lastnosti
 fair | FER - ki je v skladu z določenimi normami, pravili
 faja | FA - solmizacijski zlog, ki označuje ton f ali četrto stopnjo v lestvici
+fajd | FAJDA - [pravopis]
 faje | FA - solmizacijski zlog, ki označuje ton f ali četrto stopnjo v lestvici
 fajf | FAJFA - priprava za kajenje, ki se napolni s tobakom
 faji | FA - solmizacijski zlog, ki označuje ton f ali četrto stopnjo v lestvici
@@ -1671,14 +1779,20 @@ faši | FASATI
 fašk | FAŠKA - več kratko nasekanih in povezanih vej za kurjavo
 favl | ravnanje pri igrah z žogo in hokeju, ki ni v skladu s pravili športne igre
 favn | bog polj in gozdov, upodobljen kot človek s kozjimi nogami
+faxa | [epravopis] FAX
+faxe | [epravopis] FAX
+faxi | [epravopis] FAX
+faxu | [epravopis] FAX
 faza | časovno sklenjen del nastajanja, razvoja česa z vsebinskimi značilnostmi v okviru celote, razvojna stopnja
 faze | FAZA - časovno sklenjen del nastajanja, razvoja česa z vsebinskimi značilnostmi v okviru celote, razvojna stopnja
 fazi | FAZA - časovno sklenjen del nastajanja, razvoja česa z vsebinskimi značilnostmi v okviru celote, razvojna stopnja
 fazo | FAZA - časovno sklenjen del nastajanja, razvoja česa z vsebinskimi značilnostmi v okviru celote, razvojna stopnja
+feak | [pravopis]
 fena | FEN - suh, topel veter, ki nastane pri spuščanju zraka preko gorovij
 fene | FEN - suh, topel veter, ki nastane pri spuščanju zraka preko gorovij
 feni | FEN - suh, topel veter, ki nastane pri spuščanju zraka preko gorovij
 fenu | FEN - suh, topel veter, ki nastane pri spuščanju zraka preko gorovij
+feri | > LEPIDOMELAN - [geol.] črn različek biotita z večjo količino feri železa
 fesa | FES - moško pokrivalo v obliki prisekanega stožca s cofom, navadno rdeče
 fese | FES - moško pokrivalo v obliki prisekanega stožca s cofom, navadno rdeče
 fesi | FES - moško pokrivalo v obliki prisekanega stožca s cofom, navadno rdeče
@@ -1702,14 +1816,18 @@ figa | nizko južno drevo z dlanastokrpimi listi ali njegov sočni, sladki sad
 fige | FIGA - nizko južno drevo z dlanastokrpimi listi ali njegov sočni, sladki sad
 figi | FIGA - nizko južno drevo z dlanastokrpimi listi ali njegov sočni, sladki sad
 figo | FIGA - nizko južno drevo z dlanastokrpimi listi ali njegov sočni, sladki sad
+fiii | [sinonimni]
 fija | FI - [pravopis] grška črka φ
 fije | FI - [pravopis] grška črka φ
 fiji | FI - [pravopis] grška črka φ
 fiju | posnema glas pri žvižganju, piskanju
 fiks | izraža močno podkrepitev trditve
+fila | [sinonimni] mešanica živil, ki se daje med plasti testa, s katero se kaj polni
 filc | blago iz med seboj prepletenih ali zlepljenih naravnih ali umetnih vlaken
 file | meso nekaterih živali s hrbtnega dela ob ledvicah
+fili | FILA - [sinonimni] mešanica živil, ki se daje med plasti testa, s katero se kaj polni
 film | prozoren, prožen trak, prevlečen s snovjo, občutljivo za svetlobo
+filo | FILA - [sinonimni] mešanica živil, ki se daje med plasti testa, s katero se kaj polni
 fina | FIN - ki se vede v skladu z družabnimi pravili in se izbrano oblači
 fine | FIN - ki se vede v skladu z družabnimi pravili in se izbrano oblači
 fini | FIN - ki se vede v skladu z družabnimi pravili in se izbrano oblači
@@ -1723,9 +1841,12 @@ fise | FIS - za polton zvišani ton f
 fisi | FIS - za polton zvišani ton f
 fisu | FIS - za polton zvišani ton f
 five | [smuč.] skok s snežno desko, navadno v snežnem parku, med katerim se deskar obrne okrog vzdolžne osi za krog in pol
+fixi | [sprotni] (mestno) kolo brez prestav in zavor ter s pedali, ki se med vožnjo ves čas vrtijo
 fjel | [geog.] planotasta pokrajina nad zgornjo gozdno mejo v Skandinaviji, z redkimi brezami, grmičevjem, travinjem, mahovi in lišaji
+flak | [pravopis]
 flam | meso s trebuha živali, zlasti goveda in prašiča
 flaš | FLAŠA
+flek | [pravopis]
 fleš | (elektronska) bliskovna luč
 flik | FLIKA
 flip | mešana alkoholna ali brezalkoholna pijača z jajci in sladkorjem
@@ -1735,6 +1856,7 @@ flit | sredstvo za uničevanje mrčesa z razprševanjem
 flok | sprednje pomožno jadro, navadno trikotne oblike
 flop | velik neuspeh, polom
 flor | žalni trak
+flos | [pravopis]
 flot | FLOTA - tekočina za barvanje ali strojenje kož
 foga | FOG - [pravopis] megla
 foge | FOG - [pravopis] megla
@@ -1742,7 +1864,7 @@ fogi | FOG - [pravopis] megla
 fogu | FOG - [pravopis] megla
 foid | [geol.] skupina belih ali sivih alkalnih skeletnih alumosilikatov, ki imajo manj silicija od glinencev
 fojb | FOJBA - kraška jama
-foks | 
+foks |
 folk | glasba, ki temelji na ljudskem izročilu ali je napisana v zanj značilnem slogu
 fona | FON - enota za merjenje glasnosti
 fond | denarna sredstva, določena, zbrana za kak namen, sklad
@@ -1757,7 +1879,7 @@ fore | FORA - preostala količina česa, še potrebna za dosego cilja
 fori | FORA - preostala količina česa, še potrebna za dosego cilja
 form | FORMA - določen videz, ki ga ima stvar v prostoru
 foro | FORA - preostala količina česa, še potrebna za dosego cilja
-fort | 
+fort |
 fota | FOT - enota za merjenje osvetljenosti, 10.000 luksov
 fote | FOT - enota za merjenje osvetljenosti, 10.000 luksov
 foti | FOT - enota za merjenje osvetljenosti, 10.000 luksov
@@ -1765,6 +1887,8 @@ fotk | FOTKA
 foto | fotografsko podjetje
 fotu | FOT - enota za merjenje osvetljenosti, 10.000 luksov
 fovč | nož z zakrivljenim rezilom, zlasti za obrezovanje trt
+fovš | [pravopis]
+foxy | [agr.] v zvezi »foxy okus«: izrazit sladkast okus, ki nastane zaradi kopičenja metil antranilata v grozdnih jagodah in je značilen za grozdje in vino iz samorodnih vrst, iz sort severnoameriških vrst vinske trte in iz direktno rodnih hibridov, npr. za sorte 'Izabela', 'Šmarnica', 'Jurka', 'Concord'
 frač | FRAČA - igrača v obliki rogovilice z elastiko za proženje, metanje kamenčkov
 frak | slavnostni moški suknjič, ki ima zadnji del močno podaljšan in visoko preklan
 frat | FRATA
@@ -1774,12 +1898,14 @@ frča | podstrešna soba, mansarda
 frče | FRČA - podstrešna soba, mansarda
 frči | FRČA - podstrešna soba, mansarda
 frčo | FRČA - podstrešna soba, mansarda
+free | [smuč.] v zvezi »free položaj«: položaj smučarja prostega sloga v legi med iztegnjenim telesom in upogibom
+frej | [plan.] v zvezi »plezanje na frej«: plezanje, pri katerem se za napredovanje ne uporabljajo tehnični pripomočki, razen vrvi / plezanje, pri katerem se tehnični pripomočki, zlasti klini in zagozde, uporabljajo za vmesno varovanje / plezanje, pri katerem se predhodno ali sproti nameščena vmesna varovala, zatikala uporabljajo za varovanje, ne pa za napredovanje / gibanje, katerega privrženci si prizadevajo prosto ponoviti nekdanje tehnične smeri
 fres | podoben barvi jagode, svetlo rožnat
 fret | FRETA - majhna kmetija
 frez | FREZA - priprava z vrtečimi se rezili za prekopavanje zemlje, ki se priključi traktorju
 fric | nemški vojak
 frik | kdor zaradi nenavadnega videza ali vedenja velja za čudaškega človeka
-fris | 
+fris |
 frit | FRITA - lahko taljiva zmes silikatov za proizvodnjo emajla
 friz | del antičnega templja med arhitravom in zatrepom, navadno plastično okrašen in obarvan
 frka | zapletena, težko razrešljiva zadeva
@@ -1788,7 +1914,7 @@ frki | FRKA - zapletena, težko razrešljiva zadeva
 frko | FRKA - zapletena, težko razrešljiva zadeva
 frle | FRLETI - zibaje se lahkotno letati
 frli | FRLETI - zibaje se lahkotno letati
-froc | 
+froc |
 frug | FRUGA - (poljski) pridelki
 frul | FRULA - leseno ljudsko glasbilo, podobno flavti
 ftiz | FTIZA - pljučna tuberkuloza
@@ -1838,7 +1964,7 @@ gaju | GAJ - redek, negovan gozd
 gala | svečana, paradna obleka
 gale | GALA - svečana, paradna obleka
 gali | GALA - svečana, paradna obleka
-gall | GALLA - [farm.] 
+gall | GALLA - [farm.]
 galo | GALA - svečana, paradna obleka
 gama | tretja črka grške abecede
 gamb | GAMBA - čelu podobno glasbilo, navadno s šestimi strunami
@@ -1856,7 +1982,7 @@ gara | v dva ali več krakov razraslo drevo
 gard | GARDA - izbrana, elitna vojaška enota, zlasti za telesno stražo
 gare | ročni voziček, navadno na dveh kolesih
 gari | GARA - v dva ali več krakov razraslo drevo
-garn | 
+garn |
 garo | GARA - v dva ali več krakov razraslo drevo
 gasa | GAS - (nižje pog.) plin
 gase | GASITI - ovirati, preprečevati gorenje
@@ -1866,8 +1992,11 @@ gata | GAT - pristajalna obala, pomol
 gate | spodnje hlače
 gati | GATITI - zaustavljati se, kopičiti se
 gatu | GAT - pristajalna obala, pomol
+gaud | GAUDA - [esskj] neformalno
+gava | [gem.] v zvezi »kamen gava«: imitacija diamanta iz sintetičnega rutila
 gavd | GAVDA - trdi sir v obliki hlebca s tanko svetlo rumeno skorjo
 gavg | GAVGE
+gavs | [pravopis]
 gaya | GAY - moški, ki čuti spolno nagnjenje do oseb istega spola; GEJ
 gaye | GAY - moški, ki čuti spolno nagnjenje do oseb istega spola; GEJ
 gayi | GAY - moški, ki čuti spolno nagnjenje do oseb istega spola; GEJ
@@ -1884,6 +2013,7 @@ gaži | GAŽA - plača, zlasti pri gledaliških igralcih
 gažo | GAŽA - plača, zlasti pri gledaliških igralcih
 geah | GEJA - nežive sestavine zemeljskega površja na določenem območju
 geam | GEJA - nežive sestavine zemeljskega površja na določenem območju
+geek | [sprotni] navdušenec, strokovnjak za določeno strokovno ali interesno področje, zlasti računalništvo
 gega | GAG - presenetljiv, duhovit domislek, zlasti v filmu
 gege | GAG - presenetljiv, duhovit domislek, zlasti v filmu
 gegi | GAG - presenetljiv, duhovit domislek, zlasti v filmu
@@ -1910,7 +2040,7 @@ geno | GENA - [geol.] vsak od obeh stranskih delov naglavnega ščita pri trilob
 gens | skupnost ljudi v rodovno-plemenski družbi, ki so v krvnem sorodstvu
 genu | GEN - osnovna materialna enota dedovanja v celici, dedna osnova
 geod | GEODA - majhna votlina v kamnini ali rudnini, delno ali popolnoma izpolnjena s kristali
-geri | 
+geri |
 gesa | GES - za polton znižani ton g
 gese | GES - za polton znižani ton g
 gesi | GES - za polton znižani ton g
@@ -1925,6 +2055,7 @@ geza | GEZ - pripadnik nizozemskega osvobodilnega gibanja proti Špancem v 16. s
 geze | GEZ - pripadnik nizozemskega osvobodilnega gibanja proti Špancem v 16. stoletju
 gezi | GEZ - pripadnik nizozemskega osvobodilnega gibanja proti Špancem v 16. stoletju
 gezu | GEZ - pripadnik nizozemskega osvobodilnega gibanja proti Špancem v 16. stoletju
+ghee | [sprotni] maščoba, pridobljena s počasnim vretjem masla, ki se izvorno uporablja zlasti v indijski kuhinji
 giba | GIB - premik (dela) telesa iz enega položaja v drugega
 gibe | GIB - premik (dela) telesa iz enega položaja v drugega
 gibi | GIB - premik (dela) telesa iz enega položaja v drugega
@@ -1934,6 +2065,10 @@ gige | GIGA - živahen ples v dvodobnem ali tridobnem taktu, po izvoru iz Anglij
 gigi | GIGA - živahen ples v dvodobnem ali tridobnem taktu, po izvoru iz Anglije
 gigo | GIGA - živahen ples v dvodobnem ali tridobnem taktu, po izvoru iz Anglije
 gigu | GIG - lahek, navadno odprt enovprežen voz na dveh kolesih
+gika | GIK - [sprotni] navdušenec, strokovnjak za določeno strokovno ali interesno področje, zlasti računalništvo
+gike | GIK - [sprotni] navdušenec, strokovnjak za določeno strokovno ali interesno področje, zlasti računalništvo
+giki | GIK - [sprotni] navdušenec, strokovnjak za določeno strokovno ali interesno področje, zlasti računalništvo
+giku | GIK - [sprotni] navdušenec, strokovnjak za določeno strokovno ali interesno področje, zlasti računalništvo
 gild | GILDA - stanovska organizacija obrtnikov iste stroke
 gina | GIN - žganje z okusom po brinovih jagodah
 gine | GIN - žganje z okusom po brinovih jagodah
@@ -1950,7 +2085,7 @@ glad | občutek potrebe po jedi
 glaj | gladka površina, gladina
 glas | zvok, ki ga dela človek z govorilnimi organi
 glav | GLAVA - del človeškega ali živalskega telesa, v katerem so osrednji živčni centri in nekatera čutila
-glaž | 
+glaž |
 gleb | GLEBA - [bot.] notranjost gasterotecija trebuhastih gliv (Lycoperdanae), ki jo sestavlja trama, v kateri so s trosovnico obdane votlinice
 glef | GLEFA - [umetn.] sekalno orožje na drogu z dolgim, zgoraj zakrivljenim enoreznim rezilom in včasih na hrbtišču s kavljem v obliki vranjega kljuna
 glej | izraža opozorilo na to, kar se pojavi, opazi
@@ -1965,8 +2100,10 @@ gloj | GLODATI - z zobmi odlamljati v majhnih kosih
 glos | tekoče ličilo, ki daje ustnicam bleščeč sijaj
 glot | GLOTA
 gluh | ki ni sposoben zaznavati zvokov, glasov
+gluk | [sinonimni] posnema glas tekočine pri prelivanju skozi ozko odprtino
 glum | GLUMA - (gledališka) igra, drama
-glup | 
+glup |
+gmah | [sprotni] (povedkovnik, narečno osrednjeslovensko) stanje brez prepirov, sporov, nereda
 gmot | GMOTA - kar zavzema prostor in navadno (še) nima določene oblike
 gnad | GNADA - naslov za fevdalnega gospoda
 gnal | GNATI - delati, povzročati, da se kaj giblje, premika
@@ -2003,7 +2140,8 @@ gola | GOL - cilj napada pri nekaterih igrah, predvsem z žogo, vrata
 gole | GOL - cilj napada pri nekaterih igrah, predvsem z žogo, vrata
 golf | športna igra na prostem, pri kateri spravljajo igralci krogle v jamice
 goli | GOL - cilj napada pri nekaterih igrah, predvsem z žogo, vrata
-golk | 
+golj | GOLJE - [pravopis]
+golk |
 golo | GOL - ki je brez dlake, las ali perja
 golš | GOLŠA - bolezensko povečana žleza ščitnica
 golt | [čeb.] del prebavne cevi med koreni ustnih delov, v katerega se stekajo izločki goltnih in slinskih žlez, lat. hypopharynx
@@ -2043,6 +2181,7 @@ gram | utežna mera, tisočina kilograma
 gran | angleška in ameriška utežna lekarniška enota, 0,06 g
 grap | GRAPA - jarek, ki ga je strmo v breg naredila voda
 gras | GRASA - veje iglavcev za pokrivanje (oglarske) kope
+gray | [esskj] izpeljana merska enota za izražanje absorbirane doze ionizirajočega sevanja, ki ustreza enemu joulu absorbirane energije na kilogram snovi;
 grba | večja izboklina na hrbtu zaradi skrivljene hrbtenice
 grbe | GRB - stalni simbolični znak države, mesta, plemiške rodbine
 grbi | GRB - stalni simbolični znak države, mesta, plemiške rodbine
@@ -2064,6 +2203,7 @@ greh | kršitev božje ali cerkvene zapovedi
 grej | GRETI - oddajati, dajati toploto
 grel | GRELO - del grelne naprave, ki oddaja toploto
 grem | ITI - premikati se s korakanjem zlasti v določeno smer
+gren | [pravopis]
 greš | ITI - premikati se s korakanjem zlasti v določeno smer
 gret | GRETI - oddajati, dajati toploto
 grez | mehko blato, navadno na dnu stoječih vod
@@ -2072,7 +2212,7 @@ grič | nižji hrib
 grif | žival s ptičjo glavo in krilatim telesom četveronožca ali kače
 gril | priprava z rešetko, ploščo za pečenje navadno nad žerjavico
 grip | GRIPA - nalezljiva bolezen z vročino in vnetjem dihal
-grit | [gem.] naravni ali sintetični diamantni prah za poliranje dragih kamnov, nastal pri brušenju  diamanta
+grit | [gem.] naravni ali sintetični diamantni prah za poliranje dragih kamnov, nastal pri brušenju diamanta
 griv | GRIVA - dolga žimasta dlaka na vratu nekaterih živali, zlasti pri konju
 griz | GRIZA
 griž | GRIŽA - nalezljiva črevesna bolezen s krči v trebuhu in drisko
@@ -2088,7 +2228,8 @@ grla | GRLO - zgornji, razširjeni del sapnika, v katerem sta glasilki
 grlc | GRLCE - manjšalnica od grlo
 grle | GRLETI - oglašati se z grlenim glasom
 grli | GRLO - zgornji, razširjeni del sapnika, v katerem sta glasilki
-grlj | 
+grlj |
+grln | [pravopis]
 grlo | zgornji, razširjeni del sapnika, v katerem sta glasilki
 grlu | GRLO - zgornji, razširjeni del sapnika, v katerem sta glasilki
 grma | GRM - nižja lesnata rastlina, ki se že pri tleh močno razrašča
@@ -2111,10 +2252,11 @@ grši | GRD - ki ima v estetskem pogledu negativne lastnosti
 gršo | GRD - ki ima v estetskem pogledu negativne lastnosti
 gruč | GRUČA - neurejena, strnjena skupina
 grud | GRUDA - kos sprijete prsti
-gruh | 
+gruh |
 gruj | jegulji podobna velika roparska morska riba, Conger conger
 grum | služabnik, ki skrbi za konja in spremlja gospodarja pri jahanju
 grup | GRUPA - več ljudi, ki jih kaj povezuje, druži
+guav | GUAVA - [agr.] subtropska vednozelena sadna vrsta iz družine mirtovk, ki raste kot visok grm ali drevo in ima srednje velike sočne plodove, običajno zelene barve, ki se uporabljajo kot namizno sadje ali za pripravo napitkov
 guba | kar nastane pri mečkanju tkanine, papirja
 gube | GUBA - kar nastane pri mečkanju tkanine, papirja
 gubi | GUBA - kar nastane pri mečkanju tkanine, papirja
@@ -2138,15 +2280,18 @@ gumi | elastična snov, dobljena z vulkanizacijo kavčuka
 gumn | GUMNO - prostor, kjer se navadno mlati
 gumo | GUMA - elastična snov, dobljena z vulkanizacijo kavčuka
 gunj | (volnena) odeja, zlasti slabša
+gunz | GÜNZ - [geog.] starejšepleistocenska poledenitev v Alpah, med okrog 500.000 in 350.000 leti pred sedanjostjo, primerljiva z elstrsko poledenitvijo na severu Evrope in s kansaško poledenitvijo v Severni Ameriki
 gupi | majhna, živobarvna riba, ki se goji zlasti v akvarijih, Lebistes reticulatus
+gura | GURATI - [sprotni] (pogovorno) prebijati se skozi kaj, zlasti (vsakdanje) življenje
 guru | hinduistični duhovni učitelj ali vodja
 gust | GUSTA
+guti | [farm.] v zvezi »guti gumi«:
 guza | (zastar.) zadnjica
 guze | GUZA - (zastar.) zadnjica
 guzi | GUZA - (zastar.) zadnjica
 guzo | GUZA - (zastar.) zadnjica
-günz | [geog.] starejšepleistocenska poledenitev v Alpah, med okrog 500.000 in 350.000 leti pred sedanjostjo, primerljiva z elstrsko poledenitvijo na severu Evrope in s kansaško poledenitvijo v Severni Ameriki
 gvan | GVANO - [geog.] organsko gnojilo kot vir fosfatov in nitratov, ki v debelih plasteh nastaja iz ptičjih iztrebkov zlasti na otokih vzdolž sušne čilske in perujske tihooceanske obale
+gvar | [farm.] v zvezi »gvar gumi«:
 gvaš | slikarska tehnika, pri kateri se s pokrivajočimi vodenimi barvami slika zlasti na papir
 haba | (nar. koroško) perut, krilo
 habe | HABA - (nar. koroško) perut, krilo
@@ -2156,9 +2301,11 @@ haca | HACATI - okorno, težko hoditi
 hada | HAD - kraj pod zemljo, kjer prebivajo mrtvi, podzemlje
 hade | HAD - kraj pod zemljo, kjer prebivajo mrtvi, podzemlje
 hadi | HAD - kraj pod zemljo, kjer prebivajo mrtvi, podzemlje
+hado | [geol.] v zvezi »hado kristal«: vključek kristala v večjem kristalu ojko
 hadu | HAD - kraj pod zemljo, kjer prebivajo mrtvi, podzemlje
 hadž | muslimansko letno romanje v Meko
 haha | posnema glas pri smejanju
+haik | [pravopis]
 hajc | na levo!
 hajd | HAJDI
 hajk | HAJKA - manjša vojaška ali policijska akcija proti partizanskim enotam
@@ -2178,7 +2325,9 @@ hami | HAMA - [geol.] školjka iz skupine hamid, ki živi od krede dalje
 hamo | HAMA - [geol.] školjka iz skupine hamid, ki živi od krede dalje
 hana | HAN - gostišče s prenočišči in prostori za živali
 hane | HAN - gostišče s prenočišči in prostori za živali
+hang | [tolk.] v zvezi »hang boben«: uglašeni jekleni boben v obliki izbočene posode, na katerega se igra s prsti
 hani | HAN - gostišče s prenočišči in prostori za živali
+hank | [tolk.] v zvezi »hank boben«: uglašeni jekleni boben, izdelan iz spodnjega dela plinske jeklenke, na katerega se igra s prsti
 hanu | HAN - gostišče s prenočišči in prostori za živali
 hara | HARE - [bot.] poddeblo streptofitov (Streptophyta), ki obsega najvišje razvite višje zelene alge z vretenčasto razraslo steljko, zgrajeno iz navideznih tkiv, razčlenjeno na rizoidalni del, nodije, internodije in stranske izrastke, s celulozno celično steno, inkrustrirano z apnencem, razmnožujejo pa se vegetativno ter z oogamijo
 hare | [bot.] poddeblo streptofitov (Streptophyta), ki obsega najvišje razvite višje zelene alge z vretenčasto razraslo steljko, zgrajeno iz navideznih tkiv, razčlenjeno na rizoidalni del, nodije, internodije in stranske izrastke, s celulozno celično steno, inkrustrirano z apnencem, razmnožujejo pa se vegetativno ter z oogamijo
@@ -2197,10 +2346,11 @@ hece | HEC - neresen, smešen ali zabaven dogodek
 heci | HEC - neresen, smešen ali zabaven dogodek
 hecu | HEC - neresen, smešen ali zabaven dogodek
 hehe | posnema glas pri smejanju
+heil | [pravopis]
 heja | izraža opozorilo, spodbudo
 hejo | izraža opozorilo
 heka | HEKATI - vdirati v tuje računalniške sisteme in povzročati škodo, zlasti s spreminjanjem, prisvajanjem podatkov
-hekt | 
+hekt |
 hela | [geol.] vsaka od členastih klešč v prvem paru okončin pri heliceratih
 hele | HELA - [geol.] vsaka od členastih klešč v prvem paru okončin pri heliceratih
 heli | HELA - [geol.] vsaka od členastih klešč v prvem paru okončin pri heliceratih
@@ -2235,7 +2385,7 @@ hihi | posnema glas pri smejanju
 hija | HI - [pravopis] grška črka χ
 hije | HI - [pravopis] grška črka χ
 hiji | HI - [pravopis] grška črka χ
-hijo | 
+hijo |
 hiju | HI - [pravopis] grška črka χ
 himn | HIMNA - pesem kot simbol države, organizacije, gibanja
 hipa | HIP - zelo kratek čas
@@ -2266,7 +2416,7 @@ hlap | v plinasto stanje spremenjena tekočina pri temperaturi, ki je nižja od 
 hleb | večjemu krogelnemu odseku podobno oblikovan kruh
 hlev | stavba, prostor za bivanje domačih živali, zlasti večjih
 hlid | rahel, komaj zaznaven veter
-hlip | 
+hlip |
 hlod | odžagano, debelejše deblo brez vej
 hlop | posnema glas udarca, zamaha
 hmka | HMKATI - s hm izražati obotavljanje, pomislek, dvom
@@ -2286,10 +2436,12 @@ hojk | HOJKA
 hojo | HOJA - iglasto drevo s ploščatimi iglicami in gladkim belkasto sivim lubjem
 hola | izraža opozorilo
 hold | [smuč.] gibalno dejanje smučarja prostega sloga, med katerim se ta v zraku upogne in dlje časa drži del smuči z eno ali obema rokama
+holi | [epravopis] indijski praznik
 holm | [geog.] osamel grič ali hrib sredi ravnine ali nižjega reliefa sploh
-homo | [farm.] človek
+homo | [esskj] ki čuti spolno, ljubezensko privlačnost do oseb istega spola
 hona | HONATI - gladko brusiti notranjost valjev pri motorjih z notranjim zgorevanjem
 hond | HONDA - avtomobil, motorno kolo japonske tovarne Honda
+hopa | [esskj] ponazarja skok, hiter premik
 hops | izraža skok
 hora | kolu podoben romunski ljudski ples
 hord | HORDA - velika skupina nasilnih ljudi, navadno vojakov
@@ -2327,7 +2479,7 @@ hrti | HRT - velik, zelo vitek lovski ali športni pes z dolgim, ozkim gobcem
 hrtu | HRT - velik, zelo vitek lovski ali športni pes z dolgim, ozkim gobcem
 hruj | HRUTI - nastopati, pojavljati se zelo glasno in z veliko silo, intenzivnostjo
 hrul | HRUTI - nastopati, pojavljati se zelo glasno in z veliko silo, intenzivnostjo
-hrum | 
+hrum |
 hrup | močni, med seboj pomešani neskladni glasovi, navadno različnega izvora
 hrut | HRUTI - nastopati, pojavljati se zelo glasno in z veliko silo, intenzivnostjo
 hrza | HRZATI - oglašati se z visokimi, tresočimi se glasovi
@@ -2347,6 +2499,7 @@ hudi | HUD - pretirano strog
 hudo | HUD - pretirano strog
 huhu | posnema glas sove, tuljenje, hud jok
 huja | nehaj veslati!
+huje | HUD - pretirano strog
 huka | HUKATI - izdihavati zrak in z njim kaj ogrevati
 hula | rahla izboklina, vzpetina na ravnem ali položnem svetu
 hule | HULA - rahla izboklina, vzpetina na ravnem ali položnem svetu
@@ -2373,9 +2526,10 @@ ibah | IBA - (nar.) grm ali drevo s širokimi, jajčastimi, na spodnji strani be
 ibam | IBA - (nar.) grm ali drevo s širokimi, jajčastimi, na spodnji strani belo dlakavimi listi, Salix caprea; IVA
 ibar | cigareta slabše kakovosti z imenom Ibar
 ibis | tropska ali subtropska močvirska ptica z belim perjem, Threskiornis aethiopica
+ibog | IBOGA - [bot.] > IBOGAIN
 icah | ICA - telica ali majhna krava
 icam | ICA - telica ali majhna krava
-icek | 
+icek |
 icik | ICIKA - telica ali mlada krava
 idah | IDE - trinajsti oziroma petnajsti dan v mesecu
 idam | IDE - trinajsti oziroma petnajsti dan v mesecu
@@ -2413,11 +2567,16 @@ ikre | IKRA - spolna celica, iz katere se razvije riba
 ikri | IKRA - spolna celica, iz katere se razvije riba
 ikrn | ki je iz iker
 ikro | IKRA - spolna celica, iz katere se razvije riba
+iksa | IKS - [epravopis] tuja črka x
+ikse | IKS - [epravopis] tuja črka x
+iksi | IKS - [epravopis] tuja črka x
+iksu | IKS - [epravopis] tuja črka x
 ikta | IKTUS - naglašeno mesto v metričnem vzorcu
 ikte | IKTUS - naglašeno mesto v metričnem vzorcu
 ikti | IKTUS - naglašeno mesto v metričnem vzorcu
 iktu | IKTUS - naglašeno mesto v metričnem vzorcu
 ilih | IL - (star.) ilovica
+ilir | [pravopis]
 ilit | [geog.] sljudi podoben mineral gline, ki se od nje razlikuje po manjši količini kalija
 ilom | IL - (star.) ilovica
 ilov | IL - (star.) ilovica
@@ -2428,14 +2587,16 @@ imej | IMETI - izraža, da je kaj osebkova svojina, lastnina
 imel | IMETI - izraža, da je kaj osebkova svojina, lastnina
 imen | IME - beseda, več besed, ki se uporabljajo za razlikovanje, določevanje
 imet | IMETI - izraža, da je kaj osebkova svojina, lastnina
+imid | > SUKCINIMIDEN - [farm.] v zvezi »sukcinimidni derivati«: antiepileptiki, imidi jantarne kisline, ki se navadno uporabljajo za zdravljenje petit mal epilepsije, npr. etosuksimid
 imun | odporen proti določeni okužbi
-inak | 
+inak |
 inch | INČ - angleška in ameriška dolžinska mera, 2,54 cm
 inča | INČ - angleška in ameriška dolžinska mera, 2,54 cm
 inče | INČ - angleška in ameriška dolžinska mera, 2,54 cm
 inči | INČ - angleška in ameriška dolžinska mera, 2,54 cm
 inčo | INČA
 inču | INČ - angleška in ameriška dolžinska mera, 2,54 cm
+indy | [smuč.] v zvezi »prijem deske indy«: prijem snežne deske med skokom, pri katerem se deskar z zadnjo roko prime za prstni robnik med nogama
 inja | INJE
 inje | [plan.] večji kristali ledu v obliki igel, lusk, peresc, ki nastanejo v brezvetrnih nočeh, na osojah z depozicijo vodnih hlapov iz zraka na navadno dalj časa pod 0 °C ohlajeni podlagi
 inji | INJE
@@ -2449,7 +2610,8 @@ iona | ION - atom, atomska skupina, molekula, ki je pridobila ali izgubila elekt
 ione | ION - atom, atomska skupina, molekula, ki je pridobila ali izgubila elektron(e)
 ioni | ION - atom, atomska skupina, molekula, ki je pridobila ali izgubila elektron(e)
 ionu | ION - atom, atomska skupina, molekula, ki je pridobila ali izgubila elektron(e)
-ipak | 
+ipak |
+ipon | [sprotni] odločilni, zmagovalni rezultat ob gibu, prijemu, ki nasprotnika onesposobi, navadno pri judu
 irca | IRCATI - komunicirati prek sistema IRC
 irha | IRH - mehko usnje iz kož divjadi, drobnice, navadno kosmateno na obeh straneh
 irhe | IRH - mehko usnje iz kož divjadi, drobnice, navadno kosmateno na obeh straneh
@@ -2471,6 +2633,7 @@ isto | tudi, prav tako
 išče | ISKATI - prizadevati si priti do česa
 išči | ISKATI - prizadevati si priti do česa
 itak | poudarja dejstvo, ki je že znano brez nadaljnjih podatkov
+ital | ITALA - [pravopis]
 item | [geol.] ponavljanje kakega geološkega dogajanja v določenih časovnih intervalih, npr. ritmična sedimentacija
 iter | [prav.] stvarna služnost poti
 ivah | IVA - grm ali drevo s širokimi, jajčastimi, na spodnji strani belo dlakavimi listi, Salix caprea
@@ -2481,6 +2644,7 @@ ivja | IVJE - snegu podobna snov, ki se naredi v mrazu in megli, zlasti na drevj
 ivje | snegu podobna snov, ki se naredi v mrazu in megli, zlasti na drevju
 ivji | IVJE - snegu podobna snov, ki se naredi v mrazu in megli, zlasti na drevju
 ivju | IVJE - snegu podobna snov, ki se naredi v mrazu in megli, zlasti na drevju
+ivov | [sinonimni]
 izba | soba, navadno manjša
 izbe | IZBA - soba, navadno manjša
 izbi | IZBA - soba, navadno manjša
@@ -2497,8 +2661,9 @@ izmi | IZEM - poljubna novejša, zlasti literarna, umetnostna, filozofska smer
 izmu | IZEM - poljubna novejša, zlasti literarna, umetnostna, filozofska smer
 izop | primorska rastlina z modrimi, rožnatimi ali belimi cveti v klasu in zelo dišečimi listi
 izum | kar je na novo odkrito, ustvarjeno, zlasti na tehničnem področju
+izve | IZVEDETI - seznaniti se s čim, zlasti s poslušanjem, branjem
 izza | za izražanje usmerjenosti iz položaja za čim
-ižen | 
+ižen |
 ižes | IGO - vprežna priprava, ki se da živali na čelo
 ižna | IŽEN
 ižne | IŽEN
@@ -2523,7 +2688,7 @@ jajc | JAJCE - z lupino obdana spolna celica z dosti hranilnih snovi, iz katere 
 jaka | neiznajdljiv, neroden človek
 jake | JAK - dolgodlako divje ali udomačeno govedo, ki živi v Tibetu, Bos grunniens
 jaki | JAK - dolgodlako divje ali udomačeno govedo, ki živi v Tibetu, Bos grunniens
-jako | JAK - sposoben opravljati naporno fizično delo; MOČEN
+jako | JAK - sposoben opravljati naporno fizično delo
 jaku | JAK - dolgodlako divje ali udomačeno govedo, ki živi v Tibetu, Bos grunniens
 jama | v zemljo narejena vdolbina
 jamb | dvozložna stopica s prvim nepoudarjenim in drugim poudarjenim zlogom
@@ -2553,6 +2718,7 @@ jate | JAT - triintrideseta črka glagolske ali ustrezna črka staroslovanske ci
 jati | JAT - triintrideseta črka glagolske ali ustrezna črka staroslovanske cirilske azbuke
 jato | JATA - večja skupina letečih ali plavajočih živali iste vrste
 jatu | JAT - triintrideseta črka glagolske ali ustrezna črka staroslovanske cirilske azbuke
+java | [gem.] v zvezi »oniks java«: marmor iz okoliša Javapai v Arizoni (ZDA)
 javh | [geog.] fen na Koroškem, na severni strani Karavank
 javi | JAVITI - sporočiti zlasti kaj uradnega pristojnemu organu
 javk | posamezen glas pri javkanju
@@ -2574,7 +2740,7 @@ ječo | JEČA - prostor za osebe, ki jim je odvzeta prostost
 jedi | JED - živilo, pripravljeno za uživanje, navadno z dodatki
 jedk | JEDKA - sredstvo za jedkanje
 jedo | JESTI - dajati hrano, jed v usta in požirati
-jeep | 
+jeep |
 jejo | JESTI - dajati hrano, jed v usta in požirati
 jeka | JEK - ponovljeni glas, zvok, nastal zaradi odboja zvočnih valov
 jeke | JEK - ponovljeni glas, zvok, nastal zaradi odboja zvočnih valov
@@ -2627,10 +2793,10 @@ jinu | JIN - ženski princip v kitajski dualistični filozofiji, nasprotje jang
 jirs | IRS - rdečkasto rjav vol
 joče | JOKATI - izražati veliko čustveno prizadetost, zlasti žalost, ali telesno bolečino s solzami in glasovi
 joči | JOKATI - izražati veliko čustveno prizadetost, zlasti žalost, ali telesno bolečino s solzami in glasovi
-joda | JOD - nekovina sivo črne barve in kovinskega sijaja, element J
-jode | JOD - nekovina sivo črne barve in kovinskega sijaja, element J
-jodi | JOD - nekovina sivo črne barve in kovinskega sijaja, element J
-jodu | JOD - nekovina sivo črne barve in kovinskega sijaja, element J
+joda | JOD - nekovina sivo črne barve in kovinskega sijaja, element I
+jode | JOD - nekovina sivo črne barve in kovinskega sijaja, element I
+jodi | JOD - nekovina sivo črne barve in kovinskega sijaja, element I
+jodu | JOD - nekovina sivo črne barve in kovinskega sijaja, element I
 joga | smer, praksa, da se z dihalnimi vajami in duševno koncentracijo doseže telesna in duševna uravnovešenost, skladnost
 joge | JOGA - smer, praksa, da se z dihalnimi vajami in duševno koncentracijo doseže telesna in duševna uravnovešenost, skladnost
 jogi | kdor v polnosti živi v skladu z jogo 1 in navadno tega uči tudi druge
@@ -2662,13 +2828,14 @@ jota | jed iz kislega zelja ali repe, fižola in krompirja, znana zlasti na Prim
 jote | JOTA - jed iz kislega zelja ali repe, fižola in krompirja, znana zlasti na Primorskem
 joti | JOTA - jed iz kislega zelja ali repe, fižola in krompirja, znana zlasti na Primorskem
 joto | JOTA - jed iz kislega zelja ali repe, fižola in krompirja, znana zlasti na Primorskem
-jour | 
+jour |
 juan | denarna enota Kitajske
 juda | JUDO - šport, pri katerem skušata tekmovalca drug drugega vreči na tla
 jude | JUDO - šport, pri katerem skušata tekmovalca drug drugega vreči na tla
 judi | JUDO - šport, pri katerem skušata tekmovalca drug drugega vreči na tla
 judo | šport, pri katerem skušata tekmovalca drug drugega vreči na tla
 judu | JUDO - šport, pri katerem skušata tekmovalca drug drugega vreči na tla
+jufk | JUFKA - [sprotni] jed iz tanko razvaljanega testa, pečenega na vroči plošči, navadno z mesnim nadevom
 juga | JUGO - južni ali jugovzhodni veter na Jadranskem morju, ko je v Sredozemlju območje nizkega zračnega pritiska
 juge | JUGO - južni ali jugovzhodni veter na Jadranskem morju, ko je v Sredozemlju območje nizkega zračnega pritiska
 jugi | JUGO - južni ali jugovzhodni veter na Jadranskem morju, ko je v Sredozemlju območje nizkega zračnega pritiska
@@ -2684,14 +2851,15 @@ juka | palmi podobna rastlina z ozkimi dolgimi listi na koncu stebla in belimi c
 juke | JUKA - palmi podobna rastlina z ozkimi dolgimi listi na koncu stebla in belimi cveti v socvetju, Yucca
 juki | JUKA - palmi podobna rastlina z ozkimi dolgimi listi na koncu stebla in belimi cveti v socvetju, Yucca
 juko | JUKA - palmi podobna rastlina z ozkimi dolgimi listi na koncu stebla in belimi cveti v socvetju, Yucca
-june | 
+june |
 junt | JUNTA - začasna, navadno iz častnikov sestavljena vlada; HUNTA
+jupi | [esskj] izraža, da je govorec vesel, navdušen
 jura | obdobje mezozoika, v katerem so prevladovali iglavci, so se uveljavili dinozavri in pojavile ptice
 jure | nekoliko omejen, neroden človek
 juri | JURA - obdobje mezozoika, v katerem so prevladovali iglavci, so se uveljavili dinozavri in pojavile ptice
 juro | JURA - obdobje mezozoika, v katerem so prevladovali iglavci, so se uveljavili dinozavri in pojavile ptice
 jurt | JURTA - okrogel, kupolast šotor, narejen zlasti iz kož in klobučevine
-jury | 
+jury |
 jusa | JUS - veda o pravilih, ki urejajo odnose v določeni družbeni skupnosti in določajo kazni za kršitev teh pravil
 juse | JUS - veda o pravilih, ki urejajo odnose v določeni družbeni skupnosti in določajo kazni za kršitev teh pravil
 jusi | JUS - veda o pravilih, ki urejajo odnose v določeni družbeni skupnosti in določajo kazni za kršitev teh pravil
@@ -2710,7 +2878,7 @@ kačo | KAČA - breznog plazilec z dolgim, valjastim telesom
 kaču | KAČ
 kade | KADITI - vdihavati in izdihavati dim kake tleče snovi, zlasti tobaka
 kadi | KADITI - vdihavati in izdihavati dim kake tleče snovi, zlasti tobaka
-kaja | 
+kaja |
 kajb | KAJBA - tesen, zaprt prostor
 kaje | KAJA
 kajh | KAJHA
@@ -2723,7 +2891,7 @@ kaka | KAK - izraža vprašanje po kakovosti, lastnosti, značilnosti
 kake | KAK - izraža vprašanje po kakovosti, lastnosti, značilnosti
 kaki | južno drevo z velikimi listi ali njegov sladki, paradižniku podoben sad
 kako | izraža vprašanje po načinu dejanja, dogajanja, stanja
-kakt | 
+kakt |
 kala | na vlažnih tleh rastoča rastlina s socvetjem, ki ga obdaja velik bel tulec
 kale | KALO - zmanjšanje teže, prostornine ali kvalitete, ki nastane pri blagu med prevozom, predelavo, skladiščenjem
 kali | izraža vprašanje po potrditvi domneve
@@ -2750,13 +2918,14 @@ kapa | pokrivalo brez krajevcev, navadno mehko
 kape | KAPO - jetnik v koncentracijskem taborišču, ki opravlja pazniška dela
 kapi | KAP - naglo prenehanje delovanja življenjsko pomembnih organov zaradi krvavitve ali zamašitve žile
 kapo | jetnik v koncentracijskem taborišču, ki opravlja pazniška dela
+kaps | [sprotni] (navadno v množini, slengovsko) policist
 kapu | KAPO - jetnik v koncentracijskem taborišču, ki opravlja pazniška dela
 kara | KARO - večbarven vzorec, navadno na tkanini, v obliki pravokotno se križajočih črt, prog
 kare | kvadratast, četverokoten kompleks
 kari | ostra indijska začimba, mešanica raznih dišav
 karm | KARMA - dobra in slaba dejanja človeka, ki vplivajo na njegovo usodo ob ponovnem utelešenju
 karo | večbarven vzorec, navadno na tkanini, v obliki pravokotno se križajočih črt, prog
-karp | 
+karp |
 kart | majhen dirkalni avtomobil s šasijo iz jeklenih cevi, navadno brez karoserije in menjalnika
 karu | KARO - večbarven vzorec, navadno na tkanini, v obliki pravokotno se križajočih črt, prog
 kasa | KAS - hiter tek konja, pri katerem se istočasno premikata diagonalna para nog
@@ -2771,10 +2940,8 @@ kaše | KAŠA - jed iz oluščenega prosa
 kaši | KAŠA - jed iz oluščenega prosa
 kašo | KAŠA - jed iz oluščenega prosa
 kašt | KAŠTA - prostor ali stavba za shranjevanje žita
-kata | KAT - [farm.] enota za encimsko aktivnost, ki ustreza enemu molu pretvorjenega substrata v sekundi in se najpogosteje izraža na volumen biološkega vzorca, npr. μkat/L seruma
-kate | KAT - [farm.] enota za encimsko aktivnost, ki ustreza enemu molu pretvorjenega substrata v sekundi in se najpogosteje izraža na volumen biološkega vzorca, npr. μkat/L seruma
-kati | KAT - [farm.] enota za encimsko aktivnost, ki ustreza enemu molu pretvorjenega substrata v sekundi in se najpogosteje izraža na volumen biološkega vzorca, npr. μkat/L seruma
-katu | KAT - [farm.] enota za encimsko aktivnost, ki ustreza enemu molu pretvorjenega substrata v sekundi in se najpogosteje izraža na volumen biološkega vzorca, npr. μkat/L seruma
+kata | KAT - [geol.] stopnja zgornjega oligocena med rupelijem in akvitanijem v mediteranskem razvoju
+katu | KAT - [geol.] stopnja zgornjega oligocena med rupelijem in akvitanijem v mediteranskem razvoju
 kava | zrna, dobljena iz semen kavovca
 kavč | oblazinjeno, navadno široko ležišče s tremi stranicami
 kave | KAVA - zrna, dobljena iz semen kavovca
@@ -2782,7 +2949,7 @@ kavi | KAVA - zrna, dobljena iz semen kavovca
 kavk | KAVKA - ptica golobje velikosti s srebrno sivimi očmi
 kavl | KAVLA - rumena koleraba
 kavo | KAVA - zrna, dobljena iz semen kavovca
-kavs | 
+kavs |
 kavz | KAVZA - [prav.] namen obveznosti, ki je strankama skupen in zaradi katerega skleneta pravni posel
 kazb | KAZBA - osrednji del trdnjave ali mesta, pripravljen za samostojno obrambo
 kaze | KAZITI - delati kaj manj lepo
@@ -2813,7 +2980,7 @@ kelp | [bot.] sestoj velikih morskih rjavih alg reda Laminariales (Phaeophyceae)
 kema | KEM - [geog.] ledeniški nasip v obliki kopastega griča ali nizkega, na vrhu uravnanega hrbta, iz slabo sortiranega gradiva, ki ga voda odloži na robu talečega se ledenega pokrova
 keme | KEM - [geog.] ledeniški nasip v obliki kopastega griča ali nizkega, na vrhu uravnanega hrbta, iz slabo sortiranega gradiva, ki ga voda odloži na robu talečega se ledenega pokrova
 kemi | KEM - [geog.] ledeniški nasip v obliki kopastega griča ali nizkega, na vrhu uravnanega hrbta, iz slabo sortiranega gradiva, ki ga voda odloži na robu talečega se ledenega pokrova
-kemp | 
+kemp |
 kemu | KEM - [geog.] ledeniški nasip v obliki kopastega griča ali nizkega, na vrhu uravnanega hrbta, iz slabo sortiranega gradiva, ki ga voda odloži na robu talečega se ledenega pokrova
 kepa | sneg, stisnjen v kroglasto obliko
 kepe | KEPA - sneg, stisnjen v kroglasto obliko
@@ -2823,6 +2990,7 @@ kepu | KEP - kratko ogrinjalo, navadno žensko
 kera | KER - [geog.] priostrena stolpasta vzpetina sredi ravnejšega površja, značilna za sušna območja
 kere | KER - [geog.] priostrena stolpasta vzpetina sredi ravnejšega površja, značilna za sušna območja
 keri | KER - [geog.] priostrena stolpasta vzpetina sredi ravnejšega površja, značilna za sušna območja
+kerm | KRMA - [agr.] sveži ali konzervirani pridelki rastlinskega izvora ali proizvodi živalskega izvora ter proizvodi in stranski proizvodi njihove industrijske predelave, ki so namenjeni prehrani rejnih živali
 keru | KER - [geog.] priostrena stolpasta vzpetina sredi ravnejšega površja, značilna za sušna območja
 kesa | KES - (knjiž.) neprijetno čustvo človeka ob spoznanju, da je naredil kaj slabega, nepravilnega ali opustil kaj dobrega, koristnega; KESANJE
 kese | KES - (knjiž.) neprijetno čustvo človeka ob spoznanju, da je naredil kaj slabega, nepravilnega ali opustil kaj dobrega, koristnega; KESANJE
@@ -2832,6 +3000,7 @@ keša | KEŠ - (pog.) splošno veljavno plačilno sredstvo v bankovcih ali kovan
 keše | KEŠ - (pog.) splošno veljavno plačilno sredstvo v bankovcih ali kovancih; GOTOVINA
 keši | KEŠ - (pog.) splošno veljavno plačilno sredstvo v bankovcih ali kovancih; GOTOVINA
 kešu | KEŠ - (pog.) splošno veljavno plačilno sredstvo v bankovcih ali kovancih; GOTOVINA
+keto | [sprotni] ki je v zvezi s ketonsko skupino
 kiča | KIČ - okrasni predmet brez umetniške vrednosti
 kiče | KIČ - okrasni predmet brez umetniške vrednosti
 kiči | KIČ - okrasni predmet brez umetniške vrednosti
@@ -2845,7 +3014,7 @@ kija | KIJ - kratka palica z odebeljenim koncem
 kije | KIJ - kratka palica z odebeljenim koncem
 kiji | KIJ - kratka palica z odebeljenim koncem
 kiju | KIJ - kratka palica z odebeljenim koncem
-kiks | 
+kiks |
 kila | izstop organa ali dela organa skozi nenaravno odprtino
 kile | KILA - izstop organa ali dela organa skozi nenaravno odprtino
 kili | KILA - izstop organa ali dela organa skozi nenaravno odprtino
@@ -2853,7 +3022,7 @@ kilo | KILA - izstop organa ali dela organa skozi nenaravno odprtino
 kilt | kratko karirasto krilo za moške
 kima | KIMATI - z glavo delati gibe, navadno navzdol in navzgor
 kina | KINO - poslopje, prostor z napravami za javno predvajanje filmov
-kinč | 
+kinč |
 kine | KINO - poslopje, prostor z napravami za javno predvajanje filmov
 kini | KINO - poslopje, prostor z napravami za javno predvajanje filmov
 kino | poslopje, prostor z napravami za javno predvajanje filmov
@@ -2862,12 +3031,18 @@ kipa | KIP - delo, izdelek iz trdnega materiala, ki navadno predstavlja živo bi
 kipe | KIP - delo, izdelek iz trdnega materiala, ki navadno predstavlja živo bitje ali predmet
 kipi | KIP - delo, izdelek iz trdnega materiala, ki navadno predstavlja živo bitje ali predmet
 kipu | KIP - delo, izdelek iz trdnega materiala, ki navadno predstavlja živo bitje ali predmet
+kiri | [pravopis]
+kiro | [gem.] v zvezi »biser kiro«: imitacija bisera
 kisa | KIS - tekočina kislega okusa, ki se uporablja zlasti kot začimba
 kise | KIS - tekočina kislega okusa, ki se uporablja zlasti kot začimba
 kisi | KIS - tekočina kislega okusa, ki se uporablja zlasti kot začimba
-kist | 
+kist |
 kisu | KIS - tekočina kislega okusa, ki se uporablja zlasti kot začimba
+kiša | KIŠ - [sprotni] pita z nadevom iz umešanih jajc in smetane, navadno s koščki sira, zelenjave, po izvoru iz Francije
+kiše | KIŠ - [sprotni] pita z nadevom iz umešanih jajc in smetane, navadno s koščki sira, zelenjave, po izvoru iz Francije
+kiši | KIŠ - [sprotni] pita z nadevom iz umešanih jajc in smetane, navadno s koščki sira, zelenjave, po izvoru iz Francije
 kišt | KIŠTA
+kišu | KIŠ - [sprotni] pita z nadevom iz umešanih jajc in smetane, navadno s koščki sira, zelenjave, po izvoru iz Francije
 kita | iz treh ali več pramenov spleteni lasje
 kite | KIT - največji, ribi podoben morski sesalec z vretenastim telesom in zakrnelimi zadnjimi končinami
 kiti | KIT - največji, ribi podoben morski sesalec z vretenastim telesom in zakrnelimi zadnjimi končinami
@@ -2891,7 +3066,7 @@ klej | lepilo, pridobljeno zlasti iz nekaterih živalskih snovi
 klek | zimzeleno drevo ali grm s ploščatimi poganjki in majhnimi olesenelimi storžki, Thuja
 klen | sladkovodna riba z veliko glavo in zlato rumeno liso na bokih
 klep | posnema glas pri klepanju
-kler | 
+kler |
 klet | del stavbe od pritličja navzdol, navadno v zemlji
 klic | glasno izgovorjeno, izrečeno, navadno kako ime
 klif | [geog.] visoka, strma, navpična, mestoma celo previsna skalna stena, nastala zaradi dolgotrajnega erozijskega delovanja morskih ali jezerskih valov
@@ -2903,6 +3078,7 @@ klin | paličast, na eni strani priostren kos lesa, železa, ki se v kaj zabije
 klip | posnema glas naprav v mlinu na vodo
 klit | KLITI - poganjati kal(i)
 klob | klobčič, svitek, navadno velik
+kloč | KLOČA - [sinonimni]
 klof | posnema glas pri klofuti
 klok | posnema glas koklje, divjega petelina
 klon | umetno narejen rastlinski, živalski organizem, ki je popolnoma enak drugemu organizmu
@@ -2911,12 +3087,14 @@ klor | dušljiv, strupen plin rumeno zelene barve, element Cl
 klot | gladka enobarvna bombažna tkanina za podloge, delovne halje, prešite odeje
 klož | KLOŽA - plast iz snega, ki ga je nanesel in stisnil veter
 klub | organizacija, ki združuje ljudi s skupnimi interesi
+kluk | [sinonimni]
 klup | KLUPA - orodje za merjenje debeline lesa
 kmet | kdor ima zemljo in jo obdeluje ter se s tem preživlja
-knap | 
+knap |
 knez | plemič, za stopnjo višji od grofa
 knid | KNIDA - [geol.] iztegljiv organel knidarija, ki je nameščen v knidociti
-knof | 
+knip | [agr.] v zvezi »knip sadika«: sadika sadnih rastlin, cepljena z okulacijo, ki ima triletni koreninski sistem, dveletno deblo in enoletno dobro obraščeno krošnjo
+knof |
 knut | KNUTA - bič s tremi, na koncu razpletenimi jermeni z vozli
 koah | KOA - [umetn.] trdi filipinski in havajski les rdečkaste do temnorjave barve z izrazitimi črtastimi progami, vrsta akacije, v rabi za zahtevno pohištvo, glasbene instrumente in zlasti kot okrasni furnir
 koal | KOALA - medvedu podoben rastlinojedi avstralski sesalec, Phascolarctus cinereus
@@ -2938,7 +3116,8 @@ kode | KODA - dogovorjen znak, sestavljen iz enega ali več znakov, ki predstavl
 kodi | KODA - dogovorjen znak, sestavljen iz enega ali več znakov, ki predstavlja določen podatek, informacijo
 kodo | KODA - dogovorjen znak, sestavljen iz enega ali več znakov, ki predstavlja določen podatek, informacijo
 kodu | KOD - sistem dogovorjenih znakov, ki predstavlja določene podatke, informacije
-kofe | 
+kofe |
+koft | KOFTA - [sprotni] (navadno v množini, zlasti v orientalskem okolju) jed iz mletega mesa, navadno v obliki kroglic in z omako
 koga | KDO - izraža vprašanje po neznani osebi
 koja | kabina, navadno na ladji
 koje | KOJA - kabina, navadno na ladji
@@ -2950,6 +3129,7 @@ koke | KOKA - tropski grm, katerega listi vsebujejo kokain, Erythroxylon coca
 koki | KOKA - tropski grm, katerega listi vsebujejo kokain, Erythroxylon coca
 koko | KOKA - tropski grm, katerega listi vsebujejo kokain, Erythroxylon coca
 koks | gorivo velike kalorične vrednosti, pridobljeno z destilacijo črnega premoga
+kokt | KOKTA - [pravopis]
 koku | KOK - bakterija v obliki kroglice
 kola | tropsko drevo, katerega semena vsebujejo tein, Cola vera
 kolc | glas, ki nastane pri kolcanju
@@ -2967,8 +3147,11 @@ koma | plinski ovoj, ki obdaja jedro kometa
 kome | KOMA - plinski ovoj, ki obdaja jedro kometa
 komi | trgovski pomočnik, prodajalec
 komo | KOMA - plinski ovoj, ki obdaja jedro kometa
+komp | [sprotni] (pogovorno) računalnik
 komu | KDO - izraža vprašanje po neznani osebi
+konč | [gem.] v zvezi »biser konč«: ovalen svetlordeč biser, ki nastane v školjki vrste Strombas gigas
 kong | KONGE - [tolk.] set bobnov različnih velikosti v obliki podolgovatega soda z eno opno, na katero se udarja z rokami (tumba, manjši konga, še manjši kvinto, najmanjši nino), značilen za južnoameriško glasbo
+konh | KONHA - [pravopis]
 konj | večja domača žival z dolgo grivo in dolgim repom, zlasti za ježo in vprego
 kont | KONTA - fantovska družba pri ziljskem štehvanju
 konv | KONVA
@@ -2976,6 +3159,7 @@ kopa | velik kup, zložen navadno zaradi sušenja
 kope | KOPETI - zaradi kvarjenja dobivati, imeti vonj in okus po plesnivem
 kopi | KOPETI - zaradi kvarjenja dobivati, imeti vonj in okus po plesnivem
 kopo | KOPA - velik kup, zložen navadno zaradi sušenja
+kopt | [epravopis] pripadnik krščanske vere v Egiptu
 kopu | KOP - kraj, prostor na površini zemlje, kjer se koplje ruda
 kora | KOR - dvignjeni del cerkve, namenjen za orgle in pevce
 kord | rebričasti žamet
@@ -2983,6 +3167,7 @@ kore | KOR - dvignjeni del cerkve, namenjen za orgle in pevce
 kori | KOR - dvignjeni del cerkve, namenjen za orgle in pevce
 kork | [smuč.] pripomoček pravokotne oblike iz naravnih ali sintetičnih materialov za razmazovanje trdih in poltrdih maž, nanesenih na drsno ploskev smuči
 korm | iz matičnega osebka nastali osebki, ki so med seboj organsko povezani
+koro | [gem.] v zvezi »biser koro«: imitacija bisera
 koru | KOR - dvignjeni del cerkve, namenjen za orgle in pevce
 kosa | orodje z dolgim rezilom in dolgim ročajem za košenje trave
 kose | KOSA - orodje z dolgim rezilom in dolgim ročajem za košenje trave
@@ -3015,7 +3200,7 @@ koži | KOŽA - tanjša prevleka, sestavljena iz več plasti, na telesu
 kožo | KOŽA - tanjša prevleka, sestavljena iz več plasti, na telesu
 krač | KRAČA - spodnji del noge pri prašiču
 krad | KRADA - skladovnica (drv)
-krah | 
+krah |
 kraj | del zemeljske površine, naseljen tako, da tvori zaključeno celoto
 krak | posnema hreščeč glas, pok
 kral | KRASTI - jemati kaj s prisvojitvenim namenom na skrivaj ter brez dovoljenja in vednosti lastnika
@@ -3032,7 +3217,7 @@ krči | KRČ - nehoteno, boleče delovanje mišic, pri katerem se spremeni zlast
 krču | KRČ - nehoteno, boleče delovanje mišic, pri katerem se spremeni zlasti njihova napetost
 kreč | blazinasta ali rušnata gorska rastlina s posameznimi ali v latasto socvetje združenimi cveti, Saxifraga
 kred | KREDA - snov za pisanje po večjih površinah, navadno v obliki podolgovatega predmeta
-kreg | 
+kreg |
 krek | posnema glas čigre ali nekaterih drugih ptic
 krem | podoben barvi smetane, rumeno bel
 krep | tkanina z drobnozrnato površino, navadno za ženske obleke
@@ -3040,7 +3225,7 @@ kres | udarec s čim ob kaj trdega, tako da pride do trenja in nastanejo iskre
 kreš | KREŠA - enoletna, navadno kulturna rastlina z belimi ali rdečimi cveti v socvetju, Lepidium sativum
 krez | velik bogataš
 krha | KRHATI - delati, povzročati, da rezilo izgublja ostrino
-krič | 
+krič |
 krij | KRITI - delati, da je kaj nevidno
 krik | močen, rezek glas
 kril | KRILO - žensko oblačilo, ki pokriva spodnji del telesa
@@ -3158,6 +3343,8 @@ kvas | snov iz kvasovk, navadno za vzhajanje testa
 kvaš | KVAŠA - zmes zelenjave, začimb in kisa, v kateri se kvasi meso, navadno meso divjačine
 kven | [geol.] plast peščenega mulja pod prstjo na Ljubljanskem barju v okolici Vrhnike
 kvik | posnema glas prašička, miši
+kvin | [gem.] v zvezi »niz kvin«: 80 cm dolg niz iz enako velikih biserov
+kvir | [esskj] skupek, celota teoretskih spoznanj in družbenopolitičnih načel o spolni usmerjenosti, ki ni heteroseksualna, in spolni identiteti, ki se ne ujema s spolom, opredeljenim, pripisanim ob rojstvu
 kvit | brez dolga, brez obveznosti, na čistem
 kviz | tekmovanje, na katerem morajo udeleženci odgovarjati na vprašanja, navadno iz določenih tem
 kvot | KVOTA
@@ -3165,7 +3352,7 @@ lada | avtomobil ruske tovarne AvtoVAZ
 lade | LADA - avtomobil ruske tovarne AvtoVAZ
 ladi | LADA - avtomobil ruske tovarne AvtoVAZ
 lado | LADA - avtomobil ruske tovarne AvtoVAZ
-lady | 
+lady | [epravopis] plemiški naziv
 laha | LAH - [pravopis] italijanski okupatorski vojak
 lahe | LAH - [pravopis] italijanski okupatorski vojak
 lahi | LAH - [pravopis] italijanski okupatorski vojak
@@ -3173,7 +3360,7 @@ lahu | LAH - [pravopis] italijanski okupatorski vojak
 laik | kdor se na kako stroko slabo spozna, nestrokovnjak
 laja | LA - solmizacijski zlog, ki označuje ton a ali šesto stopnjo v lestvici
 laje | LA - solmizacijski zlog, ki označuje ton a ali šesto stopnjo v lestvici
-lajf | 
+lajf |
 laji | LA - solmizacijski zlog, ki označuje ton a ali šesto stopnjo v lestvici
 lajk | LAJKA - delovni severni pes z gosto in trdo dlako ter s košatim, zavitim repom
 lajn | LAJNA - glasbilo v obliki zabojčka z ročico, s katero se poganja mehanizem za proizvajanje melodije
@@ -3294,7 +3481,7 @@ lete | LETETI - premikati se po zraku z letalnimi organi, zlasti s perutmi, kril
 leti | LETO - čas dvanajstih mesecev, ki se začne 1. januarja in traja do 31. decembra
 leto | čas dvanajstih mesecev, ki se začne 1. januarja in traja do 31. decembra
 letu | LETO - čas dvanajstih mesecev, ki se začne 1. januarja in traja do 31. decembra
-leut | 
+leut |
 leva | majhnemu ognjišču podobna vdolbina v zidu, v kateri gorijo trske za razsvetljavo
 leve | LEVA - majhnemu ognjišču podobna vdolbina v zidu, v kateri gorijo trske za razsvetljavo
 levi | ki je na isti strani telesa kot srce
@@ -3356,6 +3543,7 @@ limb | polkrožni kovinski trak, plošča z lestvico pri pripravi za merjenje ko
 lime | LIM - (pog.) lepilo
 limf | LIMFA - belkasta, krvni plazmi podobna tekočina v organizmu človeka in nekaterih višje razvitih živali, mezga
 limi | LIM - (pog.) lepilo
+limk | LIMKA - [sprotni] (slengovsko, ekspresivno) pripadnica mladinske subkulture z belo obutvijo, belimi nogavicami, dolgimi nalakiranimi nohti in dolgimi ravnimi lasmi
 limu | LIM - (pog.) lepilo
 lina | oknu podobna odprtina, navadno manjša
 linč | uboj krivca, osumljenca takoj, brez zakonitega sojenja
@@ -3379,7 +3567,7 @@ lisi | LISA - mesto, ki ima drugačno barvo ali videz kot ostala površina
 lisk | LISKA - lisasta krava
 liso | LISA - mesto, ki ima drugačno barvo ali videz kot ostala površina
 list | navadno zelen, ploščat del rastline, ki raste iz veje, stebla
-lišp | 
+lišp |
 lita | LITI - silovito in v velikih količinah, močnem curku teči
 lite | LITI - silovito in v velikih količinah, močnem curku teči
 liti | silovito in v velikih količinah, močnem curku teči
@@ -3388,17 +3576,23 @@ lito | LITI - silovito in v velikih količinah, močnem curku teči
 liva | LIV - kovina, iz katere se ulivajo predmeti; LITINA
 live | LIV - kovina, iz katere se ulivajo predmeti; LITINA
 livi | LIV - kovina, iz katere se ulivajo predmeti; LITINA
+livk | LIVKA - [esskj] goba z lijastim klobukom in trosovnico z gostejšimi lističi, ki delno poraščajo bet
 livu | LIV - kovina, iz katere se ulivajo predmeti; LITINA
+liza | [farm.] v zvezi »liza celice«: poškodba ali popoln propad celične membrane, ki ju lahko povzročijo različni dejavniki, npr. protitelesa, ki aktivirajo komplement, okužbe z nekaterimi virusi in bakterijami ali ozmotski mehanizmi, posledica je sproščanje celične vsebine ali celična smrt
+lize | LIZA - [farm.] v zvezi »liza celice«: poškodba ali popoln propad celične membrane, ki ju lahko povzročijo različni dejavniki, npr. protitelesa, ki aktivirajo komplement, okužbe z nekaterimi virusi in bakterijami ali ozmotski mehanizmi, posledica je sproščanje celične vsebine ali celična smrt
+lizi | LIZA - [farm.] v zvezi »liza celice«: poškodba ali popoln propad celične membrane, ki ju lahko povzročijo različni dejavniki, npr. protitelesa, ki aktivirajo komplement, okužbe z nekaterimi virusi in bakterijami ali ozmotski mehanizmi, posledica je sproščanje celične vsebine ali celična smrt
+lizo | LIZA - [farm.] v zvezi »liza celice«: poškodba ali popoln propad celične membrane, ki ju lahko povzročijo različni dejavniki, npr. protitelesa, ki aktivirajo komplement, okužbe z nekaterimi virusi in bakterijami ali ozmotski mehanizmi, posledica je sproščanje celične vsebine ali celična smrt
 liže | LIZATI - premikati jezik po čem
 liži | LIZATI - premikati jezik po čem
 ljub | do katerega ima kdo zelo pozitiven čustveni odnos
-ljud | 
+ljud |
 ljut | ki ne obvladuje svojih negativnih lastnosti
 loba | LOBATI - udariti, vreči žogo, da zleti čez nasprotnega igralca
 lobe | LOB - udarec, met, da zleti žoga čez nasprotnega igralca
 lobi | neformalna skupina ljudi, ki si prizadeva uveljaviti svoje politične interese
 lobu | LOB - udarec, met, da zleti žoga čez nasprotnega igralca
 loča | LOČ - (star.) travi podobna rastlina, ki raste zlasti na vlažnih tleh; LOČEK
+ločb | LOČBA - [farm.] v zvezi »kromatografska ločba«: ločevanje posameznih komponent iz zmesi s kromatografijo
 loče | LOČ - (star.) travi podobna rastlina, ki raste zlasti na vlažnih tleh; LOČEK
 loči | LOČ - (star.) travi podobna rastlina, ki raste zlasti na vlažnih tleh; LOČEK
 loču | LOČ - (star.) travi podobna rastlina, ki raste zlasti na vlažnih tleh; LOČEK
@@ -3439,6 +3633,7 @@ lopi | LOPA - pokrit prostor za shranjevanje vozov, kmečkega orodja, strojev
 lopo | LOPA - pokrit prostor za shranjevanje vozov, kmečkega orodja, strojev
 lord | naslov za višjega plemiča
 lori | v Aziji in Afriki živeče polopice z velikimi očmi, Lorisidae
+loro | [prav.] v zvezi »loro akreditiv«: akreditiv, ki ga tuj uvoznik odpre v korist domačega akreditivnega upravičenca
 losa | LOS - v arktičnih predelih živeči jelen z lopatastim rogovjem
 lose | LOS - v arktičnih predelih živeči jelen z lopatastim rogovjem
 losi | LOS - v arktičnih predelih živeči jelen z lopatastim rogovjem
@@ -3472,7 +3667,7 @@ luča | LUČATI
 lučc | LUČCA - manjšalnica od luč
 luči | LUČ - vir umetne svetlobe
 lučk | LUČKA - manjšalnica od luč
-lues | 
+lues |
 luga | LUG - prevreta tekočina s pralnim sredstvom
 luge | LUG - prevreta tekočina s pralnim sredstvom
 lugi | LUG - prevreta tekočina s pralnim sredstvom
@@ -3499,6 +3694,7 @@ lupe | LUPA - preprosta optična priprava za opazovanje majhnih stvari
 lupi | LUPA - preprosta optična priprava za opazovanje majhnih stvari
 lupo | LUPA - preprosta optična priprava za opazovanje majhnih stvari
 lusk | iz dveh plodnih listov nastali podolgovati mnogosemenski suhi plod
+luta | LUTATI - [sprotni] (pogovorno) hoditi, premikati se brez jasnega cilja, namena
 lutk | LUTKA - majhna figura, ki predstavlja človeka, žival, za uprizarjanje iger
 luxa | LUKS - enota za merjenje osvetljenosti
 luxe | LUKS - enota za merjenje osvetljenosti
@@ -3509,6 +3705,7 @@ luže | LUŽA - manjša, plitvejša kotanja s stoječo vodo
 luži | LUŽITI - z lužilom povzročati v lesu spremembo naravnega barvnega tona in bolj vidno strukturo
 lužo | LUŽA - manjša, plitvejša kotanja s stoječo vodo
 maar | [geog.] do nekaj tisoč m široka in nekaj sto m globoka lijakasta vdolbina, nastala z eksplozijo vulkanskih plinov, v vlažnem podnebju napolnjena z vodo
+mabe | [gem.] v zvezi »biser mabe«: polovični votel biser, ki nastane s pričvrstitvijo polovičnega jedra iz stekla, plastike ali keramike na notranji del lupine školjke Pteria penguin, napolnjen s smolo, voskom ali plastiko, tudi zlepljen
 maca | [kamn.] kladivo za dvoročno uporabo, težje od 3 kg, ki se uporablja za razkol večjih surovih kamnov ali tombolonov na manjše kose ali za nabijanje po zagozdah pri lomljenju naravnega kamna
 mace | MACA - [kamn.] kladivo za dvoročno uporabo, težje od 3 kg, ki se uporablja za razkol večjih surovih kamnov ali tombolonov na manjše kose ali za nabijanje po zagozdah pri lomljenju naravnega kamna
 mach | Machovo število
@@ -3591,8 +3788,11 @@ mate | čaj iz listov paragvajske bodike
 mati | ženska v odnosu do svojega otroka
 matk | MATKA
 matu | MAT - položaj v igri, v katerem se kralj ne more ubraniti napadu
+maza | MAZ - [sinonimni] mast, mazilo, premaz
 mazd | MAZDA - avtomobil japonske tovarne Mazda
+maze | MAZ - [sinonimni] mast, mazilo, premaz
 mazi | MAZ - (knjiž.) mazilo, mast
+mazu | MAZ - [sinonimni] mast, mazilo, premaz
 maža | [smuč.] raznobarvna snov, izdelana za različne vrste in temperature snega, za mazanje drsne ploskve smuči ali njenih delov, s čimer se izboljša drsnost, preprečuje oprijem snega in zdrsavanje, na primer pri teku na smučeh
 maže | MAZATI - nanašati tanko plast mastne ali tekoče snovi
 maži | MAZATI - nanašati tanko plast mastne ali tekoče snovi
@@ -3606,8 +3806,9 @@ meču | MEČ - orožje z držajem in dolgim ravnim rezilom za sekanje in vbadanj
 meda | MED - sladka snov, ki jo delajo čebele iz nektarja ali mane
 mede | MESTI - povzročati, da kdo nima urejenih, pravilnih misli, predstav
 medi | MESTI - povzročati, da kdo nima urejenih, pravilnih misli, predstav
-medo | 
+medo |
 medu | MED - sladka snov, ki jo delajo čebele iz nektarja ali mane
+meee | [esskj] posnema glas koze
 mega | zelo velik, pomemben
 meha | MEH - priprava, ki ob stiskanju in raztegovanju dovaja za gorenje potrebni zrak
 mehe | MEH - priprava, ki ob stiskanju in raztegovanju dovaja za gorenje potrebni zrak
@@ -3644,8 +3845,8 @@ mera | enota za merjenje
 mere | MER - predstojnik merije, župan
 meri | MERITI - ugotavljati, določati, koliko dogovorjenih enot kaj obsega, vsebuje
 mero | MERA - enota za merjenje
+mers | [epravopis] bolezen
 meru | MER - predstojnik merije, župan
-merv | MRVA - posušena trava
 mesa | MESO - navadno rjavkasto rdeče tkivo živalskega telesa, zlasti mišičje, kot hrana
 mesc | MESCE - manjšalnica od meso
 mese | MESA - [geog.] osamljena puščavska vzpetina z ravnim vrhom in strmimi pobočji, sestavljena iz navadno vodoravnih in trših skladov, kot so v okoliškem nižjem svetu, preostanek nekdanje večje planote, ki jo je v obdobju vlažnejšega podnebja razrezala rečna erozija
@@ -3710,8 +3911,11 @@ miro | MIRA - dišeča smola nekaterih tropskih dreves
 mirt | MIRTA - zimzelen sredozemski grm s suličastimi listi in dišečimi belimi cveti
 miru | MIR - stanje brez vojne, spopadov
 misa | MISATI SE - goliti se
+mise | MISO - [esskj] začimbna pasta iz fermentirane soje in riža ali ječmena
 misi | MISITI SE - goliti se
+miso | [esskj] začimbna pasta iz fermentirane soje in riža ali ječmena
 miss | ženska, izbrana za najlepšo na lepotnem tekmovanju
+misu | MISO - [esskj] začimbna pasta iz fermentirane soje in riža ali ječmena
 miša | MIŠ - majhen, škodljiv glodavec z dolgim, golim repom, ki se hrani z živili, poljskimi pridelki
 miše | MIŠ - majhen, škodljiv glodavec z dolgim, golim repom, ki se hrani z živili, poljskimi pridelki
 miši | MIŠ - majhen, škodljiv glodavec z dolgim, golim repom, ki se hrani z živili, poljskimi pridelki
@@ -3737,10 +3941,10 @@ mlek | MLEKO - bela tekočina, ki se izloča pri samicah sesalcev določen čas 
 mlel | MLETI - z napravo drobiti žito
 mlen | MLETI - z napravo drobiti žito
 mlet | MLETI - z napravo drobiti žito
-mlev | 
+mlev |
 mlin | naprava za mletje žita
 mnog | ki izraža veliko število oseb, stvari od kake celote
-množ | 
+množ |
 moah | MOA - v holocenu izumrla velika, noju podobna ptica
 moam | MOA - v holocenu izumrla velika, noju podobna ptica
 moba | MOB - (knjiž., zastar.) drhal, sodrga
@@ -3760,6 +3964,7 @@ moha | MOHO - [geog.] stična ploskev med Zemljino skorjo in Zemljinim plaščem
 mohe | MOHO - [geog.] stična ploskev med Zemljino skorjo in Zemljinim plaščem, povprečno v globini 35 km, kjer se spremeni smer potresnih valov
 mohi | MOHO - [geog.] stična ploskev med Zemljino skorjo in Zemljinim plaščem, povprečno v globini 35 km, kjer se spremeni smer potresnih valov
 moho | [geog.] stična ploskev med Zemljino skorjo in Zemljinim plaščem, povprečno v globini 35 km, kjer se spremeni smer potresnih valov
+mohr | [geog.] v zvezi »mohr humus«:
 mohu | MOHO - [geog.] stična ploskev med Zemljino skorjo in Zemljinim plaščem, povprečno v globini 35 km, kjer se spremeni smer potresnih valov
 moja | MOJ - izraža svojino govorečega, gledano z njegovega stališča
 moje | MOJ - izraža svojino govorečega, gledano z njegovega stališča
@@ -3769,18 +3974,20 @@ moka | izdelek, ki se pridobi z mletjem žita in uporablja za pripravo živil
 moke | MOKA - izdelek, ki se pridobi z mletjem žita in uporablja za pripravo živil
 moki | MOKA - izdelek, ki se pridobi z mletjem žita in uporablja za pripravo živil
 moko | MOKA - izdelek, ki se pridobi z mletjem žita in uporablja za pripravo živil
+moks | MOKSA - [sprotni] zdravilna rastlina s svetlo sivimi listi grenkega okusa, ki se kot kadilo uporablja zlasti v tradicionalni kitajski medicini; Artemisia vulgaris
 moku | MOK
 mola | MOL - masa čiste snovi v gramih, ki številčno ustreza njeni molekulski masi
 mole | MOLITI - imeti, ohranjati kaj v položaju, da seže bolj daleč kot sosednje stvari
 moli | MOLITI - imeti, ohranjati kaj v položaju, da seže bolj daleč kot sosednje stvari
 molj | droben metulj, katerega ličinka uničuje tekstilno blago, žito
 molk | stanje, ko se ne govori
-molo | 
+molo |
 molu | MOL - masa čiste snovi v gramih, ki številčno ustreza njeni molekulski masi
 molž | MOLŽA - iztiskanje, odvzemanje mleka iz vimena
 moma | MOM - [gem.] japonska utežna mera za gojene bisere, m = 3,75 gr
 mome | MOM - [gem.] japonska utežna mera za gojene bisere, m = 3,75 gr
 momi | MOM - [gem.] japonska utežna mera za gojene bisere, m = 3,75 gr
+momo | [gem.] v zvezi »korala momo«: svetloroza, lososove barve tudi oranžna korala iz rodu Elatius, ki raste ob obalah Japonske, Tajvana
 momu | MOM - [gem.] japonska utežna mera za gojene bisere, m = 3,75 gr
 mona | dolgočasen, nezavzet, nepodjeten človek
 mond | igralna karta pri taroku z rimsko številko enaindvajset
@@ -3799,7 +4006,7 @@ more | MORA - italijanska igra s prsti, pri kateri dobi igro tisti izmed dveh ig
 morf | [bot.] vsaka od različnih oblik v življenjskem krogu določene glivne vrste
 mori | MORA - italijanska igra s prsti, pri kateri dobi igro tisti izmed dveh igralcev, ki ugane seštevek pokazanih prstov
 moro | MORA - italijanska igra s prsti, pri kateri dobi igro tisti izmed dveh igralcev, ki ugane seštevek pokazanih prstov
-mort | 
+mort |
 moru | MOR
 most | objekt, po katerem vodi pot čez globinske ovire
 mošt | sladek sok iz mletega, mečkanega grozdja, sadja
@@ -3844,7 +4051,10 @@ mrli | MRLETI - goreti s slabim plamenom, medlo svetiti
 mrlo | MRETI - izgubljati se, izginjati
 mroč | MRETI - izgubljati se, izginjati
 mrož | morski sesalec z velikima okloma in brki, ki živi v severnih polarnih morjih
-mrsa | MŔSA - patogena bakterija, odporna proti več znanim antibiotikom in v posebnih okoliščinah glavna povzročiteljica bolnišničnih okužb
+mrsa | [esskj] stafilokok, odporen proti penicilinskim in cefalosporinskim antibiotikom, zlasti kot povzročitelj bolnišničnih okužb
+mrse | [epravopis] MRSA
+mrsi | [epravopis] MRSA
+mrso | [epravopis] MRSA
 mrši | MRŠITI - delati kaj neurejeno, neporavnano, zlasti lase
 mrva | posušena trava
 mrve | MRVA - posušena trava
@@ -3881,10 +4091,13 @@ muko | MUKA - kar povzroča trpljenje, bolečino
 muku | MUK - posamezen glas pri mukanju
 mula | kazanje jeze, nejevolje, navadno z vztrajnim molkom
 mulc | MULCA - sladka krvavica s pinjolami in rozinami, znana na Primorskem
+mulč | [esskj] plast organskih snovi, zlasti slame, trave, lubja, s katero se pokriva zemlja za zaščito rastlin, izboljšanje tal
 muld | MULDA - jarek za odtok tekočine s ceste, tlakovanih površin
 mule | MULA - kazanje jeze, nejevolje, navadno z vztrajnim molkom
 muli | MULITI SE - kazati jezo, nejevoljo, navadno z vztrajnim molkom
 mulj | drobnozrnata usedlina počasi se gibajočih vod, zlasti sladkih
+mulk | MULKA - [sprotni] (pogovorno, ekspresivno) dekle
+mull | [geog.] v zvezi »mull humus«:
 mulo | nedorasel fant, deček
 mulu | MUL - redka, mehka bombažna tkanina v platneni vezavi
 mura | črnkasta žival, navadno krava
@@ -3904,6 +4117,7 @@ muše | MUŠ - (nar. primorsko) osel
 muši | MUŠITI SE - dobrikati se, prilizovati se
 mušo | MUŠA - [geog.] sistem poljske razdelitve v Jugozahodni Aziji in Etiopiji, za katerega sta značilna stalno obdelano, na delce razdrobljeno zemljišče v bližini vasi, v večji oddaljenosti pa neobdelano zemljišče s pašniki, na katerem se postopoma urejajo na novo obdelane parcele v obliki grud in prog
 mušu | MUŠ - (nar. primorsko) osel
+mute | [smuč.] v zvezi »prijem deske mute«: prijem snežne deske med skokom, pri katerem se deskar s prednjo roko prime za prstni robnik med nogama
 muza | vsaka od devetih zaščitnic umetnosti in znanosti, modrica
 muze | MUZA - vsaka od devetih zaščitnic umetnosti in znanosti, modrica
 muzg | MUZGA - tekočina, ki se pojavi pod lubjem v času rasti
@@ -3913,8 +4127,13 @@ muža | (nar. vzhodno) močvirje, barje
 muže | MUŽA - (nar. vzhodno) močvirje, barje
 muži | MUŽA - (nar. vzhodno) močvirje, barje
 mužo | MUŽA - (nar. vzhodno) močvirje, barje
-naci | 
-nada | 
+naci |
+nača | NAČO - [esskj] omaka, pomaka iz topljenega sira, masla, moke, mleka, začimb
+nače | NAČO - [esskj] omaka, pomaka iz topljenega sira, masla, moke, mleka, začimb
+nači | NAČO - [esskj] omaka, pomaka iz topljenega sira, masla, moke, mleka, začimb
+načo | [esskj] omaka, pomaka iz topljenega sira, masla, moke, mleka, začimb
+naču | NAČO - [esskj] omaka, pomaka iz topljenega sira, masla, moke, mleka, začimb
+nada |
 nade | NADA
 nadi | NADA
 nado | NADA
@@ -3978,7 +4197,7 @@ nemo | NEM - ki ni sposoben oblikovati besed, stavkov z govorilnimi organi
 neon | žlahtni plin brez barve, vonja in okusa, element Ne
 nerc | kuni podobna, ob vodah živeča žival
 nerg | NERGA - kdor (rad) nerga
-nerv | 
+nerv |
 nese | NESTI - držati kaj navadno težjega tako, da prehaja vsa teža na osebek, in hoditi
 nesi | NESTI - držati kaj navadno težjega tako, da prehaja vsa teža na osebek, in hoditi
 neso | NESTI - držati kaj navadno težjega tako, da prehaja vsa teža na osebek, in hoditi
@@ -3989,7 +4208,7 @@ nete | NET - svetovno računalniško omrežje, ki s pomočjo posebne strojne in 
 neti | NET - svetovno računalniško omrežje, ki s pomočjo posebne strojne in programske opreme uporabnikom omogoča izmenjevanje medijskih vsebin, besednih, zvočnih in filmskih
 neto | po odbitku dajatev, prispevkov, stroškov
 netu | NET - svetovno računalniško omrežje, ki s pomočjo posebne strojne in programske opreme uporabnikom omogoča izmenjevanje medijskih vsebin, besednih, zvočnih in filmskih
-neuk | 
+neuk |
 nevm | NEVMA - znak za ton v zgodnjem srednjem veku
 neža | večja ročna lesena ali lončena posoda za vino
 neže | NEŽA - večja ročna lesena ali lončena posoda za vino
@@ -4017,10 +4236,10 @@ nimb | svetniški sij, gloriola
 nimč | NIMČA - [umetn.] severnoafriška, magrebska sablja z navadno blago ukrivljenim rezilom, branikom z več naprej zapognjenimi prečkami in ročajem, ki se zaključuje v navzdol zakrivljen glavič
 nimf | NIMFA - lepi, mladi ženski podobno bitje, ki živi v gozdu ali v vodi
 nina | za uspavanje otroka
-nine | NINO - [tolk.] najmanjši  boben v setu kong, navadno s premerom 10 inčev (25,4 cm)
-nini | NINO - [tolk.] najmanjši  boben v setu kong, navadno s premerom 10 inčev (25,4 cm)
-nino | [tolk.] najmanjši  boben v setu kong, navadno s premerom 10 inčev (25,4 cm)
-ninu | NINO - [tolk.] najmanjši  boben v setu kong, navadno s premerom 10 inčev (25,4 cm)
+nine | NINO - [tolk.] najmanjši boben v setu kong, navadno s premerom 10 inčev (25,4 cm)
+nini | NINO - [tolk.] najmanjši boben v setu kong, navadno s premerom 10 inčev (25,4 cm)
+nino | [tolk.] najmanjši boben v setu kong, navadno s premerom 10 inčev (25,4 cm)
+ninu | NINO - [tolk.] najmanjši boben v setu kong, navadno s premerom 10 inčev (25,4 cm)
 nisi | BITI - izraža materialno ali duhovno navzočnost v stvarnosti
 niso | BITI - izraža materialno ali duhovno navzočnost v stvarnosti
 niša | vdolbina v steni
@@ -4035,7 +4254,8 @@ nize | NIZ - drobni predmeti, nabrani na vrvici, žici
 nizi | NIZ - drobni predmeti, nabrani na vrvici, žici
 nizu | NIZ - drobni predmeti, nabrani na vrvici, žici
 niža | NIŽATI - delati kaj nižje
-niže | 
+niže |
+njam | [esskj] posnema glasove pri hranjenju s čim okusnim
 njej | ON - izraža osebo ali stvar, ki je govoreči ne enači s seboj in ne ogovarja
 njem | ON - izraža osebo ali stvar, ki je govoreči ne enači s seboj in ne ogovarja
 njen | izraža svojino bitja, osebe ženskega spola, ki je govoreči ne enači s seboj in je ne ogovarja, ali stvari ženskega spola, o kateri je govor
@@ -4043,7 +4263,7 @@ njih | ON - izraža osebo ali stvar, ki je govoreči ne enači s seboj in ne ogo
 njim | ON - izraža osebo ali stvar, ki je govoreči ne enači s seboj in ne ogovarja
 njiv | NJIVA - del zemljišča za gojenje kulturnih, krmnih rastlin
 njok | majhen svaljek ali blazinica iz krompirjevega testa
-njuh | 
+njuh |
 njun | izraža svojino dvojice bitij, oseb, od katerih govoreči nobene ne enači s seboj in ne ogovarja, ali dvojice stvari, o katerih je govor
 nočc | NOČCA - manjšalnica od noč
 noče | NOČITI - prehajati iz dneva v noč
@@ -4125,12 +4345,13 @@ obče | OBČI - ki obravnava osnovne značilnosti, zakonitosti predmeta določen
 obči | ki obravnava osnovne značilnosti, zakonitosti predmeta določene stroke
 občo | OBČI - ki obravnava osnovne značilnosti, zakonitosti predmeta določene stroke
 obda | OBDATI - narediti, da je kaj okrog česa
-obed | 
+obed |
 obeh | OBA - poudarja skupnost, povezanost dveh oseb, predmetov, pojmov
 obel | omejen na eni strani z enakomerno ukrivljeno ploskvijo
-ober | 
+ober |
 obes | OBESA - naprava iz vodil in vzmetnih elementov, na katero je pritrjeno kolo
 obet | kar ima take lastnosti, značilnosti, zaradi katerih se pričakuje kaj pozitivnega, ugodnega
+obid | [prav.] v zvezi »obid zakona«: ravnanje, ki nasprotuje namenu zakona, ne da bi kršilo katero od njegovih izrecnih določb
 obij | OBITI - s pribijanjem, pritrjevanjem narediti, da je kaj na (vsej) površini
 obil | OBITI - s pribijanjem, pritrjevanjem narediti, da je kaj na (vsej) površini
 obit | OBITI - s pribijanjem, pritrjevanjem narediti, da je kaj na (vsej) površini
@@ -4165,13 +4386,14 @@ obul | OBUTI - narediti, da ima kdo na nogah obuvalo
 obup | močno čustvo človeka, ki ne vidi možnosti za rešitev iz težkega položaja
 obut | OBUTI - narediti, da ima kdo na nogah obuvalo
 ocen | OCENA - prikaz mnenja, sodbe o čem, zlasti glede na kakovost
-ocet | 
+ocet |
 octa | OCET
 octe | OCET
 octi | OCET
 octu | OCET
 očah | OČA - (star.) oče
 očak | vsak pomembnejši prednik judovskega naroda v stari zavezi od Abrahama dalje
+očal | OČALA - priprava za na oči z lečami, stekli za odpravljanje očesnih napak ali za zaščito oči
 očam | OČA - (star.) oče
 očca | OČCE - (zastar.) manjšalnica od oko; OČESCE
 očce | (zastar.) manjšalnica od oko; OČESCE
@@ -4185,14 +4407,14 @@ očev | OČA - (star.) oče
 očih | OČA - (star.) oče
 očim | materin drugi mož v razmerju do njenih otrok iz prejšnjega zakona
 očin | OČINA - dedna posest po očetu
-očit | 
+očit |
 očka | manjšalnica od oko
 očke | OČEK - manjšalnica od oko
 očki | OČEK - manjšalnica od oko
 očko | OČKA - manjšalnica od oko
 očku | OČEK - manjšalnica od oko
 očmi | OKO - čutilo za vid
-očrt | 
+očrt |
 odah | ODA - lirska pesem, navadno v počastitev, hvalo česa
 odam | ODA - lirska pesem, navadno v počastitev, hvalo česa
 odda | ODDATI - napraviti, da preide kaj k drugemu
@@ -4202,7 +4424,7 @@ oder | vzvišen prostor, navadno iz desk
 odet | ODETI - namestiti zlasti odejo na ležečo osebo zaradi zaščite pred mrazom
 odev | ODEVA
 odic | ODICA
-odij | 
+odij |
 odit | ODITI - izraža, da osebek s hojo, premikanjem napravi, da ni več ali da je na določenem mestu
 odje | ODJESTI - povzročiti, da kdo česa ne dobi, nima več
 odme | ODMETI
@@ -4228,7 +4450,7 @@ ofre | OFER - dajanje denarja za cerkvene potrebe, včasih v zvezi s sprevodom v
 ofri | OFER - dajanje denarja za cerkvene potrebe, včasih v zvezi s sprevodom vernikov okoli oltarja
 ofru | OFER - dajanje denarja za cerkvene potrebe, včasih v zvezi s sprevodom vernikov okoli oltarja
 ogab | OGABA
-ogal | 
+ogal |
 ogel | del predmeta, kjer se stikata dva ali več njegovih robov, ploskev
 ogla | OGEL - del predmeta, kjer se stikata dva ali več njegovih robov, ploskev
 ogle | OGEL - del predmeta, kjer se stikata dva ali več njegovih robov, ploskev
@@ -4252,12 +4474,14 @@ ohme | OHM - enota za merjenje električnega upora, električne upornosti
 ohmi | OHM - enota za merjenje električnega upora, električne upornosti
 ohmu | OHM - enota za merjenje električnega upora, električne upornosti
 ohol | zelo ošaben, zelo prevzeten
+ohrn | [pravopis]
 ojej | izraža čustveno prizadetost, zaskrbljenost
 ojem | O - šestnajsta črka slovenske abecede
 ojes | OJE - drog na sprednjem delu voza, pluga, ob katerega se vprega žival
 ojev | O - šestnajsta črka slovenske abecede
 ojic | OJICE - drog za podaljšanje ojesa
 ojih | O - šestnajsta črka slovenske abecede
+ojko | [geol.] v zvezi »kristal ojko«: večji kristal, ki ima vključke drugih kristalov
 ojla | izraža opozorilo
 ojoj | izraža čustveno prizadetost, zaskrbljenost
 okah | OKA - turška, arabska utežna mera, 1,28 kg
@@ -4282,7 +4506,7 @@ okni | OKNO - odprtina v steni stavbe, prevoznega sredstva, narejena zaradi svet
 okno | odprtina v steni stavbe, prevoznega sredstva, narejena zaradi svetlobe, zračenja
 oknu | OKNO - odprtina v steni stavbe, prevoznega sredstva, narejena zaradi svetlobe, zračenja
 okol | ograjen prostor (ob hlevu) za izpuščanje živine
-okom | 
+okom |
 okop | vojaški obrambni nasip
 okov | priprava iz obročev za vklepanje
 okra | skupek prstenih železovih mineralov
@@ -4301,19 +4525,19 @@ olje | mastna, v vodi netopna tekočina, ki se pridobiva iz rastlin, živalskih 
 olji | OLJE - mastna, v vodi netopna tekočina, ki se pridobiva iz rastlin, živalskih maščob, nafte
 oljk | OLJKA - južno drevo ali njegovi jajčasti, koščičasti sadovi, iz katerih se pridobiva olje
 olju | OLJE - mastna, v vodi netopna tekočina, ki se pridobiva iz rastlin, živalskih maščob, nafte
-olla | [farm.] lonček
 olom | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa; PIVO
 olov | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa; PIVO
 olša | (nar. koroško) drevo ali grm z nazobčanimi jajčastimi ali srčastimi listi in krogličastimi plodovi; JELŠA
 olše | OLŠA - (nar. koroško) drevo ali grm z nazobčanimi jajčastimi ali srčastimi listi in krogličastimi plodovi; JELŠA
 olši | OLŠA - (nar. koroško) drevo ali grm z nazobčanimi jajčastimi ali srčastimi listi in krogličastimi plodovi; JELŠA
 olšo | OLŠA - (nar. koroško) drevo ali grm z nazobčanimi jajčastimi ali srčastimi listi in krogličastimi plodovi; JELŠA
+olup |
 omah | OMA - stara mati, babica
 omak | OMAKA - gostljata jed iz različnih živil, ki se servira samostojno ali kot dodatek jedem
 omam | OMAMA - stanje čutnega in duševnega ugodja, v katerem se zmanjša zavedanje sebe, resničnosti
 oman | rastlina z navadno nedeljenimi listi in rumenimi cveti v koških, Inula
 omar | OMARA - večji kos pohištva, ki se odpira na sprednji strani, za shranjevanje oblek ali drugih stvari
-omaz | 
+omaz |
 omeg | OMEGA - zadnja črka grške abecede
 omej | strupena rastlina z deljenimi listi in somernimi cveti v socvetju
 omel | OMELO - priprava za ometanje, pometanje, navadno iz šopov žime, ščetin z daljšim držajem
@@ -4326,23 +4550,24 @@ omik | OMIKA
 omil | OMITI
 omit | OMITI
 omom | OHM - enota za merjenje električnega upora, električne upornosti
-omot | 
+omot |
 omov | OHM - enota za merjenje električnega upora, električne upornosti
 omrz | OMRZA - velik odpor, sovraštvo
-onda | 
-ondi | 
-ondu | 
+onda |
+ondi |
+ondu |
 onem | ONE - izraža osebo, stvar, ki se noče, ne more imenovati
 onet | ONE - izraža osebo, stvar, ki se noče, ne more imenovati
-onga | 
+onga |
 onih | ONI - izraža, da je oseba ali stvar od govorečega
 onim | ONI - izraža, da je oseba ali stvar od govorečega
-onod | 
+onod |
 onuč | ONUČA - kos blaga za ovijanje stopala
 ooid | [geog.] drobno jajčasto ali okroglo mineralno zrno, nastalo s postopnim kopičenjem drug na drugega pritrjenih mikroskopsko tankih ovojev iz kalcita ali železovega oksida okrog osnovnega delca
-opad | [bot.] nerazgrajeni rastlinski ostanki, ki sestavljajo površinski del zlasti gozdnih tal
+opad | [esskj] organski ostanki, zlasti rastlinski, ki tvorijo površinsko plast navadno gozdnih tal
+opak | [geol.] v zvezi »opak mineral«: mineral, ki po svoji sestavi in količini upravičuje gospodarsko izkoriščanje
 opal | drag kamen prelivajočih se barv in steklenega sijaja
-opas | 
+opas |
 opat | predstojnik večjega samostana, zlasti benediktinskega, cistercijanskega
 opaž | kar se namesti, pritrdi na določeno površino za zaščito, olepšanje
 opeč | OPEČI - narediti, da je kaj na površini pečeno
@@ -4393,7 +4618,7 @@ orem | OR - (zastar.) oranje
 oren | nanašajoč se na oranje
 oril | ORITI - razlegati se, odmevati
 orim | ORITI - razlegati se, odmevati
-oris | 
+oris |
 oriš | ORITI - razlegati se, odmevati
 orit | ORITI - razlegati se, odmevati
 orje | ORATI - rahljati zemljo s plugom
@@ -4456,12 +4681,16 @@ osuj | OSUTI - obdati rastline z zemljo
 osul | OSUTI - obdati rastline z zemljo
 osut | OSUTI - obdati rastline z zemljo
 ošči | OSCATI - zmočiti s sečem
+oška | OŠKI - [pravopis]
+oške | OŠKI - [pravopis]
+oški | [pravopis]
+oško | OŠKI - [pravopis]
 otav | OTAVA - (posušena) trava druge košnje
 otca | OTEC
 otce | OTEC
 otci | OTEC
 otcu | OTEC
-otec | 
+otec |
 oteč | OTEČI - postati po obsegu večji zaradi poškodbe ali bolezni
 otel | OTETI - rešiti, obvarovati (pred čim)
 otep | velik snop iz omlatene slame
@@ -4476,7 +4705,7 @@ otko | OTKA - orodje za odstranjevanje prsti, plevela s pluga
 otme | OTETI - rešiti, obvarovati (pred čim)
 otmi | OTETI - rešiti, obvarovati (pred čim)
 otok | del kopnega sveta, obdan z vodo
-oton | 
+oton |
 otre | OTRETI - odstraniti kaj mokrega s potegom po površini
 otri | OTRETI - odstraniti kaj mokrega s potegom po površini
 otrl | OTRETI - odstraniti kaj mokrega s potegom po površini
@@ -4495,7 +4724,7 @@ ouzo | grška žgana pijača z aromo janeža
 ouzu | OUZO - grška žgana pijača z aromo janeža
 ovac | OVCA - manjša domača žival z zelo gosto volnato dlako
 oval | kar je ovalne oblike
-ovbe | 
+ovbe |
 ovca | manjša domača žival z zelo gosto volnato dlako
 ovce | OVCA - manjša domača žival z zelo gosto volnato dlako
 ovci | OVCA - manjša domača žival z zelo gosto volnato dlako
@@ -4527,7 +4756,8 @@ ovsa | OVES - kulturna rastlina, katere lat je sestavljen iz večcvetnih klaskov
 ovse | OVES - kulturna rastlina, katere lat je sestavljen iz večcvetnih klaskov, ali njeno seme
 ovsi | OVES - kulturna rastlina, katere lat je sestavljen iz večcvetnih klaskov, ali njeno seme
 ovsu | OVES - kulturna rastlina, katere lat je sestavljen iz večcvetnih klaskov, ali njeno seme
-ozad | 
+ovul | OVULA - [agr.] ženska haploidna spolna celica, ki jo lahko oplodi spermalna celica
+ozad |
 ozar | OZARA - travnat svet na koncu njive, kjer se pri oranju obrača plug
 ozda | OZD - organizacija združenega dela
 ozde | OZD - organizacija združenega dela
@@ -4551,7 +4781,7 @@ ozre | OZRETI SE - usmeriti kam pogled z obratom glave v drugo smer, kot je obrn
 ozri | OZRETI SE - usmeriti kam pogled z obratom glave v drugo smer, kot je obrnjeno telo
 ozrl | OZRETI SE - usmeriti kam pogled z obratom glave v drugo smer, kot je obrnjeno telo
 ožel | OŽETI - s stiskanjem, vitjem odstraniti tekočino iz česa
-ožep | 
+ožep |
 ožet | OŽETI - s stiskanjem, vitjem odstraniti tekočino iz česa
 ožge | OŽGATI - z ognjem povzročiti, da postane kaj deloma poškodovano
 ožgi | OŽGATI - z ognjem povzročiti, da postane kaj deloma poškodovano
@@ -4597,7 +4827,7 @@ palm | PALMA - tropsko ali subtropsko drevo s pahljačastimi ali pernatimi listi
 palo | PASTI - zaradi izgube ravnotežja, opore priti
 pals | PALSA - [geog.] pingu podobna nizka vzpetina, dvignjena zaradi leče ledu v šotni podlagi
 pamp | PAMPA - obširen travnat svet z visoko travo v Južni Ameriki
-pamž | 
+pamž | [esskj] neformalno
 pana | PAN - (v nekaterih slovanskih deželah) gospod
 pand | PANDA - medved s črno-belim kožuhom, ki prebiva v osrednjih predelih gorate Kitajske in se hrani zlasti z bambusovimi vršički, Ailuropoda melanoleuca
 pane | PAN - (v nekaterih slovanskih deželah) gospod
@@ -4605,13 +4835,14 @@ pani | PAN - (v nekaterih slovanskih deželah) gospod
 panj | zaboju podobna priprava za bivanje čebel
 pank | PUNK - zvrst glasbe v drugi polovici 20. stoletja s poudarkom na družbenokritičnih besedilih skladb
 pano | plošča, na katero se pritrdijo razstavni predmeti, lepaki
+pant | [sinonimni]
 panu | PAN - (v nekaterih slovanskih deželah) gospod
 papa | (star., v meščanskem okolju) ata, oče
 pape | PAPA - (otr.) jed
 papi | PAPA - (otr.) jed
 papo | PAPA - (otr.) jed
 para | v plinasto stanje spremenjena tekočina pri vrelišču
-pard | 
+pard |
 pare | mrtvaški oder
 pari | PARA - v plinasto stanje spremenjena tekočina pri vrelišču
 park | negovana površina z drevjem, rastlinjem navadno v mestih, prirejena zlasti za sprehode
@@ -4652,6 +4883,7 @@ paže | PAŽ - stena iz navpično postavljenih desk, navadno na čelni strani hi
 paži | PAŽ - stena iz navpično postavljenih desk, navadno na čelni strani hiše, gospodarskega poslopja
 pažu | PAŽ - stena iz navpično postavljenih desk, navadno na čelni strani hiše, gospodarskega poslopja
 pean | kleščam podobna priprava zlasti za stiskanje žil pri operaciji, precepka
+pece | [pravopis]
 peci | PEČI - delati hrano (bolj) užitno z delovanjem vročega zraka, vroče maščobe
 peča | žensko pokrivalo ljudske noše iz belega blaga z vezenino
 peče | PEČI - delati hrano (bolj) užitno z delovanjem vročega zraka, vroče maščobe
@@ -4665,7 +4897,8 @@ pegi | PEGA - mesto na koži, ki ima temnejšo barvo kot ostala površina
 pego | PEGA - mesto na koži, ki ima temnejšo barvo kot ostala površina
 peha | PEHATI - s silo, z močnimi sunki spravljati kam
 pejc | PEJCA
-pejd | 
+pejd |
+pejt | [pravopis]
 peka | glagolnik od peči
 peke | PEK - kdor se poklicno ukvarja z izdelovanjem, pečenjem kruha, peciva
 peki | papir, ki se pri pečenju položi v pekač kot podlaga proti sprijemanju
@@ -4682,11 +4915,11 @@ penj | PENJA - železna priprava, zlasti za začasno spenjanje lesenih delov
 penk | posnema visok glas pri udarcu, trku ob trdo snov
 peno | PENA - mehurčkasta zmes tekočine in plina, navadno zraka
 peon | poljski delavec, dninar
-pepa | PEPO - [bot.] 
+pepa | PEPO - [bot.]
 pepe | omejen, neroden človek
-pepi | PEPO - [bot.] 
+pepi | PEPO - [bot.]
 pepo | [bot.]
-pepu | PEPO - [bot.] 
+pepu | PEPO - [bot.]
 pera | PER - naslov za višjega plemiča
 perc | PERCE
 pere | PRATI - z vodo in pralnimi sredstvi odstranjevati umazanijo s tkanine
@@ -4761,6 +4994,7 @@ pili | PILA - orodje z vzporednimi grebeni po površini za obdelovanje kovinskih
 pilk | PILKA - lesen zamašek za sode
 pilo | (star.) pijača
 pilu | PIL - znamenje, navadno v obliki stebra
+pina | [gem.] v zvezi »biser pina«: biser, ki nastane v školjki vrste Pinna nobilis Linée v Sredozemskem morju
 pinc | PINCA - hlebčku podobno primorsko pecivo iz boljšega kvašenega testa
 pinč | službeni ali hišni pes vitke postave s kratko ravno dlako
 pine | PÍN - osebna številska koda, navadno štirimestna, ki posamezniku omogoča uporabo plačilne kartice, mobilnega telefona
@@ -4781,7 +5015,7 @@ pirh | pobarvano, poslikano jajce, pripravljeno za veliko noč
 piri | PIR - pojedina, navadno ob kakem pomembnem dogodku
 piro | PIRA - preprosta, odporna, manj rodna pšenica
 piru | PIR - pojedina, navadno ob kakem pomembnem dogodku
-pisa | 
+pisa |
 pise | PISA
 pisi | PISA
 pisk | visok, oster glas
@@ -4812,7 +5046,7 @@ plah | ki kaže zadržanost, neodločnost
 plaj | PLAJA - [geog.] naplavna ravnica iz drobnega peska ali soli, ki jo v kotanji ustvarjajo naplavine hudournikov, lahko obdobno preplavljena s plitvim slanim jezerom, značilna za sušno ameriško okolje
 plak | kar se nabere na zobeh,
 plal | PLATI - s sunkovitim zajemanjem spravljati vodo iz česa
-plam | 
+plam |
 plan | kar vnaprej določa način, kraj, čas, da bi se kako dejanje uspešno izvedlo
 plas | PLASA - ozek pas travnika, njive
 plat | PLATI - s sunkovitim zajemanjem spravljati vodo iz česa
@@ -4860,8 +5094,8 @@ pode | POD - obloga na spodnji površini zaprtega prostora, po kateri se hodi
 podi | POD - obloga na spodnji površini zaprtega prostora, po kateri se hodi
 podu | POD - obloga na spodnji površini zaprtega prostora, po kateri se hodi
 poem | POEMA
-poen | 
-poet | 
+poen |
+poet | [esskj] kdor se ukvarja s pisanjem pesmi
 poha | POHATI - cvreti, zlasti panirano živilo
 poit | POITI - ne biti več na razpolago
 poja | POJATI - kazati nagnjenje za parjenje
@@ -4887,8 +5121,8 @@ polz | POLZA - plitva vdolbina v strmem pobočju, navadno za spravljanje lesa v 
 polž | žival z mehkim telesom, s tipalnicami na glavi, navadno s hišico
 poma | [bot.]
 pome | enklitika
-pomi | POMA - [bot.] 
-pomo | POMA - [bot.] 
+pomi | POMA - [bot.]
+pomo | POMA - [bot.]
 pomp | živahno, vznemirljivo, razburljivo dogajanje
 pona | obrazilo ali njegov del, ki stoji pred ali za podstavo tvorjene besede ali povezuje podstavna dela zložene besede
 pond | enota za merjenje sile, približno stotina newtona
@@ -4899,6 +5133,7 @@ ponk | delovna miza, zlasti mizarska
 pono | PONA - obrazilo ali njegov del, ki stoji pred ali za podstavo tvorjene besede ali povezuje podstavna dela zložene besede
 pont | [geol.] stopnja spodnjega pliocena med panonijem in dakijem v Paratetidi
 ponv | PONEV - nizka okrogla posoda za pečenje, cvrenje, navadno z dolgim ročajem
+pool | [pravopis]
 popa | zadnji del ladje, čolna
 pope | POP - zabavna glasba različnih glasbenih zvrsti od druge polovice 20. stoletja dalje s poudarkom na preprosti muzikalnosti
 popi | POP - zabavna glasba različnih glasbenih zvrsti od druge polovice 20. stoletja dalje s poudarkom na preprosti muzikalnosti
@@ -4906,6 +5141,7 @@ popo | POPA - zadnji del ladje, čolna
 popu | POP - zabavna glasba različnih glasbenih zvrsti od druge polovice 20. stoletja dalje s poudarkom na preprosti muzikalnosti
 pora | luknjica, odprtinica v koži za iztok loja ali znoja
 pore | POR - kulturna rastlina s širokimi podolgovatimi listi ali njeni mesnati listi
+porh | [sinonimni]
 pori | POR - kulturna rastlina s širokimi podolgovatimi listi ali njeni mesnati listi
 poro | PORA - luknjica, odprtinica v koži za iztok loja ali znoja
 port | PORTA - okrasni trak, navadno iz močnejše tkanine, za na oblačila in oblazinjeno stilno pohištvo
@@ -4936,6 +5172,7 @@ prat | PRATI - z vodo in pralnimi sredstvi odstranjevati umazanijo s tkanine
 prav | izraža, da je dejanje ali stanje v skladu z določenim pravilom, normo
 praz | [gem.] neprosojen zrnat drobnokristalni kremen, navadno zelen
 praž | PRAŽA - užitna drobovina divjačine
+prca | PRCATI - [sprotni] (slengovsko) dražiti, izzivati
 prča | PRČ - (nar.) kozel
 prče | PRČ - (nar.) kozel
 prči | PRČ - (nar.) kozel
@@ -4944,7 +5181,7 @@ prda | piščal iz lubjaste, na koncu odrgnjene in stisnjene cevke
 prde | PRDA - piščal iz lubjaste, na koncu odrgnjene in stisnjene cevke
 prdi | PRDA - piščal iz lubjaste, na koncu odrgnjene in stisnjene cevke
 prdo | PRDA - piščal iz lubjaste, na koncu odrgnjene in stisnjene cevke
-prec | 
+prec |
 preč | PREČA - ozek pas kože med lasmi, razdeljenimi, počesanimi na dve strani
 pred | za izražanje premikanja, usmerjenosti k sprednji strani česa, ne da bi nastal neposreden dotik, ali dosege takega položaja
 prej | izraža, da se dejanje zgodi v krajšem času, hitreje
@@ -4978,7 +5215,8 @@ pros | PROSO - enoletna kulturna rastlina, katere lat je sestavljen iz pecljatih
 prot | PROTA
 prov | PROVA - sprednji del ladje, čolna
 proz | PROZA - izrazna oblika, za katero je značilen navaden, ne po posebnih obrazcih urejen jezik
-prsa | 
+prsa |
+prsc | PRSCA - manjšalnica od prsi
 prsi | sprednji del človeškega ali živalskega trupa med vratom in trebuhom
 prsk | glagolnik od prskati
 prst | vrhnja plast tal, ki vsebuje razkrojene organske snovi
@@ -4991,6 +5229,7 @@ prta | PRT - tekstilni izdelek za prekrivanje mize
 prte | PRT - tekstilni izdelek za prekrivanje mize
 prti | PRT - tekstilni izdelek za prekrivanje mize
 prtu | PRT - tekstilni izdelek za prekrivanje mize
+pruh | [sprotni] (pogovorno) izstop organa ali dela organa skozi nenaravno odprtino, pri čemer se navadno pojavi izboklina
 pruk | PRUKA - (cerkvena) klop
 prus | PRUSA - konj, ki pri teku istočasno premika nogi leve oziroma desne strani
 prva | PRVI - ki v zapovrstju ustreza številu ena
@@ -5000,7 +5239,7 @@ prvo | PRVI - ki v zapovrstju ustreza številu ena
 psar | kdor se poklicno ukvarja z vzrejo, vodenjem psov
 pset | PSETO
 psic | PSICA - samica psa
-psič | 
+psič |
 psih | PES - domača žival zelo raznolikih pasem, zlasti za družbo, čuvanje, lov
 psin | PSINA - pasje meso
 psom | PES - domača žival zelo raznolikih pasem, zlasti za družbo, čuvanje, lov
@@ -5016,8 +5255,9 @@ puba | PUB - (zlasti v angleškem okolju) gostinski lokal, kjer se streže s pij
 pube | PUB - (zlasti v angleškem okolju) gostinski lokal, kjer se streže s pijačami, zlasti s pivom
 pubi | PUB - (zlasti v angleškem okolju) gostinski lokal, kjer se streže s pijačami, zlasti s pivom
 pubu | PUB - (zlasti v angleškem okolju) gostinski lokal, kjer se streže s pijačami, zlasti s pivom
-puci | 
-puck | 
+puca | PUCATI - [sinonimni]
+puci |
+puck |
 puča | PUČ - ploščat sodček za pijačo, ki se nosi na hrbtu
 puče | PUČ - ploščat sodček za pijačo, ki se nosi na hrbtu
 puči | PUČ - ploščat sodček za pijačo, ki se nosi na hrbtu
@@ -5072,7 +5312,7 @@ puše | PUŠA - kratki cevi podoben kovinski vložek, ki se namesti v izvrtino z
 puši | PUŠA - kratki cevi podoben kovinski vložek, ki se namesti v izvrtino zaradi zmanjšanja njenega premera
 pušk | PUŠKA - ročno strelno orožje z dolgo cevjo in kopitom
 pušo | PUŠA - kratki cevi podoben kovinski vložek, ki se namesti v izvrtino zaradi zmanjšanja njenega premera
-puta | 
+puta |
 pute | PUTA
 puti | PUTA
 putk | PUTKA - mirna, ponižna, navadno manj bistra ženska
@@ -5162,7 +5402,7 @@ rave | zvrst elektronske plesne glasbe, popularne zlasti v devetdesetih letih, z
 ravi | RAVE - zvrst elektronske plesne glasbe, popularne zlasti v devetdesetih letih, za katero je značilna mešanica tehna, trancea, hardcora, housa
 ravn | RAVNA
 ravs | spopad, pretep, zlasti s potegovanjem krempljev, zob po nasprotniku
-ravš | 
+ravš |
 ravt | (slovesen) sprejem, družabna prireditev, navadno zvečer
 ravu | RAVE - zvrst elektronske plesne glasbe, popularne zlasti v devetdesetih letih, za katero je značilna mešanica tehna, trancea, hardcora, housa
 raza | manjša povrhnja poškodba v obliki črte
@@ -5188,15 +5428,18 @@ reda | RED - stanje, ko je (vsaka) stvar na mestu, v položaju, kot mora biti, k
 rede | RED - stanje, ko je (vsaka) stvar na mestu, v položaju, kot mora biti, kot je koristno
 redi | RED - stanje, ko je (vsaka) stvar na mestu, v položaju, kot mora biti, kot je koristno
 redu | RED - stanje, ko je (vsaka) stvar na mestu, v položaju, kot mora biti, kot je koristno
+reed | [avt.] v zvezi »reed kontaktnik«: merilnik bližine, uporabljan tudi kot končno stikalo, ki ga sestavljata dva magnetna jezička, zataljena v stekleno cevko, pri čemer se kontakt sklene, ko se približa predmet, na katerega je pritrjen magnet
 rega | majhna zelena žaba, ki živi na drevju, travnikih
 rege | REGA - majhna zelena žaba, ki živi na drevju, travnikih
 regi | REGGAE - glasbena zvrst, za katero je značilna mešanica afriških, zahodnoevropskih, ameriških in predvsem jamajških glasbenih elementov z izrazitim poudarjanjem lahkih dob
 rego | REGA - majhna zelena žaba, ki živi na drevju, travnikih
 regu | REG - [geog.] kamnita puščava ali puščavska ravnina, prekrita s plastjo od vetra zaobljenega grušča
-reis | 
+rein | > ANTRAKINONSKI - [farm.] v zvezi »antrakinonski glikozid«: glikozid antrakinona z močnim odvajalnim delovanjem, npr. aloin, emodin, rein, senidin
+reis |
 reja | glagolnik od rediti
 reje | RE - solmizacijski zlog, ki označuje ton d ali drugo stopnjo v lestvici
 reji | RE - solmizacijski zlog, ki označuje ton d ali drugo stopnjo v lestvici
+rejk | REJKA - [pravopis]
 rejo | REJA - glagolnik od rediti
 reju | RE - solmizacijski zlog, ki označuje ton d ali drugo stopnjo v lestvici
 rejv | RAVE - zvrst elektronske plesne glasbe, popularne zlasti v devetdesetih letih, za katero je značilna mešanica tehna, trancea, hardcora, housa
@@ -5227,7 +5470,7 @@ resi | RESA - okrasna nit ali pramen iz niti na robu kakega tekstilnega izdelka
 resk | posnema glas pri prelomu, pretrgu, trenju
 reso | RESA - okrasna nit ali pramen iz niti na robu kakega tekstilnega izdelka
 reši | REŠITI - narediti, da kdo, ki je v življenjski nevarnosti, ostane živ
-rešo | 
+rešo |
 rešt | REŠTA - niz plodov, sadežev na žici, vrvici
 reta | veliko rešeto z redko mrežo
 rete | RETA - veliko rešeto z redko mrežo
@@ -5390,6 +5633,7 @@ rovk | ROVKA - miši podoben sesalec z zelo ostrimi zobmi
 rovt | s travo poraslo nekdaj izkrčeno zemljišče v hribovitem, gorskem svetu
 rovu | ROV - daljši, navadno vodoraven cevast prostor pod zemeljskim površjem
 roza | bledo rdeč, rožnat
+roze | [pravopis]
 rozg | ROZGA - olesenela mladika trte
 roža | rastlina z izrazitim cvetom
 rože | ROŽA - rastlina z izrazitim cvetom
@@ -5468,15 +5712,18 @@ ruža | RUŽ - ličilo rdeče barve, zlasti za ustnice
 ruže | RUŽ - ličilo rdeče barve, zlasti za ustnice
 ruži | RUŽ - ličilo rdeče barve, zlasti za ustnice
 ružu | RUŽ - ličilo rdeče barve, zlasti za ustnice
-rvač | 
+rvač |
 rval | RVATI
 rvat | RVATI
 ryot | [geog.] zakupniški zemljiškoposestni sistem na Indijski podcelini, pri katerem daje zemljišče v zakup država neposredno, brez posredniške vloge zemljiških veleposestnikov
+ržad | RŽADA - [agr.] posevek pšenice in rži, ki je namenjen prehrani ljudi ali pridelavi krme
 ržeh | RŽ - kulturna rastlina z dolgim steblom in dolgim klasom ali njeno seme
 ržem | RŽ - kulturna rastlina z dolgim steblom in dolgim klasom ali njeno seme
 ržen | nanašajoč se na rž
+ržig | RŽIGA - [agr.] dosevek ozimne rži in kuštrave grašice, ki se uporablja za pridelavo krme
 ržjo | RŽ - kulturna rastlina z dolgim steblom in dolgim klasom ali njeno seme
 ržmi | RŽ - kulturna rastlina z dolgim steblom in dolgim klasom ali njeno seme
+saab | [pravopis]
 saba | SAB - [plan.] član odprave
 sabe | SAB - [plan.] član odprave
 sabi | SAB - [plan.] član odprave
@@ -5497,7 +5744,7 @@ sage | SAGA - stara nordijska epska pripoved s stvarnimi, realističnimi opisi
 sagi | SAGA - stara nordijska epska pripoved s stvarnimi, realističnimi opisi
 sago | moka ali zdrob iz stržena sagovca
 sagu | SAGO - moka ali zdrob iz stržena sagovca
-saja | 
+saja |
 saje | črn prah, ki nastane pri gorenju ob premajhni količini kisika
 saji | SAJITI - povzročati, da postane kaj sajasto, črno
 sajo | SAJA
@@ -5543,6 +5790,7 @@ scal | SCATI - izpraznjevati sečni mehur
 scat | SCATI - izpraznjevati sečni mehur
 scen | SCENA - likovna oprema prizorišča v gledališču ali filmu
 scil | SCILA - rastlina s črtalastimi listi in modrimi, rdečkastimi ali belimi cveti v grozdih, Scilla
+scud | [pravopis]
 sebe | SE - izraža predmet ali določilo glagolskega dejanja, kadar sta identična z osebkom dejanja
 sebh | SEBHA - [geog.] naplavna ravnica z zaslanjenim zablatenim dnom, ki ga obdobno preliva voda, značilna za Saharo
 sebi | SE - izraža predmet ali določilo glagolskega dejanja, kadar sta identična z osebkom dejanja
@@ -5573,7 +5821,7 @@ seka | glagolnik od sekati
 seke | SEK - (star.) glagolnik od sekati
 seki | SEK - (star.) glagolnik od sekati
 seko | SEKA - glagolnik od sekati
-seks | 
+seks |
 sekt | peneče (se) vino
 seku | SEK - (star.) glagolnik od sekati
 sela | SESTI - namestiti se, spraviti se v tak položaj, da je teža telesa pretežno na zadnjici
@@ -5587,6 +5835,7 @@ seme | del rastline, ki nastane po oploditvi iz cveta in se uporablja za razmno�
 sena | posušeni listi ali stroki kasije, ki se uporabljajo kot odvajalno sredstvo
 senc | SENCA - razmeroma temna ploskev za osvetljenim neprosojnim telesom
 sene | SENA - posušeni listi ali stroki kasije, ki se uporabljajo kot odvajalno sredstvo
+senf | [sprotni] (pogovorno) pikantna začimba, pripravljena iz semen bele gorčice in dodatkov
 seni | SENA - posušeni listi ali stroki kasije, ki se uporabljajo kot odvajalno sredstvo
 seno | (posušena) trava prve košnje
 senu | SENO - (posušena) trava prve košnje
@@ -5599,7 +5848,7 @@ sepu | SEP - zgornji, nasuti rob zlasti vinograda
 sera | siten, godrnjav, nezadovoljen človek
 sere | SER - zelo velika ptica ujeda, Gypaëtus barbatus
 seri | SER - zelo velika ptica ujeda, Gypaëtus barbatus
-sern | SRNA - hitra gozdna žival, katere samec ima manjše razvejane rogove
+serk | SERKA - [pravopis]
 sero | SERA - siten, godrnjav, nezadovoljen človek
 seru | SER - zelo velika ptica ujeda, Gypaëtus barbatus
 serž | gladka bombažna, volnena tkanina v keprovi vezavi
@@ -5661,7 +5910,7 @@ simo | SIMA - spodnja plast zemeljske skorje, sestavljena iz rudnin, ki vsebujej
 sina | SIN - moški v odnosu do svojih staršev
 sine | mlajši moški v odnosu do starejše osebe
 sini | SINITI - nenadoma se pojaviti, prikazati zaradi lastne svetlosti
-sinj | 
+sinj |
 sinu | SIN - moški v odnosu do svojih staršev
 sipa | na morskem dnu živeča žival z desetimi lovkami in črnilno žlezo, Sepia officinalis
 sipe | SIPA - na morskem dnu živeča žival z desetimi lovkami in črnilno žlezo, Sepia officinalis
@@ -5699,7 +5948,7 @@ skeč | kratko odrsko delo, navadno s humoristično ali satirično vsebino
 sken | SKENA - [gled.] nižja zgradba ob orkestri nasproti avditorija, verjetno z več vrati, namenjena preoblačenju igralcev, hrambi rekvizitov
 skic | SKICA - kar je narisano na hitro, samo z najpotrebnejšimi črtami, potezami
 skif | tekmovalni čoln za enega veslača z dvema vesloma, enojka
-skij | SKIJE - [smuč.] priprava iz dveh dolgih, ozkih, tankih, usločenih, spredaj navzgor zakrivljenih in v konico oblikovanih deščic iz lesa in/ali sintetičnih materialov za drsenje, skakanje, hojo ali tek po snegu, ki se s smučarskimi  vezmi pritrdi na smučarske čevlje
+skij | SKIJE - [smuč.] priprava iz dveh dolgih, ozkih, tankih, usločenih, spredaj navzgor zakrivljenih in v konico oblikovanih deščic iz lesa in/ali sintetičnih materialov za drsenje, skakanje, hojo ali tek po snegu, ki se s smučarskimi vezmi pritrdi na smučarske čevlje
 skin | pripadnik subkulturne skupine, prepoznavne po obritih glavah, za katero sta navadno značilna nestrpnost do drugih narodnosti, ras in nasilništvo nad njimi
 skip | velika kovinska posoda za dviganje premoga, rude po jašku
 skir | SKIRA
@@ -5710,14 +5959,14 @@ skop | ki nerad ali sploh ne daje, porablja, zlasti denar
 skot | istočasno skoteni mladiči
 skoz | SKOZI - za izražanje premikanja ali usmerjenosti z ene strani na drugo
 skrb | občutek nemira, tesnobe zaradi neprijetnega, težkega položaja ali strahu pred njim
-skrl | 
+skrl | SKRLA
 skud | italijanski srebrnik, kovan od druge polovice 16. do konca 18. stoletja
 skuh | SKUHA - (kuhana) jed, hrana
 skuj | SKOVATI - s kovanjem narediti, izoblikovati
-skup | 
+skup |
 skuš | SKUŠA - morska riba z drobnimi luskami in dvema dolgima hrbtnima plavutma
 skut | SKUTA - mehka snov, ki ostane po odstranitvi sirotke iz posnetega mleka
-skvo | 
+skvo |
 slab | ki ima negativne lastnosti, zlasti v moralnem pogledu
 slad | osušen vzklili ječmen, ki se uporablja za izdelovanje alkoholnih pijač, zlasti piva
 slah | SLA - velika želja po zadovoljevanju naravnih, telesnih potreb
@@ -5731,12 +5980,14 @@ sleč | grmičasta rastlina z navadno usnjatimi listi in rdečimi, rumenimi cvet
 sled | majhna, ob bokih zelo stisnjena riba z globoko razcepljeno repno plavutjo, ki živi zlasti v severnih morjih, Clupea harengus
 slej | nekoč gotovo
 slep | ki ni sposoben zaznavati svetlobe, barv
+sleš | [sinonimni]
 slez | dlakava rastlina z deljenimi listi in rožnatimi, vijoličastimi ali belimi cveti, Althaea
 slih | SEL - kdor prinaša kako novico ali sporočilo
 slik | SLIKA - likovna upodobitev česa z barvami, navadno umetniška
 slin | SLINA - prozorna, nekoliko sluzasta tekočina, ki jo izločajo slinavke
 slip | potrdilo o opravljenem brezgotovinskem plačilu s kartico
 sliv | SLIVA - sadno drevo ali njegov modri jajčasti koščičasti sad
+slob | [smuč.] v zvezi »prijem deske slob«: prijem snežne deske med skokom, pri katerem se deskar s prednjo roko prime za prstni robnik pred nogama ali z zadnjo roko za prstni robnik za nogama
 sloč | [smuč.] ukrivljen sprednji del smučke, ki se začne v točki prevoja vzdolžne osi
 slog | kar je določeno z izborom in uporabo izraznih, oblikovnih sredstev v posameznem delu ali v več delih
 sloj | kar je v določeni debelini razprostrto po večji površini
@@ -5789,6 +6040,7 @@ snop | večji šop povezanega požetega žita, slame
 snov | kar tvori, sestavlja stvari, predmetna telesa
 snuj | SNOVATI - sestavljati, ustvarjati kaj, navadno v začetni, nedokončni obliki
 snul | SNUTI
+snus | [sprotni] zavojček s tobakom, ki se pri uporabi namesti med zgornjo ustnico in dlesen
 snut | SNUTI
 soba | prostor, namenjen zlasti za bivanje, zadrževanje ljudi
 sobe | SOBA - prostor, namenjen zlasti za bivanje, zadrževanje ljudi
@@ -5855,10 +6107,10 @@ spah | mesto, kjer so leseni deli, navadno v vzdolžni smeri, tesno sestavljeni,
 spak | majhnemu moškemu podobno bitje spačenega, nenaravnega videza
 spal | SPATI - biti v stanju telesnega in duševnega počitka s popolnim ali delnim zmanjšanjem zavesti
 spam | vsiljena elektronska pošta, ki je poslana velikemu številu naslovnikov in ki jo sestavljajo predvsem reklamni oglasi
-spas | 
+spas |
 spat | SPATI - biti v stanju telesnega in duševnega počitka s popolnim ali delnim zmanjšanjem zavesti
 speč | SPATI - biti v stanju telesnega in duševnega počitka s popolnim ali delnim zmanjšanjem zavesti
-speh | 
+speh |
 spel | SPETI - s kakim predmetom, pripravo narediti, da je kaj skupaj, združeno
 spem | SPAM - vsiljena elektronska pošta, ki je poslana velikemu številu naslovnikov in ki jo sestavljajo predvsem reklamni oglasi
 speš | SPETI
@@ -5867,7 +6119,7 @@ spev | besedilo, navadno iz psalma, ki se moli ali poje pri maši
 spha | SPHATI - s tolčenjem odstraniti trši ovoj žitnih zrn
 spid | močno sintetično mamilo, ki se uporablja kot poživilo
 spij | IZPITI - s pitjem zaužiti vso tekočino
-spik | SPIKA - [bot.] 
+spik | SPIKA - [bot.]
 spil | IZPITI - s pitjem zaužiti vso tekočino
 spim | SPATI - biti v stanju telesnega in duševnega počitka s popolnim ali delnim zmanjšanjem zavesti
 spin | lastna vrtilna količina osnovnih delcev, atomov
@@ -5888,7 +6140,7 @@ sprl | SPRETI - povečati ali zmanjšati presledke med besedami, vrsticami zarad
 sprt | SPRETI - povzročiti, da se medsebojno izrazi nesoglasje z izjavami, mnenjem drugega, navadno glasno, ostro
 spše | SPHATI - s tolčenjem odstraniti trši ovoj žitnih zrn
 spši | SPHATI - s tolčenjem odstraniti trši ovoj žitnih zrn
-srab | 
+srab |
 srag | SRAGA - (drobna) kaplja potu
 srak | SRAKA - ptica s črnim in belim perjem in dolgim repom
 sral | SRATI - iztrebljati se
@@ -5943,7 +6195,7 @@ staj | STAJA - goveji, ovčji hlev zlasti na planinah, v katerem živali niso pr
 stal | STATI - biti v pokončnem položaju, navadno tako, da je vsa teža na nogah
 stan | stanje posameznika glede na sklenitev zakonske zveze
 star | prostorninska mera za žito, približno 100 l
-stas | 
+stas |
 stat | STATI - biti v pokončnem položaju, navadno tako, da je vsa teža na nogah
 stav | STAVA - dogovor, da tisti, čigar trditev ni pravilna, dá določeno stvar, plača določeni znesek
 staž | delo v organiziranem delovnem procesu zaradi usposabljanja za samostojno opravljanje zlasti zdravniškega poklica, pripravništvo
@@ -5955,10 +6207,10 @@ sten | STENA - vsak od delov stavbe, ki omejuje prostor, prostore ob straneh
 step | ples na jazzovsko glasbo, po izvoru iz Severne Amerike, pri katerem plesalec z udarjanjem s čevlji ob tla ustvarja posebno ritmično spremljavo
 stet | STETI SE - strditi se
 stez | STEZA - zelo ozka, preprosta pot za pešce
-stih | 
+stih | [esskj] ritmično urejena, navadno skladenjsko in pomensko zaključena enota kitice, ki obsega eno vrstico
 stik | kozmetično sredstvo v obliki valjastega predmeta, navadno shranjeno v toku iz plastične mase
 stil | kar je določeno z izborom in uporabo izraznih, oblikovnih sredstev v posameznem delu ali v več delih
-stis | 
+stis |
 stiv | STIVA - rudnina magnezijev silikat s hidroksilno skupino
 stke | STKATI - narediti tekstilni izdelek s križanjem, prepletanjem osnovnih niti in votka
 stki | STKATI - narediti tekstilni izdelek s križanjem, prepletanjem osnovnih niti in votka
@@ -5985,7 +6237,7 @@ strl | STRETI - s silo, pritiskom narediti, da kaj ni več celo
 strm | ki se na kratki razdalji hitro vzpenja
 strn | (bela) žita
 strt | STRETI - s silo, pritiskom narediti, da kaj ni več celo
-stud | 
+stud |
 stup | STUPA - stavba v obliki kupole ali stolpa, namenjena za verske obrede
 suče | SUKATI - vzdolžno viti kaj drugo okoli drugega, da nastane ena nit, en pramen
 suči | SUKATI - vzdolžno viti kaj drugo okoli drugega, da nastane ena nit, en pramen
@@ -5994,7 +6246,7 @@ sudd | [geog.] poplavna močvirnata ravnica v kotlini ob zgornjem toku Belega Ni
 sude | SUD - [geog.] poplavna močvirnata ravnica v kotlini ob zgornjem toku Belega Nila v Sudanu, porasla zlasti s papirusom in trstičjem
 sudi | SUD - [geog.] poplavna močvirnata ravnica v kotlini ob zgornjem toku Belega Nila v Sudanu, porasla zlasti s papirusom in trstičjem
 sudu | SUD - [geog.] poplavna močvirnata ravnica v kotlini ob zgornjem toku Belega Nila v Sudanu, porasla zlasti s papirusom in trstičjem
-sufi | 
+sufi |
 suha | SUH - ki ni polit ali prepojen z vodo ali drugo tekočino
 suhe | SUH - ki ni polit ali prepojen z vodo ali drugo tekočino
 suhi | SUH - ki ni polit ali prepojen z vodo ali drugo tekočino
@@ -6018,7 +6270,10 @@ suna | v koranu nezapisani nauki Mohameda in prvih štirih kalifov
 sune | SUNA - v koranu nezapisani nauki Mohameda in prvih štirih kalifov
 suni | SUNA - v koranu nezapisani nauki Mohameda in prvih štirih kalifov
 suno | SUNA - v koranu nezapisani nauki Mohameda in prvih štirih kalifov
+supa | SUPATI - [sprotni] voziti se po vodi z deski podobnim plastičnim ali napihljivim gumijastim plovilom ovalne oblike zlasti v stoječem položaju s pomočjo vesla
 supe | večerja (po večerni predstavi, prireditvi)
+supi | SUP - [sprotni] deski podobno plastično ali napihljivo gumijasto plovilo ovalne oblike za vožnjo po vodi zlasti v stoječem položaju s pomočjo vesla
+supu | SUP - [sprotni] deski podobno plastično ali napihljivo gumijasto plovilo ovalne oblike za vožnjo po vodi zlasti v stoječem položaju s pomočjo vesla
 sura | poglavje v Koranu
 sure | SURA - poglavje v Koranu
 surf | deska z gibljivim jamborom za vožnjo po vodi s pomočjo vetra, jadralna deska
@@ -6041,13 +6296,13 @@ svib | SVIBA - grmičasta rastlina z rdečimi mladikami, belimi cveti in črnimi
 svil | SVILA - vlakna iz kokonov sviloprejke
 svit | čas, ko prehaja noč v dan
 sviž | zelo droben, naplavljen ali z vetrom nanesen pesek
-svod | 
+svod |
 svoj | izraža svojino osebka
 svor | SVORA - močnejši drog, ki povezuje sprednji in zadnji del voza
 svrh | SVRHA
-svrž | 
+svrž |
 šabo | vrtni nagelj z velikimi, živobarvnimi cveti
-šaga | 
+šaga |
 šage | ŠAGA
 šagi | ŠAGA
 šago | ŠAGA
@@ -6080,7 +6335,7 @@ svrž |
 šarg | manjša morska riba s temnimi prečnimi progami po bokih, Sargus rondeletti
 šari | ŠARITI - dajati si opravka z nepomembnimi deli
 šark | ŠARKA - žival z belimi lisami, navadno kobila, krava
-šarm | 
+šarm |
 šaro | ŠARA - malo vredni, odvečni predmeti
 šarp | ŠARPA - šalu podobna naglavna ruta
 šaru | ŠAR
@@ -6105,6 +6360,7 @@ svrž |
 ščiš | SCATI - izpraznjevati sečni mehur
 ščit | nekoliko izbočena ploščata priprava, ki se v boju drži v roki, da ščiti človeka pred udarci, vbodi
 ščuk | ŠČUKA - sladkovodna roparska riba z velikim, račjemu kljunu podobnim gobcem
+šeba | [gem.] v zvezi »biser šeba«: imitacija bisera z jedrom iz biserovine, ki je prevlečeno z biserno esenco in s prahom iz biserovine
 šeda | ŠED - streha, zlasti pri industrijskih objektih, ki ima v prerezu obliko trikotnikov, četrtin kroga
 šede | ŠED - streha, zlasti pri industrijskih objektih, ki ima v prerezu obliko trikotnikov, četrtin kroga
 šedi | ŠED - streha, zlasti pri industrijskih objektih, ki ima v prerezu obliko trikotnikov, četrtin kroga
@@ -6136,7 +6392,7 @@ svrž |
 šena | ŠEN - nalezljivo vnetje kože, ki ga povzročajo streptokoki
 šene | ŠEN - nalezljivo vnetje kože, ki ga povzročajo streptokoki
 šeni | ŠEN - nalezljivo vnetje kože, ki ga povzročajo streptokoki
-šenk | 
+šenk |
 šent | izraža odklonilen odnos do osebe ali stvari, ki jo določa navadno prilastek
 šenu | ŠEN - nalezljivo vnetje kože, ki ga povzročajo streptokoki
 šepa | ŠEPATI - neobičajno hoditi zaradi krajše ali bolne noge
@@ -6150,6 +6406,7 @@ svrž |
 šibi | ŠIBA - daljša tanka, upogljiva veja, navadno brez stranskih vej
 šibk | ŠIBKA - kovinska paličica, navadno lita
 šibo | ŠIBA - daljša tanka, upogljiva veja, navadno brez stranskih vej
+šica | ŠICATI - [sinonimni]
 šiht | izmena, zlasti v rudniku, tovarni
 šiit | pripadnik muslimanske vere, ki priznava samo Koran
 šija | iz vrbovega šibja pleten in ometan obok nad ognjiščem v črni kuhinji
@@ -6169,7 +6426,7 @@ svrž |
 šimi | fokstrotu podoben ples, pri katerem se plesalec pozibava v bokih in ramenih
 šine | ŠINITI - nenadoma, zelo hitro
 šini | ŠINITI - nenadoma, zelo hitro
-šink | 
+šink |
 šipa | kos navadno ravnega stekla za zapiranje kake odprtine
 šipe | ŠIPA - kos navadno ravnega stekla za zapiranje kake odprtine
 šipi | ŠIPA - kos navadno ravnega stekla za zapiranje kake odprtine
@@ -6191,7 +6448,7 @@ svrž |
 šjor | ŠJORA
 škaf | manjša, nizka, navadno lesena posoda z dvema ušesoma
 škaj | ŠKAJA - oksidna plast na kovini, ki nastane ob žarjenju pri visoki temperaturi
-škec | 
+škec |
 škis | najvišja igralna karta pri taroku
 škod | ŠKODA - kar nastane kot posledica zmanjšanja količine, kakovosti, vrednosti kake dobrine
 škof | predstojnik škofije
@@ -6199,12 +6456,12 @@ svrž |
 škot | ŠKOTA - vrv za napenjanje, premikanje jader
 škrb | ŠKRBA - škrbav človek, zlasti ženska
 škrg | ŠKRGA - parni organ pri večini vodnih živali, ki omogoča dihanje
-škrl | 
+škrl | ŠKRLA
 škrt | posnema kratek, rezek glas pri drgnjenju, trenju
 škun | ŠKUNA
 škur | ŠKURA
 šlap | ŠLAPA - obrabljen, ponošen copat
-šlar | 
+šlar |
 šlek | izraža škodoželjnost s premikanjem enega kazalca po drugem
 šlem | iz več delov sestavljeno zlasti kovinsko pokrivalo za zaščito glave
 šlep | plovilo brez lastnega pogona, ki se priveže, priklene k vlečni ladji, zlasti za prevažanje tovora
@@ -6212,8 +6469,9 @@ svrž |
 šlic | razporek (pri hlačah)
 šlik | izraža škodoželjnost s premikanjem enega kazalca po drugem
 šlir | [geol.] zgornjepaleocenska in spodnjemiocenska formacija peščenih laporovcev z bogato favno mehkužcev in foraminifer, nastala v času štajerske orogenetske faze na obrobju Alp
-šluk | 
+šluk |
 šmeč | ŠMEČE - [smuč.] okrog 150 cm dolge in okrog 12 cm široke, za otroke krajše, po domovih izdelane zatežne smuči iz bukovega, brezovega, javorovega, jesenovega lesa s prstnim stremenom iz usnja, viter, trte, ki so navadno z opiranjem na kol omogočale gibanje po ravnem in strmem terenu na Bloški planoti, Vidovskih hribih na Notranjskem
+šmek | [sprotni] (pogovorno, ekspresivno) videz ali učinek, način delovanja, navadno všečen, ugajajoč
 šmir | kar je malo vredno, nepomembno
 šmis | končni del biča iz vlaken lanu, konoplje, ki omogoča pokanje
 šnit | ŠNITA
@@ -6295,7 +6553,7 @@ svrž |
 štul | ŠTULA - izbočeni del klobuka
 štup | ŠTUPA
 šuft | netovariški, nesramen človek
-šuko | 
+šuko |
 šuma | ŠUM - neizraziti, nezveneči, med seboj pomešani glasovi
 šume | ŠUMETI - dajati neizrazite, nezveneče, med seboj pomešane glasove
 šumi | ŠUMETI - dajati neizrazite, nezveneče, med seboj pomešane glasove
@@ -6318,6 +6576,8 @@ svrž |
 šuto | ŠUTA - drobno kamenje za nasipanje
 šutu | ŠUT - [gem.] 42–45 cm dolg niz, sestavljen iz biserov različnih velikosti, pri čemer je največji na sredini, proti koncu pa si sledijo vedno manjši
 švab | Nemec, zlasti kot okupatorski vojak
+švic | [esskj] pot
+švoh | [sprotni] (pogovorno) šibak, slaboten
 švrk | posnema glas pri udarcu, navadno s tankim, prožnim predmetom
 tabo | TI - izraža (bližnjo) osebo, ki jo govoreči ogovarja
 tabu | zapoved, prepoved, nanašajoča se na kako dejanje, stik s čim, katere kršitev kaznujejo nadnaravne sile
@@ -6388,9 +6648,12 @@ taue | TAU - [pravopis] grška črka τ
 taui | TAU - [pravopis] grška črka τ
 tauu | TAU - [pravopis] grška črka τ
 tava | TAVATI - hoditi počasi, z negotovimi koraki
+tave | TAV - [epravopis] grška črka τ
+tavi | TAV - [epravopis] grška črka τ
+tavu | TAV - [epravopis] grška črka τ
 tavy | [geog.] požigalništvo na Madagaskarju
-teak | 
-team | 
+teak |
+team |
 tebe | TI - izraža (bližnjo) osebo, ki jo govoreči ogovarja
 tebi | TI - izraža (bližnjo) osebo, ki jo govoreči ogovarja
 teci | TEČI - premikati se z neprenehnim gibanjem svojih delov, ki nimajo svoje oblike
@@ -6443,7 +6706,7 @@ terc | neumen, nespameten človek
 tere | TER - gost črn stranski proizvod pri destilaciji premoga, lesa
 terg | TERGA - [geol.] vsaka od sprednjih gibljivih parnih kalcitnih ploščic v zunanjem skeletu raka vitičnjaka
 teri | TER - gost črn stranski proizvod pri destilaciji premoga, lesa
-term | TRMA - nepopustljivo vztrajanje pri kakem stališču, ravnanju, mnenju kljub dokazom o neustreznosti takega stališča, ravnanja, mnenja
+term | TERMA - topli izvir, vrelec
 tern | TERNA - tri izžrebane številke v eni vrsti na tombolski srečki
 teru | TER - gost črn stranski proizvod pri destilaciji premoga, lesa
 tesl | TESLA - enota za merjenje gostote magnetnega pretoka
@@ -6456,7 +6719,9 @@ tete | izraža začudenje, nejevoljo
 teti | TETA - sestra očeta ali matere
 tetk | TETKA
 teto | TETA - sestra očeta ali matere
-teve | 
+teve | [epravopis] televizija
+tevi | TEVE - [epravopis] televizija
+tevo | TEVE - [epravopis] televizija
 teza | trditev, ki jo je treba dokazati, utemeljiti
 teze | TEZA - trditev, ki jo je treba dokazati, utemeljiti
 tezi | TEZA - trditev, ki jo je treba dokazati, utemeljiti
@@ -6530,13 +6795,15 @@ tkeš | TKATI - delati tekstilne izdelke s križanjem, prepletanjem osnovnih nit
 tkiv | TKIVO - skupek po obliki in funkciji podobnih celic živih bitij
 tlak | obloga na trdni, utrjeni površini, namenjeni za hojo, vožnjo
 tleč | TLETI - goreti počasi in brez plamena
-tleh | TLA - površina, po kateri se hodi, na kateri kaj stoji
+tleh | TLA - del Zemljine skorje med površino in matično podlago, ki ga sestavljajo anorganske in organske snovi, voda, zrak in živi organizmi ter deluje kot trifazni sistem, v katerem talni delci predstavljajo trdno fazo, talni zrak plinasto fazo, talna voda pa tekočo fazo
 tlel | TLETI - goreti počasi in brez plamena
+tlem | TLA - površina, po kateri se hodi, na kateri kaj stoji
 tlet | TLETI - goreti počasi in brez plamena
 tlih | TLO - (knjiž.) površina, po kateri se hodi, na kateri kaj stoji; TLA
 tlim | TLETI - goreti počasi in brez plamena
 tliš | TLETI - goreti počasi in brez plamena
-tlom | TLO - (knjiž.) površina, po kateri se hodi, na kateri kaj stoji; TLA
+tlom | TLA - del Zemljine skorje med površino in matično podlago, ki ga sestavljajo anorganske in organske snovi, voda, zrak in živi organizmi ter deluje kot trifazni sistem, v katerem talni delci predstavljajo trdno fazo, talni zrak plinasto fazo, talna voda pa tekočo fazo
+tmem | TMEMA - [bot.] v zvezi »tmema celica«: celica v protonemi mahov, iz katere se ob njenem raztrganju sproščajo vegetativne razmnoževalne strukture
 tnal | TNALO - nerazsekan večji kos debla, na katerem se sekajo, cepijo drva
 toča | padavine v obliki večjih ledenih zrn
 toče | TOČ - vrtenje telovadca, oprtega na rokah, okrog droga
@@ -6545,7 +6812,11 @@ točk | TOČKA - manjše mesto na površini česa, določeno s svojo funkcijo, l
 točo | TOČA - padavine v obliki večjih ledenih zrn
 toču | TOČ - vrtenje telovadca, oprtega na rokah, okrog droga
 toda | za izražanje
-todi | 
+todi |
+todo | [gem.] v zvezi »mesečev kamen todo«: temno zelen turmalin iz Brazilije
+tofa | TOFU - [esskj] siru podobno živilo iz sesirjenega sojinega mleka
+tofe | TOFU - [esskj] siru podobno živilo iz sesirjenega sojinega mleka
+tofi | TOFU - [esskj] siru podobno živilo iz sesirjenega sojinega mleka
 tofu | siru podobno živilo iz sesirjenega sojinega mleka, ki se uporablja zlasti v vzhodnoazijski in vegetarijanski kuhinji, sojin sir
 toga | dolgo moško vrhnje oblačilo, ki se ovije okoli telesa
 toge | TOGA - dolgo moško vrhnje oblačilo, ki se ovije okoli telesa
@@ -6559,18 +6830,20 @@ tolč | TOLČI - slišno, navadno močneje udarjati
 tole | TALE
 toli | TOLITI
 tolp | TOLPA - organizirana skupina ljudi, ki se ukvarja z nezakonito, nedovoljeno dejavnostjo
+tolu | [farm.] v zvezi »tolu balzam«:
 toma | TOM - (knjiž.) zvezek, knjiga
 tome | TOM - (knjiž.) zvezek, knjiga
 tomi | navadni vojak
 tomu | TOM - (knjiž.) zvezek, knjiga
 tona | utežna mera, 1000 kg
 tone | TON - zvok določene višine, trajanja, jakosti in barve
-tonf | 
+tonf |
 tong | TONGA - vozilo z dvema kolesoma za prevoz ljudi, ki ga vleče vprega
 toni | TON - zvok določene višine, trajanja, jakosti in barve
 tonk | posnema glas pri zvonjenju, udarjanju
 tono | TONA - utežna mera, 1000 kg
 tonu | TON - zvok določene višine, trajanja, jakosti in barve
+tony | [epravopis] nagrada
 topa | TOP - močno strelno orožje z dolgo cevjo za streljanje zlasti v bolj oddaljen cilj
 tope | TOPITI - delati, povzročati, da trdna snov v tekočini preide v zelo majhne delce
 topi | TOPITI - delati, povzročati, da trdna snov v tekočini preide v zelo majhne delce
@@ -6588,12 +6861,12 @@ toru | TOR - pojav, da se podlaga upira premikanju telesa po njej s silo, ki je 
 tory | TORI - član konservativne stranke
 tota | TOTI
 tote | TOTI
-toti | 
+toti |
 toto | TOTI
 tozd | temeljna organizacija združenega dela
 tožb | TOŽBA - zahteva za rešitev pravnega spora na sodišču
 toži | TOŽITI - sporočati komu, da je kdo storil kaj nedovoljenega, negativnega
-trab | 
+trab |
 trač | neresnična vest, izmišljotina
 trak | dolg, ozek in tanek kos blaga, gume, kovine
 tram | štirikotno obtesano ali obžagano deblo, zlasti v gradbenih konstrukcijah
@@ -6644,7 +6917,6 @@ trmo | TRMA - nepopustljivo vztrajanje pri kakem stališču, ravnanju, mnenju kl
 trna | TRN - koničast izrastek
 trne | TRN - koničast izrastek
 trni | TRN - koničast izrastek
-trnj | TRNJE - trnovi grmi, trnove veje
 trnu | TRN - koničast izrastek
 trob | TROBA - preprosto glasbilo v obliki na koncu lijakasto razširjene cevi, v katero se piha
 troč | TRETI - s silo, pritiskom delati, da kaj ni več celo
@@ -6690,13 +6962,13 @@ tuba | cevasta posoda za mazave snovi, ki se iztiskajo
 tube | TUBA - cevasta posoda za mazave snovi, ki se iztiskajo
 tubi | TUBA - cevasta posoda za mazave snovi, ki se iztiskajo
 tubo | TUBA - cevasta posoda za mazave snovi, ki se iztiskajo
-tuck | [smuč.] gibalno dejanje deskarja ali smučarja prostega sloga, med katerim ta skrči zgornji in spodnji del telesa  in pritegne kolena k prsim
+tuck | [smuč.] gibalno dejanje deskarja ali smučarja prostega sloga, med katerim ta skrči zgornji in spodnji del telesa in pritegne kolena k prsim
 tudi | izraža razširitev veljavnosti trditve na istovrstni stavčni člen ali dodajanje, navezovanje
 tufa | TUF - skupek cvetlic, pokončno zataknjenih v mah, gobo, za na grob, h krsti, žalni aranžma
 tufe | TUF - skupek cvetlic, pokončno zataknjenih v mah, gobo, za na grob, h krsti, žalni aranžma
 tufi | TUF - skupek cvetlic, pokončno zataknjenih v mah, gobo, za na grob, h krsti, žalni aranžma
 tufu | TUF - skupek cvetlic, pokončno zataknjenih v mah, gobo, za na grob, h krsti, žalni aranžma
-tuga | 
+tuga |
 tuge | TUGA
 tugi | TUGA
 tugo | TUGA
@@ -6716,7 +6988,7 @@ tulu | TUL - tanka, mrežasta tkanina iz bombaža ali kemičnih vlaken
 tumb | TUMBA - sarkofagu podoben nagrobnik z upodobitvijo pokojnika na zgornji strani
 tuna | morska riba z osmimi majhnimi rumenimi plavutmi na zgornji in spodnji strani repa pred repno plavutjo
 tune | TUNA - morska riba z osmimi majhnimi rumenimi plavutmi na zgornji in spodnji strani repa pred repno plavutjo
-tunf | 
+tunf |
 tuni | TUNA - morska riba z osmimi majhnimi rumenimi plavutmi na zgornji in spodnji strani repa pred repno plavutjo
 tunj | TUNJA - okrogla, spodaj širša nizka posoda, zlasti za shranjevanje masti
 tuno | TUNA - morska riba z osmimi majhnimi rumenimi plavutmi na zgornji in spodnji strani repa pred repno plavutjo
@@ -6741,11 +7013,12 @@ tutu | posnema glas hupe, trobljenje
 tvar | kar tvori, sestavlja stvari, predmetna telesa
 tvez | TVEZA - neresnična, izmišljena govorica, pripoved
 tvid | groba, težka volnena tkanina za športne suknjiče in plašče
+tvil | [sprotni] mehka tkanina z diagonalnim rebrastim vzorcem
 tvin | [plan.] šotor, prostorsko prilagojen dvema osebama, ki ležita iztegnjeni v spalnih vrečah, in njunima nahrbtnikoma
 tvit | sporočilo na družabnem omrežju Twitter, dolgo največ 140 znakov
 tvoj | izraža svojino ogovorjenega, gledano s stališča govorečega
 tvor | gnojno vnetje lasnega mešička in okolice
-ubeg | 
+ubeg |
 ubij | UBITI - z udarcem, s silo povzročiti smrt
 ubil | UBITI - z udarcem, s silo povzročiti smrt
 ubit | UBITI - z udarcem, s silo povzročiti smrt
@@ -6753,7 +7026,11 @@ ubog | usmiljenja, pomilovanja vreden
 uboj | glagolnik od ubiti 1
 učan | UČEN - nadarjen za učenje
 učeč | UČITI - s posredovanjem znanja usposabljati za opravljanje določenega dela, dejavnosti
+uček | [sinonimni]
+učem | UČ - [sinonimni] oko
 učen | nanašajoč se na učenje, pouk
+učev | UČ - [sinonimni] oko
+učih | UČ - [sinonimni] oko
 učil | UČITI - s posredovanjem znanja usposabljati za opravljanje določenega dela, dejavnosti
 učim | UČITI - s posredovanjem znanja usposabljati za opravljanje določenega dela, dejavnosti
 učiš | UČITI - s posredovanjem znanja usposabljati za opravljanje določenega dela, dejavnosti
@@ -6763,6 +7040,7 @@ učka | manjšalnica od oko
 učke | UČKA - manjšalnica od oko
 učki | UČKA - manjšalnica od oko
 učko | UČKA - manjšalnica od oko
+učku | UČEK - [sinonimni]
 učna | UČEN - nanašajoč se na učenje, pouk
 učne | UČEN - nanašajoč se na učenje, pouk
 učni | UČEN - nanašajoč se na učenje, pouk
@@ -6781,6 +7059,7 @@ udke | UDEK - manjšalnica od ud
 udki | UDEK - manjšalnica od ud
 udku | UDEK - manjšalnica od ud
 udom | UD - del človeškega telesa, ki se uporablja za premikanje ali prijemanje
+udon | [sprotni] špagetom podobni debelejši rezanci iz pšenične moke ali jed s takimi rezanci, po izvoru iz vzhodne Azije
 udor | glagolnik od udreti se
 udov | UD - del človeškega telesa, ki se uporablja za premikanje ali prijemanje
 udre | UDRETI SE - pod pritiskom, težo pomakniti se v navpični smeri navzdol
@@ -6790,7 +7069,8 @@ udrt | UDRETI - pod pritiskom, težo pomakniti se v navpični smeri navzdol
 ufih | UFO - [pravopis] neznani leteči predmet
 ufom | UFO - [pravopis] neznani leteči predmet
 ufov | UFO - [pravopis] neznani leteči predmet
-ugib | 
+ugib |
+ugor | [sinonimni]
 uhač | žival z velikimi, dolgimi ušesi, uhlji, navadno zajec
 uhaj | UHATI - držati za uho, uhelj in stresati
 uhal | UHATI - držati za uho, uhelj in stresati
@@ -6857,6 +7137,7 @@ ulni | ULNA
 ulno | ULNA
 ulom | glagolnik od ulomiti
 ulov | glagolnik od uloviti
+ulve | [geol.] v zvezi »ulve spinel«: črn kubični mineral iz skupine spinelov, železov titanov oksid, v kromovih nahajališčih preraščen z magnetitom
 umba | UMBO - [umetn.] osrednji del ščita, navadno izdelan iz izbočene kovinske pločevine
 umbe | UMBO - [umetn.] osrednji del ščita, navadno izdelan iz izbočene kovinske pločevine
 umbi | UMBO - [umetn.] osrednji del ščita, navadno izdelan iz izbočene kovinske pločevine
@@ -6890,6 +7171,7 @@ unči | UNČA - angleška in ameriška utežna enota, približno 28,35 g
 unčo | UNČA - angleška in ameriška utežna enota, približno 28,35 g
 unij | UNIJA
 unik | UNIKUM - kar je nekaj posebnega, nenavadnega, izjemnega
+unit | [kamn.] v zvezi »lipica unito«: svetlosiv zgornjekredni apnenec z drobirjem rudistnih školjk, ki se uporablja za izdelavo zlasti notranjih oblog, masivnih profiliranih kamnoseških izdelkov in kamnito galanterijo
 unra | Uprava Združenih narodov za pomoč in obnovo
 upad | glagolnik od upasti
 upaj | UPATI - biti v duševnem stanju, ko se vidi možnost za rešitev iz težkega položaja
@@ -6948,13 +7230,13 @@ useč | USEČI
 used | glagolnik od usesti se
 usek | glagolnik od usekati
 usel | USESTI SE - zaradi lastne teže
-usip | 
-usnj | USNJE - živalska koža, strojena brez dlake
+usip |
 usod | USODA - kar po verovanju nekaterih ljudi določa potek človekovega življenja tako, da se nanj ne da vplivati
 uspe | USPETI - s svojim delom, prizadevanjem doseči tak rezultat, kot se želi, pričakuje
 uspi | USPETI - s svojim delom, prizadevanjem doseči tak rezultat, kot se želi, pričakuje
 usta | odprtina na spodnjem delu obraza za sprejemanje hrane in za govorjenje
 usti | USTA - odprtina na spodnjem delu obraza za sprejemanje hrane in za govorjenje
+ustk | USTKA - manjšalnica od usta
 usuj | USUTI - spraviti kam kaj sipkega, drobnega
 usul | USUTI - spraviti kam kaj sipkega, drobnega
 usus | [prav.] osebna služnost, ki daje pravico uporabljati tujo nepotrošno stvar v skladu z njenim gospodarskim namenom za potrebe imetnika služnosti tako, da se ohranja njena substanca
@@ -6991,7 +7273,7 @@ utek | glagolnik od uteči ali utekati
 utev | UTVA - (velika) divja raca
 utež | priprava z označenimi kilogrami, dekagrami, grami za merjenje teže ali mase česa
 utic | UTICA - manjšalnica od uta
-utok | 
+utok |
 utop | kovalno orodje z izdolbeno obliko predmeta, ki se želi skovati
 utor | ozek žleb v deski ali strojnem delu
 utre | UTRETI - z odstranjevanjem česa ovirajočega narediti kaj
@@ -7067,6 +7349,10 @@ vame | enklitika
 vami | VI - izraža skupino oseb, ki jih govoreči ogovarja
 vamp | spolno zelo privlačna, za moške pogubna ženska, zlasti kot filmski lik
 vanj | enklitika
+vapa | VAPE - [sprotni] (pogovorno) elektronska priprava za kajenje, ki uparja tekočino z nikotinom
+vape | [sprotni] (pogovorno) elektronska priprava za kajenje, ki uparja tekočino z nikotinom
+vapi | VAPE - [sprotni] (pogovorno) elektronska priprava za kajenje, ki uparja tekočino z nikotinom
+vapu | VAPE - [sprotni] (pogovorno) elektronska priprava za kajenje, ki uparja tekočino z nikotinom
 vara | VAR - strjen material, ki je pri varjenju zmehčan ali staljen
 vare | VARITI - spajati kovinske, plastične dele s segrevanjem ali pritiskom
 vari | VARITI - spajati kovinske, plastične dele s segrevanjem ali pritiskom
@@ -7098,14 +7384,14 @@ vbil | VBITI - z udarci narediti, da kaj s koničastim delom pride v kaj in tam 
 vbit | VBITI - z udarci narediti, da kaj s koničastim delom pride v kaj in tam ostane
 vbod | glagolnik od vbosti
 vbol | VBOSTI - pri šivanju potisniti kaj koničastega z vdeto nitjo v kaj trdnega, da pride skozi
-včas | 
+včas |
 vdaj | VDATI SE - zaradi pritiska, delovanja sile prenehati ohranjati trdnost
 vdal | VDATI SE - zaradi pritiska, delovanja sile prenehati ohranjati trdnost
 vdam | VDATI SE - zaradi pritiska, delovanja sile prenehati ohranjati trdnost
 vdan | VDATI - zaradi pritiska, delovanja sile prenehati ohranjati trdnost
 vdaš | VDATI SE - zaradi pritiska, delovanja sile prenehati ohranjati trdnost
 vdat | VDATI SE - zaradi pritiska, delovanja sile prenehati ohranjati trdnost
-vdeb | 
+vdeb |
 vdel | VDETI - deti kaj v uho šivanke tako, da pride skozi
 vdet | VDETI - deti kaj v uho šivanke tako, da pride skozi
 vdih | enkratno zajetje zraka v pljuča pri dihanju
@@ -7114,7 +7400,9 @@ vdov | VDOVA - žena, katere mož je umrl in se ponovno ne poroči
 vdre | VDRETI - deroč priti v kaj, premagujoč ovire
 vdri | VDRETI - deroč priti v kaj, premagujoč ovire
 vdrl | VDRETI - deroč priti v kaj, premagujoč ovire
-vece | 
+vdrt | [agr.] v zvezi »vdrta fižolova pegavost«:
+vebe | [b.k.] v zvezi »stopnja vebe«: mera za konsistenco betona, izražena kot čas, v katerem se beton med vibriranjem razleze tako, da je celotna prozorna plošča v stiku z betonom, ki se določi tako, da se vzorec svežega betona vgradi v standardni kalup v obliki prisekanega stožca, ki je postavljen v cilindrično posodo vebe naprave, po dvigu kalupa pa se na površino vzorca prisloni prozorna plošča
+vece |
 veča | zbor članov ali predstavnikov rodovne, vaške skupnosti, ki odloča o skupnih zadevah, sporih
 veče | zbor članov ali predstavnikov rodovne, vaške skupnosti, ki odloča o skupnih zadevah, sporih
 veči | VEČA - zbor članov ali predstavnikov rodovne, vaške skupnosti, ki odloča o skupnih zadevah, sporih
@@ -7123,6 +7411,7 @@ veču | VEČE - zbor članov ali predstavnikov rodovne, vaške skupnosti, ki odl
 veda | dejavnost, ki si prizadeva metodično priti do sistematično izpeljanih, urejenih in dokazljivih spoznanj
 vede | kdor začasno opravlja določena vodstvena dela in naloge
 vedi | VEDA - dejavnost, ki si prizadeva metodično priti do sistematično izpeljanih, urejenih in dokazljivih spoznanj
+vedk | VEDKA - [pravopis]
 vedo | VEDA - dejavnost, ki si prizadeva metodično priti do sistematično izpeljanih, urejenih in dokazljivih spoznanj
 vega | VEGATI - omahovati, pomišljati se
 vege | VEGA - [geog.] zemljišče na jugu Pirenejskega polotoka, ki ga je mogoče namakati
@@ -7132,18 +7421,19 @@ veha | lesen zamašek za sode
 vehe | VEHA - lesen zamašek za sode
 vehi | VEHA - lesen zamašek za sode
 veho | VEHA - lesen zamašek za sode
-veht | VEHTA - [plan.] napihan zbit sneg, ki sega s privetrne strani grebena nad odvetrno strmino, nad odprtino ledeniške razpoke, visi čez polico v steni, čez  izboklino v kaminu ali skok v grapah
+veht | VEHTA - [plan.] napihan zbit sneg, ki sega s privetrne strani grebena nad odvetrno strmino, nad odprtino ledeniške razpoke, visi čez polico v steni, čez izboklino v kaminu ali skok v grapah
 veja | oleseneli stranski poganjek lesnatih rastlin
 veje | VETI - gibati, premikati se z enega območja na drugo zaradi razlik v zračnem pritisku, temperaturi
 veji | VEJA - oleseneli stranski poganjek lesnatih rastlin
 vejo | VEJA - oleseneli stranski poganjek lesnatih rastlin
+vejp | [sprotni] (pogovorno) elektronska priprava za kajenje, ki uparja tekočino z nikotinom
 veka | kožna guba, ki pokriva zrklo
 veke | VEK - daljša doba, daljše obdobje zgodovine
 veki | VEK - daljša doba, daljše obdobje zgodovine
 veko | VEKA - kožna guba, ki pokriva zrklo
 veku | VEK - daljša doba, daljše obdobje zgodovine
 vela | VETI - gibati, premikati se z enega območja na drugo zaradi razlik v zračnem pritisku, temperaturi
-velb | 
+velb |
 veld | [geog.] pokrajina s stepskemu podobnim travniškim rastlinstvom v Transvaalu in Oranju na jugu Afrike
 vele | VETI - gibati, premikati se z enega območja na drugo zaradi razlik v zračnem pritisku, temperaturi
 veli | VETI - gibati, premikati se z enega območja na drugo zaradi razlik v zračnem pritisku, temperaturi
@@ -7249,7 +7539,7 @@ vita | okrasna vzpenjavka z enojnimi ali sestavljenimi listi, Cissus
 vite | VITI - delovati s silo na kaj prožnega, podolgovatega na dveh koncih in v nasprotni smeri krožno okrog vzdolžne osi
 viti | delovati s silo na kaj prožnega, podolgovatega na dveh koncih in v nasprotni smeri krožno okrog vzdolžne osi
 vito | VITI - delovati s silo na kaj prožnega, podolgovatega na dveh koncih in v nasprotni smeri krožno okrog vzdolžne osi
-viza | 
+viza |
 vize | VIZA
 vizi | VIZA
 vizo | VIZA
@@ -7263,15 +7553,16 @@ vjem | VJESTI SE - zajesti se, prodreti
 vješ | VJESTI SE - zajesti se, prodreti
 vkop | glagolnik od vkopati
 vkuj | VKOVATI - s kovanjem pritrditi v kaj
-vkup | 
+vkup |
 vlač | VLAČA - orodje iz med seboj z verigami ali gibljivimi členi povezanih lesenih ali z železom okovanih prečk za ravnanje zemlje
 vlad | VLADA - organ, ki ima vrhovno izvršilno oblast v državi
 vlag | VLAGA - manjša količina tekočine, zlasti vode, na površini česa, v čem
 vlak | vozilo iz med seboj povezanih vagonov, ki jih navadno vleče lokomotiva
-vlas | 
-vlat | 
+vlas |
+vlat |
 vleč | VLEČI - s silo, usmerjeno proti sebi
 vlek | glagolnik od vleči
+vlet | > GOLŠA - [čeb.] del prebavne cevi čebele delavke, v katerem shranjuje medičino, mano, vodo od njihovega vira do vleta v panj, lat. ingluvies
 vlij | VLITI - spraviti kaj tekočega v kaj
 vlil | VLITI - spraviti kaj tekočega v kaj
 vlit | VLITI - spraviti kaj tekočega v kaj
@@ -7282,11 +7573,11 @@ vmes | izraža položaj med dvema ali več točkami
 vnel | VNETI - narediti, povzročiti, da kaj začne goreti
 vnem | VNEMA - velika stopnja psihične pripravljenosti za kako delo
 vnet | VNETI - narediti, povzročiti, da kaj začne goreti
-vnic | 
+vnic |
 vnit | VNITI
-vniz | 
+vniz |
 vnos | glagolnik od vnesti
-vnov | 
+vnov |
 vnuč | VNUČA
 vnuk | sin sina ali hčere
 voal | tančična tkanina iz močno vite preje za ženske večerne obleke, bluze, zavese
@@ -7319,16 +7610,17 @@ volk | psu podobna zver z rumenkasto ali rjavkasto sivim kožuhom
 voln | VOLNA - dlaka ovc in nekaterih drugih živali
 volt | enota za merjenje električne napetosti
 volu | VOL - skopljen samec goveda
-volv | VOLVA - [bot.] 
+volv | VOLVA - [bot.]
 vonj | hlapi, ki jih oddajajo hlapljive snovi
 vosa | VOS - vsaka od poroženelih kožnih gub v obliki plošče s cevastim osrednjim delom in resastim robom, viseča s trdega neba nekaterih kitov
 vose | VOS - vsaka od poroženelih kožnih gub v obliki plošče s cevastim osrednjim delom in resastim robom, viseča s trdega neba nekaterih kitov
 vosi | VOS - vsaka od poroženelih kožnih gub v obliki plošče s cevastim osrednjim delom in resastim robom, viseča s trdega neba nekaterih kitov
 vosu | VOS - vsaka od poroženelih kožnih gub v obliki plošče s cevastim osrednjim delom in resastim robom, viseča s trdega neba nekaterih kitov
-voza | 
-voze | VOZA
+voza | VOZ - vozilo z navadno štirimi kolesi za prevoz ljudi in tovora, ki ga vleče vprežna žival
+voze | VOZ - vozilo z navadno štirimi kolesi za prevoz ljudi in tovora, ki ga vleče vprežna žival
 vozi | VOZITI - voditi, usmerjati avtomobil, vozilo
 vozo | VOZA
+vozu | VOZ - vozilo z navadno štirimi kolesi za prevoz ljudi in tovora, ki ga vleče vprežna žival
 voža | VOŽE - vrv, s katero se povezuje s senom, žitom naložen voz
 vože | vrv, s katero se povezuje s senom, žitom naložen voz
 voži | VOŽE - vrv, s katero se povezuje s senom, žitom naložen voz
@@ -7345,6 +7637,7 @@ vpit | VPITI - zelo glasno govoriti
 vpne | VPETI - narediti, da je kaj trdno nameščeno, pritrjeno na določenem mestu, v določenem položaju
 vpni | VPETI - narediti, da je kaj trdno nameščeno, pritrjeno na določenem mestu, v določenem položaju
 vpoj | glagolnik od vpiti, sprejeti vase
+vpon | VPONA - [pravopis]
 vrač | kdor z dejanji, stvarmi, ki imajo nenavadno, skrivnostno moč, vpliva na koga ali po določenih znamenjih napoveduje prihodnost
 vrag | zloben, hudoben človek
 vran | vranji samec
@@ -7412,7 +7705,7 @@ všel | VNICATI - v zelo majhni količini prihajati skozi kaj ovirajočega v kaj
 všij | VŠITI - s šivanjem narediti, da je kaj nameščeno v za to namenjeno odprtino
 všil | VŠITI - s šivanjem narediti, da je kaj nameščeno v za to namenjeno odprtino
 všit | VŠITI - s šivanjem narediti, da je kaj nameščeno v za to namenjeno odprtino
-všiv | 
+všiv |
 všla | VNICATI - v zelo majhni količini prihajati skozi kaj ovirajočega v kaj
 všle | VNICATI - v zelo majhni količini prihajati skozi kaj ovirajočega v kaj
 všli | VNICATI - v zelo majhni količini prihajati skozi kaj ovirajočega v kaj
@@ -7438,7 +7731,7 @@ vuta | [b.k.] stopničasta ali linearna odebelitev plošče ali nosilca na mestu
 vute | VUTA - [b.k.] stopničasta ali linearna odebelitev plošče ali nosilca na mestu podprtja s stebrom ali steno, ki omogoča bolj zvezen potek sil po konstrukciji s plošče ali nosilca na stebre in stene
 vuti | VUTA - [b.k.] stopničasta ali linearna odebelitev plošče ali nosilca na mestu podprtja s stebrom ali steno, ki omogoča bolj zvezen potek sil po konstrukciji s plošče ali nosilca na stebre in stene
 vuto | VUTA - [b.k.] stopničasta ali linearna odebelitev plošče ali nosilca na mestu podprtja s stebrom ali steno, ki omogoča bolj zvezen potek sil po konstrukciji s plošče ali nosilca na stebre in stene
-vzad | 
+vzad |
 vzda | VZDATI
 vzel | VZETI - narediti, da pride kaj k osebku zlasti s prijemom z roko
 vzet | VZETI - narediti, da pride kaj k osebku zlasti s prijemom z roko
@@ -7447,7 +7740,7 @@ vzor | oseba, stvar z lastnostmi, značilnostmi, ki jih kdo odobravajoče spreje
 vžge | VŽGATI - narediti, povzročiti, da kaj začne goreti
 vžgi | VŽGATI - narediti, povzročiti, da kaj začne goreti
 vžgo | VŽGATI - narediti, povzročiti, da kaj začne goreti
-vžig | 
+vžig | [gas.] začetek gorenja gorljive snovi, ki nastopi, ko so izpolnjeni pogoji požarnega tetraedra
 vžre | VŽRETI SE - zajesti se, prodreti
 vžri | VŽRETI SE - zajesti se, prodreti
 vžrl | VŽRETI SE - zajesti se, prodreti
@@ -7458,12 +7751,13 @@ webi | WEB - svetovni sistem medijskih vsebin, besednih, zvočnih, filmskih, ki 
 webu | WEB - svetovni sistem medijskih vsebin, besednih, zvočnih, filmskih, ki so med seboj povezane z nadpovezavami; SPLET
 whig | član liberalne stranke
 word | urejevalnik besedil ameriškega proizvajalca Microsoft
-würm | [geog.] najmlajša pleistocenska poledenitev v Alpah, med okrog 100.000 in 10.000 leti pred sedanjostjo, primerljiva z viselsko poledenitvijo na severu Evrope in wisconsinsko poledenitvijo v Severni Ameriki
-yard | 
+wurm | WÜRM - [geog.] najmlajša pleistocenska poledenitev v Alpah, med okrog 100.000 in 10.000 leti pred sedanjostjo, primerljiva z viselsko poledenitvijo na severu Evrope in wisconsinsko poledenitvijo v Severni Ameriki
+yard |
+zaba | [gem.] v zvezi »kamen zaba«: imitacija diamanta iz sintetičnega rutila
 zabi | ZABITI
 zada | ZADATI - narediti, povzročiti kaj, navadno neprijetnega, slabega
 zade | ZADEJATI
-zadi | 
+zadi |
 zait | ZAITI - spustiti se za obzorje, pod obzorje
 zaje | ZAJESTI - porabiti, zapraviti za jed, hrano
 zajk | ZAJKA - zajčja samica
@@ -7484,22 +7778,23 @@ zaru | ZAR - dolgo, široko vrhnje oblačilo muslimank z ogrinjalom za glavo
 zase | enklitika
 zate | enklitika
 zato | izraža vzrok dejanja, znan iz predhodnega besedila
-zaup | 
+zaup |
+zave | ZAVEDETI SE - zbuditi se iz stanja brez zavesti, zavedanja
 zbal | ZBATI SE - začutiti strah
 zbat | ZBATI SE - začutiti strah
 zbij | ZBITI - s tolčenjem, udarjanjem narediti, da so zlasti leseni deli tesno skupaj, povezani
 zbil | ZBITI - s tolčenjem, udarjanjem narediti, da so zlasti leseni deli tesno skupaj, povezani
 zbir | kar se zbere in tvori celoto
 zbit | ZBITI - s tolčenjem, udarjanjem narediti, da so zlasti leseni deli tesno skupaj, povezani
-zbog | 
+zbog |
 zboj | past za polhe s kamnom
 zbol | ZBOSTI - zaradi ostrosti povzročiti komu pekočo bolečino
 zbor | večja skupina ljudi, zbrana na kakem mestu, navadno z določenim namenom
 zdaj | izraža, da se dejanje zgodi v tem času, v tem trenutku
 zdel | ZDETI SE - imeti občutek, vtis, zaznavo česa brez prepričanosti o stvarni podlagi tega
 zdet | ZDETI SE - imeti občutek, vtis, zaznavo česa brez prepričanosti o stvarni podlagi tega
-zdič | 
-zdih | 
+zdič |
+zdih |
 zdim | ZDETI SE - imeti občutek, vtis, zaznavo česa brez prepričanosti o stvarni podlagi tega
 zdiš | ZDETI SE - imeti občutek, vtis, zaznavo česa brez prepričanosti o stvarni podlagi tega
 zdre | IZDRETI - z vlečenjem, potegovanjem spraviti kaj iz snovi, v kateri tiči
@@ -7507,7 +7802,7 @@ zdri | IZDRETI - z vlečenjem, potegovanjem spraviti kaj iz snovi, v kateri tič
 zdrk | glagolnik od zdrkniti
 zdrl | IZDRETI - z vlečenjem, potegovanjem spraviti kaj iz snovi, v kateri tiči
 zdrs | glagolnik od zdrsniti
-zdrt | ZDRETI - grobo, glasno koga ošteti
+zdrt | IZDRETI - z vlečenjem, potegovanjem spraviti kaj iz snovi, v kateri tiči
 zeba | (nar.) manjša ptica pevka, katere samec je po prsih rdeče rjav; ŠČINKAVEC
 zebe | ZEBA - (nar.) manjša ptica pevka, katere samec je po prsih rdeče rjav; ŠČINKAVEC
 zebi | ZEBA - (nar.) manjša ptica pevka, katere samec je po prsih rdeče rjav; ŠČINKAVEC
@@ -7522,6 +7817,7 @@ zelj | ZELJE - kulturna rastlina s tesno prilegajočimi se, gladkimi listi
 zelo | izraža veliko mero dejanja ali stanja
 zena | ZEN - smer v budizmu, razširjena zlasti na Japonskem, ki uči tehniko samoobvladovanja, notranje sprostitve
 zene | ZEN - smer v budizmu, razširjena zlasti na Japonskem, ki uči tehniko samoobvladovanja, notranje sprostitve
+zenf | [sprotni] (pogovorno) pikantna začimba, pripravljena iz semen bele gorčice in dodatkov
 zeni | ZEN - smer v budizmu, razširjena zlasti na Japonskem, ki uči tehniko samoobvladovanja, notranje sprostitve
 zenu | ZEN - smer v budizmu, razširjena zlasti na Japonskem, ki uči tehniko samoobvladovanja, notranje sprostitve
 zeta | cigareta slabše kakovosti z imenom Zeta
@@ -7538,7 +7834,7 @@ zeza | ZEZATI - dražiti koga, norčevati se iz koga
 zgag | ZGAGA - pekoč občutek v želodcu ali požiralniku
 zgib | premik (dela) telesa iz enega položaja v drugega, zlasti kratkotrajen
 zgod | ZGODA
-zgor | 
+zgor |
 zgub | IZGUBA - primanjkljaj izkupička glede na stroške ali prodajne cene glede na nakupno
 ziba | ZIBATI - enakomerno premikati kaj sem in tja ali navzgor in navzdol okrog njegove osi
 zibe | ZIB - premik telesa sem in tja ali navzgor in navzdol okrog njegove osi
@@ -7554,6 +7850,10 @@ zide | ZITI SE - sniti se
 zidi | ZITI SE - sniti se
 zidu | ZID - vsak od delov stavbe, narejen z gradbenim materialom, zlasti z zidaki, ki omejuje prostor, prostore ob straneh
 zija | ZIJATI - biti v stanju, ko se prej prilegajoči se deli ne prilegajo (več)
+zika | [epravopis] virus, imenovan po gozdu Zika v Ugandi
+zike | [epravopis] ZIKA
+ziki | [epravopis] ZIKA
+ziko | [epravopis] ZIKA
 zima | del leta med jesenjo in pomladjo
 zime | ZIMA - del leta med jesenjo in pomladjo
 zimi | ZIMA - del leta med jesenjo in pomladjo
@@ -7565,6 +7865,7 @@ ziza | (nar.) vzboklina na ženskem oprsju z mlečnimi žlezami; DOJKA
 zize | ZIZA - (nar.) vzboklina na ženskem oprsju z mlečnimi žlezami; DOJKA
 zizi | ZIZA - (nar.) vzboklina na ženskem oprsju z mlečnimi žlezami; DOJKA
 zizo | ZIZA - (nar.) vzboklina na ženskem oprsju z mlečnimi žlezami; DOJKA
+zjal | ZJALA - [pravopis]
 zjed | IZJED - kar ostane po uživanju hrane
 zjej | IZJESTI - z grizenjem uničiti
 zjel | IZJESTI - z grizenjem uničiti
@@ -7572,7 +7873,7 @@ zjem | IZJESTI - z grizenjem uničiti
 zješ | IZJESTI - z grizenjem uničiti
 zlat | nanašajoč se na zlato
 zleč | IZLEČI - izločiti zaradi razmnoževanja
-zlek | 
+zlek |
 zlem | ZEL - ki drugim želi in povzroča zlo, slabo
 zlet | slavnostna prireditev, na kateri množično nastopajo člani telovadnih društev
 zlih | ZLO - kar je v nasprotju z dobrim, zlasti z moralnega stališča
@@ -7580,7 +7881,7 @@ zlij | ZLITI - z nagnjenjem posode narediti, da kaj tekočega kam pride
 zlil | ZLITI - z nagnjenjem posode narediti, da kaj tekočega kam pride
 zlim | ZEL - ki drugim želi in povzroča zlo, slabo
 zlit | ZLITI - z nagnjenjem posode narediti, da kaj tekočega kam pride
-zliv | 
+zliv |
 zlob | ZLOBA - želja, da se komu namerno povzroča veliko trpljenje, velike težave
 zlog | izgovorna enota iz zlogotvornega glasu ali iz zlogotvornega glasu in enega ali več soglasnikov, ki tvori besedo ali del besede
 zlom | glagolnik od zlomiti
@@ -7592,11 +7893,12 @@ zmaz | namaz, premaz iz blata, ilovice
 zmed | ZMEDA - stanje, ko nad stvarmi, položajem ni pregleda
 zmel | ZMESTI - povzročiti, da kdo nima urejenih, pravilnih misli, predstav
 zmen | IZMENA
-zmer | 
+zmer |
 zmes | snov iz več snovi
 zmet | ZMETI - z metjem kakega dela telesa doseči določen učinek
 zmig | glagolnik od zmigniti
 zmij | IZMITI - z vodo ali drugo tekočino očistiti
+zmik | [geol.] v zvezi »mladoterciarni zmik«: zmični prelom v miocenu ali pliocenu
 zmil | IZMITI - z vodo ali drugo tekočino očistiti
 zmit | IZMITI - z vodo ali drugo tekočino očistiti
 zmoč | ZMOČI - izraža sposobnost osebka
@@ -7616,13 +7918,17 @@ zoba | ZOB - trd, bel izrastek v spodnji in zgornji čeljusti za grizenje, žve�
 zobe | ZOB - trd, bel izrastek v spodnji in zgornji čeljusti za grizenje, žvečenje hrane
 zobi | ZOB - trd, bel izrastek v spodnji in zgornji čeljusti za grizenje, žvečenje hrane
 zobu | ZOB - trd, bel izrastek v spodnji in zgornji čeljusti za grizenje, žvečenje hrane
+zoca | ZOC - [sinonimni] kavna usedlina
+zoce | ZOC - [sinonimni] kavna usedlina
+zoci | ZOC - [sinonimni] kavna usedlina
+zocu | ZOC - [sinonimni] kavna usedlina
 zoej | ZOEJA - [geol.] larvalni stadij pri dekapodnih rakih
 zofa | oblazinjeno ležišče brez stranic, navadno ozko in z dvignjenim zglavjem
 zofe | ZOFA - oblazinjeno ležišče brez stranic, navadno ozko in z dvignjenim zglavjem
 zofi | ZOFA - oblazinjeno ležišče brez stranic, navadno ozko in z dvignjenim zglavjem
 zofo | ZOFA - oblazinjeno ležišče brez stranic, navadno ozko in z dvignjenim zglavjem
 zoih | ZOO - živalski vrt
-zolj | 
+zolj |
 zona | neprijeten občutek z drhtenjem zaradi močnega vznemirjenja, odpora, strahu
 zone | ZONA - neprijeten občutek z drhtenjem zaradi močnega vznemirjenja, odpora, strahu
 zoni | ZONA - neprijeten občutek z drhtenjem zaradi močnega vznemirjenja, odpora, strahu
@@ -7661,7 +7967,6 @@ zrna | ZRNO - vsako od semen, navadno v klasu, latu žit ali stroku stročnic, z
 zrnc | ZRNCE - manjšalnica od zrno
 zrne | ZRNETI - delati zrna
 zrni | ZRNO - vsako od semen, navadno v klasu, latu žit ali stroku stročnic, z nakopičenimi hranilnimi snovmi
-zrnj | ZRNJE - več zrn, zrna
 zrno | vsako od semen, navadno v klasu, latu žit ali stroku stročnic, z nakopičenimi hranilnimi snovmi
 zrnu | ZRNO - vsako od semen, navadno v klasu, latu žit ali stroku stročnic, z nakopičenimi hranilnimi snovmi
 zroč | ZRETI
@@ -7684,10 +7989,11 @@ zvij | ZVITI - narediti, da kaj prožnega, podolgovatega (večkrat) pride okrog 
 zvil | ZVITI - narediti, da kaj prožnega, podolgovatega (večkrat) pride okrog kake osi in dobi valjasto, kroglasto obliko
 zvin | natrganje ali pretrganje ovojnice in sklepnih vezi
 zvit | ZVITI - narediti, da kaj prožnega, podolgovatega (večkrat) pride okrog kake osi in dobi valjasto, kroglasto obliko
-zvoj | 
+zvoj |
 zvok | kar se zaznava s sluhom
 zvon | spodaj odprt in razširjen votel kovinski predmet, ki ob udarcih, trkih obenj daje močne, zveneče glasove
 zvrg | IZVRG - prekinitev brejosti
+zvrt | [sprotni] gibanje, pri katerem letalnik zaradi izgube vzgona ob krilih (namerno) omahne, pada in se pri tem dvojno vrti
 žaba | manjša dvoživka s široko glavo, širokim trupom in daljšimi zadnjimi okončinami
 žabe | ŽABA - manjša dvoživka s široko glavo, širokim trupom in daljšimi zadnjimi okončinami
 žabi | ŽABA - manjša dvoživka s široko glavo, širokim trupom in daljšimi zadnjimi okončinami
@@ -7759,6 +8065,7 @@ zvrg | IZVRG - prekinitev brejosti
 žice | ŽICA - dolg, tanek kovinski izdelek, navadno okroglega prereza
 žici | ŽICA - dolg, tanek kovinski izdelek, navadno okroglega prereza
 žico | ŽICA - dolg, tanek kovinski izdelek, navadno okroglega prereza
+žiči | ŽIČITI - [čeb.] v zvezi »žičiti satnik«: napeljevati žico v satnik pred vtiranjem v satnico za njeno pritrditev, ojačitev izdelanega sata
 žičk | ŽIČKA - manjšalnica od žica
 žida | ŽID - pripadnik judovske vere
 žide | ŽID - pripadnik judovske vere
@@ -7813,11 +8120,11 @@ zvrg | IZVRG - prekinitev brejosti
 žolč | grenka, zelenkasto rumena tekočina, ki jo izločajo jetra
 žold | vojaška služba
 žoln | ŽOLNA - ptica z močnim dletastim kljunom in nogami, prilagojenimi za plezanje po deblu
-žolt | 
+žolt |
 žont | ŽONTA - z vodo zalite skisane vinske tropine
 žrdi | ŽRD - dolg, debelejši lesen drog, ki se vzdolžno položi na vrh s senom, snopi naloženega voza in na obeh koncih priveže, da je tovor trdneje nameščen
 žreb | določeno dejanje, s katerim se naključno izbira med več enakovrednimi možnostmi
-žrec | 
+žrec |
 žrel | ŽRELO - del prebavne in dihalne cevi od nosne votline do grla in požiralnika
 žrem | ŽRETI - hlastno jesti
 žreš | ŽRETI - hlastno jesti

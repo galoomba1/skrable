@@ -1,11 +1,15 @@
+abe | [pravopis]
 aft | AFTA - belkasti, boleči mehurčkasti izpuščaji na ustni sluznici
 aga | nižji vojaški ali civilni oblastnik
-agb | AGBA - [umetn.] 
+agb | AGBA - [umetn.]
 age | AGA - nižji vojaški ali civilni oblastnik
+agf | AGFA - [pravopis]
 agi | AGA - nižji vojaški ali civilni oblastnik
 ago | AGA - nižji vojaški ali civilni oblastnik
 agu | AGA - nižji vojaški ali civilni oblastnik
 aha | izraža zadovoljnost pri domisleku, dognanju, najdenju
+ahm | [esskj] izraža, da govorec razmišlja, se obotavlja spregovoriti, navadno iz zadrege, ima pomisleke
+aid | AIDA - [pravopis]
 ais | za polton zvišani ton a
 aja | za uspavanje otroka
 ajd | (star.) pripadnik vere, ki ne priznava Jezusa Kristusa za boga; POGAN
@@ -22,6 +26,7 @@ akt | zunanji izraz odločitve ali volje, dejanje
 aku | AK - drog z železno kljuko za plavljenje lesa
 ala | izraža ukaz, spodbudo
 alb | ALBA - dolgo belo liturgično oblačilo duhovnikov
+ale | [geol.] v zvezi »ale bazen«: kotanja, ki nastane v globokem morju zaradi turbiditnih tokov, ko spremenijo smer ob podmorskih grebenih
 alf | ALFA - prva črka grške abecede
 alg | ALGA - nižje razvita obarvana rastlina, ki živi zlasti v vodi
 ali | za vezanje stavkov ali stavčnih členov
@@ -33,13 +38,16 @@ ama | [gem.] nabiralka morskih školjk bisernic
 amb | AMBA - dve izžrebani številki v eni vrsti na tombolski srečki
 ame | AMA - [gem.] nabiralka morskih školjk bisernic
 ami | tip francoskega osebnega avtomobila znamke Citroën
+amm | [esskj] uporablja se, ko se govorec obotavlja, želi zapolniti premor v govoru
 amo | AMA - [gem.] nabiralka morskih školjk bisernic
+aon | [geol.] v zvezi »aon cona«: biocona v cordevoliju, imenovana po amonitu Trachyceras aon
 apt | [geol.] stopnja spodnje krede med albijem in barremijem
 ara | znesek, ki se plača naprej kot dokaz, da je pogodba sklenjena, naplačilo
 are | ARA - znesek, ki se plača naprej kot dokaz, da je pogodba sklenjena, naplačilo
 ari | ARA - znesek, ki se plača naprej kot dokaz, da je pogodba sklenjena, naplačilo
 ark | ARKA - [geol.] školjka s taksodontnim sklepom in rebrasto površino, ki živi od neogena dalje
 aro | ARA - znesek, ki se plača naprej kot dokaz, da je pogodba sklenjena, naplačilo
+ars | ARSA - [pravopis]
 aru | ARA - velika živobarvna papiga z dolgim repom, Ara
 asa | izraža bolečino zaradi dotika česa vročega, zaradi udarca, ugriza
 ase | AS - igralna karta z enim znakom na sredi, navadno z najvišjo vrednostjo
@@ -59,6 +67,7 @@ ave | (knjiž.) zvonjenje zvečer v čast Mariji; AVEMARIJA
 avl | AVLA - velika veža v javnih poslopjih
 avš | AVŠA - neumna, nespametna ženska
 avt | prostor za mejno črto igrišča
+azo | [farm.] v zvezi »redukcija azo skupine«: metabolična reakcija I. reda iz skupine redukcij, pri kateri se reduktivno cepi vez med dvema dušikoma v azo spojinah
 bab | BABA - ženska, navadno starejša
 bac | (navadno pri klicanju) ovca, bacek
 bag | BAGA - gošča, ostanki v pipi
@@ -66,6 +75,7 @@ bah | izraža malomarno zavrnitev
 bal | določeni del norme za dosego kakega naslova
 bam | posnema nizki glas zvona
 ban | predstojnik banovine
+bao | [tolk.] v zvezi »bao gongi«: skupina gongov, navadno z izbočeno, redko vbočeno kupolo, uglašenih na določene tonske višine
 bar | kulturna ali divja trava z debelim klasom, Setaria italica
 bas | najnižji moški glas
 baš | poudarja trditev
@@ -79,6 +89,7 @@ beb | BEBA - neodločen, omahljiv človek
 bec | (zastar.) novec majhne vrednosti; FICEK, BOŽJAK
 beč | [geog.] preprosto, manjše vodno zajetje
 bed | BEDA - velika materialna ali duhovna stiska
+bee | [esskj] posnema glas ovce
 beg | hitro umikanje iz strahu, pred nevarnostjo
 bej | višji civilni ali vojaški oblastnik
 bek | obrambni igralec pri nekaterih igrah z žogo
@@ -98,6 +109,7 @@ bij | BITI - močno, ostro zadevati se ob kaj
 bik | odrasel samec goveda
 bil | izraža dejanje, ki je bilo že končano, ko je nastopilo drugo
 bim | posnema visoki glas zvona
+bip | [esskj] navadno ponovljeno
 bir | BIRA - kar je nabrano, zbirka
 bis | izraža zahtevo po ponovitvi programske točke, še (enkrat)
 bit | najmanjši, nedeljivi del informacije v binarnem sistemu
@@ -125,6 +137,8 @@ boz | BOZA - osvežujoča orientalska pijača iz koruzne moke in sladkorja
 brc | BRCA - sunek, udarec z nogo
 brd | BRDO - priprava na statvah za premikanje osnovnih niti navzgor in navzdol
 brk | dlaka pod nosom
+brm | [sinonimni] posnema ropot, drdranje
+brn | BRNA - šema, ki predstavlja dvonogo ali četveronogo žival
 brr | izraža zoprnost, grozo, mraz
 brv | deska ali bruno za prehod čez vodo
 brz | (star.) hiter
@@ -141,11 +155,15 @@ bun | BUNA - sintetični kavčuk
 bus | večji avtomobil za prevoz večjega števila oseb v javnem prometu; AVTOBUS
 buš | BUŠA - majhno, trebušasto govedo s kratkimi rogovi
 but | [geog.] priostrena stolpasta vzpetina sredi ravnejšega površja, značilna za sušna območja
+buu | [sinonimni] izraža prestrašitev
+buž | BUŽA - [sinonimni]
+bzz | [esskj] navadno ponovljeno
 caf | posnema glas pri udarcu ali zamahu
+cak | [esskj] posnema zvok pri rezanju, sekljanju
 cap | posnema glas pri padcu ali počasni hoji
 car | kdor zaradi svojih uspehov, zanimivih, prijetnih značilnosti vzbuja občudovanje
 ceh | stanovska organizacija obrtnikov iste stroke
-cek | CK - posnema odsekani glas pri pretrgu, udarcu, trku
+cek | majhen zajedavec na koži človeka in nekaterih živali, s trdim, nazobčanim sesalom
 cel | ki ni razdeljen na kose, dele
 cen | ki je po nizki ceni, poceni
 cep | preprosto orodje za ročno mlačev
@@ -172,10 +190,11 @@ cop | posnema zamolkel, odsekan glas pri hoji
 cot | COTA - okrasna nit ali pramen iz niti na robu kakega tekstilnega izdelka
 cri | posnema glas murna ali nekaterih drugih žuželk
 crk | CRKA - poginula žival
-cuc | (nar.) cevasti končni del kake priprave, posode; DULEC
+cuc | (nar.) cevasti končni del kake priprave, posode
 cug | [gled.] naprava s protiutežmi za obešanje, dviganje in spuščanje scenskih elementov ali reflektorjev
 cuk | izraža kratek, sunkovit potegljaj
 cul | CULA - kos blaga ali ruta z zavozlanimi ogli, ki se rabi za prenašanje
+cup | [pravopis]
 čač | ČAČA
 čad | prosojna, rahla meglica
 čag | ČAGA - družabna prireditev, namenjena zabavi, navadno v večernem času, pogosto v povezavi z glasbo, s plesom
@@ -293,7 +312,6 @@ dok | pristaniška naprava za popravljanje ali čiščenje podvodnih delov ladje
 dol | izraža gibanje ali smer proti nižjemu kraju
 dom | prostor, hiša, kjer kdo stalno živi, od koder izhaja
 don | glas donečega predmeta
-doñ | DONJA
 dop | [gem.] priprava, v katero se pri brušenju s kitom prilepi kamen
 doš | DOŠA - vsaka od treh vitalnih energij v telesu
 dot | DOTA - denar, premoženje, ki ga prinese žena v zakon
@@ -303,11 +321,12 @@ drč | DRČA - plitva vdolbina v strmem pobočju, navadno za spravljanje lesa v 
 dre | DRETI - odstranjevati kožo z živali, navadno z ostrim predmetom
 dri | DRETI - odstranjevati kožo z živali, navadno z ostrim predmetom
 drl | DRETI - odstranjevati kožo z živali, navadno z ostrim predmetom
+drm | DRMA - slabša trava, ščavje
 drn | [plan.] strmo pobočje, poraslo z redko travo
 dro | izraža pritrjevanje
 drr | posnema ropot, drdranje
 drs | melodični okrasek iz več hitrih zaporednih tonov pred glavnim tonom
-drv | DRVO - neroden, okoren človek
+drv | DRVO - razžagan neobdelan kos lesa za kurjavo
 drž | DRŽA - način držanja telesa, zlasti pri hoji ali sedenju
 dua | DUO - skladba za dve različni glasbili
 dud | DUDA - gumijast tulec za pitje iz stekleničke ali za sesanje
@@ -323,8 +342,9 @@ duš | izraža močno podkrepitev trditve
 dut | DUTI - (star.) pihati, vleči
 duu | DUO - skladba za dve različni glasbili
 dux | [pravopis] (izobr.) voditelj
-dva | [tolk.] oznaka za dva izvajalca, dve  tolkali
+dva | [tolk.] oznaka za dva izvajalca, dve tolkali
 dve | DVA - izraža število dve [2]
+dzo | > GOVEDOREJA - [geog.] panoga živinoreje, ki se ukvarja z rejo goveje živine, t. j. krav, bikov, junic, telet, volov, jakov, dzojev, zebujev, bivolov, razširjena po skoraj vsej ekumeni zaradi pridobivanja mesa, mleka, kož, hlevskega gnoja in izkoriščanja delovnih zmogljivosti živali
 ecu | EKU - denarna enota, katere vrednost je določena z relativnimi vrednostmi denarnih enot članic Evropske gospodarske skupnosti
 ega | EGO - posameznik kot zavesten subjekt vsega doživljanja
 ege | EGO - posameznik kot zavesten subjekt vsega doživljanja
@@ -345,12 +365,19 @@ eko | nanašajoč se na ekologija
 eks | do dna
 eku | denarna enota, katere vrednost je določena z relativnimi vrednostmi denarnih enot članic Evropske gospodarske skupnosti
 elf | [pravopis] škrat
+eli | [gem.] v zvezi »eli rubin«: pirop iz kraja Elie na Škotskem
+ema | [epravopis] EMO
+eme | [epravopis] EMO
+emi | [epravopis] EMO
+emm | [esskj] uporablja se, ko govorec želi zapolniti premor v govoru
+emo | [epravopis] pripadnik subkulture
 emu | velika ptica, ki živi v Avstraliji, Dromaeus novaehollandiae
 ena | EN - izraža število ena [1]
 ene | EN - izraža število ena [1]
 eni | EN - izraža število ena [1]
 enk | ENKA - številka ena
 eno | EN - izraža število ena [1]
+ens | [pravopis]
 eon | (pesn.) vek, doba
 epa | EP - pripovedno literarno delo v verzih, ki obširno govori o kakem velikem in slavnem dogodku
 epe | EP - pripovedno literarno delo v verzih, ki obširno govori o kakem velikem in slavnem dogodku
@@ -362,6 +389,7 @@ erg | enota za merjenje dela, energije in toplote, desetmilijonina joula
 eri | ERA - omejeno trajanje z razmerami, okoliščinami, stvarnostjo vred
 ero | ERA - omejeno trajanje z razmerami, okoliščinami, stvarnostjo vred
 esa | ES - za polton znižani ton e
+esc | ESCA - [agr.] glivična bolezen vinske trte, ki jo povzroči kompleks gliv, ki skozi rane okužijo les trte ter zamašijo in uničijo prevodna tkiva v večletnem lesu, zato vinska trta propade
 ese | ES - za polton znižani ton e
 esi | ES - za polton znižani ton e
 esu | ES - za polton znižani ton e
@@ -377,6 +405,7 @@ fak | izraža jezo, nejevoljo
 fam | FAMA - kar se širi navadno s pripovedovanjem
 fan | kdor čuti in izraža zelo pozitiven odnos do koga, česa
 far | FARA - najmanjša upravna enota Katoliške cerkve
+fax | [epravopis]
 faz | FAZA - časovno sklenjen del nastajanja, razvoja česa z vsebinskimi značilnostmi v okviru celote, razvojna stopnja
 fec | izraža odslovitev, odpust
 fej | izraža zoprnost, gnus
@@ -385,6 +414,7 @@ fer | ki je v skladu z določenimi normami, pravili
 fes | moško pokrivalo v obliki prisekanega stožca s cofom, navadno rdeče
 fet | FETA - beli ovčji ali kozji sir nekoliko kiselkastega okusa, namočen v slanici, po izvoru iz Grčije
 fig | FIGA - nizko južno drevo z dlanastokrpimi listi ali njegov sočni, sladki sad
+fil | FILA - [sinonimni] mešanica živil, ki se daje med plasti testa, s katero se kaj polni
 fin | ki se vede v skladu z družabnimi pravili in se izbrano oblači
 fis | za polton zvišani ton f
 fit | ki je, zlasti zaradi predhodne telesne, športne aktivnosti, v danem času dobrega počutja, pripravljen, sposoben za kaj
@@ -430,8 +460,10 @@ ges | za polton znižani ton g
 gez | pripadnik nizozemskega osvobodilnega gibanja proti Špancem v 16. stoletju
 gib | premik (dela) telesa iz enega položaja v drugega
 gig | lahek, navadno odprt enovprežen voz na dveh kolesih
+gik | [sprotni] navdušenec, strokovnjak za določeno strokovno ali interesno področje, zlasti računalništvo
 gin | žganje z okusom po brinovih jagodah
 gis | za polton zvišani ton g
+glu | [sinonimni] posnema glas tekočine pri prelivanju skozi ozko odprtino
 gnu | antilopa z govedu podobno glavo, Connochaetes
 gob | GOBA - rastlina brez listnega zelenila, navadno s klobukom in betom
 god | dan v letu, ko je osebno ime kakega človeka navedeno v koledarju
@@ -448,6 +480,7 @@ gre | ITI - premikati se s korakanjem zlasti v določeno smer
 grk | strokovnjak za grški jezik
 grl | GRLO - zgornji, razširjeni del sapnika, v katerem sta glasilki
 grm | nižja lesnata rastlina, ki se že pri tleh močno razrašča
+grr | [sinonimni] posnema renčanje
 gub | GUBA - kar nastane pri mečkanju tkanine, papirja
 guč | (nar. vzhodno) govor
 gug | pot telovadca, visečega na nihajočem orodju od ene skrajne točke do druge
@@ -456,6 +489,7 @@ gum | GUMA - elastična snov, dobljena z vulkanizacijo kavčuka
 guz | GUZA - (zastar.) zadnjica
 hab | HABA - (nar. koroško) perut, krilo
 had | kraj pod zemljo, kjer prebivajo mrtvi, podzemlje
+hah | [esskj] posnema glas pri kratkem smejanju, zlasti resnobnem
 haj | izraža veselje, razigranost
 hal | HALA - velik pokrit in zaprt prostor, navadno brez stropa, namenjen zlasti za industrijska dela ali večje prireditve
 ham | izraža nagel prijem z usti
@@ -466,6 +500,7 @@ hav | posnema pasji glas
 hče | HTETI - (zastar.) hoteti
 hči | ženska v odnosu do svojih staršev
 hec | neresen, smešen ali zabaven dogodek
+heh | [esskj] izraža, da je govorec nejevoljen, nezadovoljen s kom ali čim, zlasti ker meni, da vzroka za nejevoljo, nezadovoljstvo ne more, ni mogoče odpraviti
 hej | izraža opozorilo
 hek | posnema glas pri odkašljevanju
 hel | HELA - [geol.] vsaka od členastih klešč v prvem paru okončin pri heliceratih
@@ -475,6 +510,8 @@ hep | posnema glas race
 hes | za polton znižani ton h
 hib | HIBA - (pog.) napaka, motnja
 hif | HIFA - enocelična ali večcelična nitasta tvorba, ki sestavlja micelij, glivna nitka
+hik | [esskj] posnema glas pri kolcanju, zlasti opitega človeka
+hin | [sprotni] (pogovorno) utrujen, izmučen, iztrošen
 hip | izraža (angleški) mornarski pozdrav
 his | (lesena) shramba ali zidanica
 hiš | HIŠA - stavba, namenjena zlasti za bivanje ljudi
@@ -494,6 +531,7 @@ hrt | velik, zelo vitek lovski ali športni pes z dolgim, ozkim gobcem
 hte | HTETI - (zastar.) hoteti
 hub | HUBA - posestvo, ki obsega približno 15–20 ha
 hud | pretirano strog
+huh | [esskj] izraža, da se govorec čustveno odziva na kaj
 huj | izraža občutek groze, zoprnosti
 huk | posnema glas pri kolcanju
 hul | HULA - rahla izboklina, vzpetina na ravnem ali položnem svetu
@@ -546,6 +584,7 @@ izb | IZBA - soba, navadno manjša
 jad | (star.) žalost, trpljenje, bolečina
 jag | JAGA - truma duhov prednikov, ki se podi v božičnem času po zraku
 jah | izraža posmeh
+jaj | [esskj] izraža, da govorec nad kom negoduje
 jak | dolgodlako divje ali udomačeno govedo, ki živi v Tibetu, Bos grunniens
 jam | JAMA - v zemljo narejena vdolbina
 jan | vrsta (delavcev na polju, v vinogradu)
@@ -557,6 +596,7 @@ jaz | izraža osebo govorečega, gledano z njegovega stališča
 jeb | JEBA - [plan.] pasivno varovalo s steblom iz jeklenice, vrvice ali traka in votlo ali polno zagozdo v obliki simetrične ali nesimetrične prisekane piramide, ki se namesti v širšo razpoko
 ječ | JEČA - prostor za osebe, ki jim je odvzeta prostost
 jed | živilo, pripravljeno za uživanje, navadno z dodatki
+jee | [esskj] e
 jeh | izraža čustveno prizadetost, zaskrbljenost
 jej | izraža čustveno prizadetost, zaskrbljenost
 jek | ponovljeni glas, zvok, nastal zaradi odboja zvočnih valov
@@ -571,7 +611,7 @@ jež | majhna gozdna žival s kratkimi nogami in z bodicami po zgornjem delu tel
 jih | stvar, ki se ne mara ali ne more imenovati
 jim | ON - izraža osebo ali stvar, ki je govoreči ne enači s seboj in ne ogovarja
 jin | ženski princip v kitajski dualistični filozofiji, nasprotje jang
-jod | nekovina sivo črne barve in kovinskega sijaja, element J
+jod | nekovina sivo črne barve in kovinskega sijaja, element I
 jog | JOGA - smer, praksa, da se z dihalnimi vajami in duševno koncentracijo doseže telesna in duševna uravnovešenost, skladnost
 joh | ploščinska mera, 57,55 a
 joj | izraža čustveno prizadetost, zaskrbljenost
@@ -595,11 +635,12 @@ kak | izraža vprašanje po kakovosti, lastnosti, značilnosti
 kal | mlada, iz kalčka razvijajoča se rastlinica
 kam | izraža vprašanje po kraju, proti kateremu je dejanje usmerjeno ali ga doseže
 kan | glivična bolezen na vinu, sadjevcu, navadno v obliki belkaste prevleke
+kao | [sprotni] izraža dvom o čem, mnenje, da je kaj samo navidez pravo, resnično
 kap | naglo prenehanje delovanja življenjsko pomembnih organov zaradi krvavitve ali zamašitve žile
 kar | za uvajanje stavka, ki določa zaimensko odnosnico srednjega spola, nakazano v nadrednem stavku
 kas | hiter tek konja, pri katerem se istočasno premikata diagonalna para nog
 kaš | KAŠA - jed iz oluščenega prosa
-kat | [farm.] enota za encimsko aktivnost, ki ustreza enemu molu pretvorjenega substrata v sekundi in se najpogosteje izraža na volumen biološkega vzorca, npr. μkat/L seruma
+kat | [geol.] stopnja zgornjega oligocena med rupelijem in akvitanijem v mediteranskem razvoju
 kav | KAVA - zrna, dobljena iz semen kavovca
 kdo | izraža vprašanje po neznani osebi
 kec | igralna karta z enim znakom na sredi, navadno z najvišjo vrednostjo
@@ -612,12 +653,14 @@ kep | kratko ogrinjalo, navadno žensko
 ker | za izražanje dejstva, da je vsebina odvisnega stavka vzrok dogajanju v nadrednem
 kes | (knjiž.) neprijetno čustvo človeka ob spoznanju, da je naredil kaj slabega, nepravilnega ali opustil kaj dobrega, koristnega; KESANJE
 keš | (pog.) splošno veljavno plačilno sredstvo v bankovcih ali kovancih; GOTOVINA
+khm | [esskj] posnema odkašljevanje, odhrkovanje zlasti zaradi obotavljanja, zbujanja pozornosti
 kič | okrasni predmet brez umetniške vrednosti
 kih | sunkovit, glasen izdih zraka zaradi dražljajev v nosu
 kij | kratka palica z odebeljenim koncem
 kil | KILA - izstop organa ali dela organa skozi nenaravno odprtino
 kip | delo, izdelek iz trdnega materiala, ki navadno predstavlja živo bitje ali predmet
 kis | tekočina kislega okusa, ki se uporablja zlasti kot začimba
+kiš | [sprotni] pita z nadevom iz umešanih jajc in smetane, navadno s koščki sira, zelenjave, po izvoru iz Francije
 kit | največji, ribi podoben morski sesalec z vretenastim telesom in zakrnelimi zadnjimi končinami
 kje | izraža vprašanje po kraju, na katerem se dejanje dogaja
 klo | krajevni ljudski odbor
@@ -650,7 +693,7 @@ krp | KRPA - kos blaga, navadno manjši
 krr | posnema glas galeba ali nekaterih drugih ptic
 krš | (knjiž.) kamenje, navadno z ostrejšimi robovi, KRŠJE
 krt | manjši sesalec s črnim kožuhom in lopatasto razširjenima sprednjima nogama, ki živi pod zemljo
-ksi | [pravopis] grška črka ξ
+ksi | [epravopis] grška črka ξ
 kub | tretja potenca števila
 kug | KUGA - huda nalezljiva bolezen bezgavk, pljuč ali krvi
 kuh | KUHA - (kuhana) hrana za prašiče
@@ -709,6 +752,7 @@ lir | LIRA - glasbilo s strunami, napetimi na okvir iz dveh ukrivljenih ročic
 lis | LISA - mesto, ki ima drugačno barvo ali videz kot ostala površina
 lit | LITI - silovito in v velikih količinah, močnem curku teči
 liv | LIV - kovina, iz katere se ulivajo predmeti; LITINA
+liz | LIZA - [farm.] v zvezi »liza celice«: poškodba ali popoln propad celične membrane, ki ju lahko povzročijo različni dejavniki, npr. protitelesa, ki aktivirajo komplement, okužbe z nekaterimi virusi in bakterijami ali ozmotski mehanizmi, posledica je sproščanje celične vsebine ali celična smrt
 lob | udarec, met, da zleti žoga čez nasprotnega igralca
 loč | (star.) travi podobna rastlina, ki raste zlasti na vlažnih tleh; LOČEK
 lof | [geol.] prečni greben zobne krone kočnika pri nekaterih sesalcih, npr. pri slonih
@@ -717,14 +761,14 @@ loj | maščobno tkivo pri govedu, ovcah, kozah
 lok | priprava iz ukrivljene palice in tetive za proženje, metanje puščic
 lol | LOLA - omejena, neumna ženska
 lom | pojav, da se spremeni smer valovanja pri prehodu v drugo snov
-lon | 
+lon | [esskj] 
 lop | posnema glas pri udarcu, padcu
 los | v arktičnih predelih živeči jelen z lopatastim rogovjem
 lot | enota za trgovanje z vrednostnimi papirji, blagom
 lov | iskanje, zasledovanje divjadi z namenom, da se ustreli
 loz | LOZA - gozd, območje, ki je brez zvoka, šuma, odmeva
 lož | mesto, prostor, kjer divjad (pogosto) leži
-lub | 
+lub |
 luč | vir umetne svetlobe
 lug | prevreta tekočina s pralnim sredstvom
 luk | posnema glas pri prelivanju tekočine skozi ozko odprtino
@@ -756,6 +800,7 @@ meh | priprava, ki ob stiskanju in raztegovanju dovaja za gorenje potrebni zrak
 mej | MEJA - črta, ki ločuje, razmejuje države ali ozemlja
 mek | MEKA - močviren travnik, log
 mel | droben pesek, razpadli delci kamnin
+mem | [sprotni] kar se kot kulturni, družbeni pojav širi, prenaša, obstaja med ljudmi, navadno v več različicah in daljšem časovnem obdobju
 men | MENA - doba med zrelostjo in starostjo, ko pride pri ženskah do usihanja delovanja spolnih žlez in s tem do nekaterih telesnih in duševnih sprememb
 mer | predstojnik merije, župan
 mes | MESO - navadno rjavkasto rdeče tkivo živalskega telesa, zlasti mišičje, kot hrana
@@ -774,7 +819,7 @@ miš | majhen, škodljiv glodavec z dolgim, golim repom, ki se hrani z živili, 
 mit | izročilo, pripoved o nastanku sveta, (nenavadnih) naravnih pojavih, bogovih in drugih bajeslovnih bitjih
 miz | MIZA - kos pohištva iz ravne plošče in navadno štirih nog
 mja | izraža obotavljanje, pomislek, dvom
-mmm | [pravopis] (medm.)
+mmm | [esskj] izraža, da govorec razmišlja, se obotavlja spregovoriti
 moa | v holocenu izumrla velika, noju podobna ptica
 mob | (knjiž., zastar.) drhal, sodrga
 moč | človekova telesna sposobnost za opravljanje fizičnega dela ali prenašanje telesnih naporov
@@ -797,6 +842,8 @@ mrh | MRHA - onemogla, zanemarjena žival, zlasti konj
 mri | MRETI - izgubljati se, izginjati
 mrk | delno ali popolno zakritje nebesnega telesa z drugim nebesnim telesom
 mrl | MRETI - izgubljati se, izginjati
+mrs | [epravopis] MRSA
+mrv | MRVA - posušena trava
 muc | MUCA - mačka
 muf | valjast predmet za gretje rok, navadno iz krzna, rokovnik
 muh | MUHA - žuželka s kratkimi nogami, tipalkami in kožnatimi krili
@@ -892,7 +939,7 @@ one | izraža osebo, stvar, ki se noče, ne more imenovati
 oni | izraža, da je oseba ali stvar od govorečega
 ono | ON - izraža osebo ali stvar, ki je govoreči ne enači s seboj in ne ogovarja
 opa | izraža zavrnitev
-ops | [pravopis] (medm.)opsonina | OPSONINI - [farm.] protitelesa ali sestavine aktiviranega komplementa, vezane na površino mikroorganizmov in celic
+ops | [esskj] izraža, da govorec obžaluje svojo napako, nehoteno dejanje
 ori | ORITI - razlegati se, odmevati
 ork | nasilno, umsko pogosto nekoliko omejeno bitje z grobo zelenkasto ali sivkasto kožo, ki je navadno nesnažno in ne trpi sončne svetlobe
 osa | čebeli podobna žuželka s tankim rumenkastim telesom
@@ -904,11 +951,13 @@ osu | OS - [geog.] razpotegnjeni vijugast nasip iz morenskega gradiva, ki ga je 
 otk | OTKA - orodje za odstranjevanje prsti, plevela s pluga
 out | AVT - prostor za mejno črto igrišča
 ovc | OVCA - manjša domača žival z zelo gosto volnato dlako
+ove | OVEDETI SE - spoznati kaj, zavedeti se česa
 ozd | organizacija združenega dela
 oži | OŽITI - delati kaj (bolj) ozko, zoževati
 pac | PACA - zmes zelenjave, začimb in kisa, v kateri se kvasi meso, navadno meso divjačine
 pač | izraža zadržanost, precejšnjo verjetnost
 pad | glagolnik od pasti; PADEC
+paf | [sinonimni] posnema (močen) pok
 pah | izraža malomarno zavrnitev
 pak | trd, ploščat, okrogel gumijast predmet, ki se uporablja pri hokeju na ledu
 pal | PASTI - zaradi izgube ravnotežja, opore priti
@@ -955,10 +1004,11 @@ pni | PETI SE - hoditi navkreber
 pob | (pog.) fant
 poč | [geog.] razpoka ali špranja v skalovju, ledeniku ali snežni odeji
 pod | za izražanje premikanja, usmerjenosti k spodnji strani česa ali dosege takega položaja
+pof | [esskj] posnema kratek, navadno glasen zvok pri trku, padcu, udarcu
 poj | PETI - oblikovati tone, melodije z govorilnimi organi
 pok | posnema glas pri udarcu, prelomu, strelu
 pol | točka na zemeljski površini, skozi katero gre zemeljska os, (zemeljski) tečaj
-pom | POMA - [bot.] 
+pom | POMA - [bot.]
 pon | PONA - obrazilo ali njegov del, ki stoji pred ali za podstavo tvorjene besede ali povezuje podstavna dela zložene besede
 pop | zabavna glasba različnih glasbenih zvrsti od druge polovice 20. stoletja dalje s poudarkom na preprosti muzikalnosti
 por | kulturna rastlina s širokimi podolgovatimi listi ali njeni mesnati listi
@@ -970,7 +1020,7 @@ pre | (nar. vzhodno) baje, menda
 prg | PRGA - oljne tropine
 prh | velika količina, množina premikajočih se delcev, zlasti snega, vode v ozračju
 pri | za izražanje stanja v položaju, ko je kaj v neposredni bližini česa
-pro | [farm.] za
+prs | PRSA
 prš | padavina v obliki drobnih, navadno gostih vodnih kapelj; PRŠEC, PRŠAVICA
 prt | tekstilni izdelek za prekrivanje mize
 psa | PES - domača žival zelo raznolikih pasem, zlasti za družbo, čuvanje, lov
@@ -1097,6 +1147,7 @@ sep | zgornji, nasuti rob zlasti vinograda
 ser | zelo velika ptica ujeda, Gypaëtus barbatus
 set | del nekaterih iger z žogo, v katerem zmaga tista stran, ki prva osvoji določeno število točk in dve več kot nasprotnik
 sev | skupina celic, organizmov iste vrste
+sic | [esskj] uporablja se v zapisanih besedilih, ko govorec želi posebej opozoriti na neposredno predhodni del izjave
 sig | SIGA - prevleka, nastala s kristalizacijo raztopljenih rudnin
 sij | prostorsko omejeno razpršena svetloba
 sik | oster, s-ju podoben glas
@@ -1138,6 +1189,7 @@ srd | velika stopnja jeze
 srf | SURF - deska z gibljivim jamborom za vožnjo po vodi s pomočjo vetra, jadralna deska
 srh | neprijeten občutek na koži z drhtenjem zaradi močnega vznemirjenja, odpora, strahu
 srk | glagolnik od srkniti
+srn | SRNA - hitra gozdna žival, katere samec ima manjše razvejane rogove
 srp | orodje z zaokroženim rezilom in lesenim držajem za žetev
 srt | viličasta ribja koščica
 srž | bistvo, jedro
@@ -1152,6 +1204,7 @@ suk | trgovska ulica
 sul | SUTI - usipati se, padati
 sum | na nepotrjenem dokazu temelječa misel
 sun | SUNA - v koranu nezapisani nauki Mohameda in prvih štirih kalifov
+sup | [sprotni] deski podobno plastično ali napihljivo gumijasto plovilo ovalne oblike za vožnjo po vodi zlasti v stoječem položaju s pomočjo vesla
 sur | SURA - poglavje v Koranu
 suš | SUŠA - stanje zelo majhne vlage v zemlji zaradi dolgotrajnega pomanjkanja padavin
 sut | SUTI - usipati se, padati
@@ -1196,6 +1249,7 @@ sva | BITI - izraža materialno ali duhovno navzočnost v stvarnosti
 šop | skupek daljših, tanjših istovrstnih stvari, navadno manjši
 šot | ŠOTA - gorljiva snov, nastala s pooglenitvijo rastlinskih ostankov, zlasti mahov
 šov | zabavna prireditev, oddaja z glasbo, plesom
+ššš | [esskj] uporablja se, ko govorec pozove koga, naj bo tiho, govori tišje
 šum | neizraziti, nezveneči, med seboj pomešani glasovi
 šup | (prisilni) odgon
 šus | izstrelitev krogle, naboja
@@ -1206,14 +1260,15 @@ tae | TAO - [pravopis] (filoz.) nauk
 tag | osnovna enota računalniških označevalnih jezikov, navadno zapisana v lomljenih oklepajih
 tai | TAO - [pravopis] (filoz.) nauk
 tak | izraža lastnost, značilnost pri govorečem ali pri osebi, stvari v bližini govorečega, na katero se usmerja pozornost koga
-tal | TLA - površina, po kateri se hodi, na kateri kaj stoji
+tal | TLA - del Zemljine skorje med površino in matično podlago, ki ga sestavljajo anorganske in organske snovi, voda, zrak in živi organizmi ter deluje kot trifazni sistem, v katerem talni delci predstavljajo trdno fazo, talni zrak plinasto fazo, talna voda pa tekočo fazo
 tam | izraža viden, od govorečega razmeroma oddaljen kraj, prostor nahajanja, dogajanja česa, na katerega se usmerja pozornost koga
 tao | [pravopis] (filoz.) nauk
 tap | posnema zamolkel glas lahnega udarca, koraka pri lahki hoji
 tar | TARA - teža embalaže
 tas | TASA - okrogla ali podolgovata plitva posoda za prenašanje in serviranje jedi
 tat | kdor krade
-tau | [pravopis] grška črka τ
+tau | [epravopis] grška črka τ
+tav | [epravopis] grška črka τ
 teč | TEČI - premikati se z neprenehnim gibanjem svojih delov, ki nimajo svoje oblike
 tef | [tolk.] ročni boben z eno opno večjih dimenzij, ki ima na notranji strani oboda medsebojno povezane kovinske obročke, značilen za bližnjevzhodno glasbo
 teg | sila nategovanja, vlečenja
@@ -1226,6 +1281,7 @@ ten | obarvana krema, ki se nanaša na obraz in vrat pred pudranjem, ličenjem
 tep | (nar. vzhodno) omejen, neumen človek; TEPEC
 ter | gost črn stranski proizvod pri destilaciji premoga, lesa
 tet | TETA - sestra očeta ali matere
+tev | TEVE - [epravopis] televizija
 tez | TEZA - trditev, ki jo je treba dokazati, utemeljiti
 tež | TEŽA - lastnost česa, ki se kaže s pritiskanjem na podlago, z odporom pri dvigu
 tic | TICA - žival, ki ima peruti, kljun in je pokrita s perjem
@@ -1244,14 +1300,14 @@ tki | TKATI - delati tekstilne izdelke s križanjem, prepletanjem osnovnih niti 
 tko | TKATI - delati tekstilne izdelke s križanjem, prepletanjem osnovnih niti in votka
 tla | površina, po kateri se hodi, na kateri kaj stoji
 tle | TLETI - goreti počasi in brez plamena
-tli | TLO - (knjiž.) površina, po kateri se hodi, na kateri kaj stoji; TLA
+tli | TLA - del Zemljine skorje med površino in matično podlago, ki ga sestavljajo anorganske in organske snovi, voda, zrak in živi organizmi ter deluje kot trifazni sistem, v katerem talni delci predstavljajo trdno fazo, talni zrak plinasto fazo, talna voda pa tekočo fazo
 tlo | (knjiž.) površina, po kateri se hodi, na kateri kaj stoji; TLA
 tlu | TLO - (knjiž.) površina, po kateri se hodi, na kateri kaj stoji; TLA
 toč | vrtenje telovadca, oprtega na rokah, okrog droga
 tod | izraža kraj, prostor v bližini govorečega, po katerem poteka dejanje
 tof | posnema zamolkel glas pri padcu, udarcu
 tog | ki ob delovanju sile nanj ne spremeni svoje oblike
-tok | nepretrgano, v določeni smeri gibajoča se snov, zlasti tekočina, plin
+tok | vrečica ali škatlica za hranjenje majhnih predmetov
 tom | (knjiž.) zvezek, knjiga
 ton | zvok določene višine, trajanja, jakosti in barve
 top | posnema nizek, nezveneč, zamolkel glas pri udarjanju, navadno z nogami ob tla
@@ -1262,6 +1318,7 @@ trg | navadno odprt prostor, kjer se prodaja in kupuje raznovrstno blago, zlasti
 tri | TRETI - povzročati, da je kdo v zelo neprijetnem položaju
 trk | glagolnik od trčiti ali trkniti
 trl | TRETI - povzročati, da je kdo v zelo neprijetnem položaju
+trm | TRMA - nepopustljivo vztrajanje pri kakem stališču, ravnanju, mnenju kljub dokazom o neustreznosti takega stališča, ravnanja, mnenja
 trn | koničast izrastek
 trr | posnema glas pri udarcu, ropotu, streljanju
 trs | močvirska ali vodna rastlina z visokim, tankim, votlim steblom
@@ -1269,18 +1326,22 @@ trš | obsekano deblo, drevo
 trt | TRTA - kulturna rastlina, ki se goji zaradi grozdja, vina
 trz | kratek, sunkovit poteg
 tub | TUBA - cevasta posoda za mazave snovi, ki se iztiskajo
+tuc | [esskj] posnema zvoke plesne elektronske glasbe
 tuf | skupek cvetlic, pokončno zataknjenih v mah, gobo, za na grob, h krsti, žalni aranžma
 tug | TUGA
 tuj | ki je last drugega, ne osebka
 tul | tanka, mrežasta tkanina iz bombaža ali kemičnih vlaken
 tun | morska riba z osmimi majhnimi rumenimi plavutmi na zgornji in spodnji strani repa pred repno plavutjo
+tup | [esskj] posnema zvok pri udarcu
 tur | izumrlo divje govedo, prednik današnjega domačega goveda, Bos primigenius
 tuš | kratek, bučen glasbeni uvod, pozdrav, navadno s pihalnimi glasbili in bobni
 tut | TUTA - (zlasti v primorskem okolju) enodelno, navadno zaščitno oblačilo iz hlač in bluze; KOMBINEZON
 uau | izraža navdušenje
+uča | UČ - [sinonimni] oko
 uče | UČITI - s posredovanjem znanja usposabljati za opravljanje določenega dela, dejavnosti
 uči | UČITI - s posredovanjem znanja usposabljati za opravljanje določenega dela, dejavnosti
 učk | UČKA - manjšalnica od oko
+uču | UČ - [sinonimni] oko
 uda | UD - del človeškega telesa, ki se uporablja za premikanje ali prijemanje
 udb | UDBA - uprava državne varnosti, jugoslovanska tajna policija
 ude | UD - del človeškega telesa, ki se uporablja za premikanje ali prijemanje
@@ -1326,12 +1387,14 @@ uri | URITI - z vajo, ponavljanjem usposabljati koga za določeno delo
 urn | URNA - posoda za shranjevanje pepela mrličev
 uro | URA - enota za merjenje časa, šestdeset minut
 urš | URŠA - nekoliko nerodna, nespametna ženska
+ust | USTA - odprtina na spodnjem delu obraza za sprejemanje hrane in za govorjenje
 uši | UŠ - majhen zajedavec z zelo sploščenim telesom in brez kril, ki živi na sesalcih in ptičih
 ušk | UŠKA - manjšalnica od uš
 uta | manjša, navadno lesena, delno odprta stavba na vrtu
 ute | UTA - manjša, navadno lesena, delno odprta stavba na vrtu
 uti | UTA - manjša, navadno lesena, delno odprta stavba na vrtu
 uto | UTA - manjša, navadno lesena, delno odprta stavba na vrtu
+uuu | [esskj] tudi ponovljeno
 uza | OUZO - grška žgana pijača z aromo janeža
 uzd | UZDA - priprava iz brzde in jermenov, ki se da konju na glavo, da se lahko vodi
 uze | OUZO - grška žgana pijača z aromo janeža
@@ -1342,6 +1405,7 @@ vab | VABA - kar se uporablja za privabljanje živali z namenom, da se jih ujame
 vad | VADA
 vag | VAGA - kratek drog pri vozu, plugu, na katerega se pripneta vprežni vrvi
 vaj | VAJA - glagolnik od vaditi
+vak | > VAKATI - oglašati se z glasom vak
 val | izbočeni in vbočeni del vode, vodne gladine, nastal zaradi premika vode navzgor in navzdol
 vam | VI - izraža skupino oseb, ki jih govoreči ogovarja
 var | strjen material, ki je pri varjenju zmehčan ali staljen
@@ -1425,6 +1489,7 @@ zev | odprtina, ki nastane, če se prej prilegajoči se deli ne prilegajo (več)
 zib | premik telesa sem in tja ali navzgor in navzdol okrog njegove osi
 zic | (pog.) kar je namenjeno za sedenje; SEDEŽ
 zid | vsak od delov stavbe, narejen z gradbenim materialom, zlasti z zidaki, ki omejuje prostor, prostore ob straneh
+zik | [epravopis] ZIKA
 zim | ZIMA - del leta med jesenjo in pomladjo
 zit | ZITI SE - sniti se
 ziz | ZIZA - (nar.) vzboklina na ženskem oprsju z mlečnimi žlezami; DOJKA
@@ -1437,6 +1502,7 @@ zlu | ZLO - kar je v nasprotju z dobrim, zlasti z moralnega stališča
 zna | ZNATI - imeti to, kar se uči, študira, vtisnjeno v zavest, spomin in biti sposoben povedati, uporabiti
 zoa | ZOO - živalski vrt
 zob | trd, bel izrastek v spodnji in zgornji čeljusti za grizenje, žvečenje hrane
+zoc | [sinonimni] kavna usedlina
 zoe | ZOO - živalski vrt
 zof | ZOFA - oblazinjeno ležišče brez stranic, navadno ozko in z dvignjenim zglavjem
 zoi | ZOO - živalski vrt
@@ -1451,6 +1517,7 @@ zri | ZRETI - (knjiž.) upirati, usmerjati pogled kam; GLEDATI
 zrl | ZRETI - (knjiž.) upirati, usmerjati pogled kam; GLEDATI
 zrn | ZRNO - vsako od semen, navadno v klasu, latu žit ali stroku stročnic, z nakopičenimi hranilnimi snovmi
 zum | objektiv s spremenljivim zornim kotom
+zzz | [esskj] navadno ponovljeno
 žab | ŽABA - manjša dvoživka s široko glavo, širokim trupom in daljšimi zadnjimi okončinami
 žad | poldrag kamen, navadno zelene barve
 žag | ŽAGA - orodje ali stroj z nazobčanim listom za žaganje
