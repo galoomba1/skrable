@@ -63,7 +63,6 @@ em 1 me
 ep 1 ep
 ev 1 ve
 eš 1 še
-ež 1 že
 fi 1 fi
 fu 1 uf
 go 1 go
@@ -78,7 +77,6 @@ kp 1 pk
 ks 1 ks
 kt 1 tk
 ku 1 uk
-kz 1 zk
 lo 1 ol
 mm 1 mm
 mo 1 om
@@ -91,7 +89,6 @@ ru 1 ur
 rž 1 rž
 su 1 su
 tt 1 tt
-zz 1 zz
 če 1 če
 či 1 či
 ču 1 uč

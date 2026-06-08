@@ -12,7 +12,7 @@ ahm | [esskj] izraža, da govorec razmišlja, se obotavlja spregovoriti, navadno
 aid | AIDA - [pravopis]
 ais | za polton zvišani ton a
 aja | za uspavanje otroka
-ajd | (star.) pripadnik vere, ki ne priznava Jezusa Kristusa za boga; POGAN
+ajd | (star.) pripadnik vere, ki ne priznava Jezusa Kristusa za boga
 aje | A - prva črka slovenske abecede
 aji | A - prva črka slovenske abecede
 ajn | [pravopis] arabska črka
@@ -86,7 +86,7 @@ baž | BAŽA - (slabš.) vrsta, sorta
 bde | BEDETI - biti buden
 bdi | BEDETI - biti buden
 beb | BEBA - neodločen, omahljiv človek
-bec | (zastar.) novec majhne vrednosti; FICEK, BOŽJAK
+bec | (zastar.) novec majhne vrednosti
 beč | [geog.] preprosto, manjše vodno zajetje
 bed | BEDA - velika materialna ali duhovna stiska
 bee | [esskj] posnema glas ovce
@@ -700,7 +700,7 @@ kuh | KUHA - (kuhana) hrana za prašiče
 kuj | KOVATI - z udarci kladiva ali s strojnim stiskanjem oblikovati, obdelovati kovino
 kuk | KUKA - otroška igra, pri kateri igralci mečejo v stoječ predmet kamne, da bi ga prevrnili
 kul | ki privlači, vzbuja dober vtis in povzroča odobravanje ljudi
-kum | (nar.) zastopnik otroka pri krstu ali priča pri birmi; BOTER
+kum | (nar.) zastopnik otroka pri krstu ali priča pri birmi
 kun | KUNA - roparska žival vitkega telesa in kratkih nog
 kup | kar je navadno brez reda združeno v obliko polkrogle
 kur | KURA - izboljševanje zdravstvenega stanja z načrtnim dajanjem zdravil, dieto, razgibavanjem telesa, s kopelmi, zdravljenje
@@ -923,12 +923,12 @@ oka | turška, arabska utežna mera, 1,28 kg
 oke | OKA - turška, arabska utežna mera, 1,28 kg
 oki | OKA - turška, arabska utežna mera, 1,28 kg
 oko | čutilo za vid
-ola | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa; PIVO
-ole | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa; PIVO
-oli | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa; PIVO
+ola | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa
+ole | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa
+oli | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa
 olj | OLJE - mastna, v vodi netopna tekočina, ki se pridobiva iz rastlin, živalskih maščob, nafte
 olš | OLŠA - (nar. koroško) drevo ali grm z nazobčanimi jajčastimi ali srčastimi listi in krogličastimi plodovi; JELŠA
-olu | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa; PIVO
+olu | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa
 oma | stara mati, babica
 ome | OHM - enota za merjenje električnega upora, električne upornosti
 omi | OHM - enota za merjenje električnega upora, električne upornosti
@@ -1034,7 +1034,7 @@ pšt | izraža opozorilo, naj bo kdo tiho, naj molči; PST
 pub | (zlasti v angleškem okolju) gostinski lokal, kjer se streže s pijačami, zlasti s pivom
 puč | ploščat sodček za pijačo, ki se nosi na hrbtu
 pud | ruska utežna enota, približno 16,4 kg
-puf | (nižje pog.) kar mora kdo vrniti, poravnati, zlasti v denarju; DOLG
+puf | (nižje pog.) kar mora kdo vrniti, poravnati, zlasti v denarju
 puh | mehki dlaki podobno perje pri ptičjih mladičih
 pum | PUMA - srednje velika, svetlemu panterju podobna zver, ki živi v Severni in Južni Ameriki, Panthera concolor
 pun | PUNA - [geog.] visoka planota na nadmorski višini med 3000 in 4500 m v osrednjih Andih, za katero so značilni suho in hladno podnebje, sušnim razmeram prilagojeno rastlinstvo, zlasti trnati grmi, šopaste trave, trnate blazinaste rastline
@@ -1112,7 +1112,7 @@ rta | RT - skrajni, navadno ozki, skalnati del polotoka, otoka
 rte | RT - skrajni, navadno ozki, skalnati del polotoka, otoka
 rti | RT - skrajni, navadno ozki, skalnati del polotoka, otoka
 rtu | RT - skrajni, navadno ozki, skalnati del polotoka, otoka
-ruč | RUČA - (nar. štajersko) trakasta priprava za čez rame, na katero se pripenjajo hlače, krila; NARAMNICA
+ruč | RUČA - (nar. štajersko) trakasta priprava za čez rame, na katero se pripenjajo hlače, krila
 rud | rdeč, rjavkasto rdeč
 rug | RUGA - [bot.] širša podolgasta izboklina na površini pelodnega zrna
 ruj | grm z majhnimi cveti v latih in listi, ki jeseni pordečijo
@@ -1307,7 +1307,7 @@ toč | vrtenje telovadca, oprtega na rokah, okrog droga
 tod | izraža kraj, prostor v bližini govorečega, po katerem poteka dejanje
 tof | posnema zamolkel glas pri padcu, udarcu
 tog | ki ob delovanju sile nanj ne spremeni svoje oblike
-tok | vrečica ali škatlica za hranjenje majhnih predmetov
+tok | nepretrgano, v določeni smeri gibajoča se snov, zlasti tekočina, plin
 tom | (knjiž.) zvezek, knjiga
 ton | zvok določene višine, trajanja, jakosti in barve
 top | posnema nizek, nezveneč, zamolkel glas pri udarjanju, navadno z nogami ob tla
@@ -1335,7 +1335,7 @@ tun | morska riba z osmimi majhnimi rumenimi plavutmi na zgornji in spodnji stra
 tup | [esskj] posnema zvok pri udarcu
 tur | izumrlo divje govedo, prednik današnjega domačega goveda, Bos primigenius
 tuš | kratek, bučen glasbeni uvod, pozdrav, navadno s pihalnimi glasbili in bobni
-tut | TUTA - (zlasti v primorskem okolju) enodelno, navadno zaščitno oblačilo iz hlač in bluze; KOMBINEZON
+tut | TUTA - (zlasti v primorskem okolju) enodelno, navadno zaščitno oblačilo iz hlač in bluze
 uau | izraža navdušenje
 uča | UČ - [sinonimni] oko
 uče | UČITI - s posredovanjem znanja usposabljati za opravljanje določenega dela, dejavnosti
@@ -1415,7 +1415,7 @@ vat | enota za merjenje moči ter toplotnega in energijskega toka
 vau | izraža navdušenje; VAV
 vav | izraža navdušenje
 vaz | VAZA - navadno globlja posoda za rezano cvetje ali za okras
-važ | VAŽA - (nar.) vrhnja plast zemlje z rastlinjem, zlasti s travo; RUŠA
+važ | VAŽA - (nar.) vrhnja plast zemlje z rastlinjem, zlasti s travo
 vda | VDATI SE - zaradi pritiska, delovanja sile prenehati ohranjati trdnost
 več | izraža večjo količino ali mero
 ved | VEDA - dejavnost, ki si prizadeva metodično priti do sistematično izpeljanih, urejenih in dokazljivih spoznanj
@@ -1434,7 +1434,7 @@ vez | glagolnik od vezati
 vež | VEŽA - prehoden prostor v poslopju za vhodnimi vrati
 via | po poti čez, po poti skozi
 vib | VIBA - (knjiž.) spirala
-vic | kratka, šaljiva zgodbica; ŠALA
+vic | kratka, šaljiva zgodbica
 vid | čut za zaznavanje svetlobnih dražljajev
 vig | [pravopis] član liberalne stranke v Veliki Britaniji
 vij | VITI - delovati s silo na kaj prožnega, podolgovatega na dveh koncih in v nasprotni smeri krožno okrog vzdolžne osi
@@ -1473,85 +1473,5 @@ vso | VES - ki zajema polno količino, mero česa omejenega
 všc | posnema glas pri udarcu, zamahu
 vug | VUGA - ptica pevka rumene barve, s črnimi perutmi
 vut | VUTA - [b.k.] stopničasta ali linearna odebelitev plošče ali nosilca na mestu podprtja s stebrom ali steno, ki omogoča bolj zvezen potek sil po konstrukciji s plošče ali nosilca na stebre in stene
-web | svetovni sistem medijskih vsebin, besednih, zvočnih, filmskih, ki so med seboj povezane z nadpovezavami; SPLET
+web | svetovni sistem medijskih vsebin, besednih, zvočnih, filmskih, ki so med seboj povezane z nadpovezavami
 zad | (pog.) izraža položaj za čim v prostoru; ZADAJ
-zal | (star.) ki ima v estetskem pogledu pozitivne lastnosti; LEP
-zar | dolgo, široko vrhnje oblačilo muslimank z ogrinjalom za glavo
-zde | ZDETI SE - imeti občutek, vtis, zaznavo česa brez prepričanosti o stvarni podlagi tega
-zdi | ZDETI SE - imeti občutek, vtis, zaznavo česa brez prepričanosti o stvarni podlagi tega
-zeb | ZEBA - (nar.) manjša ptica pevka, katere samec je po prsih rdeče rjav; ŠČINKAVEC
-zeh | nehotno široko odprtje ust ter globok vdih in izdih zraka
-zek | ZK - posnema glas pri prerezu, preseku
-zel | rastlina z neolesenelim steblom, pri kateri nadzemni del ob koncu rasti navadno odmre
-zen | smer v budizmu, razširjena zlasti na Japonskem, ki uči tehniko samoobvladovanja, notranje sprostitve
-zet | hčerin mož v odnosu do njenih staršev
-zev | odprtina, ki nastane, če se prej prilegajoči se deli ne prilegajo (več)
-zib | premik telesa sem in tja ali navzgor in navzdol okrog njegove osi
-zic | (pog.) kar je namenjeno za sedenje; SEDEŽ
-zid | vsak od delov stavbe, narejen z gradbenim materialom, zlasti z zidaki, ki omejuje prostor, prostore ob straneh
-zik | [epravopis] ZIKA
-zim | ZIMA - del leta med jesenjo in pomladjo
-zit | ZITI SE - sniti se
-ziz | ZIZA - (nar.) vzboklina na ženskem oprsju z mlečnimi žlezami; DOJKA
-zje | IZJESTI - z grizenjem uničiti
-zla | ZLO - kar je v nasprotju z dobrim, zlasti z moralnega stališča
-zle | ZEL - ki drugim želi in povzroča zlo, slabo
-zli | ZLO - kar je v nasprotju z dobrim, zlasti z moralnega stališča
-zlo | kar je v nasprotju z dobrim, zlasti z moralnega stališča
-zlu | ZLO - kar je v nasprotju z dobrim, zlasti z moralnega stališča
-zna | ZNATI - imeti to, kar se uči, študira, vtisnjeno v zavest, spomin in biti sposoben povedati, uporabiti
-zoa | ZOO - živalski vrt
-zob | trd, bel izrastek v spodnji in zgornji čeljusti za grizenje, žvečenje hrane
-zoc | [sinonimni] kavna usedlina
-zoe | ZOO - živalski vrt
-zof | ZOFA - oblazinjeno ležišče brez stranic, navadno ozko in z dvignjenim zglavjem
-zoi | ZOO - živalski vrt
-zon | ZONA - neprijeten občutek z drhtenjem zaradi močnega vznemirjenja, odpora, strahu
-zoo | živalski vrt
-zor | (knjiž.) jasna svetloba na nebu pred sončnim vzhodom; ZORA
-zos | neprijeten, zapleten položaj
-zou | ZOO - živalski vrt
-zov | (star.) klic, poziv
-zre | ZRETI - (knjiž.) upirati, usmerjati pogled kam; GLEDATI
-zri | ZRETI - (knjiž.) upirati, usmerjati pogled kam; GLEDATI
-zrl | ZRETI - (knjiž.) upirati, usmerjati pogled kam; GLEDATI
-zrn | ZRNO - vsako od semen, navadno v klasu, latu žit ali stroku stročnic, z nakopičenimi hranilnimi snovmi
-zum | objektiv s spremenljivim zornim kotom
-zzz | [esskj] navadno ponovljeno
-žab | ŽABA - manjša dvoživka s široko glavo, širokim trupom in daljšimi zadnjimi okončinami
-žad | poldrag kamen, navadno zelene barve
-žag | ŽAGA - orodje ali stroj z nazobčanim listom za žaganje
-žal | izraža neprijetno čustvo, žalost zaradi storjenega slabega, nepravilnega dejanja ali opustitve česa dobrega, koristnega
-žar | močna, zlasti rdečkasta svetloba
-žav | posnema nižji glas vrabca ali nekaterih drugih ptic
-žde | ŽDETI - negibno, tiho sedeti
-ždi | ŽDETI - negibno, tiho sedeti
-žeg | ŽEGA - (zastar.) zelo visoka temperatura zaradi gretja, sijanja sonca; PRIPEKA
-žej | ŽEJA - občutek potrebe po pijači
-žel | ŽETI - (knjiž.) s stiskanjem, vitjem odstranjevati tekočino iz česa; OŽEMATI
-žen | ŽENA - poročena ženska v odnosu do svojega moža
-žep | majhni vreči podoben del na oblačilu za spravljanje manjših predmetov
-žet | ŽETI - (knjiž.) s stiskanjem, vitjem odstranjevati tekočino iz česa; OŽEMATI
-žge | ŽGATI - delati, povzročati, da kaj gori
-žgi | ŽGATI - delati, povzročati, da kaj gori
-žgo | ŽGATI - delati, povzročati, da kaj gori
-žic | ŽICA - dolg, tanek kovinski izdelek, navadno okroglega prereza
-žid | pripadnik judovske vere
-žig | uradni znak z imenom organa, organizacije, z določenim besedilom kot dokaz pristnosti, verodostojnosti listine, akta
-žij | ŽITI - (star.) živeti
-žil | ŽILA - cevast organ, po katerem teče kri ali limfa
-žim | ŽIMA - odrezana dolga dlaka zlasti iz konjskega repa, konjske grive
-žir | plod bukve
-žit | ŽITO - kulturne rastline s klasi, lati ali njihovo seme
-živ | posnema glas vrabca ali nekaterih drugih ptic
-žme | ŽETI - (knjiž.) s stiskanjem, vitjem odstranjevati tekočino iz česa; OŽEMATI
-žmi | ŽETI - (knjiž.) s stiskanjem, vitjem odstranjevati tekočino iz česa; OŽEMATI
-žog | ŽOGA - kroglast predmet, ki se pri igranju, športni igri meče, suva, odbija
-žrd | dolg, debelejši lesen drog, ki se vzdolžno položi na vrh s senom, snopi naloženega voza in na obeh koncih priveže, da je tovor trdneje nameščen
-žre | ŽRETI - hlastno jesti
-žri | ŽRETI - hlastno jesti
-žrk | ŽRKA - ličinka nekaterih dvokrilcev in večine kožekrilcev, ki imajo grizalo
-žrl | ŽRETI - hlastno jesti
-žuk | ŽUKA - šibasta obmorska grmičasta rastlina z rumenimi cveti, Spartium junceum
-žup | ŽUPA - sladek sok iz mletega, mečkanega grozdja, sadja
-žur | družabna prireditev, namenjena zabavi, navadno v večernem času, pogosto v povezavi z glasbo, s plesom

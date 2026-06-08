@@ -45,7 +45,6 @@ aelnt 10 antel entla laten lenta letna nalet talen talne telna tnale
 aelpt 10 lepat palet patel pelat pelta petal plate pleta tepal tepla
 aemrt 10 armet mater metra mreta ramet retam tarem terma trame trema
 aepšt 10 pašet pašte pešat pešta petaš pšeta šepat špate štape štepa
-aervz 10 averz razve verza vezar vreza zaver zavre zreva zvare zvera
 ahlop 10 hopal hopla lopah ophal phalo plaho ploha pohal polah polha
 aikmn 10 inkam kamin kamni kanim makin makni manki mikan minka nikam
 aikms 10 kisam kmisa maksi masik maski miksa samki siamk sikam skima
@@ -94,7 +93,6 @@ alops 9 palso paslo plaso posla salpo slopa sopla spalo spola
 alorv 9 larov larvo lavor lavro ovrla ralov roval rvalo volar
 amort 9 mator morat morta romat rotam rtoma tarom toram tramo
 beort 9 berto borte boter botre obrte teorb terbo torbe trobe
-beorz 9 borze brezo obrez rezbo zbero zbore zebro zober zobre
 biort 9 borit borti botri obrit obrti orbit robit torbi trobi
 bčeor 9 beroč borče boreč brečo broče čober čobre čorbe obreč
 ceikp 9 cepik cepki kepic kipce kipec picek picke pikce pikec
@@ -104,7 +102,6 @@ demor 9 dermo dremo moder modre odmer odmre odrem redom rodem
 eijrt 9 jetri retij retji rijte ritje terij terji tirje trije
 eiklp 9 kelpi kepil kipel klepi lepki lipek lipke pekli pilke
 eilmt 9 letim limet litem melit metil metli mleti telim tlemi
-eilvz 9 izvel vezil vezli vlezi vzeli zlevi zlive zveli zvile
 einpt 9 penit petin petni pinte piten pitne pnite tipen tipne
 elops 9 ospel posel posle slepo slope sopel sople spelo spole
 emnor 9 menor merno moner moren morne mreno norem norme ornem
@@ -141,7 +138,6 @@ aempr 8 amper maper parme perma prame prema rampe repam
 aemrs 8 maser mersa mesar rasem resam sarme seram srame
 aenpt 8 apnet napet pante paten penat petna pneta tapne
 aenst 8 saten satne senat sneta stane stena tesan tesna
-aenvz 8 navez vazen vazne vezan vezna zevna zvane zvena
 aeprt 8 parte pater patre petra prate repat trape trepa
 aeprš 8 ešarp praše preša rašpe repaš šarpe šerpa špare
 afmor 8 amfor amorf farmo foram forma marof morfa ofram
@@ -164,7 +160,6 @@ aikns 8 anski inska iskan kasni kisan sanik sinka skina
 aiksv 8 kavsi kisav kvasi sikav sivka svaki viska vsaki
 ailov 8 ilova oliva ovali ovila vialo viola voali voila
 ailrv 8 larvi lavri livar livra rival rvali varil vilar
-ailvž 8 valiž važil vižal vižla vlaži žilav žival žvali
 aimnr 8 manir marin marni mirna ramni ranim riman rmani
 aimst 8 astmi istma masti misat samit sitam stami tisam
 ainps 8 napis nasip naspi pasni pisan pisna psina spina
@@ -190,13 +185,11 @@ eilmn 8 lenim melin menil milen milne mleni mline nemil
 eilms 8 limes melis mesil misel misle selim smeli smile
 eilsv 8 selvi sivel slive svile vesil vesli visel vseli
 eiltv 8 letvi levit levti tvile vitel vitle vleti vlite
-eimrz 8 izmer izmre remiz rezmi rizem rizme zmeri zmire
 eimst 8 estmi istem istme mesit mesti semit sitem smeti
 einst 8 nesti niste siten sitne sneti steni tenis tesni
 eirst 8 estri reist resit setri steri tirse tresi trise
 eklov 8 elovk lekov lokev lokve lovke vleko volek volke
 ekmor 8 kerom komer korme kremo krome moker mokre rekom
-eknož 8 kožen kožne nežko nožek nožke žekno ženko žokne
 ekopr 8 koper kopre krope oprek poker pokre porek preko
 ekotv 8 etovk kotev kotve kvote tekov votek votke vtoke
 ikmos 8 iksom kisom komis kosim kosmi moksi omski sikom
@@ -218,7 +211,6 @@ abdor 7 bodra borda brado broda dobra droba obrad
 abegr 7 bager bagre brega gaber gabre grabe greba
 abert 7 baret barte berta brate terba trabe treba
 ablot 7 balot balto blato botal lobat oblat tablo
-abloz 7 balzo zabol zbalo zbola zloba zobal zobla
 abnru 7 arbun barnu branu bruna burna ubran urban
 abrtu 7 bartu bratu bruta butar trabu tubra ubrat
 acips 7 capsi pasci pasic pisca psica sapic sipca
@@ -226,7 +218,6 @@ ademr 7 adrem deram derma drame drema medar radem
 adens 7 danes desna nadse saden sadne sedna sneda
 adenv 7 daven davne dneva nadev vdane vedna venda
 aders 7 adres dresa resda sader sadre sarde sreda
-adivz 7 dviza vzadi vzida zavid zdiva zidav zvadi
 adjno 7 ajdno danjo dojna donja jadno jodna ondaj
 adjov 7 ajdov dojva dvoja jadov odjav vdajo vodja
 adlor 7 dolar lardo lorda odral odrla ordal rolad
@@ -236,19 +227,14 @@ aehkl 7 hekal kahel kahle kaleh kelah lahek lahke
 aehkm 7 hekam keham mahek mahke mehak mehka mekah
 aehpr 7 eparh harpe hrape hrepa pehar prahe repah
 aejkn 7 jaken jakne janke kajne kanje nejak nekaj
-aejlž 7 ježal lajež lažje ležaj žalje žejal želja
 aejmš 7 jameš jašem jašme ješam maješ mejaš mešaj
 aejns 7 jasen jasne jeans sajen sanje sejan sejna
-aejrz 7 razje rezaj rezja zajer zarej zarje zreja
-aejvz 7 jezav vezaj vezja zavej zevaj zjeva zveja
 aekln 7 alken elank kalen kalne klane klena nakel
 aekps 7 apeks epska kapse pasek paske peska spake
 aekrs 7 krase kresa raske reska serak serka srake
 aektt 7 katet takte tatek tatke tekat tetka tketa
-aelnž 7 lažen lažne ležna nažel žalen žalne želna
 aelrv 7 larve laver lavre rvale valer velar vrela
 aelst 7 laste latse salte stale stela tesal tesla
-aelvz 7 vezal vezla vzela zavel zeval zvale zvela
 aemrv 7 marve maver mavre mreva revam revma veram
 aeprs 7 asper aspre pesar prase saper spare srepa
 aepst 7 paste pesta pseta septa spate speta stepa
@@ -291,7 +277,6 @@ anort 7 nator notar orant ornat ranto torna trona
 anorv 7 avron narvo navor ravno rovna varno vrano
 anrtu 7 nartu natur rutna tranu tunar turna untra
 aopst 7 opast pasto patos posta spato spota stopa
-aorvz 7 razov varoz vozar vzora zarov zavor zvaro
 ačekr 7 čaker čakre krače kreča raček račke rečka
 ačens 7 časen časne česan česna naseč nečas sečna
 ačepr 7 čepar črepa pečar perač prače preča repač
@@ -300,7 +285,6 @@ bceor 7 borce borec cebro cober cobre robce robec
 bdelo 7 bdelo bledo blode bodel bodle deblo dolbe
 bdior 7 bodri bordi brodi dobri drobi odbir robid
 beirt 7 berti biret birte biter bitre terbi trebi
-beirz 7 brezi izber rezbi ribez zberi zbire zebri
 biklo 7 bilko bloki kiblo klobi kobil kolib oblik
 bilmo 7 bilom bolim bolmi limbo milob mobil oblim
 bimor 7 birmo borim briom bromi obmri robim rombi
@@ -320,7 +304,6 @@ dimor 7 dirom drimo modri odmri ordim rdimo rodim
 eenrt 7 enter entre renet rente teren terne trene
 efort 7 forte foter fotre freto frote ofert tefro
 egiln 7 genil gleni gline gneli gnile igeln iglen
-eijlz 7 izjel jezil lezij zelij zelji zjeli zlije
 eijtv 7 tevij tevji vejit vetij vetji vijte vitje
 eikmn 7 kimne mekin mekni menki minke nekim nemki
 eikpt 7 kepit kipet petki piket pitke tepki tipke
@@ -330,7 +313,6 @@ eilps 7 elips plesi plise slepi slipe speli spile
 eilpš 7 lepiš lepši lišpe pleši pliše šlepi špile
 eimnr 7 merni miner miren mirne mreni nemir rinem
 eimnt 7 menit metin metni minet netim temin temni
-eimnz 7 izmen menzi mezin mizen mizne zinem zmeni
 einps 7 penis pesni pisen pisne psine speni spine
 einrs 7 resin resni risne serin siren sirne sreni
 einsv 7 sevni siven sivne svine vesin vesni vnesi
@@ -391,7 +373,6 @@ abder 6 barde bared bedra berda brade breda
 abdlo 6 bloda bodal bodla dolba labod obdal
 abdno 6 bando bodna bonda dobna nabod obdan
 abekr 6 baker bakre barke brake breka kebra
-abelz 6 balze bezal lezba zabel zbale zebla
 abikr 6 bakri barik barki bikar braki brika
 abilr 6 baril brali brila libra rabil ribal
 abimr 6 ambri biram birma rabim rambi ribam
@@ -442,11 +423,8 @@ aekrš 6 kašer kreša raške rekaš reška šarke
 aeksv 6 kavse kvase sevka svake vsake vseka
 aelnv 6 laven lavne levan navel navle vnela
 aelsv 6 salve selva seval slave vesla vlase
-aemnz 6 mazen mazne menza zamen zmane zmena
-aemrz 6 mraze razem razme rezam zamer zamre
 aenpr 6 naper paren parne perna prane repna
 aenpš 6 napše pašen pašne pšena šapne špane
-aenrž 6 nažre režna ržena žanre žaren žarne
 aentv 6 avten avtne navet vaten vatne vneta
 aersv 6 ravse resav revsa svare vrase vresa
 aertv 6 ravte trave treva vetra vreta vtare
@@ -469,27 +447,21 @@ aijnv 6 javni navij navji njiva vajin vinja
 aiklr 6 akril krali krila likar rakli rikal
 aiklš 6 kališ laški likaš liška šikal šilka
 aikmo 6 akiom amoki koami okami omaki omika
-aiknz 6 kazin kazni kinaz nizka zanki znaki
 aikpt 6 kipat pakti pikat pitka tapki tipka
 aikrš 6 raški rikaš rikša riška šarki šikar
 aiktt 6 kitat takti tatki tikat tkati tkita
-ailmz 6 lazim lizam mazil zalim zlima zmila
 ailnp 6 alpin apnil lipan napil plani plina
 ailns 6 lasni salni silan silna slani slina
 ailnt 6 ilnat nalit talin talni tanil tnali
 ailpš 6 lišpa pališ plaši pliša šlapi špila
 ailsv 6 salvi slavi sliva svila visla vlasi
-ailtz 6 lazit lizat zalit zatli zlati zlita
-ailvz 6 valiz zaliv zavil zliva zvali zvila
 ailšt 6 lašti latiš šalit štali tališ tišal
 aimnt 6 manit manti matni natmi nitma tanim
 aimpr 6 parim parmi piram prami prima rampi
-aimrz 6 mizar mrazi razim razmi rizma zamri
 aiort 6 aorti orati orita otira ratio tiaro
 aiprs 6 aspri pisar prasi ripsa spari spira
 aipšt 6 pašti pitaš pšita špati štapi tipaš
 airtt 6 ritat tatri tirat titra trati trita
-airvz 6 vrazi zavir zavri zriva zvari zvira
 aistv 6 stavi stiva svati svita vista vtisa
 ajkmo 6 jakom jokam kojam komaj majko mokaj
 ajkor 6 jarko krajo kroja okraj orjak rojak
@@ -513,7 +485,6 @@ alost 6 losat ostal salto solat stalo stola
 amnor 6 marno maron morna norma ramno roman
 amost 6 astmo mosta samot satom stoam stoma
 anopt 6 napot poant ponta potan potna topna
-anovz 6 navoz vazno vozna znova zvano zvona
 aoprv 6 oprav parov pravo prova rapov varpo
 aopšt 6 pašto pošta šopat špota štapo štopa
 aortv 6 avtor rovat rovta tarov travo tvora
@@ -536,9 +507,7 @@ belno 6 bolen bolne lenob loben lobne nobel
 benor 6 boren borne brone obrne roben robne
 bilor 6 boril brilo libro obril robil rolbi
 bilov 6 bivol bovli obliv obvil vbilo vboli
-biloz 6 izbol zbilo zboli zlobi zobil zobli
 binru 6 birnu brinu bruni burin burni rubin
-biorz 6 borzi izbor obzir riboz zbori zobri
 birtu 6 birtu bitru bruti burit rubit tubri
 bortu 6 bortu botru bruto obrtu turbo turob
 ceemn 6 cenem mecen mence menec nemce nemec
@@ -553,7 +522,6 @@ dejmo 6 dejmo dojem dojme medjo odjem odmej
 delop 6 dopel odpel pelod plode podel podle
 delot 6 delto dleto dolet dotle odlet todle
 delov 6 delov dovel ledov odvel vdelo vedlo
-delož 6 dolže dožel odžel ždelo želod žolde
 demos 6 demos desom sedmo sedom smode sodem
 denov 6 denov devon vedno vendo voden vodne
 denru 6 drenu duren durne ruden rudne runde
@@ -569,7 +537,6 @@ eeknt 6 keten ketne netek tekne tenek tenke
 eekpr 6 keper kepre krepe preke repek repke
 eelns 6 lesen lesne nesel nesle selen snele
 eelpt 6 lepet pelet pelte plete tepel teple
-eelvz 6 vezel vezle vleze vzele zleve zvele
 eenrv 6 nerve never reven revne veren verne
 efirt 6 ferit freti frite rifte tefri trefi
 eglmo 6 gelom golem golme meglo mogel mogle
@@ -579,19 +546,16 @@ ehlot 6 helot hotel htelo teloh tohel tohle
 eijlm 6 jelmi lijem mejil mejli melji milje
 eijlv 6 levji lijev vejil vilje vjeli vlije
 eijrs 6 jirse resij resji risje serij serji
-eijtž 6 ježit težji žetij žetji žijte žitje
 eiklt 6 kilte kleti litke tekil tekli telki
 eikpš 6 kepiš peški piške šipek šipke špike
 eiktv 6 kivet tikev tikve vitek vitke vtike
 eilns 6 lesni nesli silen silne sline sneli
-eilnž 6 ležni nežil želni ženil žilen žilne
 eilov 6 ilove olevi olive oveli ovile viole
 eilpr 6 lepri pelir peril perli preli repil
 eilst 6 lesti liste selit steli stile tesli
-eilvž 6 vežil vižel vižle želvi živel žlevi
+eimrz 6 izmer izmre remiz rezmi rizem rizme
 eimrš 6 meriš rešim rišem šimer širem šmire
 einpr 6 perin perni piren pirne repin repni
-eintž 6 nežit težin težni ženit žiten žitne
 eirtv 6 verit vetri viter vitre vreti vrite
 ejlov 6 jelov levjo lojev vjelo volej volje
 ejmor 6 jerom merjo morje mrejo orjem rojem
@@ -613,7 +577,6 @@ elost 6 letos oslet stelo stole telos teslo
 emnos 6 ensom mesno nosem osnem senom snemo
 emops 6 mopse ospem pesom sepom sopem spemo
 emopt 6 metop pomet potem tempo tepom topem
-enovz 6 vezno vozen vozne zenov zevno zvone
 eorst 6 oster ostre sorte store treso trose
 eoršt 6 oštre otreš rešto šrote štero štore
 eprst 6 prest prste spret sprte srpet strpe
@@ -669,7 +632,6 @@ aaklr 5 alkar karal kraal krala rakla
 aaklv 5 kaval kavla klava vakal vlaka
 aakmn 5 aknam kamna kanam manka namak
 aaknp 5 kapna knapa napak pakna panka
-aaknz 5 kazan kazna nakaz zanka znaka
 aakpr 5 kapar kapra karpa krapa parka
 aakrv 5 kavra krava kvara rakav varka
 aakst 5 kasat kasta skata staka taksa
@@ -691,8 +653,6 @@ abgor 5 borag gabro gobar grabo groba
 abijt 5 bajit bajti bijta bitja tajbi
 abijš 5 ajbiš bajiš šajbi šibaj šibja
 abilt 5 albit balti blati tabli talib
-abilz 5 balzi zabil zbali zbila zibal
-abimz 5 bizam izbam zabim zambi zibam
 abirs 5 birsa brisa risba sabir srabi
 abitv 5 bavit bavti bitva bivat vabit
 abjot 5 bajto bojta botaj jabot tajbo
@@ -702,7 +662,6 @@ ablmo 5 albom balom bolma lobam oblam
 ablno 5 balon bolan bolna lobna nabol
 ablor 5 abrol bralo labor obral rolba
 abmos 5 basom bosam sabom sambo sobam
-aborz 5 borza obraz zbora zobar zobra
 abrsu 5 barus brusa bursa srabu urbas
 acejr 5 carje cerja jarce jarec rejca
 acekr 5 caker cekar racke rakce rakec
@@ -731,9 +690,7 @@ adimn 5 damin danim dimna dinam mandi
 adimr 5 darim diram drami radim ridam
 adimv 5 davim divam midva vadim vidma
 adinr 5 dinar nadir nadri nardi randi
-adinz 5 izdan iznad zdani zidan zidna
 adirv 5 dravi driva rdiva vdira vidra
-adirz 5 razid zadri zardi zdira zidar
 aditv 5 dativ davit tvida vadit vdati
 adjru 5 daruj djaur jadru jardu raduj
 adnop 5 padno pando podan podna ponda
@@ -742,8 +699,6 @@ adnru 5 ardun durna nadur rudna runda
 aeglv 5 glave lagev lagve vegal vlage
 aegmn 5 ganem genam mange nagem negam
 aegns 5 agens gasne gensa snage snega
-aegnz 5 ganze gazen gazne zegna zgane
-aegnž 5 nažge žagen žagne žegna žgane
 aegrt 5 gater gatre greta regat terga
 aegrš 5 greša regaš šager šagre šarge
 aehks 5 hasek haske sekah shake sheka
@@ -754,45 +709,37 @@ aeilt 5 atile elita etila itale taeli
 aeimn 5 amine anime enima imane imena
 aejkm 5 jakem jekam kamej majke mejak
 aejkr 5 jarek jarke kraje rejka rekaj
-aejlz 5 zajel zajle zelja zjale zjela
 aejnr 5 jaren jarne jeran rajne rejna
 aejrt 5 jaret jerat jetra retja terja
 aejtv 5 tevja vajet vejat vejta vetja
 aeklš 5 elkaš laške leška šekla šelak
 aekmp 5 kampe kapem kempa kepam pekam
-aeknz 5 kazen kazne kneza zanke znake
 aekpš 5 kepaš paške pešak peška šapke
-aekrž 5 kraže režka žarek žarke žerka
-aeksz 5 askez skaze skeza zasek zaske
 aektv 5 avtek avtke tkeva vekat vteka
 aelmp 5 lampe lempa lepam palme plame
-aelmž 5 lažem ležam mežal žalem žlema
 aelnp 5 apnel napel panel plane plena
 aelpr 5 lepra perla prale prela repal
 aelpv 5 peval plave pleva vpale vpela
 aelrs 5 laser lesar rasel rasle srale
-aeltz 5 zalet zatel zatle zlate zleta
 aelšt 5 lašte letaš šetal štale štela
 aemnš 5 maneš mašen mašne mešan našem
 aemor 5 arome moare omare orema romea
 aemps 5 pasem pasme pesam spame spema
 aemsv 5 sevam smeva vasem vesam vsema
-aemtz 5 mezat tezam zamet zatem zetam
 aenrs 5 rasen rasne resna senar srena
 aenrz 5 arzen razen razne rezan rezna
-aentz 5 entaz natez tezna zatne znate
+aenvz 5 navez vazen vazne vezan vezna
 aeopt 5 etapo opate opeta otepa poeta
 aeprv 5 paver pavre prave varpe vepra
 aertt 5 tater tatre tetra trate treta
+aervz 5 averz razve verza vezar vreza
 aestt 5 atest steta taste tesat testa
-aetvz 5 tveza vezat vzeta zavet zevat
 afikl 5 flaki fliak flika kalif klifa
 afikr 5 afrik fakir fraki frika kafri
 afilt 5 falit filat flita lafit lifta
 afirt 5 frati frita rafti rifta tarif
 agijl 5 gajil galij glaji glija iglaj
 agijr 5 garij graji igraj jagri rigaj
-aginž 5 nažgi žagin žagni žgani žinga
 agirt 5 gatri grita igrat rigat tigra
 agjno 5 ganjo gnoja gonja najgo ognja
 agjor 5 gorja grajo jogra ograj rogaj
@@ -822,7 +769,6 @@ aijkr 5 arijk jarki kraji rakij rikaj
 aijlm 5 lamji limaj majil milja mlaji
 aijln 5 lajni lijan linja ljani nalij
 aijlv 5 javil lijva valji vilaj vilja
-aijlz 5 zajli zalij zijal zjali zlija
 aijnt 5 najti nitja tajni tanij tinja
 aijpt 5 aptij pijta pitaj pitja tipaj
 aijrv 5 rijva rivaj rjavi virja vrija
@@ -834,29 +780,23 @@ aiknv 5 kavin kavni naivk vinka vnika
 aiksš 5 kisaš saški sikaš siška škisa
 aikšv 5 avški kvaši vaški vikaš viška
 ailmr 5 larmi liram milar ralmi rimal
-ailmž 5 lažmi mižal žalim žalmi žilam
 ailot 5 atilo atoli italo otali tiola
 ailpr 5 april palir paril pilar prali
 ailpt 5 aplit palit pital plati tipal
-ailpz 5 izpal lipaz pazil plazi zapil
 ailru 5 aluri arilu railu rialu urila
 ailrš 5 rašil šaril šilar šlari šlira
-ailšz 5 izšla laziš zašil zašli zišla
+ailvž 5 valiž važil vižal vižla vlaži
 aimnš 5 mašin mašni našim nimaš nišam
 aimrv 5 marvi mavri mriva rivam varim
-aimrž 5 marži miraž rižam žarim žimar
+aimrz 5 mizar mrazi razim razmi rizma
 ainpš 5 apniš napši pašni šapni špani
 ainrs 5 naris rasni risan sarin sirna
-ainrž 5 nažri rižna žanri žarin žarni
 ainst 5 natis nista satni sitna stani
 aintt 5 tanit tanti tatin tinta titan
-ainvz 5 naziv vazni vinaz zvani zvina
 aiopt 5 opati opiat opita otipa patio
 aiprš 5 pariš praši rašpi šarpi špari
 aipsv 5 pasiv pisav spiva vpisa vsipa
 airsv 5 ravsi svari svira vrasi vrisa
-airtz 5 razit tirza zarit zatri zrita
-airtž 5 tiraž triaž žarit žitar žrita
 airšv 5 ravši rivaš šavri šivar variš
 ajkov 5 jakov javko jokav vojak vojka
 ajlno 5 lajno ljano lojna lonaj oljna
@@ -873,28 +813,22 @@ aklpu 5 kalup klupa plaku pukal pukla
 aklru 5 kralu lukar raklu rukal ukral
 akmmo 5 kamom komam makom mamko mokam
 akmsu 5 musak sakum smuka sukam umska
-aknoz 5 kazno oznak zakon zanko zokna
 aknpu 5 knapu kupna nakup panku punka
 akntu 5 katun knuta tanku tukan tunka
-akovz 5 kavzo kozav vozka zakov zvoka
 akpru 5 karpu krapu krupa parku pruka
 akpsu 5 kapsu kapus pasku skupa spaku
 almru 5 mular mural rulam rumla umrla
 alnov 5 lanov lavno lovna volan volna
-alnož 5 alonž lažno ložna žalno žolna
 alors 5 oslar osral raslo solar sralo
 alosv 5 avlos lasov salvo slavo slova
 alouv 5 ovalu ovula ulova uvalo voalu
 alošt 5 lašto lotaš šolat štalo štola
 amnop 5 apnom mapno opnam panom ponam
 amnos 5 masno mason samno snoma soman
-amnoz 5 manoz mazno oznam znamo zonam
 amnru 5 murna numar rmanu runam urnam
-amorz 5 omrza razmo razom zarom zoram
 amotv 5 avtom matov otvam tavom vatom
 amrtu 5 matur rutam tramu truma turam
 anors 5 osran rasno rosan rosna sonar
-anorž 5 nožar oranž rožna žarno žnora
 aortt 5 tarot tatro torta trato trota
 aoršt 5 oštra rošta šotar šrota štora
 aostv 5 ostva satov stavo vosat vsota
@@ -922,12 +856,10 @@ bcior 5 borci cibor cobri robci robic
 bdeel 5 bdele bedel blede debel lebde
 bdeir 5 bedri berdi bredi debri derbi
 bdoru 5 bordu brodu budro dobru drobu
-beerz 5 breze rezbe zbere zeber zebre
 begin 5 begin begni binge giben gibne
 beikl 5 belki bilke kebli kibel kible
 beikr 5 biker breki brike kebri kiber
 beilr 5 beril breli brile liber libre
-beilz 5 lezbi zbeli zbile zebli zibel
 beinr 5 biren birne brine riben ribne
 beklo 5 belko bloke klobe koleb oblek
 belov 5 belov bovel bovle obvel vbole
@@ -993,14 +925,12 @@ eekls 5 leske sekel sekle selke skele
 eeklt 5 klete tekel tekle telek telke
 eekmn 5 mekne menek menke nekem nemke
 eekrs 5 eserk esker krese reske serke
-eelmz 5 lemez lezem mezel zelem zmele
 eelnt 5 lente leten letne telen telne
 eelpr 5 leper lepre perel perle prele
 eeltv 5 letev letve levte velet vlete
 eemnt 5 meten metne nemet temen temne
 eemrt 5 meter metre mrete terme treme
 eensv 5 seven sevne vesen vesne vnese
-eenvz 5 vezen vezne zeven zevne zvene
 eeprt 5 peret peter petre prete trepe
 eepst 5 peset peste septe spete stepe
 eerst 5 ester estre seter setre trese
@@ -1021,46 +951,40 @@ ehopr 5 hrope oprhe poher pohre porhe
 eijmn 5 imenj injem mejni menji nijem
 eijms 5 emsij mesij sejmi sijem smeji
 eijpr 5 perij perji preji repij repji
-eijrz 5 izrej rezij rezji zreji zrije
 eijst 5 istej istje jesti sijte sitje
 eijšv 5 ješiv vejiš viješ višje všije
 eikln 5 kilen kilne kleni kline linke
 eiklr 5 kleri krile liker rekli relik
 eikmš 5 kišem meški mišek miške šmeki
 eiknp 5 kipen kipne penki pikne pinke
-eiknž 5 nežki nižek nižke žekni ženki
-eikrž 5 križe režki rižek rižke žerki
 eiksv 5 sevki sivke visek viske vseki
-eilmz 5 izmel mezil zelmi zmeli zmile
 eilnp 5 pelin penil pinel pleni pline
 eilnv 5 leniv liven livne venil vneli
 eilpt 5 lepit pelit pelti pleti tepli
 eilpv 5 lepiv plevi vlepi vpeli vpile
-eilrz 5 rezil rizel rizle zreli zrile
 eiltt 5 telit titel title tleti tlite
+eilvz 5 izvel vezil vezli vlezi vzeli
 eilšt 5 letiš šelit šteli teliš tešil
+eimnz 5 izmen menzi mezin mizen mizne
 eimnš 5 meniš mešin mineš nemiš šinem
 eimpr 5 empir perim premi prime repim
 eimrs 5 mersi resim rimes serim smeri
-eimrž 5 mreži režim režmi rižem žmeri
 eimsv 5 sevmi sivem vesim vmesi vsemi
 eimšt 5 mešti šemit šitem štime tešim
 einop 5 ipone openi peoni pione poeni
 einrž 5 režni rinež rižen rižne rženi
 eintv 5 netiv tvine venit vinte vneti
-einvz 5 izven vezni zevni zveni zvine
 eiopt 5 opeti opite otepi otipe poeti
 eirtt 5 tetri titer titre treti trite
-eirvz 5 izvre verzi vezir vrezi zveri
 ejklo 5 jeklo jelko kloje kolje oljke
 ejlmo 5 jelom lojem meljo molje oljem
 ejmno 5 jenom mejno menjo menoj nojem
-ejovz 5 jezov vezjo vozje zevjo zvoje
 ejršu 5 jeruš rešuj ruješ rušje šerju
 eklno 5 kleno klone kolen kolne lokne
 eklnu 5 klenu kulen kulne lunek lunke
 eklor 5 klore koler kreol reklo rolke
 eklos 5 koles lesko seklo selko sloke
+eknož 5 kožen kožne nežko nožek nožke
 eknšu 5 kušne šenku škune šunke unške
 ekopv 5 kepov pekov pekvo pevko vkope
 ekost 5 eksot koste sekto skote stoke
@@ -1068,23 +992,13 @@ ekrsu 5 kresu resku ruske surke urske
 ekrtu 5 krute kuter rutke turek turke
 ekršv 5 kršev škver švrke vršek vrške
 elnov 5 loven lovne novel vnelo volne
-elnož 5 ležno ložen ložne želno žolne
 elopv 5 lepov plevo plove povel vpelo
-elorz 5 erloz ozrel ozrle zorel zrelo
-elovz 5 vezlo vozel vozle vzelo zvelo
 elptu 5 peltu pletu plute pulte tulpe
-emnoz 5 menzo mezon nozem zenom zmeno
 emnru 5 muren murne numer rumen urnem
-emorz 5 omrze ozrem rezom zmore zremo
 enopt 5 petno poten potne topen topne
-enorz 5 rezno rezon znore zoren zorne
-enorž 5 režno rožen rožne rženo žnore
 enosv 5 ensov ovsen senov vesno vnose
-enotž 5 težno tožen tožne žeton žonte
-eoprz 5 oprez pozer pozre proze zoper
 eorsv 5 serov sover sovre svore vreso
 eortv 5 etrov ovret rovte terov tvore
-eortz 5 ozret rozet torze treoz zoret
 epršu 5 purše repuš šerpu špure upreš
 fiksu 5 fiksu fikus fuksi skifu ufski
 gijlo 5 glijo gojil golij golji oglji
@@ -1093,7 +1007,6 @@ gilno 5 glino gnilo golin gonil ognil
 gimno 5 ginom gnomi gonim mnogi mongi
 ginot 5 gonit gonti ingot ognit tongi
 giorv 5 goriv grivo rigov vigor virgo
-giorz 5 grizo grozi ogriz rozgi zgori
 glmoo 5 golom gomol logom moglo oglom
 gloov 5 golov logov oglov vlogo volgo
 hiimt 5 hitim ihtim mitih tihim timih
@@ -1130,14 +1043,12 @@ ikrtu 5 kruti kurit rutki triku turki
 ilmos 5 silom smilo smoli solim solmi
 ilort 5 otrli rotil toril triol troli
 ilosv 5 silov slivo slovi svilo vislo
-ilovz 5 izlov vozil vozli zvilo zvoli
 ilptu 5 lupit pluti pulit pulti tulpi
 ilrtu 5 litru rulit rutil truli utrli
 imnos 5 nismo nosim osmin osnim sinom
 imops 5 mopsi pismo sipom sopim spimo
 imors 5 irsom omrsi risom rosim sirom
 imorv 5 mirov omrvi rovmi virom vrimo
-imorz 5 omrzi rizmo rizom zorim zrimo
 imost 5 mitos mosti ostmi sitom stomi
 inopr 5 pirno porin porni prion ropni
 iopst 5 pisto posti spito spoti stopi
@@ -1219,9 +1130,7 @@ aalrv 4 larva lavra rvala varal
 aaltv 4 latva taval valat vatla
 aamnp 4 apnam mapna napam panam
 aamnr 4 marna ramna ranam rmana
-aamnz 4 mazan mazna namaz zaman
 aamrv 4 avram marva mavra varam
-aamrz 4 mraza razam razma zaram
 aanpt 4 apnat panat panta tapan
 aanpš 4 apnaš panaš pašna špana
 aanst 4 asant satan satna stana
@@ -1242,10 +1151,9 @@ abeht 4 bahte betah habet hebat
 abeks 4 basek baske sabke sebka
 abekt 4 batek batke bekat betka
 abelt 4 balet balte tabel table
+abelz 4 balze bezal lezba zabel
 abens 4 banse basen basne besna
 abers 4 bersa sebra srabe sreba
-aberz 4 breza rezba zarbe zebra
-aberž 4 barež barže žebra žreba
 abgim 4 bigam gabim gambi gibam
 abgin 4 binga gabni gibna nagib
 abglo 4 blago bloga bogal globa
@@ -1256,7 +1164,6 @@ abhiv 4 bavhi havbi hibav vibah
 abhtu 4 bahtu buhat buhta tubah
 abijl 4 albij bajil bajli bilja
 abijr 4 barij barji ribaj ribja
-abijz 4 jazbi zabij zbija zibaj
 abikl 4 bakli bilka kabli kibla
 abikn 4 banki bikan kabin nikab
 abiln 4 albin balin blina nabil
@@ -1264,12 +1171,9 @@ abilv 4 bavil bival vabil vbila
 abimv 4 bavim bivam vabim vibam
 abint 4 batin batni bitna nabit
 abiot 4 abiot aboti biota obita
-abirz 4 izrab zarbi zbira zriba
-abitz 4 zabit zbati zbita zibat
 abjko 4 bajko bajok bokaj kajbo
 abjno 4 bajno banjo bojna naboj
 abjnu 4 banju banuj bujna bunja
-abjoz 4 jazbo zaboj zboja zobaj
 abkos 4 boksa obska sabko skoba
 abltu 4 blatu butal tabul tulba
 abnos 4 basno snoba soban sobna
@@ -1302,13 +1206,10 @@ aclsu 4 lascu scalu sulca uscal
 adeil 4 diale edila ideal liade
 adejr 4 jader jarde jedra rajde
 adejt 4 ajdte dejat dejta tedaj
-adejz 4 zajde zajed zdaje zjeda
 adelp 4 padel padle pedal pleda
 adelt 4 delat delta detla dleta
-ademz 4 mazde mezda zadem zmeda
 adent 4 nadet nadte tedna tenda
 adepr 4 drape parde pedra preda
-aderz 4 dreza razde zadre zarde
 adglo 4 dolga gloda godal lagod
 adgmo 4 dogam dogma gadom gomad
 adhin 4 dahni danih dinah nadih
@@ -1316,11 +1217,9 @@ adhmo 4 dahom domah hadom modah
 adhno 4 donah hodna honda nahod
 adhov 4 dahov hadov vhoda vodah
 adijv 4 dijva divja vadij vdaji
-adijz 4 izdaj jazid zajdi zidaj
 adikr 4 darki dirka kadri kradi
 adiks 4 diska sadik skadi skida
 adilo 4 alodi diola idola liado
-adilz 4 dizla izdal zdila zidal
 adiru 4 radiu udari udira uradi
 adkmo 4 dakom domka kodam komad
 admov 4 dvoma vadom vdamo vodam
@@ -1332,7 +1231,6 @@ aefnt 4 fante fenat fenta nafte
 aegjl 4 galej glaje gleja legaj
 aegjn 4 ganje jange najge njega
 aegls 4 gesla glase segal segla
-aeglz 4 gazel glaze zaleg zlega
 aegmr 4 gamer grame marge regam
 aegmt 4 gamet tagem tagme tegam
 aehjk 4 hajke hekaj jekah kajhe
@@ -1347,51 +1245,36 @@ aeirt 4 areti erati ratie tiare
 aejks 4 eksaj kesaj sekaj skaje
 aejkt 4 ajtek jekat kajte tekaj
 aejlp 4 lepaj paelj pelja plaje
+aejlž 4 ježal lajež lažje ležaj
 aejmn 4 mejna menja najem najme
-aejmz 4 jezam zajem zajme zmaje
 aejnt 4 najet tajen tajne tenja
-aejnz 4 janez jezna nejaz zanje
-aejnž 4 janež ježna žanje žejna
 aejpr 4 perja preja repaj repja
 aejpv 4 pavje pejva pevaj vejpa
+aejrz 4 razje rezaj rezja zajer
 aejst 4 jesta satje sejat staje
-aejtž 4 ježat težja žejat žetja
-aeklž 4 kalež ležak ležka žlake
 aeknv 4 kaven kavne kvena navek
 aekpv 4 pavke pekva pevka vpeka
-aekrz 4 kreza rezka zarek zrake
 aekss 4 sakse seksa seska skesa
 aeksš 4 eksaš kesaš saške sekaš
 aektu 4 akute teaku ukate uteka
 aekšt 4 kašte šteka taške tekaš
 aekšv 4 avške kvaše vaške vekaš
 aellp 4 lepal paell plale plela
-aelmz 4 lezam zalem zamel zmela
-aelnz 4 lazen lezna zelna znale
+aelnž 4 lažen lažne ležna nažel
 aelot 4 atole oleat otale otela
-aelpz 4 plaze pleza zapel zlepa
 aelpž 4 lapež palež plaže pleža
-aelrž 4 režal žarel želar žrela
-aelzž 4 zažel zlaže žezla žleza
 aemno 4 maone noema omane omena
 aemnv 4 nevma venam vname vnema
-aemnž 4 manež menaž nežam ženam
 aempt 4 empat pamet petam tempa
+aemrz 4 mraze razem razme rezam
 aemrš 4 marše rašem šarem šarme
 aemrž 4 marže mreža režam ržema
-aemtž 4 mežat težam žamet žmeta
-aemvz 4 vezam vzame zavem zevam
-aemvž 4 mevža mežav vežam žmeva
 aemšt 4 mešat mešta šetam štema
 aenop 4 apnoe apoen peona poena
 aenoz 4 noeza oazen oazne zaeno
 aenps 4 naspe pasen pasne pesna
 aenpv 4 napev penav pevna pneva
-aeprz 4 parez praze preza zapre
 aepšv 4 pašev pevaš pševa šepav
-aersz 4 razse sreza zares zrase
-aertz 4 razte rezat zatre zreta
-aervž 4 režav vraže vreža žreva
 aeršv 4 rašev ravše šaver šavre
 afiks 4 afiks faksi fiksa skifa
 afils 4 flisa sfali sifla silfa
@@ -1406,18 +1289,14 @@ agilv 4 glavi gliva lagvi vlagi
 agilš 4 gališ iglaš ligaš šliga
 agimr 4 grami igram margi rigam
 agims 4 gamsi gasim sigam sigma
-agimz 4 gazim gazmi zmagi zmiga
 aginn 4 angin gnani inang nagni
 agirv 4 griva igrav virga vragi
 agirš 4 igraš rigaš šagri šargi
 aglos 4 glosa gosla oglas sloga
 aglot 4 glota golta lagot oglat
-aglož 4 golaž ožgal žgalo žogal
-agluž 4 glažu užgal žgalu žugal
 agnor 4 angor argon gorna organ
 agnot 4 gonta nagot tango tonga
 agnoz 4 ganzo gazno gnoza zagon
-agnož 4 nažgo ožgan žagno žgano
 agnru 4 angur garnu granu rangu
 agort 4 argot gorat grota rogat
 agrtu 4 gatru gurat truga utrga
@@ -1426,7 +1305,6 @@ ahijr 4 hiraj jarih rajhi rajih
 ahijt 4 hitaj ihtaj jahti jatih
 ahikm 4 kamih kiham mahki makih
 ahimt 4 hamit hitam ihtam matih
-ahimz 4 izmah mazih mizah zimah
 ahins 4 hasni nashi sahni snahi
 ahint 4 ahnit ihtna nihat tahin
 ahinš 4 hišna naših nihaš nišah
@@ -1452,46 +1330,32 @@ ahprš 4 hrpaš prhaš pršah šprah
 ahpšu 4 hupaš puhaš pušah šupah
 aijkt 4 kajti katij kitaj tikaj
 aijkš 4 jaški šajki šikaj škaji
-aijlž 4 lažji žalij žalji žilja
 aijmt 4 majit matij mijta tajim
-aijmz 4 zajmi zijam zmaji zmija
 aijmš 4 jašmi majiš mišja šijam
 aijnp 4 napij panji pijan pinja
 aijnr 4 jarin jarni narij rajni
 aijns 4 jasni najsi sanji sinja
-aijnž 4 nižaj nižja žanji žinja
 aijps 4 pasji psija sipaj sipja
-aijvz 4 izjav zavij zijav zvija
 aikkl 4 kalki kikla klaki klika
 aikkv 4 ikavk kavki kvaki kvika
 aikmm 4 kimam mamik mamki mikam
 aikmp 4 kampi kapmi kipam pikam
-aikmz 4 kazim zamik zikam zmika
 aikno 4 ikona inako okani onika
-aikrž 4 kraži križa rižka žarki
+aiknz 4 kazin kazni kinaz nizka
 aikšš 4 šaški šikaš šišak šiška
-aillz 4 lazil lizal zalil zlila
 ailmš 4 limaš mališ mašil šalim
-ailnz 4 lazin lazni nizal znali
-ailnž 4 lažni nižal žalni žilna
-ailrz 4 razil rizla zaril zrila
+ailpz 4 izpal lipaz pazil plazi
 ailtt 4 latit talit titla tlita
 ailšv 4 šival vališ višal všila
 aimmo 4 imamo mioma moami omami
-aimmz 4 mazmi mizam zimam zmami
 aimno 4 amino maoni omani onima
 aimns 4 masni samin samni sanmi
 aimnu 4 aminu animu imanu imuna
-aimnz 4 mazni mizna nizam zmani
 aimpž 4 pamži pažim pižam pižma
 aimsš 4 misaš samiš samši šmisa
-aimvž 4 mižav važim vižam žmiva
 ainop 4 apnoi ipona piano piona
 ainsv 4 nisva savni sivna sniva
-ainvž 4 nižav važni živan živna
 aiprv 4 pavri pirav pravi varpi
-aiprz 4 izpar prazi priza zapri
-aipsz 4 spazi zapis zasip zaspi
 airtu 4 ratiu urati urita utira
 airšt 4 rašit ritaš šarit tiraš
 ajknu 4 junak kunja nakuj ukanj
@@ -1504,7 +1368,6 @@ ajlmu 4 mlaju mujal mulaj mulja
 ajlnu 4 lajnu ljanu lunja nujal
 ajlor 4 oljar orlja raljo rolaj
 ajlot 4 lajto latjo lotaj taljo
-ajmuz 4 muzaj uzmaj zajmu zmaju
 ajntu 4 junta nujat nujta tunja
 ajopv 4 pavjo pojav pojva vpoja
 ajosv 4 sovja svajo svoja vasjo
@@ -1514,35 +1377,29 @@ akkos 4 kasko koksa koska skoka
 akkov 4 kakov kavko kvako kvoka
 aklno 4 kalno klano klona naklo
 aklos 4 klaso kosal skalo sloka
-akloz 4 kaloz kozla zakol zalok
 akloš 4 kolaš laško lokaš loška
 akmno 4 kanom komna manko namok
 akmnu 4 kamnu kumna kunam manku
-akmož 4 kožam možak možka žokam
 akmpu 4 kampu kumpa kupam pukam
 aknšu 4 šanku škuna šunka unška
 akopv 4 kapov pakov pavko vkopa
 akopz 4 opazk pazko pokaz zakop
-akorz 4 arkoz korza kozar zarok
 akorš 4 košar raško roška šarko
-akorž 4 kožar kražo rožka žarko
+akovz 4 kavzo kozav vozka zakov
 akošv 4 avško košav kvašo vaško
 akptu 4 kaput paktu pukat putka
 akruv 4 kavru kurva kvaru varku
-akruz 4 kruza kurza ruzak zraku
 akstu 4 skatu skuta sukat ustka
 almno 4 lanom lomna lonam nalom
 almnu 4 lumna lunam nulam ulnam
 almop 4 lampo lopam palmo polam
 almov 4 lamov malvo valom vloma
-almoz 4 lazom lozam zalom zloma
 almpu 4 ampul lumpa lupam plamu
 almsu 4 malus maslu musal sluma
 alnop 4 lopna napol plano polna
 alnot 4 lonat talno talon tnalo
 alnoš 4 lonaš našlo šolan šolna
 alopš 4 lopaš pošla šlapo šopal
-alovz 4 lazov vozal vozla zvalo
 alpsu 4 plusa slapu slupa supal
 alptu 4 lupat pluta pulta tulpa
 alsuv 4 alvus suval vlasu vsula
@@ -1550,24 +1407,19 @@ ammor 4 marom moram ramom romam
 amops 4 mopsa pasmo pasom psoma
 amors 4 rasom rosam sarmo soram
 amorš 4 maršo moraš romaš šarom
-amorž 4 maržo mroža rožam žarom
 amošt 4 mošta motaš šamot šotam
 amršu 4 maršu rušam šarmu uršam
 annos 4 anons nanos nosan nosna
 anops 4 pasno sapon snopa spona
-anopz 4 panoz pazno pozna zapon
 anopš 4 pašno ponaš špano špona
-anorz 4 nazor razno zoran zorna
 anost 4 nosat ostna satno sonat
 anprs 4 prsna psarn spran srpan
 anrst 4 stran strna trans trsna
 anstu 4 nasut stanu sutan ustna
 aoprs 4 aspro prosa sopar spora
-aoprz 4 poraz proza zapor zropa
-aortz 4 torza zarot zator zorat
+aorvz 4 razov varoz vozar vzora
 apstu 4 pusta stupa supat upast
 arstv 4 strav stvar vrast vrsta
-artvz 4 trzav vzrat zavrt zvrta
 astuv 4 stavu suvat svatu ustav
 ačden 4 čaden čadne čedna čenda
 ačejk 4 čajek čajke jačke kačje
@@ -1608,10 +1460,10 @@ bderu 4 bedru buder budre uredb
 bdijo 4 bdijo dobij dobji odbij
 bdino 4 bidon bodni bondi dobni
 beekr 4 berek breke keber kebre
-beelz 4 lezbe zbele zebel zeble
 beglo 4 bloge glebo globe obleg
 beijr 4 breji brije erbij ribje
 beint 4 benti biten bitne nebit
+beirz 4 brezi izber rezbi ribez
 beirš 4 bešir briše šiber šibre
 bejno 4 bojen bojne obenj obnje
 bejor 4 berjo brejo broje jerob
@@ -1619,7 +1471,7 @@ beklu 4 bukel bukle keblu klube
 beknu 4 bukne bunke kuben kubne
 belnu 4 blenu luben lubne nebul
 belor 4 borel brelo obrel rolbe
-beloz 4 lezbo zbole zeblo zlobe
+beorz 4 borze brezo obrez rezbo
 beorš 4 beroš borše broše obrše
 bersu 4 bruse burse rebus sebru
 bgino 4 bingo bongi gibno gibon
@@ -1629,10 +1481,9 @@ bijor 4 broji obrij ribjo robij
 biknu 4 bukni bunik bunki kubni
 bikos 4 boksi obisk obski skobi
 bilnu 4 blinu bulin bunil lubni
-bimoz 4 zibom zobim zobmi zombi
 bimru 4 burim rubim rumbi umbri
-binoz 4 bizon izbno zobin zobni
 biors 4 birso briso obris risbo
+biorz 4 borzi izbor obzir riboz
 bjnou 4 bujno bujon bunjo obnju
 bjoru 4 broju burjo jorub robuj
 bklou 4 bloku buklo klobu kobul
@@ -1679,24 +1530,18 @@ ckruu 4 cukru curku krucu kurcu
 cčeip 4 cepič čepci čepic pečic
 deekr 4 dreke krede redek redke
 deelv 4 vdele vedel vedle velde
-deelž 4 delež dežel ždele žlede
 deemn 4 denem endem meden medne
-deerz 4 derez rezed zdere zrede
 deetv 4 devet tedve vdete vedet
 degin 4 dengi dinge gnedi gnide
 degno 4 dengo goden godne negod
 degor 4 droge gredo grode ogrde
 deijo 4 ejido idejo odeji odije
 deikv 4 divke ekvid kediv vedki
-deikž 4 dežki džeki židek židke
 deilm 4 delim dilem medil medli
 deimr 4 dermi dimer redim redmi
-deimz 4 izmed mezdi zidem zmedi
 deins 4 desni sedni snedi snide
 deirs 4 dresi redis sider sredi
 deitv 4 tidve tvide vdeti videt
-deitž 4 dežit džeti ždeti ždite
-deivz 4 deviz videz vzide zvedi
 dejor 4 drejo jedro odrej redjo
 deklo 4 deklo dolek dolke koled
 dekmo 4 dekom domek domke odmek
@@ -1709,7 +1554,6 @@ denšu 4 duneš dušen dušne šunde
 deopr 4 odpre podre porde prode
 deopt 4 depot dopet odpet podte
 deors 4 redos soder sodre sredo
-deorz 4 dozer dozre odrez zdero
 deosv 4 desov odsev sedov svode
 dgilo 4 dolgi gildo godil golid
 dgoru 4 drogu drugo grodu grudo
@@ -1729,7 +1573,6 @@ dinov 4 divno vidno vodin vodni
 dinru 4 durin durni rudni rundi
 diopr 4 odpri podri pordi prodi
 diost 4 dosti dotis odtis sodit
-diovz 4 izvod odziv zidov zvodi
 djmou 4 dojmu domuj dujmo judom
 djoov 4 dojvo dvojo jodov vodjo
 dkmou 4 domku dukom dumko udkom
@@ -1743,16 +1586,13 @@ eefrt 4 frete tefer tefre trefe
 eegnr 4 genre grene nerge regne
 eejkl 4 jekel jekle jelke kleje
 eejlm 4 jelem lejem mejle melje
-eejnž 4 ježen ježne žejen žejne
 eeklr 4 ekler klere rekel rekle
 eeklš 4 kleše leške šekel šekle
 eekmr 4 kreme merek merke remek
 eekpt 4 peket petek petke tepke
 eelmt 4 metel metle mlete temle
-eelnz 4 lezen lezne zelen zelne
-eelnž 4 ležen ležne želen želne
 eelst 4 stele teles tesel tesle
-eelzž 4 zleže želez žezel žleze
+eelvz 4 vezel vezle vleze vzele
 eemno 4 enemo noeme omene oneme
 eemnr 4 meren merne mrene remen
 eemns 4 mesen mesne nesem semen
@@ -1776,7 +1616,6 @@ egmot 4 getom gmote tegom togem
 egmoz 4 gezom mezgo mozeg mozge
 egnor 4 goren gorne nergo ogrne
 egnsu 4 gensu genus gnuse snegu
-egorz 4 grezo groze rozge zgore
 egost 4 gesto goste stego stoge
 ehijl 4 helij hilej jelih lejih
 ehilt 4 hitel hteli ihtel letih
@@ -1794,47 +1633,38 @@ eijmv 4 ivjem mijev vejim vijem
 eijmš 4 mejiš miješ mišje šijem
 eijnt 4 etnij nitje tenij tenji
 eijnv 4 nijev njive vejni vinje
-eijnž 4 ježni nižje žejni ženij
 eijps 4 psije sepij sipje spije
 eijpt 4 petij petji pijte pitje
 eijrv 4 rejvi revij virje vrije
 eijrš 4 riješ šerij šerji širje
 eikkl 4 kikel kikle kleki klike
 eiklm 4 klime limke milke mleki
-eikmž 4 mežik mižek mižke žmeki
 eiknr 4 ikrne kreni rikne rinke
 eiknš 4 niške šenki šikne šinke
 eikrt 4 kreti krite ritke trike
 eikrz 4 izrek krezi krize rezki
 eikrš 4 kreši reški rikše riške
+eikrž 4 križe režki rižek rižke
 eilmp 4 lempi lepim milpe plime
 eilmv 4 levim levmi mlevi velim
-eilmž 4 ležim ližem mežil želim
-eilnz 4 lezni lizen lizne zelni
 eilop 4 olepi opeli opile polie
 eilot 4 elito eolit oteli tiole
-eilpz 4 izpel pezil plezi zlepi
 eilrv 4 liver livre veril vreli
 eilsš 4 seliš sešil sešli sleši
 eiltu 4 etilu leuti uleti ulite
-eiltz 4 izlet iztle zleti zlite
-eilzž 4 izžel zliže žezli žlezi
 eilšv 4 leviš šlevi veliš všile
-eilšz 4 izšel izšle zišel zišle
 eimns 4 mesni nisem sinem snemi
 eimnv 4 nevmi venim vimen vnemi
 eimps 4 pesmi pisem pisme spemi
+eimrž 4 mreži režim režmi rižem
 eimsš 4 mesiš semiš smeši šmise
-eimtz 4 izmet mezit zmeti zmite
-eimvz 4 izvem vezmi vzemi zevmi
 einrv 4 nervi revni verni vrine
 einrš 4 rešni rineš širen širne
-einvž 4 neživ vežni živen živne
 eiprs 4 espri ripse speri srepi
 eiprš 4 periš preši repiš šerpi
 eipsv 4 spevi vespi vpise vsipe
+eirvz 4 izvre verzi vezir vrezi
 eistt 4 steti teist testi tiste
-eitvz 4 tvezi vitez vzeti zvite
 ejkno 4 enojk kojne konje njoke
 ejlmu 4 mejlu melju mulje uljem
 ejlno 4 lojen lojne oljen oljne
@@ -1845,7 +1675,6 @@ ejnru 4 rujen rujne runje urjen
 ejntu 4 junet junte nujte tunje
 ejort 4 terjo torej trejo troje
 ejorv 4 jerov rjove rojev vrejo
-ejorz 4 rezjo zorje zrejo zroje
 ejosv 4 sevjo sojev sovje svoje
 ejstu 4 sujte sutje ujest ustje
 ekkmu 4 kukem kukme kumek kumke
@@ -1853,7 +1682,6 @@ ekkos 4 kokse kosek koske skoke
 ekkot 4 koket kokte kotek kotke
 eklmo 4 lekom mleko molek molke
 eklsu 4 lesku lukse luske seklu
-ekluz 4 ezulk kuzel kuzle zleku
 ekmno 4 komen komne nekom nemko
 ekmnr 4 krmen krmne krnem mrkne
 ekmnu 4 kumen kumne menku mukne
@@ -1866,7 +1694,6 @@ ekops 4 epsko posek skope speko
 ekopš 4 peško škope šopek šopke
 ekorv 4 kerov krove rekov rovke
 ekosu 4 okuse oseku ukose useko
-ekovz 4 vozek vozke zevko zvoke
 ekrsv 4 krevs revsk skver vresk
 elmno 4 lomen lomne melon mleno
 elmou 4 omelu ulemo ulome umelo
@@ -1877,13 +1704,11 @@ elopš 4 lepšo plešo pošel pošle
 elort 4 loret otrle rolet trole
 elosu 4 osule soule uselo usole
 elosv 4 lesov selvo slove veslo
+elovz 4 vezlo vozel vozle vzelo
 elpsu 4 plesu pluse slupe uspel
 elrtu 4 rulet telur trule utrle
-elruz 4 lezur luzer uzrle zurle
 emmor 4 merom morem mremo remom
-emmož 4 možem možme ožmem žmemo
 emnož 4 množe možen možne nožem
-emorž 4 mrežo mrože ožrem žremo
 emott 4 motet motte temot totem
 emrst 4 mrest srtem strem strme
 emrtu 4 metru trume umret utrem
@@ -1892,16 +1717,17 @@ enops 4 pesno snope sopne spone
 enopv 4 pevno ponev ponve vpone
 enors 4 resno rosen rosne senor
 enorv 4 revno roven rovne verno
+enorž 4 režno rožen rožne rženo
 enotv 4 etnov netov tenov vneto
 eoprv 4 perov povre prove repov
+eoprz 4 oprez pozer pozre proze
 eoprš 4 opreš porše prešo šerpo
 eoptu 4 otepu poetu upote utope
 eorrt 4 retor retro teror torre
 eortt 4 otret tetro torte trote
-eotvz 4 otvez tvezo vzeto zetov
+eortz 4 ozret rozet torze treoz
 erstt 4 stret strte trest trste
 erstu 4 estru setru terus tresu
-ertvž 4 vrtež vžret žrtev žrtve
 fiils 4 flisi sifil sifli silfi
 fiklo 4 fliko floki folki likof
 filos 4 flosi fosil siflo silfo
@@ -1913,7 +1739,7 @@ gilot 4 gloti golit golti tolig
 gilov 4 glivo vlogi vogli volgi
 gimor 4 gorim gromi rigom rogmi
 gimos 4 gisom gosmi sigmo smogi
-gimož 4 gožim gožmi žgimo žigom
+giorz 4 grizo grozi ogriz rozgi
 girtu 4 gritu tigru trugi utrgi
 glmou 4 glumo golmu lugom mogul
 gmnoo 4 gnomo gonom mnogo mongo
@@ -1934,15 +1760,12 @@ iikrt 4 ikrit kriti ritki triki
 iiktv 4 tikvi tkivi vitki vtiki
 iikšt 4 kišti kitiš šiitk tiški
 iilmn 4 milin milni minil mlini
-iilmz 4 izmil zimil zlimi zmili
 iilov 4 ilovi olivi ovili violi
 iilpš 4 lišpi piliš pliši špili
-iilvz 4 izliv izvil zlivi zvili
 iimst 4 istim istmi misit sitim
 iinps 4 pisni psini sipin spini
 iinpt 4 pinit pinti pitni tipni
 iiprt 4 pirit priti ripit tripi
-iitvz 4 izvit vizit vziti zviti
 ijlmo 4 lijmo miljo molji oljim
 ijmop 4 pijmo pojim pojmi pomij
 ijmor 4 morij morji rijmo rojim
@@ -1970,26 +1793,19 @@ ikršu 4 kruši kuriš ruški škuri
 illpu 4 lupil pilul pluli pulil
 ilmmo 4 limom lomim milom molim
 ilmou 4 omuli ulimo ulomi umilo
-ilmoz 4 molzi zlomi zmilo zmoli
 ilmpu 4 lumpi lupim pilum pulim
-ilmuž 4 lužim mužil žmuli žulim
 ilnov 4 livno lovin lovni volni
-ilnož 4 ložin ložni žilno žolni
 iloop 4 opilo opoli polio pooli
 iloov 4 ilovo olivo ovilo violo
 ilopš 4 lopiš pošil pošli špilo
-ilorz 4 ozrli rizlo zoril zrilo
-ilotž 4 ložit tožil žloti žolti
 ilpsu 4 plusi slipu slupi spuli
 ilttu 4 lutit titlu titul tulit
 imošt 4 mošti motiš šitom štimo
 imsšu 4 sumiš sušim sušmi šmisu
 inopv 4 pinov pivno ponvi vponi
-inorz 4 ozrni rozin znori zorni
 inosv 4 sinov sivno snovi vnosi
 ioprv 4 pirov poriv povri provi
 ioprž 4 požir požri prižo proži
-iortz 4 torzi trioz zorit zrito
 iorvz 4 izvor ovrzi viroz vzori
 iprsu 4 prusi ripsu sirup supri
 irstu 4 ritus rusit tirsu trisu
@@ -2031,7 +1847,6 @@ ortuv 4 rovtu rutov turov tvoru
 čeikš 4 češki čiške šiček šičke
 čeims 4 mesič sečim sečmi sičem
 čeinv 4 inčev ničev večin večni
-čeinž 4 čežin činže žičen žične
 čeirt 4 čreti ričet ričte rtiče
 čeišv 4 večiš vešči vičeš všeči
 čekmu 4 kučem kučme kumče mečku
@@ -2069,7 +1884,6 @@ aabkl 3 bakla kabal kabla
 aabks 3 baska kabas sabka
 aablr 3 balar baral brala
 aabnr 3 barna brana rabna
-aabrž 3 baraž barža žabar
 aabst 3 basat basta sabat
 aachm 3 hacam macah macha
 aacht 3 chata hacat tacah
@@ -2096,11 +1910,9 @@ aagjn 3 ganja janga najga
 aagjr 3 garaj graja jagra
 aaglm 3 algam galam malag
 aaglr 3 garal grala larga
-aaglž 3 glaža žagal žgala
 aagmr 3 garam grama marga
 aagmt 3 gatam tagam tagma
 aagnr 3 garna grana ranga
-aagnž 3 žagan žagna žgana
 aagpr 3 apgar grapa praga
 aagrs 3 agras grasa sraga
 aagrš 3 garaš šagra šarga
@@ -2116,7 +1928,6 @@ aahmš 3 hamaš mahaš mašah
 aahnp 3 napah napha phana
 aahps 3 pasha sapah spaha
 aahpt 3 pahat patah phata
-aahpz 3 pazha zapah zapha
 aahpš 3 pahaš pašah šapah
 aahtu 3 ahatu tauha uhata
 aaikt 3 akati ataki atika
@@ -2143,30 +1954,25 @@ aaklš 3 kalaš laška šakal
 aakmp 3 ampak kampa kapam
 aakms 3 kasam maska samka
 aakns 3 anska kasna sanka
+aaknz 3 kazan kazna nakaz
 aakpt 3 kapat pakta tapka
 aakpš 3 kapaš paška šapka
 aakrš 3 karaš raška šarka
-aakrž 3 kraža žakar žarka
-aaksz 3 kasaz skaza zaska
 aaktt 3 takat takta tatka
 aaktu 3 akuta ataku ukata
 aakšt 3 kašta takaš taška
 aalmm 3 lamam malam malma
 aalmv 3 avlam lavam malva
-aalmz 3 mazal zlama zmala
 aalmš 3 lamaš malaš šalam
-aalmž 3 žalam žalma žamal
 aalns 3 lasna salna slana
 aalnt 3 altan talna tnala
-aalnz 3 lazna nazal znala
 aalpr 3 paral prala rapal
 aalsv 3 salva slava vlasa
-aalvz 3 vazal zaval zvala
+aamnz 3 mazan mazna namaz
 aamps 3 pasma sapam spama
-aamrž 3 marža ražam žaram
+aamrz 3 mraza razam razma
 aanpr 3 apnar parna prana
 aansv 3 avans savan savna
-aanvz 3 vazna znava zvana
 aaprv 3 pavra prava varpa
 aarst 3 astra stara trasa
 aaršv 3 ravša šavra varaš
@@ -2180,33 +1986,26 @@ abbek 3 babke bebka kebab
 abcek 3 bacek backe becka
 abcel 3 becal belca cebal
 abcem 3 bacem becam cebam
-abcež 3 bežca žabce žabec
 abchi 3 bacih bicah cibah
 abcin 3 bacni banic binca
 abciv 3 avbic cviba vabci
-abciž 3 žabci žabic žbica
 abctu 3 batcu bucat butca
 abdel 3 bdela bleda debla
 abden 3 bande bedna benda
 abdjo 3 bojda dobja obdaj
-abegz 3 bezga gabez zbega
 abehl 3 habel hebal hleba
 abejk 3 bajke bekaj kajbe
 abejl 3 bajle bleja jebal
 abejn 3 bajen bajne banje
 abejr 3 bajer barje breja
 abejt 3 bajte jebat tajbe
-abejz 3 bezaj jazbe zjeba
 abelo 3 ebola obale obela
 abelr 3 barel brale brela
-abelž 3 bežal blaže žleba
 abemo 3 amebo boema obema
-abemz 3 bezam zambe zebam
 abenz 3 bazen bazne bezan
 abeot 3 abote obeta taebo
 abgil 3 blagi gabil gibal
 abgio 3 iboga ogabi ogiba
-abgiz 3 zagib zgabi zgiba
 abgjo 3 bogaj gajbo gobja
 abgno 3 bonga gabno goban
 abhis 3 basih sabih sahib
@@ -2218,33 +2017,27 @@ abijn 3 bajni banji nabij
 abijv 3 bijva bivaj vbija
 abiks 3 baski biksa sabki
 abikt 3 batik batki bitka
-abikz 3 bzika kazbi zibka
 abikš 3 baški šibak šibka
 abilž 3 baliž blaži bliža
-abinz 3 bazni izbna ziban
+abimz 3 bizam izbam zabim
 abior 3 obari obira oriba
 abirš 3 rabiš ribaš šibra
 abišt 3 bašti šibat štabi
-abišz 3 zabiš zbaši zibaš
 abjku 3 bajku bujka bukaj
 abjlo 3 bajlo lobaj oblaj
-abjož 3 božaj božja žabjo
 abjtu 3 bajtu bujta butaj
 abkmo 3 bokam bomka kambo
 abknu 3 banku bunka kubna
-abkoz 3 kazbo zboka zobka
 abktu 3 batku bukat takub
 abkšu 3 bukaš bušak buška
 ablos 3 bolas bosal slabo
 ablov 3 balov bovla vbola
 abloš 3 lobaš oblaš obšla
 abmno 3 ambon banom bonam
-abmoz 3 bozam zambo zobam
 abmru 3 rambu rumba umbra
 abmtu 3 butam tubam tumba
 aborv 3 barov barvo bravo
 aborš 3 borša broša obrša
-abruz 3 burza buzar zarbu
 abčik 3 bački bička čibka
 abčkr 3 bračk brčka brkač
 abčno 3 bočna občan občna
@@ -2271,7 +2064,6 @@ achin 3 cinah incha nachi
 acikn 3 cinka kanci nacik
 acilt 3 latic licat talci
 acilv 3 cvila lavic vical
-acilž 3 žalci žical žlica
 acimp 3 campi cipam picam
 acimt 3 acmit matic ticam
 acimz 3 cimaz cizam cmazi
@@ -2302,37 +2094,32 @@ adelm 3 delam medla mlade
 adelr 3 larde ledar rdela
 adelu 3 duale duela udela
 ademv 3 devam dvema vedam
+ademz 3 mazde mezda zadem
 ademž 3 dežam džema madež
 adenp 3 paden padne pande
-adenž 3 dežna žaden žadne
 aderv 3 drave dreva vedra
+aderz 3 dreza razde zadre
 aderž 3 draže radže ržade
 adest 3 daste desta sedat
 adetu 3 adute dueta etuda
 adetv 3 devat vdate vdeta
-adetz 3 dzeta zadet zdeta
 adgir 3 dragi gardi gradi
 adgjo 3 gadjo gajdo jagod
-adgoz 3 gazdo gozda zgoda
 adgru 3 druga gradu gruda
-adgrz 3 zadrg zgrad zgrda
 adhim 3 diham dimah hamid
 adhiv 3 divah vadih vdiha
-adhiž 3 hadži žadih židah
 adhlu 3 duhal dulah hladu
 adhmr 3 dharm drmah mrdah
 adiil 3 diali idila liadi
 adiim 3 amidi idami imida
 adijo 3 adijo aojdi odija
+adijz 3 izdaj jazid zajdi
 adikv 3 davki divka kadiv
-adikz 3 zadki zidak zidka
 adikš 3 daški kadiš kidaš
 adilp 3 alpid dipla padli
 adils 3 sadil saldi sladi
 adilu 3 aliud dialu duali
 adimo 3 dioma idoma odami
-adimz 3 izdam mazdi zidam
-adinž 3 džina žadni židan
 adior 3 odira oradi radio
 adipr 3 drapi pardi prida
 adips 3 apsid spadi spida
@@ -2340,7 +2127,7 @@ adirs 3 sadri sardi sidra
 adirš 3 dariš diraš ridaš
 adirž 3 draži radži ržadi
 adisu 3 aidsu diasu usadi
-aditz 3 izdat zdita zidat
+adivz 3 dviza vzadi vzida
 adišv 3 daviš dišav vadiš
 adjko 3 dojka dokaj kadjo
 adjlo 3 daljo jodla ladjo
@@ -2354,26 +2141,20 @@ adlos 3 oslad saldo solda
 adlou 3 alodu doula duola
 adlov 3 odval vdalo vlado
 adlpu 3 dupla palud pudla
-adlrz 3 drzal zadrl zdrla
 admop 3 padom podam pomad
 admos 3 sadom smoda sodam
-admoz 3 dozam mazdo zdoma
 admru 3 duram mudra rudam
-admrz 3 drzam zdrma zmrda
 adnos 3 sadno sodna sonda
 adopr 3 drapo parod proda
 adort 3 odrat odrta troda
-adorz 3 odraz odrza zarod
 adorš 3 odraš rošad šodra
 adosv 3 sadov sodav svoda
 adrtu 3 dratu truda udrta
-adrtz 3 drzat zadrt zdrta
 aefht 3 fehta fetah hefta
 aefil 3 alefi fiale filea
 aefjl 3 fajle fjela lajfe
 aefkr 3 frake kafer kafre
 aeflr 3 feral flare larfe
-aefnz 3 fazen fazne zenfa
 aefor 3 afero efora oefar
 aefrs 3 farse seraf sfera
 aeghn 3 genah henga negah
@@ -2381,9 +2162,9 @@ aeghr 3 grahe greha regah
 aegjt 3 gajet tajge tegaj
 aegll 3 galle legal legla
 aegmm 3 gemam magem magme
-aegmz 3 gazem mezga zmage
 aegnt 3 agent nateg tange
 aegnv 3 gneva gvane vegan
+aegnz 3 ganze gazen gazne
 aegpr 3 grape pager prage
 aegrs 3 gaser grase srage
 aegrv 3 grave greva vrage
@@ -2405,7 +2186,6 @@ aehnt 3 nateh nehat tehna
 aehor 3 horea ohrea oreha
 aehpš 3 hepaš pehaš špeha
 aehtt 3 tehta tetah theta
-aehtz 3 tezah zehat zetah
 aeijm 3 amije ijema imaje
 aeikn 3 enaki inake naike
 aeikt 3 atike etika teaki
@@ -2420,20 +2200,23 @@ aejmo 3 ojema omaje omeja
 aejms 3 sejam sejma smeja
 aejmt 3 jemat metja tejam
 aejmu 3 emuja ujame ujema
+aejmz 3 jezam zajem zajme
 aejnp 3 apnej panje penja
+aejnz 3 janez jezna nejaz
 aejpt 3 pejta petaj petja
 aejrv 3 rajev rejva rjave
 aejrš 3 jeraš rajše šerja
-aejrž 3 rajže režaj žarje
 aejtu 3 ateju ujeta utaje
-aejzz 3 jazze zajez zezaj
+aejvz 3 jezav vezaj vezja
 aekkl 3 kalke klake kleka
 aekkv 3 ekavk kavke kvake
+aeklž 3 kalež ležak ležka
 aekmš 3 meška šekam šmeka
 aeknu 3 nauke neuka ukane
-aeknž 3 nežka žekna ženka
-aektž 3 težak težka žaket
+aeknz 3 kazen kazne kneza
+aeksz 3 askez skaze skeza
 aelmr 3 larme marel ralem
+aelmž 3 lažem ležam mežal
 aelnr 3 erlan ralen ralne
 aelnu 3 anule elanu ulane
 aelov 3 ovale ovela voale
@@ -2441,32 +2224,35 @@ aelpu 3 apelu upale upela
 aelrt 3 alter artel relat
 aelru 3 alure earlu realu
 aelsu 3 esaul luesa usela
-aelsz 3 sezal sleza zasel
 aeltu 3 eluat leuta taelu
-aelvž 3 vlaže želva žvale
+aelvz 3 vezal vezla vzela
 aemmt 3 metam temam tmema
 aemnp 3 mapen mapne penam
+aemnz 3 mazen mazne menza
+aemnž 3 manež menaž nežam
 aemos 3 esoma osame osema
 aemot 3 atome ometa otema
 aemož 3 omaže ožame ožema
 aempš 3 pašem pešam šepam
-aemzž 3 zažem zažme zmaže
-aenpz 3 pazen pazne zapne
+aemvž 3 mevža mežav vežam
+aenrž 3 nažre režna ržena
 aensv 3 savne sneva vesna
+aentz 3 entaz natez tezna
 aenvž 3 važen važne vežna
 aeort 3 aorte erota otare
 aeotv 3 atove otave oteva
-aeprž 3 praže preža žepar
+aeprz 3 parez praze preza
 aepss 3 aseps sepsa spase
 aeptt 3 petat tapet tepta
 aeptu 3 upate upeta utepa
 aeptv 3 pevat vpeta vtepa
 aepšš 3 pašeš pešaš šepaš
 aertu 3 aretu urate utare
-aertž 3 režat žaret žreta
 aervv 3 varve verva vreva
+aervž 3 režav vraže vreža
 aeršt 3 rešta štera tareš
 aesst 3 esast sesat stase
+aetvz 3 tveza vezat vzeta
 afgir 3 figar grafi grifa
 afhil 3 filah halfi lifah
 afijl 3 fajli filaj lajfi
@@ -2498,21 +2284,17 @@ agimn 3 mangi nagim namig
 agimt 3 gatim migat tagmi
 agint 3 ganit gnati tangi
 aginv 3 gvani vagin vigna
-aginz 3 ganzi gazni zgani
 agipr 3 grapi gripa pragi
 agiru 3 garui guira uigra
-agirz 3 giraz griza zriga
 agjlo 3 glajo golja oglja
 agjnu 3 gnuja gunja jangu
 agkrš 3 grkaš grška škrga
 aglnu 3 galun lagun ugnal
-agloz 3 zagol zalog zloga
 agloš 3 galoš golša šloga
 aglru 3 gralu gural largu
 agmmo 3 gamom magmo magom
 agmnu 3 gumna mangu munga
 agmos 3 gasom sagom smoga
-agmoz 3 gazom mozga zmago
 agnno 3 angon gnano nagon
 agnov 3 govna gvano vagon
 agntu 3 nugat tangu ugnat
@@ -2521,13 +2303,10 @@ agotv 3 gatov gavot tagov
 ahikn 3 inkah kanih nikah
 ahikp 3 kapih pakih pikah
 ahilm 3 halmi malhi malih
-ahilz 3 lazih lizah zalih
 ahims 3 ahims samih simah
-ahipz 3 izpah pazhi zapih
+ahimz 3 izmah mazih mizah
 ahipš 3 paših pihaš šipah
-ahirz 3 razih zarih zihra
 ahitt 3 hitat ihtat tatih
-ahivz 3 vizah zavih zviha
 ahjku 3 hukaj jukah kuhaj
 ahjnu 3 njuha nujah ujnah
 ahjru 3 juhar rajhu rjuha
@@ -2561,24 +2340,22 @@ aijnu 3 jianu juani unija
 aijpr 3 parij piraj prija
 aijpv 3 pavji pijva vpija
 aijrš 3 jariš rajši širja
-aijrž 3 rajži žarij žarji
 aijtv 3 javit vijta vitja
-aijšz 3 zašij zijaš zjaši
 aikks 3 kaski kiksa skika
 aiklo 3 koali okali olika
 aiklu 3 laiku ukali ulika
-aiklž 3 kaliž kilaž žlaki
 aikmv 3 kimav mivka vikam
 aiknu 3 nauki ukani unika
+aikrž 3 kraži križa rižka
 aikss 3 aksis saksi skisa
-aiksz 3 skazi zakis zaski
-aiktz 3 kazit zatik zatki
 aillp 3 lapil palil plali
 ailmm 3 limam malim mamil
 ailmu 3 amilu mailu umila
 ailmv 3 malvi valim vilam
+ailmz 3 lazim lizam mazil
 ailno 3 aloin aloni liano
 ailnr 3 naril ralni ranil
+ailnz 3 lazin lazni nizal
 ailop 3 opali opila polia
 ailor 3 aliro orali orila
 ailpv 3 plavi vpali vpila
@@ -2588,9 +2365,11 @@ ailuv 3 uliva uvali uvila
 aimmn 3 mamin minam nimam
 aimms 3 misam samim simam
 aimmš 3 mamiš mašim mišma
+aimnz 3 mazni mizna nizam
 aimot 3 atomi omita otima
 aimrs 3 risam sarmi srami
-aimvz 3 maziv vizam zmiva
+aimrž 3 marži miraž rižam
+aimvž 3 mižav važim vižam
 aimšt 3 mašit štima tišam
 aimšv 3 šivam vašim višam
 ainnp 3 apnin napni panin
@@ -2598,43 +2377,36 @@ ainnt 3 ninat nitna tanin
 ainpr 3 parni pirna prani
 ainru 3 ruina urani urina
 ainrš 3 aršin raniš širna
-aintz 3 nizat zatni znati
+ainvz 3 naziv vazni vinaz
 ainšt 3 našit šnita taniš
 ainšv 3 našiv šivan šivna
 aiops 3 opasi opisa osipa
 aiorv 3 oriva ovira varoi
-aiorz 3 ozari ozira zaori
 aiotv 3 atovi otavi ovita
 aipru 3 piaru upari upira
+aiprz 3 izpar prazi priza
 aipss 3 aspis spasi spisa
 aipsš 3 sapiš sipaš špasi
 aiptu 3 patiu upati utipa
 airss 3 rissa saris sarsi
 airvv 3 variv varvi vriva
-airvž 3 vižar vraži žriva
 airšš 3 rašiš šariš širša
 aistt 3 stati tasti tista
-aitvz 3 zavit zvati zvita
 aištv 3 šivat višat všita
 ajklr 3 kralj krlja rklja
 ajkmu 3 jukam kujam mukaj
-ajkoz 3 kozja zajko zjoka
 ajksu 3 skaju skuja sukaj
 ajkuv 3 javku kujav kujva
 ajlov 3 jalov lojav volja
-ajloz 3 zajlo zjalo zolja
-ajluž 3 žalju žaluj žulja
 ajmop 3 jopam pojam pojma
 ajmot 3 jatom jotam motaj
 ajmsu 3 musaj samuj ujsam
 ajmtu 3 jutam mujat tujam
+ajmuz 3 muzaj uzmaj zajmu
 ajmšu 3 mašuj mujaš mušja
 ajnnu 3 nanju njuna nujna
-ajnoz 3 zanjo znajo znoja
 ajorv 3 javor rjavo varoj
-ajorž 3 rajžo rožja žarjo
 ajost 3 josta stajo stoja
-ajovz 3 jazov zavoj zvoja
 ajrst 3 rjast strja trsja
 ajruv 3 rujva ruvaj varuj
 ajsuv 3 sujva suvaj vasuj
@@ -2643,57 +2415,63 @@ akkot 3 kokat kokta kotka
 akllu 3 lukal lulka uklal
 aklmr 3 mrkal mrkla mrlak
 akloo 3 koalo okalo okola
-aklož 3 kloža kolaž žokal
+akloz 3 kaloz kozla zakol
 aklps 3 skalp spalk splak
 aklst 3 klast sklat stkal
 akluv 3 klavu valuk vlaku
 aklšu 3 lukaš luška šluka
 akmou 3 amoku ukamo ukoma
+akmož 3 kožam možak možka
+aknoz 3 kazno oznak zakon
 aknru 3 kunar rakun runka
 aknsu 3 sukan sukna sunka
 akops 3 skopa spako spoka
+akorz 3 arkoz korza kozar
+akorž 3 kožar kražo rožka
 akosš 3 kosaš saško soška
-akotz 3 zakot zatko zatok
 akprš 3 krpaš škarp škrap
 akpšu 3 pukaš pukša puška
+akruz 3 kruza kurza ruzak
 akršu 3 rukaš ruška škura
 akstv 3 kvast skavt stavk
 aksuv 3 kavsu kvasu svaku
-aksuz 3 kazus zasku zasuk
 aksšu 3 skuša sukaš suška
 akttu 3 taktu tatku tutka
 allop 3 lopal oplal plalo
 almoš 3 olšam šalom šolam
-almož 3 ložam molža žalom
 almtu 3 lutam mlatu mulat
+alnož 3 alonž lažno ložna
 alnsu 3 nasul salun snula
 alntu 3 lunta nulta tnalu
 aloop 3 opalo opola poola
 alopu 3 olupa opalu upalo
 alopv 3 pavol plavo vpalo
-alorz 3 ozrla zoral zrola
 alorš 3 rolaš šolar šorla
 alovv 3 valov valvo volva
+alovz 3 lazov vozal vozla
 alpuz 3 plazu pulza puzla
 alpšu 3 lupaš šalup špula
 alrtu 3 trula ultra utrla
-alruz 3 lazur uzrla zurla
 alštu 3 laštu lutaš štula
 ammno 3 mamon manom monam
 ammsu 3 musam samum sumam
 amnov 3 manov navom novam
+amnoz 3 manoz mazno oznam
 amnsu 3 samun sumna sunam
 amopp 3 pampo pompa popam
+amorz 3 omrza razmo razom
+amorž 3 maržo mroža rožam
 amott 3 motat motta tatom
 amprt 3 prtam tramp trpam
 ampru 3 pramu puram rupam
-ampuž 3 pamžu pužam župam
 amrsu 3 rusam sramu suram
 amrtv 3 mrtva travm vrtam
 amruv 3 murav murva ruvam
 amtuz 3 mazut muzat uzmat
 anopv 3 panov ponva vpona
-anotž 3 tonaž tožna žonta
+anopz 3 panoz pazno pozna
+anorž 3 nožar oranž rožna
+anovz 3 navoz vazno vozna
 anptu 3 pantu punta tupan
 anrtt 3 natrt trnat trtna
 anrtž 3 nažrt tržan tržna
@@ -2721,7 +2499,6 @@ ačejn 3 čajen čajne ječna
 ačejr 3 ječar račje rečja
 ačelt 3 čelat taleč tleča
 ačelv 3 valeč večal vlače
-ačelz 3 lazeč začel zaleč
 ačemm 3 mačem mameč mečam
 ačems 3 samče sečam sečma
 ačemt 3 četam mačet metač
@@ -2729,7 +2506,6 @@ ačemv 3 mačev mečav večam
 ačenv 3 načev večna venča
 ačept 3 pečat petač tepač
 ačert 3 čreta tarče trače
-ačevz 3 vezač zvače zveča
 ačešv 3 ščave večaš vešča
 ačfik 3 fakič fička kafič
 ačfku 3 fačuk fučka fukač
@@ -2743,7 +2519,6 @@ ačimn 3 inčam mična nimča
 ačimž 3 čimža čižma čmaži
 ačinn 3 način načni nična
 ačinr 3 čarni račin ranči
-ačinz 3 začni zanič znači
 ačirv 3 čirav rvači vrači
 ačirš 3 račiš rašči ščira
 ačitt 3 čitat tatič tičat
@@ -2775,14 +2550,11 @@ bbeor 3 bober bobre borbe
 bcegi 3 begic gibce gibec
 bceit 3 betci betic cibet
 bceiv 3 bicev cvebi cvibe
-bceiž 3 bežci žbice žebic
 bcelu 3 belcu bulce bulec
 bcetu 3 betcu butce butec
 bcgio 3 bogci gobci gobic
 bcgiu 3 gibcu gubci gubic
-bciož 3 božci božic žbico
 bcirv 3 brvci brvic vrbic
-bcirz 3 brzci brzic zbirc
 bdeen 3 beden bedne bende
 bdeit 3 bdeti bdite debit
 bdelu 3 deblu dubel duble
@@ -2809,7 +2581,6 @@ beiln 3 belin bleni bline
 beilo 3 eboli obeli obile
 beilš 3 beliš belši šibel
 beimr 3 bermi birem birme
-beinz 3 izben izbne znebi
 beiot 3 biote obeti obite
 beirv 3 beriv brevi vebri
 beitv 3 betvi bitev bitve
@@ -2825,16 +2596,12 @@ beloš 3 belšo obšel obšle
 belru 3 buler burle rebul
 belšu 3 beluš bušel bušle
 bemru 3 rumbe umber umbre
-benrz 3 brzen brzne zbrne
 beorr 3 rebro rober robre
 beotv 3 betov betvo obvet
 beotž 3 obtež obžet tožbe
 berst 3 brest brste srbet
-beruž 3 burež rubež žrebu
-bgiuz 3 izgub zgibu zgubi
 bgloo 3 globo golob oblog
 biijt 3 bitij bitji tibij
-biikz 3 bziki zibik zibki
 biilm 3 bilim bilmi limbi
 biilr 3 brili libri ribil
 biinr 3 birni brini ribni
@@ -2842,20 +2609,17 @@ biirs 3 birsi brisi risbi
 biirš 3 briši ribiš šibri
 bijlo 3 biljo obilj oblij
 bikor 3 borki kobri robki
-bikoz 3 izbok zibko zobki
 bikru 3 briku burki kurbi
 bilno 3 bolni lobni oblin
 bilru 3 buril burli rubil
 biltu 3 bulit butil tulbi
 bilšu 3 buliš bušil bušli
 binot 3 biont bitno bonit
-binrz 3 brzin brzni zbrni
 bioot 3 bioto booti obito
 biost 3 bisto bosti obist
 biotv 3 bitov bitvo obvit
 biošt 3 botiš obšit šobit
 birsu 3 brisu brusi bursi
-biruz 3 burzi zbiru zburi
 biršu 3 buriš burši rubiš
 bkoor 3 borko kobro obrok
 bkoru 3 burko kurbo robku
@@ -2863,11 +2627,9 @@ bkouv 3 bukov bukvo kubov
 blmoo 3 bolom lobom oblom
 bmoor 3 borom obrom robom
 bnoru 3 bronu bruno burno
-bnorz 3 bronz brzno zobrn
 boorv 3 borov obrov robov
 boorš 3 boršo brošo obršo
 boost 3 bosot obost sobot
-boruz 3 burzo zboru zobru
 bčeer 3 breče čeber čebre
 bčeev 3 bečev bečve bevče
 bčeil 3 belič bleči lebič
@@ -2901,12 +2663,10 @@ ceiju 3 eciju ecuji juice
 ceikv 3 cevki cveki cvike
 ceilm 3 celim licem micel
 ceiln 3 celin cenil lenci
-ceimz 3 cezim cmize zicem
 ceinv 3 cevni venci vince
 ceiop 3 copie opeci opice
 ceirs 3 resic serci sicer
 ceiru 3 curie ureci urice
-ceivž 3 vežic živce živec
 cejnu 3 cunje junce junec
 ceklr 3 crkel crkle kerlc
 ceklu 3 celku lukce lukec
@@ -2943,7 +2703,6 @@ ciknr 3 crkni krcni krnic
 ciknu 3 cinku cukni kunci
 cikos 3 kosci kosic skico
 cilov 3 cliov lovci lovic
-cilož 3 žlico žolci žolic
 cilsu 3 liscu sulci sulic
 cinor 3 norci noric ornic
 ciopš 3 ošpic pšico špico
@@ -2974,21 +2733,16 @@ dehin 3 dehni denih dihne
 dehir 3 hider hidre redih
 dehno 3 hoden hodne honde
 deijm 3 dijem jedmi medij
-deijz 3 izjed jezdi zjedi
 deikn 3 dnike edink knide
 deilo 3 diole idole odeli
 deilp 3 dipel diple pledi
-deilz 3 dizel dizle zdeli
-deilž 3 dežil ždeli žledi
 deimv 3 midve videm vidme
 deinn 3 dneni dnine ednin
 deint 3 dnite tedni tendi
-deinz 3 zdeni ziden zidne
 deiov 3 odevi ovedi video
 deipr 3 pedri predi pride
-deirz 3 izdre zderi zredi
-deitz 3 dzeti zdeti zdite
 deiuv 3 uvedi uvide videu
+deivz 3 deviz videz vzide
 dejjo 3 dojej jedjo odjej
 dejko 3 dojke jedko odjek
 dejlo 3 dojel jedlo odjel
@@ -2996,10 +2750,10 @@ dejop 3 pedjo podje pojde
 dejuž 3 dežju dežuj judež
 dekls 3 dlesk skled sledk
 dekos 3 desko dokse odsek
-dekrz 3 drzek drzke zdrke
 deksu 3 dukse eskud skude
 delos 3 sedlo sodel solde
 delou 3 doule duole odelu
+delož 3 dolže dožel odžel
 delru 3 luder ludre udrle
 demnu 3 dunem muden mudne
 demot 3 domet metod odmet
@@ -3007,16 +2761,14 @@ denož 3 dežno dožen dožne
 denrt 3 trden trdne trend
 deoor 3 odero odore rodeo
 deoru 3 rodeu udero udore
+deorz 3 dozer dozre odrez
 deorš 3 odreš šoder šodre
-deotz 3 dzeto tozde zdeto
 depru 3 pedru puder pudre
 derst 3 drset drste strde
 dertv 3 drvet vdret vdrte
 dgino 3 dingo gnido godni
 dgior 3 drogi grodi ogrdi
-dgioz 3 gizdo gozdi zgodi
 dgnoo 3 dogon godno odgon
-dhiiz 3 izdih zdihi zidih
 dhilo 3 dolih hlodi hodil
 dhilu 3 dulih hlidu hudil
 dhino 3 donih hodni hondi
@@ -3034,7 +2786,6 @@ dikos 3 disko doksi oksid
 diksu 3 disku duksi skudi
 dilor 3 lordi odrli rodil
 diloš 3 došil došli odšli
-dilož 3 dolži džoli žoldi
 dimos 3 disom smodi sodim
 dimrs 3 drsim smrdi srdim
 dinop 3 odpni podni pondi
@@ -3064,7 +2815,6 @@ eegln 3 glene gnele legen
 eegls 3 gesel segel segle
 eegns 3 gense segne snege
 eegnt 3 genet gnete tegne
-eegnz 3 genez zegen zegne
 eehor 3 horee ohree orehe
 eeint 3 eteni etine teine
 eejlv 3 lejev levje vjele
@@ -3075,10 +2825,8 @@ eejns 3 jesen sejen sejne
 eejpr 3 perje preje repje
 eejrt 3 jeter retje terje
 eejrv 3 rejev rejve verej
-eejrz 3 jezer rezje zreje
 eejtv 3 tevje vejte vetje
 eekmš 3 kešem meške šmeke
-eeknž 3 nežke žeken ženke
 eekps 3 epske pesek peske
 eekpv 3 pekev pekve pevke
 eekrz 3 kreze rezek rezke
@@ -3087,13 +2835,13 @@ eekss 3 sekse sesek seske
 eelmn 3 lenem mlene nemel
 eelmp 3 lempe lepem pleme
 eelms 3 semle sleme smele
+eelmz 3 lemez lezem mezel
 eelnp 3 lepen nelep plene
 eelps 3 plese slepe spele
 eelpš 3 lepše pleše šlepe
 eelsv 3 selve veles vesel
 eelsš 3 sešel sešle sleše
 eemnv 3 nevme venem vneme
-eemnz 3 menze nemez zmene
 eempt 3 petem tempe tepem
 eemst 3 estem estme smete
 eemšt 3 mešte meteš tešem
@@ -3111,7 +2859,6 @@ efikl 3 fleki flike klife
 efilr 3 filer rifel rifle
 efilt 3 filet flite lifte
 efirs 3 frise serif sferi
-efirz 3 frezi frize zefir
 efirš 3 šerif šifer šifre
 eflno 3 fenol folen folne
 eflop 3 flope pofel pofle
@@ -3127,10 +2874,9 @@ egirž 3 greži griže ržige
 egjnu 3 gnuje gunje neguj
 egjru 3 greju gruje ugrej
 egklo 3 eklog golke koleg
-egloz 3 geloz zgole zloge
 eglru 3 grelu legur ugrel
 egmos 3 gesom gosem smoge
-egmož 3 gožem ožgem žgemo
+egorz 3 grezo groze rozge
 egrtu 3 truge ugret utrge
 egruz 3 grezu rezgu ugrez
 ehiks 3 kesih sekih sikhe
@@ -3155,83 +2901,78 @@ eiilt 3 eliti etili ilite
 eijkr 3 kerij krije rejki
 eijks 3 jesik ksije skije
 eijlt 3 lijte litje telij
-eijlž 3 ježil želji žilje
+eijlz 3 izjel jezil lezij
 eijmo 3 emoji omeji omije
 eijmr 3 merij mirje rijem
 eijmu 3 emuji ujemi umije
-eijmz 3 izjem jezim zmije
 eijnr 3 jerin rejni renij
 eijpv 3 pijev vejpi vpije
+eijrz 3 izrej rezij rezji
 eijsš 3 sejši sešij siješ
-eijvz 3 vezij vezji zvije
 eikks 3 keksi kikse skike
 eikll 3 klile lilek lilke
 eiklv 3 livke velik vleki
-eiklz 3 lezik zelik zleki
 eikmt 3 kmeti metki tekmi
+eikmž 3 mežik mižek mižke
 eiknz 3 knezi nizek nizke
+eiknž 3 nežki nižek nižke
 eikop 3 ekipo epiko opeki
 eikpv 3 pekvi pevki pivke
 eikrv 3 iverk krive kvire
 eiktt 3 tetik tetki tkite
-eiktž 3 težki žitek žitke
 eikšv 3 kišev višek viške
 eilmm 3 melim melmi milem
 eilmo 3 imelo omeli omile
 eilmu 3 ulemi umeli umile
 eilmš 3 meliš šemil šlemi
+eilmž 3 ležim ližem mežil
+eilnz 3 lezni lizen lizne
 eilož 3 oliže oželi ožile
+eilpz 3 izpel pezil plezi
+eilrz 3 rezil rizel rizle
 eilsu 3 ileus luesi useli
 eiluž 3 uleži uželi užile
-eilšž 3 ležiš ližeš želiš
+eilvž 3 vežil vižel vižle
 eimmn 3 menim minem nemim
 eimno 3 noemi omeni onemi
-eimnž 3 ižnem nežim ženim
 eimru 3 emiru umeri umire
 eimtu 3 itemu umeti umite
-eimtž 3 mežit težim žmite
-eimvž 3 mevži vežim živem
+eimvz 3 izvem vezmi vzemi
 einos 3 oseni osine sieno
 einot 3 enoti oneti oteni
 einpv 3 pevni piven pivne
 einpš 3 peniš pšeni šepni
 einru 3 reinu ruine urine
-einrz 3 rezin rezni zrine
 eintt 3 netit tetin tinte
 eintu 3 etinu teinu unite
+eintž 3 nežit težin težni
 einšt 3 netiš šenti šnite
 einšv 3 šiven šivne veniš
 eiops 3 eposi opise osipe
 eiosv 3 eisov osive ovesi
 eiotž 3 oteži ožeti ožite
-eiprz 3 izpre prize ziper
 eipss 3 sepsi sesip spise
 eiptv 3 vpeti vpite vtepi
-eirtz 3 tirze zreti zrite
 eiršt 3 rešit rešti šteri
 eiršš 3 rešiš rišeš širše
 eisst 3 sesti siest stise
 eisšt 3 sešit steši šesti
 eituž 3 uteži užeti užite
-eitvž 3 vežit žetvi živet
+eitvz 3 tvezi vitez vzeti
 ejklr 3 krlje rkelj rklje
 ejkor 3 joker kroje rejko
 ejktu 3 kujte tujek tujke
-ejloz 3 zeljo zjelo zolje
 ejltu 3 letuj ljute tulje
 ejmop 3 pejmo pojem pojme
 ejmou 3 omeju ujemo umejo
-ejmoz 3 jezom mejoz zjemo
-ejmož 3 možje ožjem žmejo
 ejnnu 3 njune nujen nujne
 ejnop 3 penjo pnejo ponje
 ejnos 3 sejno snejo sojen
-ejnož 3 ježno oženj žejno
 ejnrt 3 jetrn trenj trnje
 ejopr 3 pjero prejo proje
 ejops 3 posej spejo spoje
-ejorž 3 režjo rožje žrejo
 ejosu 3 ojesu osuje souje
+ejovz 3 jezov vezjo vozje
 ejpru 3 perju purje repju
 ejruv 3 rejvu rujev veruj
 ejsšu 3 sejšu suješ sušje
@@ -3240,16 +2981,14 @@ ekkor 3 koker korke kroke
 ekllo 3 kolle lolek lolke
 ekllu 3 lulek lulke uklel
 eklps 3 plesk sklep slepk
+ekluz 3 ezulk kuzel kuzle
 eklšu 3 luške šeklu šluke
 ekmov 3 kemov kovem vekom
 ekmsu 3 mesku smuke umske
-ekmuž 3 kužem mekuž žmeku
 eknpu 3 kupen kupne punke
 eknrš 3 kršen kršne škrne
-eknuž 3 kužen kužne žeknu
 ekoop 3 okope opeko opoke
 ekorz 3 korze kozer rezko
-ekorž 3 režko rožke žerko
 ekošt 3 košte škote štoke
 ekprs 3 prske srpek srpke
 ekprv 3 prvek prvke vprek
@@ -3257,30 +2996,31 @@ ekrst 3 krste tresk trske
 ekršt 3 škrte štrke trške
 ekstu 3 sektu skute steku
 elmop 3 lempo lepom pomel
-elmoz 3 molze zlome zmelo
-elmož 3 ložem molže želom
 elnot 3 lento letno telno
+elnož 3 ležno ložen ložne
 eloop 3 opelo opole poole
 elopz 3 plezo polze pozle
 elopž 3 pležo polže požel
 elorv 3 lerov ovrle vrelo
-elorž 3 ožrle rožle žrelo
+elorz 3 erloz ozrel ozrle
 elouv 3 ovule ulove uvelo
 elovv 3 levov velov volve
-elovž 3 ložev vlože želvo
-elozž 3 zlože žezlo žlezo
 elošt 3 oštel štelo štole
 elprs 3 sprel sprle srpel
 elpru 3 perlu perul uprle
 elpuz 3 pulze puzel puzle
+elruz 3 lezur luzer uzrle
 elsuz 3 sezul slezu sluze
 emmos 3 mesom osmem smemo
 emmot 3 metom otmem tmemo
+emmož 3 možem možme ožmem
 emnop 3 opnem pnemo pomen
 emnov 3 nevmo novem vnemo
+emnoz 3 menzo mezon nozem
 emnsu 3 sumen sumne sunem
 emnuž 3 mužen mužne umnež
-emovz 3 vezom zevom zovem
+emorz 3 omrze ozrem rezom
+emorž 3 mrežo mrože ožrem
 emovž 3 mevžo možev vožem
 emošt 3 mešto mošte otmeš
 emprs 3 sperm sprem srpem
@@ -3290,13 +3030,13 @@ emsuv 3 usmev vsemu vseum
 ennot 3 nonet noten notne
 ennož 3 nežno nožen nožne
 enopš 3 opneš pšeno špone
+enotž 3 težno tožen tožne
+enovz 3 vezno vozen vozne
 enovž 3 nožev vežno vožen
 enošt 3 šoten šotne toneš
 enprt 3 prten trpen trpne
 enrst 3 strne trsen trsne
 enrtv 3 vetrn vrten vrtne
-enrtz 3 trzen trzne zrnet
-enruž 3 žerun žuren žurne
 enršv 3 vrneš vršen vršne
 enstu 3 unest usten ustne
 ensšu 3 suneš sušen sušne
@@ -3304,6 +3044,7 @@ eopsu 3 eposu opuse usope
 eoptv 3 tepov vpeto vtope
 eopšt 3 pošte štepo štope
 eostt 3 steto stote testo
+eotvz 3 otvez tvezo vzeto
 eprsu 3 pruse super supre
 ersšt 3 sršet streš strše
 erštv 3 tršev vršet vtreš
@@ -3323,7 +3064,6 @@ gijmr 3 grjim grmij grmji
 gilru 3 grilu gruli ligru
 ginor 3 gorni ogrni rogin
 ginov 3 ginov govni vigno
-ginoz 3 gnozi izgon zgoni
 giopr 3 gripo pirog progi
 giort 3 griot groti tigro
 giorš 3 goriš gorši groši
@@ -3382,7 +3122,6 @@ iiklm 3 klimi limki milki
 iikln 3 kilni klini linki
 iikls 3 kisli liski sliki
 iiklš 3 liški šilki škili
-iikmz 3 izmik zimik zmiki
 iiknp 3 kipni pikni pinki
 iiknr 3 ikrni rikni rinki
 iiknš 3 niški šikni šinki
@@ -3392,34 +3131,27 @@ iikrš 3 ikriš rikši riški
 iilmp 3 milpi pilim plimi
 iilmt 3 limit litim milit
 iilns 3 silni sinil slini
-iilnz 3 lizin lizni zinil
-iilrz 3 izril rizli zrili
 iilsš 3 lisiš siliš sliši
 iiltv 3 tvili vitli vliti
-iiltz 3 izlit iztli zliti
-iimrz 3 izmri rizmi zmiri
 iimrš 3 miriš širim šmiri
-iimtz 3 izmit zimit zmiti
 iimšt 3 šitim štimi tišim
 iintv 3 tvini vinti vniti
 iinšt 3 šinit šniti tišin
 iiopt 3 opiti otipi poiti
 iirst 3 sirit tirsi trisi
-iirtz 3 izrit tirzi zriti
 iirvz 3 izvir izvri vizir
 iistt 3 istit sitit tisti
+iitvz 3 izvit vizit vziti
 iištu 3 šiitu ušiti utiši
 ijkno 3 kojni konji njoki
 ijlop 3 pojil polij polji
 ijlov 3 vijol viljo volji
-ijluž 3 južil žilju žulji
 ijmov 3 movij movji vijmo
 ijmru 3 mirju miruj umrji
 ijnos 3 osinj sinjo sojin
 ijnru 3 njuri rujni runji
 ijnsu 3 sinju usnij usnji
 ijorš 3 rojiš širjo šjori
-ijovž 3 vožij vožji živjo
 ijpru 3 piruj purji rupij
 ijrst 3 strij trsij trsji
 ijršu 3 juriš rušij rušji
@@ -3432,8 +3164,6 @@ iklrš 3 kršil škril škrli
 iklšu 3 luški šilku šluki
 ikmnr 3 krmni krnim mrkni
 ikmuž 3 kužim mižku mužik
-iknoz 3 kozin nizko zokni
-iknož 3 kožni nožki žokni
 iknpu 3 kupni punki upnik
 ikntu 3 knuti kutin tunik
 ikosu 3 okisu okusi ukosi
@@ -3441,7 +3171,6 @@ ikosš 3 kosiš siško soški
 ikptu 3 kupit putik putki
 ikrsv 3 skriv svirk vrisk
 ikruv 3 kuriv kurvi kviru
-ikruž 3 križu rižku žurki
 iksšu 3 skuši suški škisu
 illov 3 lovil vlilo volil
 ilmno 3 limon lomni milno
@@ -3460,40 +3189,32 @@ ilost 3 listo solit stoli
 ilosu 3 osuli souli usoli
 ilott 3 litot lotit tolit
 ilotu 3 tiolu ulito utoli
-ilotz 3 tiloz zlito zloti
 ilouv 3 ovuli ulovi uvilo
 ilouž 3 oluži ožuli užilo
+ilovz 3 izlov vozil vozli
 ilošt 3 lotiš štoli toliš
 ilošv 3 loviš voliš všilo
 ilrsu 3 rusil rusli silur
-ilruz 3 izrul uzrli zurli
 ilršu 3 ruliš rušil šliru
 immor 3 mirom morim mrimo
 immos 3 mimos misom osmim
 immot 3 mitom motim timom
-immož 3 možim možmi žmimo
 imnop 3 pinom pnimo pomni
 imnot 3 monti motni tinom
 imnož 3 množi možin možni
+imorz 3 omrzi rizmo rizom
 imorš 3 moriš širom šmiro
-imorž 3 mroži žirom žrimo
 imosv 3 misov visom vosmi
 imott 3 motit motti totim
 imotv 3 mitov motiv timov
-imotz 3 mitoz zmito zmoti
-imotž 3 možit tožim žitom
 imovz 3 izmov vozim vozmi
 imprs 3 prsim prsmi srpim
 imrst 3 smrti srtmi strmi
 imrtu 3 ritmu trimu trumi
 imrtv 3 mrtvi mrvit vrtim
-imruž 3 ružim žmuri žurim
 imršt 3 mršit trmiš tršim
 inorš 3 noriš norši širno
-inorž 3 rižno rožni žnori
 inost 3 nosit ostni sitno
-inotž 3 tožni žitno žonti
-inovz 3 nizov vozni zvoni
 inprt 3 print trpin trpni
 inpsu 3 pisun spinu supin
 inptu 3 input pintu punti
@@ -3507,7 +3228,6 @@ iprsš 3 prsiš sprši srpiš
 ipršt 3 pršit prtiš trpiš
 irttu 3 titru urtit utrti
 irtuz 3 izrut tirzu uzrti
-irtuž 3 ružit utrži žurit
 isštu 3 sušit šusti ustiš
 jkoru 3 kroju kurjo rokuj
 jmosu 3 jusom smoju sujmo
@@ -3568,7 +3288,6 @@ prstu 3 prstu spurt strup
 čeejn 3 čejen ječen ječne
 čeekl 3 čelek čelke kleče
 čeemr 3 čemer čerem rečem
-čeemz 3 čezme mezeč zmeče
 čeepš 3 češpe pečeš ščepe
 čeerv 3 revče večer vreče
 čeešt 3 tečeš tešče tešeč
@@ -3580,7 +3299,6 @@ prstu 3 prstu spurt strup
 čeikn 3 čikne kinče ničke
 čeikr 3 kreči kriče rečki
 čeikt 3 tečki tiček tičke
-čeikž 3 čižek čižke žičke
 čeilt 3 čelit lečit tleči
 čeilš 3 čeliš lečiš lešči
 čeimm 3 čemim mečim mičem
@@ -3611,14 +3329,12 @@ prstu 3 prstu spurt strup
 čensu 3 česnu sučen sučne
 čeops 3 poseč sopeč spečo
 čeopt 3 počet poteč topeč
-čeorz 3 rezoč zoreč zroče
 čepšu 3 pušče pušeč ščepu
 čeršv 3 čvrše vršče vršeč
 čhiin 3 činih inčih ničih
 čhiko 3 čokih kočih očkih
 čhimr 3 črmih hrčim mrčih
 čiikn 3 čikni kinči nički
-čiimž 3 čimži čižmi žičim
 čiinš 3 činiš ničiš ščini
 čiišt 3 ščiti tičiš tišči
 čijop 3 jopič pijoč počij
@@ -3659,7 +3375,6 @@ aabdv 2 vadba vbada
 aabej 2 abaje abeja
 aabgh 2 agbah bagah
 aabhr 2 barah rabah
-aabhž 2 bažah žabah
 aabjk 2 bajka kajba
 aabjl 2 bajal bajla
 aabjm 2 bajam jamba
@@ -3668,16 +3383,13 @@ aabjs 2 bajsa basaj
 aabjš 2 bajaš šajba
 aablm 2 albam balam
 aabls 2 basal slaba
-aablz 2 balza zbala
 aabmm 2 ambam mamba
 aabms 2 basam samba
 aabmv 2 avbam vabam
-aabmz 2 bazam zamba
-aabmž 2 bažam žabam
 aabns 2 bansa basna
 aabnt 2 batan batna
 aabnv 2 nabav vabna
-aabrz 2 bazar zarba
+aabrž 2 baraž barža
 aabčt 2 bačat čabat
 aabšt 2 šabat štaba
 aabšv 2 bavša švaba
@@ -3714,11 +3426,9 @@ aadnr 2 narda randa
 aadns 2 nasad sadna
 aadrs 2 sadra sarda
 aadru 2 udara urada
-aadrz 2 razda zarad
 aadrš 2 adraš šarad
 aadrž 2 radža ržada
 aadtv 2 tadva vdata
-aadvz 2 zavda zdava
 aaegp 2 agape apage
 aaejl 2 ajale aleja
 aaejt 2 ajate ateja
@@ -3746,7 +3456,6 @@ aafrt 2 frata rafta
 aaghl 2 algah galah
 aaghm 2 gamah gmaha
 aaghr 2 garah graha
-aaghž 2 gažah žagah
 aagim 2 agami imaga
 aagip 2 agapi igapa
 aagjt 2 tagaj tajga
@@ -3758,9 +3467,7 @@ aagmm 2 gamam magma
 aagmn 2 magna manga
 aagmo 2 agoma omaga
 aagms 2 gamsa sagam
-aagmz 2 gazam zmaga
 aagmš 2 gamaš šagam
-aagmž 2 gažam žagam
 aagnn 2 gnana nagan
 aagnt 2 agnat tanga
 aagnv 2 gvana vagan
@@ -3769,7 +3476,6 @@ aagor 2 agora ogara
 aagov 2 agavo agova
 aagrt 2 garat gatra
 aagrv 2 garav vraga
-aagrž 2 garaž žagar
 aagšv 2 gvaša vagaš
 aahhl 2 ahlah halah
 aahik 2 akiah haika
@@ -3789,8 +3495,6 @@ aahmp 2 mapah paham
 aahnr 2 hrana ranah
 aahrs 2 arsah rasah
 aahrt 2 rahta tarah
-aahrz 2 razah zarah
-aahrž 2 ražah žarah
 aahtv 2 tavha vatah
 aaijt 2 ajati atija
 aaikl 2 akali laika
@@ -3813,25 +3517,20 @@ aajlo 2 ajalo aloja
 aajlp 2 lapaj plaja
 aajls 2 lasaj slaja
 aajlv 2 lajav valja
-aajlz 2 zajla zjala
 aajlš 2 lajaš lajša
-aajlž 2 lažja žalja
 aajmm 2 jamam majam
 aajmo 2 ajamo omaja
 aajms 2 jasam sajam
 aajmv 2 majav vajam
-aajmz 2 zajma zmaja
 aajns 2 jasna sanja
 aajpr 2 paraj rapaj
 aajps 2 pasja spaja
-aajrž 2 rajža žarja
 aajšt 2 šajta tajaš
 aakkm 2 kakam makak
 aakkr 2 karak kraka
 aakks 2 kaska skaka
 aakkt 2 kakat kakta
 aakll 2 kalal klala
-aaklz 2 kazal zlaka
 aakmm 2 kamam mamka
 aakmt 2 matka takam
 aakmv 2 kavam vakam
@@ -3843,18 +3542,17 @@ aaknš 2 kašna šanka
 aakot 2 atako okata
 aakov 2 akova okava
 aakpv 2 pavka vkapa
+aaksz 2 kasaz skaza
 aaktv 2 avtka vakat
-aakuz 2 ukaza zauka
 aakvz 2 kavaz kavza
 aallm 2 lamal malal
 aallp 2 lapal plala
 aallt 2 latal talal
 aalnu 2 anula ulana
-aalnž 2 lažna žalna
+aalnz 2 lazna nazal
 aalov 2 ovala voala
 aalpt 2 lapat tapal
 aalpv 2 plava vpala
-aalpz 2 plaza zapal
 aalrs 2 rasla srala
 aalrt 2 ratal talar
 aalrz 2 lazar razal
@@ -3863,11 +3561,9 @@ aalss 2 salas salsa
 aalsš 2 lasaš salaš
 aaltt 2 latat talat
 aaluv 2 avalu uvala
-aalzz 2 lazza zalaz
 aammn 2 maman manam
 aammo 2 moama omama
 aammr 2 maram ramam
-aammž 2 mažam žamam
 aamno 2 maona omana
 aamns 2 masna samna
 aamnt 2 manta matna
@@ -3881,19 +3577,16 @@ aampp 2 pampa papam
 aampt 2 patam tapam
 aampš 2 pašam šapam
 aamru 2 maaru urama
+aamrž 2 marža ražam
 aamst 2 astma tasam
 aamtv 2 tavam vatam
 aamvz 2 mazav vazam
 aamvž 2 mavža važam
-aamzz 2 zamaz zmaza
 aanrz 2 razan razna
-aanrž 2 žanra žarna
 aantv 2 avtna vatna
-aantz 2 tanaz znata
 aaotv 2 atova otava
 aarrt 2 ratar trara
 aarvv 2 varav varva
-aarvz 2 zavra zvara
 aaršt 2 rataš šarat
 aastt 2 astat tasta
 aastv 2 stava svata
@@ -3930,7 +3623,6 @@ abcgr 2 gabrc grbca
 abcim 2 bicam cibam
 abclu 2 bucal bulca
 abcno 2 bonac bonca
-abcrz 2 brzca zbrca
 abdeo 2 obade obeda
 abdev 2 vadbe vdeba
 abdež 2 bedža džabe
@@ -3950,24 +3642,25 @@ abegj 2 begaj gajbe
 abegm 2 begam gambe
 abegn 2 gaben gabne
 abegt 2 baget begat
+abegz 2 bezga gabez
 abehj 2 hebaj jebah
 abehn 2 benah habne
 abehr 2 berah breha
 abehv 2 bavhe havbe
-abehz 2 bezah zebah
 abejm 2 jambe jebam
+abejz 2 bezaj jazbe
 abekm 2 bekam kambe
-abekz 2 kazbe zebka
 abekš 2 baške bekaš
+abelž 2 bežal blaže
 abemn 2 banem benam
 abent 2 baten batne
 abenv 2 vaben vabne
 abeos 2 obesa oseba
 aberu 2 abure bearu
+aberz 2 breza rezba
+aberž 2 barež barže
 abetv 2 bavte betva
-abevž 2 vežba žavbe
 abešv 2 bavše švabe
-abešz 2 bezaš zbaše
 abflu 2 blufa fabul
 abgij 2 gajbi gibaj
 abgit 2 gabit gibat
@@ -3976,7 +3669,6 @@ abgiš 2 gabiš gibaš
 abglu 2 blagu gubal
 abgmu 2 gubam gumba
 abgnr 2 grban grbna
-abgoz 2 bogaz zboga
 abgru 2 bagru gabru
 abhil 2 balih habil
 abhim 2 habim hibam
@@ -3992,22 +3684,27 @@ abhšu 2 buhaš bušah
 abijk 2 bajki kajbi
 abijm 2 bajim jambi
 abijs 2 asbij bajsi
+abijz 2 jazbi zabij
+abikz 2 bzika kazbi
 abilm 2 bilma limba
 abilo 2 obali obila
+abilz 2 balzi zabil
 abilš 2 bališ šibal
 abimn 2 banim nimba
 abimo 2 bioma boami
 abins 2 bansi basni
+abinz 2 bazni izbna
 abiru 2 aburi ubira
 abirv 2 barvi bravi
 abist 2 basti bista
-abivz 2 zibav zvabi
 abjlu 2 ljuba lubja
 abjnr 2 branj brnja
 abjor 2 bojar broja
 abjos 2 bajso bosaj
 abjou 2 obuja uboja
 abjov 2 bojva objav
+abjoz 2 jazbo zaboj
+abjož 2 božaj božja
 abjru 2 barju burja
 abklr 2 bralk brkal
 abkmu 2 bukam kubam
@@ -4021,13 +3718,12 @@ abllo 2 lobal oblal
 ablmu 2 album bulam
 ablnu 2 balun lubna
 abloo 2 obalo obola
+abloz 2 balzo zabol
 ablru 2 burla ubral
 abmmo 2 bomam mambo
 abmoo 2 booma oboam
 abmot 2 batom botam
 abnov 2 banov vabno
-abnoz 2 bazno zobna
-abnrz 2 brzna zbran
 abnrž 2 branž nabrž
 abntu 2 butan tabun
 aboor 2 obaro obora
@@ -4035,11 +3731,12 @@ aboot 2 aboto boota
 abopr 2 porab proba
 aborr 2 borar robra
 abors 2 sabor sobar
+aborz 2 borza obraz
 abost 2 bosat bosta
 abosv 2 basov sabov
 abotv 2 batov bavto
-abotz 2 zbota zobat
 abotž 2 božat tožba
+abruz 2 burza buzar
 abršu 2 burša šubar
 abstv 2 stavb svatb
 abttu 2 battu butat
@@ -4052,7 +3749,6 @@ abčit 2 batič bičat
 abčiv 2 bačvi vabič
 abčko 2 bačko kobač
 abčku 2 bučka bukač
-abčoz 2 zobač zobča
 abčru 2 braču čubra
 abštu 2 butaš štabu
 accel 2 cecal celca
@@ -4082,8 +3778,6 @@ acejz 2 zajce zajec
 acekk 2 kakce kakec
 acekv 2 cevka cveka
 acekš 2 šekca škeca
-acelz 2 lezca zleca
-acelž 2 žalce žalec
 acemp 2 campe cepam
 acemv 2 mavce mavec
 aceno 2 ocean ocena
@@ -4104,7 +3798,6 @@ acflu 2 cufal fucal
 acfmu 2 cufam fucam
 acfšu 2 cufaš fucaš
 acgij 2 cajgi gajic
-acgiž 2 žagic žigca
 acgju 2 caguj cajgu
 acgno 2 conga gnoca
 acgnu 2 gunca nagcu
@@ -4128,7 +3821,6 @@ acilz 2 cizal lazic
 acimm 2 cimam mamic
 acimn 2 cinam nicam
 acimv 2 mavci vicam
-acimž 2 žicam žmica
 aciop 2 copia opica
 acios 2 asico osica
 acipp 2 papic pipca
@@ -4138,7 +3830,6 @@ acirz 2 cizar razic
 acirš 2 ircaš šarci
 acisv 2 sivca vasic
 acitt 2 citat tatic
-acivz 2 vazic zvica
 acišu 2 šiacu ušica
 acjko 2 cokaj jokca
 acjkr 2 crkaj krcaj
@@ -4191,13 +3882,12 @@ adein 2 diane edina
 adeis 2 aidse diase
 adejo 2 aojde odeja
 adejs 2 sadje sedaj
+adejz 2 zajde zajed
 adekm 2 dekam kadem
 adekz 2 zadek zadke
 adekš 2 daške deška
 adekž 2 dežka džeka
 adelo 2 alode odela
-adelz 2 zadel zdela
-adelž 2 ždela žleda
 adems 2 sedam sedma
 adenn 2 dnena nadne
 adeor 2 orade rodea
@@ -4205,8 +3895,7 @@ adeov 2 odeva oveda
 adeps 2 espad spade
 aderu 2 udare urade
 adesu 2 usade useda
-adevz 2 zadev zdeva
-adezž 2 džeza zažde
+adetz 2 dzeta zadet
 adešv 2 devaš vešda
 adfhi 2 dafih fadih
 adfio 2 afido foida
@@ -4220,6 +3909,7 @@ adglu 2 gladu gudal
 adgmr 2 drgam grmad
 adgou 2 gaudo gouda
 adgov 2 gadov gavdo
+adgoz 2 gazdo gozda
 adhhi 2 dahih hadih
 adhit 2 datih dihat
 adhko 2 hodka kodah
@@ -4230,7 +3920,6 @@ adhor 2 hadro horda
 adhos 2 shoda sodah
 adhoz 2 dozah zahod
 adhru 2 durah rudah
-adhuz 2 uzdah zduha
 adhšu 2 duhaš dušah
 adiis 2 aidsi diasi
 adiit 2 idait idita
@@ -4242,21 +3931,22 @@ adiko 2 daiko okadi
 adikt 2 kadit kidat
 adilm 2 dilam mladi
 adilt 2 dilat tilda
+adilz 2 dizla izdal
 adilš 2 dilaš dišal
+adimz 2 izdam mazdi
 adinn 2 dnina nadni
 adino 2 anodi diano
 adinp 2 padni pandi
 adint 2 danit dnita
+adinz 2 izdan iznad
 adipz 2 izpad pizda
+adirz 2 razid zadri
 adisv 2 svadi vsadi
 adiuv 2 udavi uvida
-adivž 2 ždiva živad
-adišz 2 izdaš zidaš
 adjku 2 dajku judka
 adjmr 2 drmaj mrdaj
 adjnr 2 drajn jadrn
 adjnu 2 danju naduj
-adjrz 2 drzaj zdraj
 adjuz 2 uzdaj uzdja
 adkls 2 skald sklad
 adkot 2 dakot katod
@@ -4264,7 +3954,6 @@ adkov 2 davko vodka
 adkoz 2 dokaz odkaz
 adkoš 2 daško škoda
 adkrt 2 drkat trdak
-adkrz 2 drzka zdrka
 adksu 2 duksa skuda
 adktu 2 adutk dukat
 adlmo 2 mlado modla
@@ -4273,27 +3962,28 @@ adlno 2 lando lodna
 adlnu 2 landu nadul
 adloz 2 aldoz zadol
 adloš 2 došla odšla
+adlrz 2 drzal zadrl
 adlsu 2 saldu sladu
 admmo 2 domam modam
 admmr 2 drmam mrdam
 admot 2 datom dotam
 admou 2 duoma udoma
+admoz 2 dozam mazdo
 admrs 2 drsam smrad
 admrt 2 drmat mrdat
 admrš 2 drmaš mrdaš
-admuz 2 uzdam zamud
 adnno 2 donna ondan
-adnož 2 dožna žadno
 adnrt 2 drnat trdna
 adnrz 2 drzan drzna
-adnrž 2 držna žrdan
 adnšu 2 dušna šunda
 adoor 2 odora orado
 adops 2 posad spado
+adorz 2 odraz odrza
 adorž 2 radžo ržado
 adovv 2 vadov vdova
 adpru 2 pardu pudra
 adrsu 2 sardu surda
+adrtz 2 drzat zadrt
 adruu 2 udaru uradu
 adruž 2 džaur radžu
 adrvž 2 držav džavr
@@ -4310,6 +4000,7 @@ aefkt 2 afekt fakte
 aefkš 2 faške škafe
 aefnr 2 faren farne
 aefns 2 senfa sfena
+aefnz 2 fazen fazne
 aefpr 2 frape parfe
 aefrz 2 fraze freza
 aefst 2 faset faste
@@ -4323,9 +4014,10 @@ aegjv 2 gajev vegaj
 aegkr 2 karge krega
 aeglm 2 legam megla
 aeglt 2 legat tegal
-aeglž 2 glaže žgale
+aeglz 2 gazel glaze
 aegmo 2 egoma omega
 aegms 2 gamse segam
+aegmz 2 gazem mezga
 aegnn 2 gnane nagne
 aegno 2 agone onega
 aegnu 2 guane ugane
@@ -4338,24 +4030,17 @@ aehjl 2 halje jelah
 aehjm 2 ahmej mejah
 aehjp 2 hepaj pehaj
 aehjs 2 hejsa sejah
-aehjz 2 jezah zehaj
-aehjž 2 ježah žejah
 aehkš 2 hekaš šekah
-aehlz 2 lezah zehal
 aehlž 2 lažeh ležah
 aehmo 2 ehoma omahe
 aehmt 2 metah temah
-aehmz 2 mazeh zeham
 aehnš 2 ahneš nehaš
-aehnž 2 nežah ženah
 aehpz 2 pazhe pezah
 aehrs 2 resah serah
 aehrv 2 revah verah
 aehrz 2 razeh rezah
 aehsv 2 vaseh vesah
 aehtu 2 uhate uteha
-aehtž 2 težah žehta
-aehvz 2 vezah zehav
 aeijt 2 ateji atije
 aeikl 2 akeli laike
 aeikp 2 ekipa epika
@@ -4370,38 +4055,38 @@ aeirs 2 reisa riase
 aeitt 2 ateti etati
 aejjn 2 jenja najej
 aejjv 2 jejva vejaj
-aejjž 2 ježaj žejaj
 aejku 2 ekuja ukaje
 aejkv 2 javke vekaj
 aejkž 2 ježka kajže
 aejlo 2 alejo aloje
+aejlz 2 zajel zajle
 aejmv 2 majev vejam
-aejmž 2 ježam žejam
 aejnn 2 nanje njena
+aejnž 2 janež ježna
 aejos 2 ojesa osaje
 aejpš 2 pešaj šepaj
 aejrs 2 resja seraj
+aejrž 2 rajže režaj
 aejsv 2 sevaj svaje
 aejtt 2 jetta tatje
+aejtž 2 ježat težja
 aejvv 2 vejva vjeva
+aejzz 2 jazze zajez
 aejšv 2 šavje vejaš
-aejšz 2 zaješ zjaše
 aejšš 2 jašeš šašje
-aejšž 2 ježaš žejaš
 aekks 2 kaske keksa
 aekll 2 elkal klale
 aeklo 2 koale okale
 aeklu 2 akelu ukale
-aeklz 2 zalek zleka
 aekmm 2 mamke mekam
 aekmo 2 amoke omake
-aekmž 2 kažem žmeka
 aeknr 2 ekran narek
 aekop 2 okepa opeka
 aekos 2 kaose oseka
 aekot 2 okate oteka
-aekpz 2 pazke zapek
-aekvz 2 kavze zevka
+aekrz 2 kreza rezka
+aekrž 2 kraže režka
+aektž 2 težak težka
 aekšš 2 šaške šeška
 aellm 2 lamel mlela
 aellt 2 letal tlela
@@ -4411,39 +4096,37 @@ aelmu 2 ulema umela
 aelmv 2 levam malve
 aelmš 2 mešal šlema
 aelno 2 alone onale
+aelnz 2 lazen lezna
 aelnš 2 našel našle
 aelop 2 opale opela
 aelor 2 areol orale
-aelrz 2 rezal zrela
+aelpz 2 plaze pleza
 aelss 2 salse sesal
+aelsz 2 sezal sleza
 aelsš 2 sešla sleša
 aeltt 2 atlet letat
-aeltž 2 ležat želat
 aeluv 2 uvale uvela
-aelzz 2 lazze zezal
 aelšv 2 šleva vešal
-aelšz 2 zašel zašle
 aelšž 2 lažeš šalež
 aemmn 2 manem menam
 aemmo 2 emoma omame
 aemms 2 mesam samem
-aemmz 2 mazem zmame
 aemmš 2 mešam šemam
-aemmž 2 mažem žamem
 aemop 2 epoma poema
 aempv 2 pevam vampe
 aempž 2 pamže pažem
 aemtt 2 metat tetam
 aemtu 2 teamu umeta
-aemzz 2 zezam zmaze
+aemtz 2 mezat tezam
+aemtž 2 mežat težam
+aemvz 2 vezam vzame
 aemšu 2 umeša ušema
 aemšv 2 vašem vmeša
-aemšz 2 zmaše zmeša
 aemšš 2 mešaš šašem
-aemšž 2 mažeš žameš
 aennp 2 apnen napne
 aenor 2 areno naore
 aenot 2 enota oneta
+aenpz 2 pazen pazne
 aenrš 2 rešna šaren
 aenss 2 seans sesna
 aentt 2 tante tenta
@@ -4455,20 +4138,20 @@ aeopž 2 opaže ožepa
 aeost 2 etosa osate
 aeotž 2 etažo ožeta
 aeprr 2 raper repar
+aeprž 2 praže preža
 aepsv 2 speva vespa
 aepsš 2 paseš špase
 aepvz 2 pavez pavze
+aersz 2 razse sreza
 aersž 2 serža sreža
+aertz 2 razte rezat
 aeruv 2 uvare uvera
 aeruz 2 azure ureza
 aeruž 2 ažure užare
-aerzz 2 zarez zazre
 aestz 2 sezat steza
 aesšv 2 sevaš šavse
 aettu 2 atetu etatu
-aevzz 2 zavez zveza
 aeštt 2 šetat šteta
-aešvz 2 zaveš zevaš
 afgru 2 fruga grafu
 afhhi 2 fahih hifah
 afhin 2 fanih hifna
@@ -4511,27 +4194,23 @@ aghit 2 gatih tagih
 aghjo 2 gojah jogah
 aghmu 2 gmahu gumah
 aghor 2 gorah groha
-aghož 2 gožah žogah
 agikn 2 ganki ginka
 agilz 2 gazil ligaz
-agilž 2 glaži žgali
 agimo 2 agiom imago
+agimz 2 gazim gazmi
 aginp 2 pagin pinga
 agins 2 gasni snagi
 aginu 2 guani ugani
+aginz 2 ganzi gazni
 agiov 2 agiov agovi
 agirs 2 grasi sragi
+agirz 2 giraz griza
 agirž 2 griža ržiga
 agist 2 gasit sigat
 agisv 2 gavsi sigav
 agisš 2 gasiš sigaš
-agitz 2 gazit zgati
-agitž 2 žgati žgita
-agivž 2 vžiga žgiva
-agizž 2 zažgi zažig
 agišv 2 gvaši šviga
 agjmo 2 gojam jogam
-agjož 2 gožja žogaj
 agklo 2 golak golka
 agkmu 2 gumak kugam
 agknu 2 ganku ugank
@@ -4539,11 +4218,13 @@ agkos 2 gosak goska
 agllo 2 algol gallo
 aglmo 2 golma mogla
 aglmu 2 gluma gulam
+aglož 2 golaž ožgal
 aglpu 2 glupa pluga
 aglrt 2 grlat trgal
 aglsu 2 glasu sluga
+agluž 2 glažu užgal
 agmov 2 gamov magov
-agmož 2 gožam žogam
+agmoz 2 gazom mozga
 agmpr 2 gramp prgam
 agmrt 2 grmat trgam
 agmsu 2 gamsu smuga
@@ -4552,6 +4233,7 @@ agnoo 2 agono ogona
 agnop 2 panog pogan
 agnos 2 snago songa
 agnou 2 agonu guano
+agnož 2 nažgo ožgan
 agnuv 2 gavun gvanu
 agopr 2 grapo proga
 agopš 2 špago špoga
@@ -4559,20 +4241,18 @@ agorr 2 rarog rogar
 agorz 2 groza rozga
 agost 2 gosta stoga
 agosv 2 gasov sagov
-agotž 2 ožgat žogat
 agpru 2 grupa pragu
 agruv 2 avgur vragu
 agršu 2 guraš šargu
 agsuv 2 gavsu vagus
-agtuž 2 užgat žugat
 ahhiš 2 hišah šahih
 ahiik 2 akiih haiki
 ahijl 2 halji lajih
 ahijv 2 javhi vihaj
 ahikš 2 hiška kihaš
-ahilž 2 žalih žilah
+ahilz 2 lazih lizah
 ahinr 2 hrani ranih
-ahirž 2 rižah žarih
+ahipz 2 izpah pazhi
 ahišv 2 vaših vihaš
 ahišš 2 hašiš šaših
 ahjkr 2 hrkaj krhaj
@@ -4588,7 +4268,6 @@ ahkot 2 kotah otkah
 ahkrt 2 hrkat krhat
 ahkrv 2 hrkav vrhka
 ahkrš 2 hrkaš krhaš
-ahkuž 2 kužah žukah
 ahllu 2 hallu lulah
 ahloo 2 ohalo ohola
 ahlor 2 rahlo rolah
@@ -4605,25 +4284,20 @@ ahmrv 2 mrvah vrham
 ahmsu 2 musha sumah
 ahmšu 2 muhaš šumah
 ahnov 2 hanov novah
-ahnoz 2 oznah zonah
 ahnoš 2 honaš nošah
 ahnpu 2 napuh punah
 ahnru 2 runah urnah
 ahnrv 2 navrh vrhan
 ahops 2 hopsa pasho
 ahopz 2 pazho pozah
-ahorž 2 rožah žohar
 ahost 2 hosta stoah
 ahotv 2 otvah vohat
-ahovz 2 vozah zvoha
 ahošv 2 šahov vohaš
 ahprt 2 hrpat prhat
 ahpst 2 spath sphat
-ahpuž 2 pužah župah
 ahrsu 2 rusah surah
 ahrtu 2 rutah turah
 ahrtv 2 hrvat vrhat
-ahrvz 2 hrzav zvrha
 ahršu 2 rušah uršah
 ahršv 2 vrhaš vršah
 ahstu 2 tusah uhast
@@ -4634,50 +4308,50 @@ aiilm 2 amili maili
 aiilz 2 azili liazi
 aiirs 2 irisa riasi
 aiirt 2 ratii tiari
-aijkz 2 zajki zijak
 aijlp 2 palij plaji
 aijmo 2 imajo omaji
 aijnn 2 najin ninaj
 aijnš 2 našij šinja
+aijnž 2 nižaj nižja
 aijrs 2 jirsa risja
-aijrz 2 zarij zarji
 aijsv 2 sijva svaji
 aijsš 2 sajiš šasij
 aijtu 2 atiju utaji
-aijtž 2 žijta žitja
-aijvž 2 vižaj žijva
 aijšš 2 šašij šašji
 aikkn 2 kinka nikak
 aikkr 2 kraki krika
 aikkt 2 kakti kitka
-aiklz 2 kazil zlika
-aikmž 2 mižka žmika
+aiklž 2 kaliž kilaž
 aikop 2 okapi opika
 aikos 2 kaosi okisa
 aikot 2 atiko okati
 aikov 2 akiov akovi
 aikpv 2 pavki pivka
-aikpz 2 pazki zapik
-aikrz 2 kriza zraki
+aiksz 2 skazi zakis
 aiktu 2 akuti ukati
 aikvz 2 kavzi kviza
-aikzz 2 izkaz zizka
 aillm 2 limal malil
 ailln 2 llani nalil
 aillt 2 latil talil
 aillv 2 valil vlila
+aillz 2 lazil lizal
 ailmo 2 iloma omila
+ailmž 2 lažmi mižal
 ailnu 2 anuli ulani
 ailnš 2 našil našli
+ailnž 2 lažni nižal
 ailpp 2 papil pipal
 ailpž 2 pažil plaži
+ailrz 2 razil rizla
 ailss 2 salsi sisal
 ailsu 2 liasu sialu
-ailtž 2 litaž žalit
+ailtz 2 lazit lizat
 ailuž 2 užali užila
 ailvv 2 valvi vliva
+ailšz 2 izšla laziš
 aimmr 2 miram rimam
 aimmu 2 imamu umami
+aimmz 2 mazmi mizam
 aimnn 2 manin ninam
 aimnp 2 apnim mapni
 aimor 2 aromi omari
@@ -4689,22 +4363,20 @@ aimpv 2 pivam vampi
 aimru 2 umira urami
 aimsv 2 masiv vasmi
 aimtu 2 umita utami
-aimtž 2 mižat žmita
-aimzz 2 zizam zmazi
-aimzž 2 zažmi zmaži
+aimvz 2 maziv vizam
 ainns 2 nians sanin
-ainnz 2 zanni znani
 ainnš 2 ninaš nišna
 ainov 2 avion naivo
 ainpv 2 pivna pniva
-ainpz 2 pazni zapni
 ainrz 2 razin razni
+ainrž 2 nažri rižna
 aintu 2 uniat unita
-aintž 2 nižat žitna
+ainvž 2 nižav važni
 aiopr 2 opari opira
 aiopz 2 izopa opazi
 aiopž 2 ižopa opaži
 aiors 2 orisa osira
+aiorz 2 ozari ozira
 aiorž 2 ožari ožira
 aiosv 2 aisov osiva
 aiovž 2 ažiov oživa
@@ -4713,16 +4385,14 @@ aipps 2 pipsa spipa
 aiprž 2 praži priža
 aipsu 2 usapi usipa
 aiptt 2 pitat tipat
-aiptz 2 pazit zapit
-aipšz 2 paziš zapši
 aipšž 2 pažiš špiža
 airrs 2 risar sirar
 airsu 2 riasu urasi
-airsz 2 zaris zrasi
+airtz 2 razit tirza
+airtž 2 tiraž triaž
 airuv 2 uriva uvari
 airuž 2 ažuri užari
-airzz 2 izraz zazri
-airšž 2 šarži žariš
+airvž 2 vižar vraži
 aisst 2 stasi stisa
 aitvž 2 važit vižat
 aišvv 2 višav všiva
@@ -4730,13 +4400,12 @@ aišvž 2 važiš vižaš
 aiššv 2 šivaš višaš
 ajklu 2 kujal lukaj
 ajkos 2 kosaj kosja
-ajkož 2 kajžo žokaj
+ajkoz 2 kozja zajko
 ajkpu 2 pajku pukaj
 ajkrv 2 rjavk vkraj
 ajkuz 2 jakuz zakuj
 ajkšu 2 jašku kujaš
 ajlou 2 aloju joula
-ajlož 2 lažjo žaljo
 ajlsu 2 slaju ujsal
 ajluv 2 valju valuj
 ajmmu 2 mujam ujmam
@@ -4755,14 +4424,13 @@ ajnrt 2 trajn trnja
 ajnru 2 rujna runja
 ajnsu 2 nasuj usnja
 ajnuv 2 navju vanju
-ajnuz 2 zanju zunaj
 ajnšu 2 jušna nujaš
 ajopp 2 popaj popja
 ajopr 2 proja ropaj
 ajops 2 pasjo spoja
 ajopt 2 pojat pojta
 ajopš 2 pojaš šopaj
-ajorz 2 razjo zarjo
+ajorž 2 rajžo rožja
 ajosu 2 souja usoja
 ajotv 2 jatov tvoja
 ajprt 2 prtaj trpaj
@@ -4773,24 +4441,20 @@ akkoš 2 kokaš koška
 akksu 2 kasku kuksa
 akktu 2 kaktu kukat
 aklms 2 mlask slamk
+aklož 2 kloža kolaž
 aklpr 2 krpal pralk
 aklrs 2 skrla srkal
-aklrz 2 zrkal zrkla
 akluz 2 kazul kuzla
-akluž 2 kaluž žlaku
 akmmr 2 krmam mrkam
 akmmu 2 kumam mukam
 akmoo 2 okamo omako
 akmov 2 kamov makov
-akmoz 2 kozam zamok
 akmoš 2 mokaš moška
 akmpr 2 kramp krpam
 akmrs 2 smrka srkam
 akmrt 2 mrkat trkam
 akmrv 2 mrkav mrkva
-akmrž 2 žmrka žrkam
 akmtu 2 kutam mukat
-akmuž 2 kužam žukam
 akmšu 2 mukaš uškam
 aknou 2 okuna ukano
 aknoš 2 kašno košna
@@ -4810,8 +4474,6 @@ akrru 2 krura urark
 akrsv 2 vrask vsrka
 akrtt 2 trakt trkat
 akrtv 2 kvart vrtka
-akruž 2 žarku žurka
-akrvž 2 vržka žvrka
 akršv 2 švrka vrška
 akssu 2 saksu sakus
 allmu 2 lulam mulal
@@ -4819,19 +4481,15 @@ allno 2 llano lonal
 allpu 2 lupal plula
 alltu 2 lulat lutal
 almmu 2 malmu mulam
-almrz 2 mrzla zamrl
+almoz 2 lazom lozam
+almož 2 ložam molža
 almuz 2 muzal uzmal
-almuž 2 lužam žmula
-alnoz 2 lazno znalo
 alnuu 2 anulu ulanu
 alopz 2 oplaz polza
 alopž 2 plažo polža
 aloru 2 aluro oralu
 alosu 2 osula soula
 alott 2 lotat total
-alotz 2 zlato zlota
-alotž 2 žlota žolta
-alovž 2 žalov žvalo
 alošv 2 šalov všola
 alppu 2 pulpa pupal
 alprs 2 spral sprla
@@ -4839,13 +4497,11 @@ alprt 2 prtal trpal
 alpru 2 upral uprla
 alrsu 2 rusla usral
 alrtv 2 vrtal vtrla
-alrtz 2 trzal zatrl
-alsuz 2 sluza zasul
+alruz 2 lazur uzrla
 alttu 2 lutat tutal
 altuv 2 valut vatlu
 ammoo 2 omamo omoma
 ammot 2 matom motam
-ammoz 2 mazom zmamo
 ammuz 2 muzam uzmam
 amnoš 2 mašno nošam
 amoor 2 aromo omaro
@@ -4854,11 +4510,11 @@ amopt 2 aptom patom
 amopu 2 upamo upoma
 amopv 2 pavom vapom
 amotu 2 atomu tauom
-amotz 2 zamot zmota
 amouz 2 omazu uzoma
 amovz 2 mazov vozam
 amppu 2 pumpa pupam
 ampsu 2 spamu supam
+ampuž 2 pamžu pužam
 ampšu 2 pušam šupam
 amrtt 2 trmat trtam
 amruz 2 mrazu razum
@@ -4873,28 +4529,26 @@ annop 2 napon panon
 annot 2 naton notna
 anoop 2 apnoo opona
 anooz 2 oazno ozona
+anorz 2 nazor razno
 anosv 2 savno vnosa
 anosš 2 sošna šanso
 anotv 2 avtno vatno
+anotž 2 tonaž tožna
 anovž 2 važno vnoža
 anošt 2 šaton šotna
-anpuž 2 župan župna
 anrtv 2 vrtan vrtna
-anrtz 2 trzna zrnat
 anruv 2 nravu vranu
-anruž 2 žanru žurna
 aoopr 2 opora oropa
 aootv 2 atovo otavo
 aoppr 2 popar popra
 aopru 2 upora uropa
+aoprz 2 poraz proza
 aoprž 2 požar pražo
 aopsu 2 opasu opusa
 aoptu 2 opatu utopa
-aoptz 2 topaz zatop
 aopvv 2 pavov vapov
 aorrv 2 avror rovar
 aorty 2 royat ryota
-aorvž 2 vražo žarov
 aostu 2 osatu osuta
 aprsv 2 sprav sprva
 aprtt 2 prtat trpat
@@ -4902,13 +4556,10 @@ apssu 2 pasus spasu
 apsšu 2 supaš špasu
 apštu 2 špatu štupa
 arrvv 2 vrvar vrvra
-arttz 2 trzat zatrt
-artuž 2 turaž žurat
-aruvz 2 zavru zvaru
+artvz 2 trzav vzrat
 arštt 2 štart tršat
 arštv 2 vršat vrtaš
 aršuv 2 ravšu ruvaš
-aršuž 2 šaržu žuraš
 asttu 2 tastu ustat
 ačdej 2 dečja jedač
 ačdev 2 daveč dečva
@@ -4926,16 +4577,14 @@ ačekk 2 kačke kečka
 ačekn 2 čekan nečak
 ačelm 2 lečam mleča
 ačels 2 česal sleča
+ačelz 2 lazeč začel
 ačemn 2 mečna načem
 ačemš 2 mašče mašeč
 ačemž 2 čemaž čemža
 ačenu 2 nauče učena
 ačenz 2 načez začne
 ačenš 2 čašen čašne
-ačepz 2 pazeč zapeč
 ačers 2 česar sreča
-ačerz 2 rezač zareč
-ačetz 2 začet zateč
 ačfot 2 čofat čofta
 ačftu 2 čufat čufta
 ačgiv 2 čigav gavči
@@ -4956,15 +4605,12 @@ ačijo 2 očija ojači
 ačijr 2 jarči račji
 ačijš 2 jačiš ščija
 ačikv 2 čivka kavči
-ačikž 2 čižka žička
 ačimo 2 očami očima
 ačimp 2 pačim pičam
 ačinp 2 čipna pinča
 ačinš 2 čašni ščina
-ačinž 2 činža žična
 ačipr 2 prači priča
 ačipt 2 pačit ptiča
-ačirž 2 žarči žičar
 ačjlu 2 čulja lučaj
 ačjor 2 račjo ročaj
 ačjuv 2 čujva čuvaj
@@ -5022,7 +4668,6 @@ bcekr 2 brkce brkec
 bceno 2 bonce bonec
 bceop 2 pobce pobec
 bceos 2 bosce bosec
-bceoz 2 zobce zobec
 bceož 2 božce božec
 bcepu 2 pubce pubec
 bcers 2 srbce srbec
@@ -5036,7 +4681,9 @@ bciko 2 bicko cibko
 bcikr 2 brkci brkic
 bcilu 2 bulci bulic
 bcios 2 bosci sobic
+bciož 2 božci božic
 bciru 2 bricu bruci
+bcirz 2 brzci brzic
 bcitu 2 butci butic
 bckru 2 brkcu bruck
 bcoru 2 borcu robcu
@@ -5060,7 +4707,6 @@ bdiov 2 bovid vbodi
 bdlou 2 blodu dolbu
 bdmoo 2 bodom dobom
 bdnoo 2 bodno dobno
-bdorz 2 brzdo zdrob
 beegr 2 brege grebe
 beegz 2 bezeg bezge
 beehl 2 beleh hlebe
@@ -5072,18 +4718,17 @@ beeln 2 blene nebel
 beelo 2 ebole obele
 beelr 2 brele rebel
 beelt 2 belet betel
-beelž 2 belež žlebe
 beenn 2 neben nebne
 beenž 2 bežen bežne
 beeos 2 obese osebe
 beerr 2 reber rebre
 beerw 2 weber webre
+beerz 2 breze rezbe
 beetv 2 betev betve
 befir 2 fiber fibre
 beflu 2 blefu blufe
 begik 2 gibek gibke
 begiu 2 ubegi ugibe
-begiz 2 bezgi zgibe
 begko 2 bogek bogke
 begmo 2 begom bogme
 begno 2 bonge engob
@@ -5091,26 +4736,22 @@ begnr 2 grben grbne
 begor 2 grebo grobe
 begot 2 boteg tegob
 begov 2 begov bogve
-beguz 2 bezgu zgube
 behil 2 belih hlebi
 behis 2 besih sebhi
 behkr 2 brhek brhke
 behlu 2 beluh hlebu
 behrt 2 hrbet hrbte
 beijt 2 bijte bitje
-beijz 2 zbije zjebi
 beijš 2 biješ šibje
 beiks 2 bikse sebki
-beikz 2 bzike zibke
 beikš 2 šibek šibke
 beilu 2 ubeli ubile
 beilv 2 vbile velbi
-beilž 2 bliže žlebi
 beimo 2 biome boemi
 beimt 2 bemti bitem
 beinn 2 nebin nebni
+beinz 2 izben izbne
 beios 2 obesi osebi
-beirž 2 ribež žrebi
 beisv 2 svibe vsebi
 bejlu 2 ljube lubje
 bejmo 2 bojem objem
@@ -5118,10 +4759,8 @@ bejnr 2 brenj brnje
 bejos 2 obsej seboj
 bejou 2 obuje uboje
 bejov 2 bojev obvej
-bejoz 2 zboje zobje
 bejoš 2 obješ šeboj
 bekmo 2 bekom boemk
-bekoz 2 zobek zobke
 bekpu 2 pubek pubke
 bekrs 2 brske skrbe
 beksu 2 sebku skube
@@ -5133,16 +4772,17 @@ bemoo 2 boemo boome
 bemos 2 besom bosem
 bemrz 2 bremz brzem
 benno 2 nebno noben
-benoz 2 zoben zobne
 benoš 2 šoben šobne
 benrt 2 brent brnet
 benru 2 buren burne
+benrz 2 brzen brzne
 beoor 2 obero obore
 beoos 2 obeso osebo
 beooz 2 ozebo ozobe
 beopr 2 prebo probe
 beotu 2 obetu obute
 beruv 2 brevu vebru
+beruž 2 burež rubež
 bfijo 2 fobij fojbi
 bfilu 2 blufi fibul
 bghio 2 bogih gobih
@@ -5153,7 +4793,6 @@ bgimu 2 gubim gumbi
 bginr 2 grbin grbni
 bginu 2 bingu gubni
 bgior 2 brigo grobi
-bgirz 2 brizg zgrbi
 bgmoo 2 bogom gobom
 bgnou 2 bongu gubno
 bgoov 2 bogov gobov
@@ -5171,14 +4810,11 @@ biijš 2 šibij šibji
 biikl 2 bilki kibli
 biikš 2 šibik šibki
 biiln 2 bilin blini
-biilz 2 izbil zbili
 biilš 2 biliš šibil
 biimr 2 birmi ribim
 biimt 2 bitim bitmi
 biiot 2 bioti obiti
-biirz 2 izbir zbiri
 biitv 2 bitvi vbiti
-biitz 2 izbit zbiti
 bijmo 2 bijmo bojim
 bijnr 2 brinj brnji
 bijnu 2 bujni bunji
@@ -5203,14 +4839,15 @@ bimos 2 bisom bosim
 bimot 2 bitom botim
 bimtu 2 butim tumbi
 binos 2 snobi sobni
+binoz 2 bizon izbno
 binrv 2 brvni vrbin
+binrz 2 brzin brzni
 bintu 2 bunit butni
 binšu 2 buniš bušni
 biopr 2 pribo probi
 biorv 2 briov obrvi
 biosv 2 bisov svibo
 biotu 2 obuti ubito
-biotz 2 zbito zobit
 biošv 2 bivšo obšiv
 bittu 2 butit tubit
 bištu 2 bušit butiš
@@ -5226,7 +4863,6 @@ bkoos 2 obsko skobo
 bkors 2 brsko oskrb
 blnoo 2 bolno lobno
 bloou 2 obolu obulo
-blooz 2 zbolo zlobo
 blorž 2 bržol obžrl
 bmmou 2 bumom umbom
 bmoop 2 opomb pobom
@@ -5234,12 +4870,11 @@ bmotu 2 butom tumbo
 bmouv 2 bumov umbov
 bnoor 2 borno robno
 bnoov 2 bonov obnov
+bnorz 2 bronz brzno
 bnosu 2 bonus snobu
 boorz 2 borzo obzor
 bootu 2 bootu obuto
-boovz 2 obvoz zobov
 borsu 2 burso obrus
-boruž 2 božur žubor
 brtuu 2 brutu tubru
 bčdee 2 bdeče bedeč
 bčdeo 2 bdečo bodeč
@@ -5272,7 +4907,6 @@ cdehu 2 duhce duhec
 cdeik 2 cedik dekic
 cdeio 2 ocedi odice
 cdeis 2 disce scedi
-cdeiz 2 zidce zidec
 cdelo 2 dolce dolec
 cdemo 2 domce domec
 cdeos 2 sodce sodec
@@ -5290,7 +4924,6 @@ cdišu 2 dušci dušic
 ceegl 2 cegel cegle
 ceehn 2 hecen hecne
 ceehv 2 ceveh hecev
-ceehz 2 zehce zehec
 ceejn 2 cejen jecne
 ceejp 2 cepje pejce
 ceekl 2 celek celke
@@ -5311,7 +4944,6 @@ cefko 2 cofek cofke
 cefku 2 fucek fucke
 cegil 2 cegli legic
 cegir 2 igrce regic
-cegiž 2 žigce žigec
 ceglo 2 golce golec
 ceglr 2 grlce grlec
 cegrt 2 trgce trgec
@@ -5334,17 +4966,14 @@ ceimo 2 ceomi omice
 ceimp 2 cepim cepmi
 ceims 2 mesci simce
 ceimv 2 cevmi vicem
+ceimz 2 cezim cmize
 ceino 2 enico oceni
 ceinr 2 ciren nerci
 ceint 2 cenit centi
-ceinž 2 nežic ženic
 ceipp 2 pipce pipec
-ceirz 2 rezci zreci
-ceirž 2 režic žreci
 ceisv 2 sivce sivec
 ceitu 2 uteci utice
 ceitv 2 cveti evcit
-ceivz 2 vezic zicev
 cejko 2 jokce jokec
 cejop 2 cepjo pejco
 cejru 2 cerju rejcu
@@ -5373,7 +5002,6 @@ cemšu 2 mušce mušec
 cenor 2 norce norec
 cenpu 2 punce punec
 cenru 2 curne nercu
-cenrz 2 zrnce zrnec
 ceopr 2 coper copre
 ceorv 2 cerov ocvre
 ceost 2 cesto coste
@@ -5389,7 +5017,6 @@ cfior 2 cifro froci
 cgilo 2 golci golic
 cgino 2 congi nogic
 cgiot 2 cigot gotic
-cgiož 2 gožic žogic
 cgoru 2 gorcu ogrcu
 chiil 2 cliih licih
 chiin 2 cinih inchi
@@ -5407,7 +5034,6 @@ ciilm 2 cimil milic
 ciiln 2 cinil linic
 ciilr 2 liric rilci
 ciilš 2 šilci šlici
-ciilž 2 žilic žlici
 ciimm 2 cimim mimic
 ciimn 2 cinim minic
 ciimr 2 cimir cimri
@@ -5418,7 +5044,6 @@ ciiop 2 copii opici
 ciipp 2 pipci pipic
 ciist 2 cisti sitci
 ciisv 2 sivci sivic
-ciivž 2 živci živic
 cijko 2 jokci jokic
 cijlu 2 cilju lijcu
 cijru 2 curij juric
@@ -5446,7 +5071,6 @@ cioop 2 copio opico
 ciopr 2 cipro copri
 ciopt 2 potic ptico
 ciorv 2 cirov ocvri
-ciorz 2 ciroz zoric
 ciost 2 cisto costi
 cippu 2 pipcu pupic
 ciprs 2 prsci srpic
@@ -5509,21 +5133,19 @@ deejž 2 dežje jedež
 deekl 2 dekel dekle
 deelm 2 medel medle
 deelp 2 pedel plede
+deelž 2 delež dežel
 deemu 2 edemu umede
 deemv 2 medve vedem
-deemz 2 mezde zmede
 deenu 2 duene edenu
-deenz 2 dezen zdene
 deenž 2 dežen dežne
 deeor 2 odere rodee
 deeru 2 udere urede
+deerz 2 derez rezed
 deerž 2 derež dreže
 deetu 2 duete etude
-deetz 2 dzete zdete
 defno 2 dofen fonde
 defor 2 ferod forde
 degou 2 goude ugode
-degoz 2 gozde zgode
 degož 2 godež odžge
 degru 2 druge grude
 dehim 2 demih medih
@@ -5536,16 +5158,18 @@ deiil 2 edili idile
 deiit 2 dieti idite
 deiiv 2 videi vidie
 deiju 2 ejidu ujedi
-deijž 2 dežji židje
+deijz 2 izjed jezdi
 deikl 2 dekli ledik
 deikm 2 dimek dimke
 deiks 2 deski diske
-deikz 2 zidek zidke
+deikž 2 dežki džeki
 deils 2 sedli sledi
 deilu 2 dueli edilu
+deilz 2 dizel dizle
 deimm 2 medim medmi
 deims 2 sedim sedmi
 deimu 2 uidem umedi
+deimz 2 izmed mezdi
 deimš 2 dišem mediš
 deimž 2 dežim džemi
 deino 2 edino oneid
@@ -5556,17 +5180,17 @@ deipz 2 pezdi pizde
 deiru 2 uderi uredi
 deisš 2 dišes sediš
 deitu 2 dueti etudi
-deišz 2 zdiše zideš
+deitž 2 dežit džeti
 dejku 2 judek judke
 dejlu 2 deluj ledju
 dejnr 2 drenj jedrn
 dejnu 2 duenj ejdun
-dejoz 2 dzoje zjedo
 dejoš 2 doješ odješ
 dejru 2 jedru reduj
 dejšu 2 duješ ejduš
 dekoš 2 deško škode
 dekru 2 dreku kredu
+dekrz 2 drzek drzke
 dekrž 2 držek držke
 dekuž 2 dežku džeku
 dekšu 2 dušek duške
@@ -5576,12 +5200,8 @@ delpu 2 dupel pledu
 delrv 2 drvel vdrle
 delsu 2 sedlu sledu
 deltu 2 detlu dletu
-deluž 2 džule žledu
 demop 2 moped podme
-demoz 2 mezdo zmedo
 demoš 2 odmeš šedom
-demrz 2 zdrem zmrde
-demrž 2 drmež žrdem
 denno 2 dneno donne
 denot 2 donet tendo
 denou 2 dueno udone
@@ -5594,17 +5214,18 @@ deoov 2 odevo ovedo
 deopv 2 odpev poved
 deorž 2 drože odžre
 deosu 2 usedo usode
+deotz 2 dzeto tozde
 deotž 2 dožet odžet
 deouv 2 odevu uvode
 deošv 2 doveš šedov
 dersu 2 dresu surde
-dertz 2 zdret zdrte
 deruv 2 drevu vedru
 deruž 2 druže udrže
 dgiin 2 dingi gnidi
 dgimo 2 dogmi godim
 dginr 2 drgni grdin
 dgiou 2 goudi ugodi
+dgioz 2 gizdo gozdi
 dgiož 2 godži odžgi
 dgiru 2 drugi grudi
 dgjou 2 goduj odjug
@@ -5628,7 +5249,6 @@ dhirs 2 drsih srdih
 dhirt 2 drhti trdih
 dhisu 2 shudi sudih
 dhitu 2 duhti hudit
-dhiuz 2 izduh zdihu
 dhišu 2 duših hudiš
 dhnoo 2 hodno hondo
 dhouv 2 duhov vhodu
@@ -5640,10 +5260,8 @@ diikv 2 divki vidik
 diiln 2 dnili lindi
 diilt 2 lidit tildi
 diimš 2 dimiš dišim
-diinz 2 zidin zidni
 diitv 2 divit tvidi
 dijor 2 rdijo rodij
-dijoz 2 dzoji zdijo
 dijoš 2 dojiš došij
 dijuz 2 uzdij uzdji
 diklo 2 dolki odlik
@@ -5651,27 +5269,22 @@ dikmu 2 dimku dumki
 diknr 2 drink drkni
 dikop 2 dopik odpik
 dikrs 2 drisk drski
-dikrz 2 drzki zdrki
 dikšu 2 dušik duški
 dillo 2 dolil odlil
 dilmo 2 lidom modli
 dilmu 2 mudil muldi
 dilnu 2 dunil nudil
+dilož 2 dolži džoli
 dilrs 2 drsil srdil
 dilrv 2 drvil vdrli
-dilrz 2 izdrl zdrli
 dimnu 2 mudni nudim
 dimop 2 pidom podim
 dimou 2 doumi udomi
-dimoz 2 zdimo zidom
-dimož 2 ždimo židom
 dimrt 2 mrdit trdim
 dimrv 2 drvim drvmi
-dimrž 2 držim žrdmi
 dimšu 2 dušim mudiš
 dinno 2 dnino donni
 dinnu 2 udnin undin
-dinoz 2 dozni zidno
 dinrt 2 trdin trdni
 dintu 2 dunit nudit
 diors 2 sidro sodri
@@ -5679,12 +5292,12 @@ diorz 2 dozri izrod
 diorž 2 droži odžri
 diosv 2 disov svodi
 diovv 2 vdovi vidov
+diovz 2 izvod odziv
 dipru 2 pridu pudri
 dipuž 2 džipu pudži
 dirsu 2 sidru surdi
 dirsš 2 drsiš srdiš
 dirtv 2 drvit vdrti
-dirtz 2 izdrt zdrti
 diruž 2 druži udrži
 djkou 2 dokuj odkuj
 djoop 2 dopoj odpoj
@@ -5705,7 +5318,6 @@ dlooš 2 došlo odšlo
 dlopr 2 odprl podrl
 dlopu 2 duplo plodu
 dlorv 2 odvrl vdrlo
-dlorz 2 dozrl zdrlo
 dmmoo 2 domom modom
 dmnoo 2 donom modno
 dmnou 2 mondu mudno
@@ -5730,7 +5342,6 @@ eegll 2 legel legle
 eeglm 2 megel megle
 eegmz 2 mezeg mezge
 eegnv 2 gneve venge
-eegnž 2 žegen žegne
 eegrt 2 grete terge
 eegrz 2 greze rezge
 eegst 2 geste stege
@@ -5741,7 +5352,6 @@ eehlv 2 hleve leveh
 eehmr 2 herme mereh
 eehms 2 sheme smehe
 eehrt 2 heter three
-eehvz 2 vezeh zeveh
 eeikp 2 ekipe epike
 eeilm 2 elemi imele
 eeilt 2 elite etile
@@ -5751,20 +5361,18 @@ eejkn 2 jekne nekje
 eejkš 2 šejek šejke
 eejkž 2 ježek ježke
 eejlt 2 lejte tejle
-eejlz 2 zelje zjele
 eejnr 2 rejen rejne
 eejnv 2 vejen vejne
 eejnz 2 jezen jezne
+eejnž 2 ježen ježne
 eejpt 2 pejte petje
 eejrs 2 resje serje
+eejrz 2 jezer rezje
 eejsš 2 seješ sejše
 eejtu 2 eteju ujete
-eejtž 2 težje žetje
 eekms 2 mesek meske
 eekns 2 esenk skene
 eeknš 2 neške šenke
-eekpž 2 žepek žepke
-eekrž 2 režke žerke
 eekst 2 sekte steke
 eeksv 2 sevke vseke
 eektt 2 tetke tkete
@@ -5777,6 +5385,8 @@ eelmv 2 levem velem
 eelmš 2 lešem šleme
 eelmž 2 lemež ležem
 eelnv 2 venel vnele
+eelnz 2 lezen lezne
+eelnž 2 ležen ležne
 eelov 2 oleve ovele
 eelpv 2 pleve vpele
 eelsu 2 luese usele
@@ -5785,6 +5395,7 @@ eeltu 2 leute ulete
 eeluž 2 uleže užele
 eelšv 2 lešev šleve
 eemmt 2 metem tmeme
+eemnz 2 menze nemez
 eempr 2 perem preme
 eemps 2 pesem speme
 eemrs 2 merse serem
@@ -5792,15 +5403,11 @@ eemrv 2 revme vreme
 eemrž 2 mreže režem
 eemsž 2 sežem sežme
 eemtv 2 metev metve
-eemtz 2 mezet zmete
-eemtž 2 metež žmete
-eemvz 2 vezem zevem
 eemvž 2 mevže vežem
 eennž 2 nežen nežne
 eenop 2 peone poene
 eenps 2 pesen pesne
 eenpv 2 peven pevne
-eenpž 2 žepen žepne
 eenrz 2 rezen rezne
 eenrš 2 rešen rešne
 eenss 2 sesen sesne
@@ -5808,6 +5415,7 @@ eensu 2 esenu unese
 eentv 2 venet vnete
 eentz 2 tezen tezne
 eentž 2 težen težne
+eenvz 2 vezen vezne
 eenvž 2 vežen vežne
 eeotž 2 oteže ožete
 eeprv 2 veper vepre
@@ -5820,7 +5428,6 @@ eervž 2 revež vreže
 eestž 2 sežet steže
 eesšt 2 steše šeste
 eetvz 2 tveze vzete
-eetvž 2 žetev žetve
 effrr 2 frfer frfre
 efglo 2 glefo golfe
 efgor 2 gofre grofe
@@ -5832,6 +5439,7 @@ efilm 2 filme limfe
 efilo 2 fiole folie
 efimn 2 finem nimfe
 efior 2 efiro efori
+efirz 2 frezi frize
 efišt 2 fešti fetiš
 efklo 2 floke folke
 efklu 2 feluk fleku
@@ -5850,7 +5458,6 @@ efmos 2 fesom sefom
 efmot 2 mofet tefom
 efnsu 2 senfu sfenu
 efntu 2 funte tunfe
-efnuz 2 fuzen zenfu
 efosv 2 fesov sefov
 efošt 2 fešto štofe
 efpru 2 pufer pufre
@@ -5865,30 +5472,25 @@ egilv 2 glevi glive
 egimm 2 migem migme
 egimn 2 ginem migne
 egims 2 sigem sigme
-egimz 2 mezgi zmige
 eginp 2 pengi pinge
-eginz 2 zegni zgine
 egist 2 gesti stegi
 egisž 2 sežgi sežig
 egjlu 2 gleju uglej
 egjmr 2 grjem grmje
-egjož 2 gožje žgejo
 egkno 2 gekon konge
 egkrš 2 grške škrge
 egllo 2 golel leglo
 eglmu 2 gemul glume
 eglnr 2 grlen grlne
 eglnu 2 glenu ugnel
-eglož 2 golež žgole
 eglpu 2 glupe pluge
 eglrv 2 vrgel vrgle
 egmnu 2 gumen munge
+egmož 2 gožem ožgem
 egmrt 2 grmet metrg
 egmuz 2 mezgu muzge
 egnot 2 gonte tonge
 egnru 2 genru grenu
-egnuz 2 guzne zegnu
-egnuž 2 žegnu žugne
 egops 2 gospe poseg
 egorv 2 ergov regov
 egorš 2 gorše groše
@@ -5910,11 +5512,8 @@ ehilm 2 lihem melih
 ehils 2 lesih selih
 ehimt 2 metih tihem
 ehinr 2 henri hreni
-ehinz 2 zehni zenih
 ehipt 2 petih tepih
-ehirz 2 rezih ziher
 ehitu 2 uhite utehi
-ehivz 2 vezih zevih
 ehišt 2 šihte štihe
 ehjko 2 hojke hokej
 ehjnu 2 nehuj njuhe
@@ -5938,7 +5537,6 @@ ehors 2 heros horse
 ehost 2 hoste osteh
 ehosv 2 hesov voseh
 ehott 2 hotet theto
-ehovz 2 vozeh zehov
 ehpsu 2 spehu uspeh
 eiikp 2 ekipi epiki
 eiimn 2 enimi imeni
@@ -5951,14 +5549,16 @@ eijln 2 lenij linje
 eijlu 2 ujeli ulije
 eijlš 2 jelši liješ
 eijmm 2 mejim mijem
-eijmž 2 ježim žijem
+eijmz 2 izjem jezim
 eijnp 2 penji pinje
 eijns 2 sejni sinje
+eijnž 2 ježni nižje
 eijsv 2 sijev vseji
+eijtž 2 ježit težji
 eijuz 2 ujezi uzije
+eijvz 2 vezij vezji
 eijšt 2 šijte tišje
 eijšz 2 izješ jeziš
-eijšž 2 ježiš žiješ
 eikmp 2 kempi kepim
 eikmr 2 kremi merki
 eikms 2 meski mikse
@@ -5970,24 +5570,26 @@ eikss 2 seksi seski
 eiksš 2 siške škise
 eiktu 2 etiku uteki
 eikvv 2 vivek vivke
-eikvz 2 kvize zevki
-eikzz 2 zizek zizke
 eikšt 2 kište tiške
-eikžž 2 žižek žižke
 eillm 2 melil mleli
 eillp 2 lepil pleli
 eillt 2 telil tleli
 eillv 2 levil vlile
-eillz 2 lezli zlile
+eilmz 2 izmel mezil
 eilno 2 olein onile
+eilnž 2 ležni nežil
 eilpž 2 pilež pleži
 eilrt 2 liter litre
 eilrš 2 rešil šlire
+eiltz 2 izlet iztle
 eiluv 2 uveli uvile
 eiluz 2 ezuli ulezi
+eilšz 2 izšel izšle
+eilšž 2 ležiš ližeš
 eimmr 2 merim mermi
 eimmš 2 mišem šemim
 eimnu 2 imenu imune
+eimnž 2 ižnem nežim
 eimor 2 omeri romei
 eimos 2 eisom omesi
 eimot 2 ometi omite
@@ -5995,18 +5597,20 @@ eimpt 2 petim tempi
 eimpž 2 pižem pižme
 eimrv 2 revmi verim
 eimtv 2 metvi vitem
+eimtz 2 izmet mezit
+eimtž 2 mežit težim
+eimvž 2 mevži vežim
 eimšv 2 mišev višem
 einnp 2 penin pinen
 einnt 2 niten nitne
 einnš 2 nišen nišne
-einnž 2 nežni ženin
 einov 2 evino oveni
 einoz 2 eozin noezi
 einož 2 oženi ožine
+einrz 2 rezin rezni
 einsu 2 unesi usine
-eintz 2 tezni zenit
-einzz 2 zizen zizne
-einšž 2 nežiš ženiš
+einvz 2 izven vezni
+einvž 2 neživ vežni
 eiopr 2 operi opire
 eiopž 2 ižope ožepi
 eiors 2 erosi orise
@@ -6015,6 +5619,7 @@ eiorv 2 overi ovire
 eiotv 2 oveti ovite
 eiošt 2 oteši otiše
 eiprv 2 vepri vperi
+eiprz 2 izpre prize
 eiprž 2 preži priže
 eipsš 2 speši spiše
 eiptu 2 upeti utepi
@@ -6024,10 +5629,8 @@ eipšv 2 pišev vpiše
 eirrv 2 revir river
 eirsv 2 vresi vrise
 eirsž 2 serži sreži
-eirtž 2 žreti žrite
 eiruv 2 iveru uveri
 eirvž 2 rižev vreži
-eirzž 2 izžre zreži
 eiršv 2 veriš vriše
 eistž 2 sitež steži
 eisvž 2 sveži sviže
@@ -6048,15 +5651,16 @@ ejlou 2 joule ujelo
 ejlrt 2 trelj trlje
 ejlsu 2 sluje uljes
 ejmnu 2 njemu umenj
+ejmoz 2 jezom mejoz
+ejmož 2 možje ožjem
 ejmru 2 rujem umrje
 ejmsu 2 sejmu sujem
 ejmtu 2 metju tujem
 ejmuu 2 emuju umuje
 ejmšu 2 mušje ušjem
-ejnoz 2 jezno znoje
+ejnož 2 ježno oženj
 ejnpr 2 prenj prnje
 ejnrs 2 srenj srnje
-ejnrz 2 zrenj zrnje
 ejnsu 2 snuje usnje
 ejnuž 2 južen južne
 ejnšu 2 jušen jušne
@@ -6066,6 +5670,7 @@ ejopv 2 povej vpoje
 ejopš 2 poješ pšejo
 ejoru 2 joure urejo
 ejorš 2 orješ šjore
+ejorž 2 režjo rožje
 ejost 2 joste stoje
 ejotu 2 otuje ujeto
 ejprs 2 sprej srpje
@@ -6090,18 +5695,20 @@ ekmrv 2 mrkev mrkve
 ekmrz 2 mrzek mrzke
 ekmrž 2 kremž mrkež
 ekmtu 2 kmetu metku
+ekmuž 2 kužem mekuž
 eknou 2 neuko okune
-eknoz 2 zoken zokne
 eknoš 2 košen košne
 eknru 2 rukne runke
 eknrv 2 krven krvne
-eknsž 2 snežk žensk
 eknuv 2 kvenu vnuke
+eknuž 2 kužen kužne
 ekopp 2 popek popke
 ekopu 2 pouke upeko
 ekors 2 krose serko
 ekoru 2 ukore uroke
+ekorž 2 režko rožke
 ekott 2 oktet tetko
+ekovz 2 vozek vozke
 ekošv 2 košev šekov
 ekppu 2 pupek pupke
 ekprt 2 trpek trpke
@@ -6117,25 +5724,23 @@ ekssu 2 seksu sesku
 eksšt 2 stkeš šestk
 eksšu 2 skuše suške
 ekttu 2 tekut tutke
-ekužž 2 žužek žužke
 ekštu 2 kušet štuke
 ekštv 2 števk vtkeš
 ellmo 2 mlelo molel
 ellop 2 oplel plelo
 elmnu 2 lumen lumne
+elmož 2 ložem molže
 elmrz 2 mrzel mrzle
 elmtu 2 metul mulet
-elmuž 2 mužel žmule
 elmšu 2 šlemu šumel
-elnoz 2 lezno zelno
 elnoš 2 šolen šolne
 elnuž 2 lužen lužne
 eloov 2 eolov ovelo
 elopu 2 olupe upelo
 elors 2 loser soler
+elorž 2 ožrle rožle
 elosz 2 oslez solze
-elotz 2 zelot zlote
-elotž 2 žlote žolte
+elovž 2 ložev vlože
 elprt 2 trlep trpel
 elpst 2 plest splet
 elpšu 2 šlepu špule
@@ -6160,7 +5765,6 @@ emors 2 osmer serom
 emoru 2 romeu umore
 emosv 2 sevom vosem
 emotv 2 metov vetom
-emotz 2 zetom zmote
 empru 2 permu uprem
 empsu 2 spemu uspem
 emrtž 2 trmež tržem
@@ -6173,15 +5777,16 @@ enoot 2 enoto otone
 enooz 2 noezo ozone
 enopu 2 peonu poenu
 enopz 2 pozen pozne
+enorz 2 rezno rezon
 enorš 2 norše rešno
 enosš 2 sošen sošne
 enotu 2 onetu utone
 enotz 2 notez tezno
 enprs 2 prsen prsne
 enprš 2 pršen pršne
-enpuž 2 župen župne
 enpšu 2 penuš pšenu
 enrtt 2 trten trtne
+enrtz 2 trzen trzne
 enrtž 2 tržen tržne
 enrvv 2 vrven vrvne
 enršt 2 štern štren
@@ -6195,7 +5800,6 @@ eoprs 2 spore srepo
 eoprž 2 požre prežo
 eopss 2 pesos sepso
 eopsš 2 ospeš sopeš
-eoptz 2 potez zopet
 eopvv 2 pevov povev
 eopvz 2 pezov povez
 eopšv 2 pošev poveš
@@ -6206,7 +5810,6 @@ eorvž 2 ovrže vrežo
 eoršv 2 ovreš ševro
 eostu 2 etosu osute
 eosšt 2 šesto štose
-eovvz 2 vezov zevov
 eoštt 2 oštet šteto
 eprsš 2 spreš sprše
 erstž 2 strež strže
@@ -6215,6 +5818,7 @@ ersuž 2 seržu srežu
 erttu 2 utret utrte
 erttv 2 vrtet vtret
 ertuz 2 uzret uzrte
+ertvž 2 vrtež vžret
 eruvz 2 verzu vrezu
 erštu 2 retuš utreš
 eršvž 2 vržeš vžreš
@@ -6265,7 +5869,6 @@ giijt 2 gitij gitji
 giilr 2 grili ligri
 giinr 2 rigni ringi
 giint 2 ginit gniti
-giinz 2 izgin zgini
 giirt 2 griti tigri
 giirž 2 griži ržigi
 gijnu 2 gnuji gunji
@@ -6280,29 +5883,25 @@ gillu 2 gulil ligul
 gilmu 2 glumi gulim
 gilnr 2 grlin grlni
 gilor 2 goril rilog
-giloz 2 zgoli zlogi
 giloš 2 goliš golši
-gilož 2 gožil žgoli
 gilpu 2 glupi plugi
 gilšu 2 gluši guliš
 gimmo 2 migmo migom
 gimnu 2 gumni mungi
 gimot 2 gmoti togim
 gimov 2 migov vigom
+gimož 2 gožim gožmi
 gimrš 2 grmiš gršim
-gimuz 2 muzgi zmigu
 ginop 2 pingo pogin
+ginoz 2 gnozi izgon
 ginrt 2 grint trgni
 giopž 2 požgi požig
 giorž 2 grižo ržigo
 giost 2 gosti stogi
-giovž 2 gožvi žigov
 girst 2 grist strig
 giruz 2 grizu ugriz
-girvz 2 izvrg zvrgi
 giuvž 2 gužvi vžigu
 gjlou 2 golju oglju
-gjloz 2 zgloj zgolj
 gjnou 2 gnoju ognju
 gjnuu 2 gnuju gunju
 gjoru 2 gorju jogru
@@ -6310,7 +5909,6 @@ gjotu 2 gujot toguj
 gkoor 2 gorko okrog
 gkorš 2 grško škrgo
 gloot 2 gloto golot
-glouz 2 guloz zlogu
 glsuu 2 slugu uslug
 gmnuu 2 gumnu mungu
 gmort 2 grmot trgom
@@ -6327,7 +5925,6 @@ hiikp 2 kipih pikih
 hiilp 2 hlipi pilih
 hiinn 2 nihni ninih
 hiips 2 psihi sipih
-hiirž 2 rižih žirih
 hiisv 2 sivih visih
 hiišv 2 šivih viših
 hijlo 2 lojih oljih
@@ -6360,7 +5957,6 @@ hinop 2 hipno hopni
 hinos 2 osnih sonih
 hinov 2 novih ovnih
 hinru 2 runih urnih
-hinrz 2 hrzni zrnih
 hiops 2 psiho sopih
 hiopt 2 potih topih
 hiopv 2 hipov pihov
@@ -6369,7 +5965,6 @@ hiott 2 tihot totih
 hiotv 2 hitov hotiv
 hiprs 2 prsih srpih
 hiruv 2 vihru virhu
-hiruž 2 ružih žurih
 hiršt 2 hršit trših
 hkršu 2 hrušk škurh
 hlmou 2 holmu uhlom
@@ -6388,10 +5983,8 @@ iijjt 2 jitij jitji
 iijln 2 linij linji
 iijls 2 silij silji
 iijlt 2 litij litji
-iijlž 2 žilij žilji
 iijmn 2 minij njimi
 iijmr 2 mirij mirji
-iijmz 2 izmij zmiji
 iijnp 2 pinij pinji
 iijnt 2 nitij nitji
 iijnv 2 njivi vinji
@@ -6399,7 +5992,6 @@ iijps 2 psiji sipji
 iijpt 2 pitij pitji
 iijrs 2 jirsi risji
 iijtv 2 vitij vitji
-iijtž 2 žitij žitji
 iijvz 2 izvij vizij
 iikkl 2 kikli kliki
 iikll 2 klili lilki
@@ -6415,48 +6007,46 @@ iikrž 2 križi rižki
 iiksv 2 sivki viski
 iiksš 2 siški škisi
 iills 2 lisil silil
-iillz 2 izlil zlili
 iilmu 2 ilium umili
 iilmš 2 miliš šilim
 iilnp 2 pinil plini
 iilnv 2 livni vinil
+iilnz 2 lizin lizni
 iilop 2 opili polii
 iilot 2 iolit tioli
 iilož 2 oliži ožili
 iilps 2 slipi spili
 iilru 2 iliru urili
+iilrz 2 izril rizli
 iilrš 2 širil šliri
 iiltt 2 tilit titli
 iiltu 2 ilitu uliti
-iilvž 2 vižli živil
+iiltz 2 izlit iztli
+iilvz 2 izliv izvil
 iilšt 2 šilit tišil
-iilšz 2 izšli zišli
 iimmš 2 mišim mišmi
 iimpr 2 primi ripim
+iimrz 2 izmri rizmi
 iimsv 2 sivim visim
 iimsš 2 misiš šmisi
 iimuz 2 izumi uzimi
-iimvž 2 živim živmi
 iinnt 2 intin nitni
 iinop 2 iponi pioni
 iinpr 2 pirin pirni
 iinpv 2 pivin pivni
 iinrs 2 risni sirni
 iinru 2 ruini urini
-iinrz 2 rizin zrini
 iinrš 2 širin širni
 iinsv 2 sivin sivni
-iinvz 2 izvin zvini
-iinvž 2 živin živni
 iinšv 2 šivni višin
 iiops 2 opisi osipi
-iiovž 2 oživi živio
 iiprz 2 izpri prizi
 iipst 2 pisti spiti
 iipsv 2 vpisi vsipi
 iirsu 2 irisu usiri
 iirtu 2 uriti utiri
 iirtv 2 ivrit vitri
+iirtz 2 izrit tirzi
 iiršt 2 širit štiri
 iiršš 2 širiš širši
 iisšt 2 istiš sitiš
@@ -6481,13 +6071,11 @@ ijlrt 2 trilj trlji
 ijlsu 2 silju siluj
 ijmmo 2 mijmo mojim
 ijmoš 2 mišjo šijmo
-ijmož 2 ožjim žijmo
 ijmšu 2 mušji ušjim
 ijnnu 2 njuni nujni
 ijnor 2 norij rojni
 ijnot 2 joint nitjo
 ijnrt 2 trnij trnji
-ijnrz 2 zrnij zrnji
 ijnuž 2 južin južni
 ijopp 2 popij popji
 ijopr 2 porij proji
@@ -6495,19 +6083,17 @@ ijopv 2 povij vpoji
 ijopš 2 pojiš pošij
 ijoru 2 jouri urijo
 ijorv 2 rjovi rojiv
-ijorz 2 zorji zroji
 ijorž 2 rožij rožji
 ijost 2 josti stoji
 ijosu 2 osuji souji
 ijosv 2 sovji svoji
+ijovž 2 vožij vožji
 ijprs 2 srpij srpji
 ijpsu 2 psiju pujsi
 ijrtt 2 trtij trtji
-ijrtž 2 žrtij žrtji
 ijruv 2 virju vriju
 ijrvv 2 vrvij vrvji
 ijsšu 2 sušij sušji
-ijtuž 2 južit žitju
 ikkmu 2 kukmi kumki
 ikknr 2 krink krkni
 ikkor 2 korki kroki
@@ -6524,9 +6110,10 @@ ikmrs 2 skrmi smrki
 ikmru 2 kurim murki
 ikmrv 2 krmiv mrkvi
 ikmrš 2 krmiš kršim
-ikmuz 2 muzik zmiku
 iknnu 2 kunin nunki
+iknoz 2 kozin nizko
 iknoš 2 košni niško
+iknož 2 kožni nožki
 iknrs 2 iskrn srkni
 iknuž 2 kužni nižku
 ikoop 2 okopi opoki
@@ -6534,29 +6121,27 @@ ikoru 2 ukori uroki
 ikorz 2 korzi krizo
 ikorž 2 kroži rožki
 ikotz 2 iztok kozit
-ikovz 2 vozki zvoki
 ikošv 2 šikov viško
 ikprs 2 prski srpki
 ikprt 2 kript trpki
 ikpru 2 krupi pruki
 ikrru 2 kruri kurir
+ikruž 2 križu rižku
 ikrvž 2 vkriž vržki
 ikršv 2 švrki vrški
 iksuv 2 sivku visku
 iktuv 2 tkivu vtiku
-iktuž 2 kužit žitku
-ikužž 2 žižku žužki
 ikšuv 2 ušivk višku
 illmo 2 lomil molil
 illmu 2 limul mulil
 illop 2 lopil polil
 illot 2 lotil tolil
-illoz 2 lizol zlilo
-illuž 2 lužil žulil
 ilmrv 2 mrvil vrlim
 ilmrš 2 mrliš mršil
 ilmtu 2 mulit tulim
+ilmuž 2 lužim mužil
 ilmšu 2 muliš mušil
+ilnož 2 ložin ložni
 ilnrv 2 vrlin vrnil
 ilntu 2 lunti nulti
 ilnuz 2 inzul lizun
@@ -6564,26 +6149,25 @@ ilnuž 2 lužin lužni
 ilopp 2 polip popil
 ilopz 2 polzi pozli
 ilorv 2 livro ovrli
+ilorz 2 ozrli rizlo
+ilotž 2 ložit tožil
 ilovv 2 livov volvi
 ilovž 2 vižlo vloži
-ilozž 2 zloži zožil
-ilošz 2 izšlo zišlo
 ilppu 2 pulpi pupil
 ilprs 2 prsil sprli
 ilpuz 2 pulzi puzli
 ilrtv 2 vrtil vtrli
-ilruž 2 ružil žuril
+ilruz 2 izrul uzrli
 ilsuv 2 vislu vsuli
 ilsuz 2 izsul sluzi
 iltuv 2 tvilu vitlu
-iltuž 2 lužit žulit
 iluvv 2 vlivu vulvi
 ilštu 2 štuli tuliš
-ilšuž 2 lužiš žuliš
 immnu 2 mumin umnim
 immou 2 miomu umimo
 immov 2 mimov vimom
 immoz 2 izmom mimoz
+immož 2 možim možmi
 immšu 2 mušim šumim
 imnov 2 novim vinom
 imnoz 2 mizno nizom
@@ -6592,13 +6176,13 @@ imnsu 2 minus sumni
 imoot 2 omito omoti
 imoož 2 omoži ožimo
 imoru 2 umori urimo
+imotž 2 možit tožim
 imprt 2 prtim trpim
 imrtt 2 trmit trtim
 imrtz 2 izmrt mrzit
 imrvv 2 vrvim vrvmi
 imršu 2 rušim šmiru
 imršv 2 mrviš vršim
-imršz 2 mrziš zmrši
 imuvz 2 vizum vuzmi
 imššu 2 mušiš šumiš
 innot 2 nitno notni
@@ -6608,13 +6192,14 @@ inopu 2 iponu pionu
 inopš 2 šipon šponi
 inors 2 rosni sirno
 inoru 2 ruino urino
-inosz 2 iznos znosi
+inorz 2 ozrni rozin
+inorž 2 rižno rožni
 inosš 2 nosiš sošni
 inott 2 tinto tonit
 inotu 2 unito utoni
 inotv 2 tinov vinto
+inovz 2 nizov vozni
 inošt 2 šnito šotni
-inrtz 2 trzni zrnit
 inršu 2 rušin rušni
 inršv 2 vršin vršni
 inssu 2 sinus snusi
@@ -6625,12 +6210,10 @@ ioopt 2 opito otopi
 ioppr 2 pirop popri
 ioprs 2 prosi spori
 ioptt 2 potit topit
-ioršz 2 ozrši zoriš
+iortz 2 torzi trioz
 iostt 2 stoti tisto
 iostu 2 osuti suito
 iosšt 2 sotiš štosi
-iotvz 2 vozit zvito
-iovzz 2 izvoz zvozi
 ioštv 2 šitov všito
 ipršu 2 purši špuri
 ipstu 2 pusti stupi
@@ -6640,8 +6223,8 @@ irstt 2 strti trsti
 irstž 2 striž strži
 irsuv 2 virus vrisu
 irsšt 2 sršit strši
+irtuž 2 ružit utrži
 irštv 2 vršit vrtiš
-iršuž 2 ružiš žuriš
 istuz 2 izsut izust
 jkloo 2 okolj oljko
 jklou 2 kloju kolju
@@ -6708,7 +6291,6 @@ koršu 2 ruško škuro
 kosuv 2 sukov vosku
 kosšu 2 skušo suško
 kotuv 2 votku vtoku
-kouvz 2 vozku zvoku
 kprsu 2 prsku srpku
 krštu 2 škrtu štrku
 kršuv 2 švrku vršku
@@ -6719,15 +6301,12 @@ lmoru 2 morul umrlo
 lmouv 2 mulov vlomu
 lnoop 2 lopno polno
 lnoos 2 oslon solno
-lnoož 2 ložno žolno
 lnotu 2 lunto nulto
 loops 2 polos soplo
 loopu 2 opolu poolu
 loort 2 otrlo trolo
 lootv 2 lotov votlo
-lootž 2 žloto žolto
 lopst 2 polst stolp
-loruz 2 uzrlo zurlo
 lostu 2 stolu tolus
 losuu 2 soulu usulo
 losuv 2 slovu vsulo
@@ -6742,18 +6321,13 @@ mmosu 2 musom sumom
 mnoor 2 morno normo
 mnoov 2 nomov ovnom
 moort 2 motor torom
-moorz 2 omrzo zorom
 moost 2 stomo tomos
-moosz 2 osmoz zosom
 mootu 2 omotu outom
 mootv 2 motov tomov
-moouz 2 ouzom zoomu
-moovz 2 vozom zovom
 moppu 2 pompu pumpo
 moprs 2 prsom srpom
 mopsu 2 mopsu supom
 mortv 2 mrtvo vrtom
-moruž 2 mrožu žurom
 mostu 2 mostu ustom
 mosuv 2 musov sumov
 mosšu 2 mošus šusom
@@ -6761,14 +6335,11 @@ noops 2 ponos spono
 noopt 2 potno topno
 noopv 2 ponvo vpono
 noort 2 torno toron
-noorž 2 rožno žnoro
 nootv 2 novot tonov
-nootž 2 tožno žonto
 noovv 2 ovnov vnovo
 noptu 2 pontu punto
 norst 2 strno trsno
 nortv 2 trnov vrtno
-noruz 2 noruz zurno
 nrstu 2 strnu strun
 nstuu 2 usnut ustnu
 ooprs 2 proso sporo
@@ -6779,7 +6350,6 @@ oortz 2 ortoz torzo
 ooršt 2 oštro šotor
 oostv 2 ostvo vsoto
 oosvv 2 ovsov vosov
-oovvz 2 vozov zovov
 oprtv 2 prtov prvot
 opršt 2 prošt šport
 opštu 2 štopu štupo
@@ -6801,7 +6371,6 @@ rsttu 2 trstu trust
 čdeou 2 douče oduče
 čdhiu 2 čudih hudič
 čdiio 2 idoči odiči
-čdiiz 2 zdiči zidič
 čdimu 2 čudim čudmi
 čdinr 2 drčni drnič
 čdiou 2 douči oduči
@@ -6813,9 +6382,9 @@ rsttu 2 trstu trust
 čeels 2 seleč sleče
 čeelt 2 leteč tleče
 čeelv 2 veleč vleče
-čeelž 2 ležeč želeč
 čeemt 2 čemet tečem
 čeemv 2 mečev večem
+čeemz 2 čezme mezeč
 čeemž 2 čemže mežeč
 čeenv 2 večen večne
 čeeot 2 očete oteče
@@ -6837,23 +6406,21 @@ rsttu 2 trstu trust
 čeijv 2 čijev večji
 čeikm 2 kičem mečki
 čeiks 2 sečki skeči
+čeikž 2 čižek čižke
 čeill 2 čelil lečil
 čeilu 2 učile uleči
 čeilv 2 levič vleči
-čeilz 2 izleč zleči
 čeimo 2 očime omeči
 čeimp 2 čepim pečmi
 čeimt 2 mečit tičem
 čeimv 2 večim vičem
-čeimz 2 zmeči zmiče
 čeinn 2 ničen nične
 čeinr 2 rečni renči
+čeinž 2 čežin činže
 čeirv 2 črevi vreči
-čeirz 2 izreč zreči
 čeisš 2 sčeši sičeš
 čeitu 2 učite uteči
 čeitv 2 tičev vtiče
-čeivž 2 živeč žveči
 čejlu 2 čulje lečju
 čejmu 2 čujem mečuj
 čejov 2 ovčje večjo
@@ -6915,13 +6482,12 @@ rsttu 2 trstu trust
 čiikp 2 čipki pički
 čiikr 2 čirik kriči
 čiikš 2 čiški šički
-čiikž 2 čižki žički
 čiilm 2 čilim ličim
 čiilp 2 pičil pičli
 čiils 2 čisli sliči
+čiimž 2 čimži čižmi
 čiinp 2 čipni pinči
 čiinu 2 učini uniči
-čiinž 2 činži žični
 čiips 2 čipsi psiči
 čiipt 2 pičit ptiči
 čiirt 2 ričti rtiči
@@ -6939,7 +6505,6 @@ rsttu 2 trstu trust
 čikuž 2 čižku čužki
 čikšu 2 ščuki šičku
 čiloš 2 ločiš lošči
-čilož 2 ližoč žolči
 čilrt 2 črtil trčil
 čimmo 2 močim močmi
 čimmu 2 čumim mučim
@@ -6953,7 +6518,6 @@ rsttu 2 trstu trust
 činno 2 nično nočni
 činnu 2 inčun učnin
 činoš 2 nočiš ščino
-činož 2 nožič žično
 činpu 2 pinču punči
 činrs 2 sčrni srčni
 čioos 2 osoči sooči
@@ -7031,14 +6595,12 @@ aabck 1 backa
 aabct 1 batca
 aabcv 1 vabca
 aabcč 1 bacač
-aabcž 1 žabca
 aabdh 1 bahad
 aabdj 1 bajad
 aabdl 1 balad
 aabdn 1 banda
 aabdo 1 obada
 aabdu 1 ubada
-aabdz 1 zbada
 aabek 1 abake
 aabem 1 ameba
 aaber 1 beara
@@ -7055,6 +6617,7 @@ aabhh 1 habah
 aabhj 1 bahaj
 aabhz 1 bazah
 aabhš 1 bahaš
+aabhž 1 bažah
 aabij 1 abaji
 aabik 1 abaki
 aabim 1 ibama
@@ -7062,7 +6625,6 @@ aabis 1 saabi
 aabiv 1 avabi
 aabjj 1 bajaj
 aabjz 1 jazba
-aabjž 1 žabja
 aabkm 1 kamba
 aabkn 1 banka
 aabkt 1 batka
@@ -7071,8 +6633,11 @@ aabkv 1 bavka
 aabkz 1 kazba
 aabkš 1 baška
 aablo 1 obala
+aablz 1 balza
 aabmo 1 boama
 aabmt 1 batam
+aabmz 1 bazam
+aabmž 1 bažam
 aabnn 1 banan
 aabnz 1 bazna
 aabor 1 obara
@@ -7080,14 +6645,13 @@ aabot 1 abota
 aabrs 1 sraba
 aabru 1 abura
 aabrv 1 barva
+aabrz 1 bazar
 aabrš 1 baraš
 aabsu 1 saabu
-aabsz 1 zbasa
 aabsš 1 basaš
 aabtt 1 batat
 aabtv 1 bavta
 aabvz 1 zabav
-aabvž 1 žavba
 aabčh 1 bahač
 aabčk 1 bačka
 aabčr 1 brača
@@ -7130,7 +6694,6 @@ aackš 1 kacaš
 aaclm 1 malca
 aacln 1 lanca
 aaclr 1 racal
-aaclž 1 žalca
 aacmm 1 macam
 aacms 1 samca
 aacmt 1 tacam
@@ -7187,23 +6750,21 @@ aadmv 1 vadam
 aadno 1 anoda
 aadnu 1 dauna
 aadnz 1 zadan
-aadnž 1 žadna
 aadop 1 opada
 aador 1 orada
 aadps 1 spada
 aadpt 1 padat
 aadpu 1 upada
 aadpv 1 vpada
-aadpz 1 zapad
 aadpš 1 padaš
 aadrr 1 radar
 aadrt 1 drata
 aadrv 1 drava
 aadry 1 yarda
+aadrz 1 razda
 aadst 1 dasta
 aadsu 1 usada
 aadsv 1 vsada
-aadsz 1 zasad
 aadtu 1 aduta
 aadtz 1 zadat
 aaduv 1 udava
@@ -7253,7 +6814,6 @@ aafit 1 fiata
 aafjn 1 afnaj
 aafjs 1 fasaj
 aafjt 1 fajta
-aafjž 1 žajfa
 aafkp 1 pafka
 aafks 1 faksa
 aafkt 1 fakta
@@ -7279,7 +6839,6 @@ aaggl 1 gagal
 aaggm 1 gagam
 aaggt 1 gagat
 aaggv 1 gavga
-aaggz 1 zgaga
 aaggš 1 gagaš
 aaghj 1 jagah
 aaghs 1 sagah
@@ -7287,6 +6846,7 @@ aaght 1 gatah
 aaghv 1 vagah
 aaghz 1 gazah
 aaghš 1 šagah
+aaghž 1 gažah
 aagir 1 agira
 aagit 1 agati
 aagiv 1 agavi
@@ -7295,13 +6855,13 @@ aagjl 1 glaja
 aagjm 1 jagam
 aagju 1 ugaja
 aagjv 1 vagaj
-aagjz 1 zgaja
-aagjž 1 žagaj
 aagkv 1 kvaga
 aaglo 1 ogala
 aagls 1 glasa
-aaglz 1 zlaga
+aaglž 1 glaža
 aagmv 1 vagam
+aagmz 1 gazam
+aagmž 1 gažam
 aagno 1 agona
 aagns 1 snaga
 aagnu 1 guana
@@ -7310,19 +6870,16 @@ aagpt 1 pagat
 aagpš 1 špaga
 aagru 1 garua
 aagry 1 graya
-aagrz 1 zgara
+aagrž 1 garaž
 aagsv 1 gavsa
 aagtt 1 tagat
 aagtu 1 agatu
 aagtv 1 vagat
 aagtz 1 zagat
-aagtž 1 žagat
 aaguv 1 guava
 aaguž 1 užaga
-aagvz 1 zvaga
 aagšt 1 tagaš
 aagšu 1 ugaša
-aagšž 1 žagaš
 aahhi 1 ihaha
 aahhm 1 hamah
 aahhr 1 harah
@@ -7331,7 +6888,6 @@ aahjj 1 jahaj
 aahjn 1 jahan
 aahjo 1 ahajo
 aahjp 1 pahaj
-aahjz 1 zjaha
 aahjš 1 jahaš
 aahkp 1 kapah
 aahkv 1 kavah
@@ -7340,10 +6896,8 @@ aahln 1 lahna
 aahlt 1 latah
 aahlu 1 uhala
 aahlz 1 halaz
-aahlž 1 žalah
 aahms 1 masah
 aahmv 1 mahav
-aahmz 1 zamah
 aahmž 1 mažah
 aahns 1 snaha
 aahnu 1 uhana
@@ -7354,8 +6908,11 @@ aahov 1 ohava
 aahoz 1 oazah
 aahpp 1 papah
 aahpv 1 phava
+aahpz 1 pazha
 aahrv 1 avrah
+aahrz 1 razah
 aahrš 1 šarah
+aahrž 1 ražah
 aahst 1 tasah
 aahtt 1 tatah
 aahuv 1 uhava
@@ -7389,8 +6946,10 @@ aajjt 1 tajaj
 aajkž 1 kajža
 aajll 1 lajal
 aajlr 1 rajal
+aajlz 1 zajla
+aajlž 1 lažja
+aajmz 1 zajma
 aajmš 1 jašma
-aajmž 1 žamaj
 aajnt 1 tajna
 aajnu 1 juana
 aajnz 1 nazaj
@@ -7402,14 +6961,12 @@ aajpt 1 tapaj
 aajpv 1 pavja
 aajpš 1 šapaj
 aajrs 1 saraj
-aajrz 1 zarja
+aajrž 1 rajža
 aajsu 1 usaja
 aajtt 1 tajat
 aajtu 1 utaja
 aajtv 1 tavaj
-aajtz 1 zataj
 aajuv 1 uvaja
-aajvz 1 zvaja
 aajzz 1 jazza
 aajšv 1 šavja
 aajšš 1 šašja
@@ -7419,7 +6976,7 @@ aakku 1 kakau
 aakkz 1 kazak
 aakkš 1 kakaš
 aaklu 1 ukala
-aaklž 1 žlaka
+aaklz 1 kazal
 aakmu 1 makau
 aaknn 1 nakan
 aakop 1 okapa
@@ -7430,11 +6987,12 @@ aakpz 1 pazka
 aakpž 1 pakaž
 aakrr 1 rakar
 aakru 1 araku
-aakrz 1 zraka
+aakrž 1 kraža
 aakss 1 saksa
 aaksš 1 saška
 aaktz 1 kazat
 aakuv 1 ukava
+aakuz 1 ukaza
 aakšš 1 šaška
 aalln 1 llana
 aallo 1 olala
@@ -7442,9 +7000,11 @@ aalls 1 lasal
 aallu 1 ulala
 aalmn 1 malan
 aalmo 1 aloam
+aalmz 1 mazal
 aalno 1 alona
 aalnr 1 ralna
 aalnš 1 našla
+aalnž 1 lažna
 aalop 1 opala
 aalor 1 orala
 aalos 1 olasa
@@ -7452,21 +7012,19 @@ aalot 1 atola
 aalpp 1 papal
 aalpu 1 upala
 aalpy 1 playa
+aalpz 1 plaza
 aalpž 1 plaža
 aalru 1 alura
-aalrž 1 žalar
 aalsu 1 alasu
-aalsz 1 zlasa
-aaltz 1 zlata
 aalvv 1 valva
-aalvž 1 žvala
-aalšz 1 zašla
+aalvz 1 vazal
+aalzz 1 lazza
 aammm 1 mamam
 aammp 1 mapam
 aamms 1 masam
 aammt 1 tamam
-aammz 1 zmama
 aammš 1 mašam
+aammž 1 mažam
 aamnn 1 manan
 aampv 1 vampa
 aampž 1 pamža
@@ -7475,10 +7033,7 @@ aamsž 1 masaž
 aamtt 1 tatam
 aamtu 1 utama
 aamtz 1 mazat
-aamtž 1 žamat
 aamšv 1 avšam
-aamšž 1 žamaš
-aannz 1 znana
 aanop 1 apnoa
 aanor 1 naora
 aanos 1 asano
@@ -7492,12 +7047,12 @@ aanru 1 urana
 aansu 1 anusa
 aansš 1 šansa
 aantt 1 tanta
+aantz 1 tanaz
+aanvz 1 vazna
 aanvž 1 važna
-aanzz 1 zazna
 aanšt 1 šanta
 aanšu 1 unaša
 aanšv 1 vnaša
-aanšz 1 znaša
 aaops 1 opasa
 aaopt 1 opata
 aaopž 1 opaža
@@ -7516,9 +7071,7 @@ aapsž 1 pasaž
 aaptt 1 tapat
 aaptu 1 upata
 aapuv 1 upava
-aapuz 1 zaupa
 aapvz 1 pavza
-aapzž 1 zapaž
 aapšu 1 apašu
 aapšv 1 švapa
 aapšš 1 šapaš
@@ -7538,7 +7091,6 @@ aasšv 1 šavsa
 aattv 1 tavat
 aattw 1 watta
 aauvž 1 uvaža
-aavzž 1 zvaža
 aačdr 1 drača
 aačdv 1 čadav
 aačdz 1 zadač
@@ -7575,7 +7127,6 @@ aačrs 1 sčara
 aačru 1 učara
 aačst 1 tačas
 aačsv 1 čavsa
-aačvz 1 zvača
 aaččh 1 čačah
 aaččk 1 čačka
 aaččm 1 čačam
@@ -7620,6 +7171,7 @@ abcee 1 abece
 abcen 1 bacne
 abceo 1 oceba
 abcer 1 cebra
+abcež 1 bežca
 abcgi 1 gibca
 abcgu 1 gubca
 abchr 1 brcah
@@ -7637,16 +7189,15 @@ abcmr 1 brcam
 abcmu 1 bucam
 abcop 1 pobca
 abcos 1 bosca
-abcoz 1 zobca
 abcož 1 božca
 abcpu 1 pubca
 abcrs 1 srbca
 abcrt 1 brcat
 abcru 1 bruca
 abcrv 1 brvca
+abcrz 1 brzca
 abcrš 1 brcaš
 abcuv 1 vabcu
-abcuž 1 žabcu
 abcšu 1 bucaš
 abdeh 1 bedah
 abdek 1 bedak
@@ -7686,6 +7237,7 @@ abegš 1 begaš
 abehk 1 bekah
 abehm 1 hebam
 abehs 1 sebha
+abehz 1 bezah
 abehš 1 hebaš
 abeij 1 abeji
 abeim 1 amebi
@@ -7694,9 +7246,9 @@ abeit 1 beati
 abejs 1 bajse
 abeju 1 abeju
 abejš 1 šajbe
-abejž 1 žabje
 abekn 1 banke
 abekv 1 bevka
+abekz 1 kazbe
 abell 1 blela
 abeln 1 blena
 abels 1 slabe
@@ -7705,6 +7257,7 @@ abelš 1 belša
 abemm 1 mambe
 abems 1 sambe
 abemt 1 betam
+abemz 1 bezam
 abemš 1 bašem
 abenn 1 nebna
 abenž 1 bežna
@@ -7718,8 +7271,9 @@ abesš 1 šabes
 abetu 1 beatu
 abetz 1 bezat
 abetž 1 bežat
-abezz 1 zbeza
+abevž 1 vežba
 abešt 1 štabe
+abešz 1 bezaš
 abešš 1 bašeš
 abffu 1 buffa
 abfir 1 fibra
@@ -7734,6 +7288,7 @@ abghr 1 grbah
 abghu 1 gubah
 abgik 1 gibka
 abgis 1 bisag
+abgiz 1 zagib
 abgjr 1 grbaj
 abgju 1 gubaj
 abgko 1 bogka
@@ -7745,14 +7300,13 @@ abgoo 1 ogabo
 abgot 1 bogat
 abgou 1 uboga
 abgov 1 gobav
+abgoz 1 bogaz
 abgoš 1 bogaš
 abgrt 1 grbat
 abgrv 1 grbav
-abgrz 1 zgrba
 abgrš 1 grbaš
 abgtu 1 gubat
 abguv 1 gubav
-abguz 1 zguba
 abgšu 1 gubaš
 abhhi 1 hibah
 abhhu 1 hubah
@@ -7778,7 +7332,6 @@ abiim 1 ibami
 abiis 1 ibisa
 abijo 1 obija
 abiju 1 ubija
-abijž 1 žabji
 abikm 1 kambi
 abikv 1 bivak
 abill 1 balil
@@ -7794,12 +7347,13 @@ abiov 1 obavi
 abioš 1 ošiba
 abipr 1 priba
 abirr 1 ribar
+abirz 1 izrab
 abirž 1 barži
 abisv 1 sviba
 abitu 1 ubita
+abitz 1 zabit
 abiuz 1 uziba
-abivž 1 žavbi
-abizz 1 zazib
+abišz 1 zabiš
 abišš 1 šibaš
 abjkl 1 bljak
 abjkn 1 banjk
@@ -7812,11 +7366,11 @@ abjoš 1 šajbo
 abjrr 1 brjar
 abjrv 1 vrbja
 abjsu 1 bajsu
-abjuz 1 zbuja
 abkln 1 blank
 abkls 1 skalb
 abkmr 1 brkam
 abkoo 1 oboka
+abkoz 1 kazbo
 abkož 1 božka
 abkpu 1 pubka
 abkrt 1 brkat
@@ -7826,7 +7380,6 @@ abllu 1 bulla
 ablou 1 obula
 ablož 1 božal
 ablpu 1 palub
-ablrz 1 zbral
 ablst 1 blast
 abluv 1 bulav
 abluz 1 bluza
@@ -7834,17 +7387,18 @@ ablšu 1 bušla
 abmmu 1 mambu
 abmnr 1 brnam
 abmnu 1 bunam
+abmoz 1 bozam
 abmoš 1 šobam
 abmož 1 božam
 abmpu 1 bumpa
 abmrv 1 vrbam
-abmuz 1 zambu
 abmuž 1 bužam
 abmšu 1 bušam
 abnot 1 batno
+abnoz 1 bazno
 abnoš 1 šobna
-abnož 1 žabon
 abnrv 1 brvna
+abnrz 1 brzna
 abnrš 1 branš
 abnsu 1 bansu
 abooz 1 ozoba
@@ -7859,16 +7413,11 @@ abott 1 botat
 abotu 1 obuta
 abouv 1 obuva
 abouž 1 uboža
-abovž 1 žavbo
 abošt 1 botaš
 abošv 1 bavšo
-abošz 1 zobaš
 abošž 1 božaš
 abrru 1 urbar
 abrst 1 brsta
-abrtz 1 zbrat
-abruž 1 žabur
-abtuz 1 zbuta
 abčde 1 bdeča
 abčej 1 jebač
 abčen 1 enačb
@@ -7880,7 +7429,6 @@ abčho 1 čobah
 abčhu 1 bučah
 abčil 1 bičal
 abčin 1 bičan
-abčiz 1 zbiča
 abčiš 1 bičaš
 abčju 1 bučaj
 abčlo 1 ločba
@@ -7933,7 +7481,6 @@ acdip 1 padci
 acdis 1 disca
 acdit 1 dacit
 acdiu 1 acidu
-acdiz 1 zidca
 acdjr 1 jadrc
 acdko 1 kadco
 acdlo 1 dolca
@@ -7958,7 +7505,6 @@ acefr 1 cefra
 aceft 1 facet
 acegj 1 cajge
 acehh 1 cehah
-acehz 1 zehca
 aceij 1 ecija
 aceik 1 iceka
 aceil 1 leica
@@ -7972,6 +7518,7 @@ aceks 1 cekas
 acekt 1 kacet
 acell 1 lecal
 acelv 1 cvela
+acelz 1 lezca
 acelš 1 lecaš
 acemm 1 mecam
 acemo 1 ceoma
@@ -7982,7 +7529,6 @@ acenp 1 cepan
 acenš 1 šance
 acepv 1 pevca
 acerv 1 cevar
-acerž 1 žreca
 acess 1 sesca
 acetv 1 cveta
 acetž 1 težca
@@ -8013,7 +7559,6 @@ achik 1 cikah
 achis 1 cashi
 achiv 1 vicah
 achiz 1 cizah
-achiž 1 žicah
 achjo 1 hojca
 achko 1 kocah
 achkr 1 crkah
@@ -8036,7 +7581,6 @@ acijj 1 jajci
 acijp 1 cipaj
 acijs 1 jasic
 acijš 1 šicaj
-acijž 1 žicaj
 aciks 1 skica
 acikt 1 cikat
 acikz 1 cizka
@@ -8049,16 +7593,13 @@ acinu 1 cianu
 acinš 1 nicaš
 aciru 1 urica
 acirv 1 varic
-acirž 1 žicar
 acitu 1 utica
 acitv 1 vicat
 acitz 1 cizat
-acitž 1 žicat
-acivž 1 živca
+acivz 1 vazic
 acišt 1 šicat
 acišz 1 cizaš
 acišš 1 šicaš
-acišž 1 žicaš
 acjju 1 jajcu
 acjmu 1 cumaj
 acjns 1 scanj
@@ -8075,16 +7616,13 @@ aclnt 1 tnalc
 acloo 1 coola
 aclot 1 colta
 aclov 1 lovca
-aclož 1 žolca
 aclpr 1 prcal
 aclrt 1 trcal
 aclru 1 cural
 aclrv 1 cvrla
 aclrw 1 crawl
 aclry 1 lycra
-aclrz 1 zrcal
 acluz 1 cuzal
-acluž 1 žalcu
 acmno 1 conam
 acmor 1 rocam
 acmot 1 cotam
@@ -8099,7 +7637,6 @@ acnop 1 capon
 acnov 1 novca
 acnpu 1 punca
 acnrt 1 trnac
-acnrz 1 zrnca
 acnst 1 stanc
 acntu 1 nucat
 acnuz 1 uzanc
@@ -8185,7 +7722,6 @@ adegv 1 gavde
 adegz 1 gazde
 adegš 1 degaš
 adehn 1 dahne
-adehz 1 zdeha
 adeik 1 daike
 adeim 1 amide
 adeir 1 radie
@@ -8201,11 +7737,12 @@ adejž 1 dežja
 adeko 1 okade
 adekt 1 kadet
 adell 1 delal
+adelz 1 zadel
 adelš 1 delaš
 ademp 1 padem
 adeno 1 anode
 adenu 1 duena
-adenz 1 zdane
+adenž 1 dežna
 adeop 1 opade
 adeot 1 odeta
 adept 1 adept
@@ -8216,14 +7753,14 @@ aderr 1 redar
 adert 1 dreta
 adery 1 yarde
 adesv 1 vsade
-adesz 1 zased
 adesš 1 sedaš
 adesž 1 sadež
 adetž 1 džeta
 adeuv 1 udave
 adevv 1 vdeva
+adevz 1 zadev
 adevž 1 davež
-adezz 1 zazde
+adezž 1 džeza
 adešz 1 zadeš
 adfii 1 afidi
 adfij 1 fajdi
@@ -8242,14 +7779,15 @@ adgnr 1 grand
 adgnž 1 gandž
 adgop 1 pagod
 adgrt 1 drgat
+adgrz 1 zadrg
 adgrš 1 drgaš
 adguz 1 gazdu
 adhik 1 dikah
 adhip 1 padih
 adhis 1 sadih
 adhiu 1 udiha
-adhiz 1 zdiha
 adhiš 1 dihaš
+adhiž 1 hadži
 adhju 1 duhaj
 adhku 1 duhka
 adhlr 1 drhal
@@ -8259,10 +7797,10 @@ adhoš 1 došah
 adhož 1 hodža
 adhpr 1 prdah
 adhrs 1 drsah
-adhrz 1 zdrah
 adhrž 1 držah
 adhsu 1 shuda
 adhtu 1 duhat
+adhuz 1 uzdah
 adhuž 1 hadžu
 adiik 1 daiki
 adiin 1 diani
@@ -8270,14 +7808,14 @@ adiir 1 radii
 adijm 1 jadim
 adijš 1 jadiš
 adiku 1 daiku
-adikž 1 židka
+adikz 1 zadki
 adill 1 dilal
 adimm 1 dimam
 adims 1 sadim
 adimu 1 amidu
-adimž 1 židam
 adins 1 sadni
 adinš 1 daniš
+adinž 1 džina
 adioo 1 ooida
 adiop 1 opadi
 adiov 1 ovadi
@@ -8288,17 +7826,17 @@ adiry 1 yardi
 adist 1 sadit
 adisš 1 sadiš
 aditu 1 aduti
-aditž 1 ždita
+aditz 1 izdat
 adivv 1 vidva
-adizz 1 zazdi
-adizž 1 zaždi
 adišt 1 dišat
+adišz 1 izdaš
 adjkr 1 drkaj
 adjop 1 podaj
 adjot 1 jodat
 adjou 1 aojdu
 adjoz 1 dzoja
 adjrs 1 drsaj
+adjrz 1 drzaj
 adjrž 1 držaj
 adjsu 1 sadju
 adjtu 1 dujta
@@ -8314,13 +7852,13 @@ adkmu 1 dumka
 adknu 1 danku
 adkos 1 doksa
 adkrs 1 drska
+adkrz 1 drzka
 adkrš 1 drkaš
 adkrž 1 držka
 adkuv 1 davku
 adkuz 1 zadku
 adkšu 1 duška
 adlnr 1 nadrl
-adlož 1 žolda
 adlrs 1 drsal
 adlrv 1 vdrla
 adlrž 1 držal
@@ -8334,10 +7872,11 @@ adlšu 1 dušal
 admmu 1 dumam
 admnu 1 mudna
 admoš 1 došam
-admož 1 žadom
 admpr 1 prdam
+admrz 1 drzam
 admrž 1 držam
 admtu 1 datum
+admuz 1 uzdam
 admvz 1 vzdam
 admšu 1 dušam
 adnnu 1 nandu
@@ -8345,8 +7884,10 @@ adnoo 1 anodo
 adnot 1 donat
 adnou 1 udona
 adnoz 1 dozna
+adnož 1 dožna
 adnpu 1 pandu
 adnrs 1 drsna
+adnrž 1 držna
 adntu 1 nadut
 adnuu 1 daunu
 adopt 1 podat
@@ -8360,8 +7901,6 @@ adosu 1 usoda
 adosz 1 sozda
 adotz 1 tozda
 adouv 1 uvoda
-adovz 1 zavod
-adovž 1 žadov
 adprv 1 pravd
 adpuu 1 upadu
 adpuv 1 vpadu
@@ -8370,14 +7909,11 @@ adrru 1 rudar
 adrrv 1 drvar
 adrsv 1 drsav
 adrsy 1 dryas
-adrsz 1 zdrsa
 adrsš 1 drsaš
 adrtv 1 vdrta
 adrtž 1 držat
 adruy 1 yardu
 adruz 1 druza
-adrvz 1 zdrav
-adrzz 1 zdrza
 adršu 1 arduš
 adršz 1 drzaš
 adstu 1 studa
@@ -8434,7 +7970,6 @@ aefjn 1 fenaj
 aefjo 1 foaje
 aefjr 1 farje
 aefjv 1 fajev
-aefjž 1 žajfe
 aefkn 1 fenka
 aefks 1 fakse
 aefku 1 feaku
@@ -8454,14 +7989,12 @@ aefšt 1 fešta
 aefšš 1 fašeš
 aeggn 1 gagne
 aeggv 1 gavge
-aeggz 1 zgage
 aeghj 1 gejah
 aeghl 1 legah
 aeghp 1 pegah
 aeghv 1 vegah
 aeghz 1 gazeh
 aeghš 1 šegah
-aeghž 1 žegah
 aegip 1 igape
 aegjs 1 segaj
 aegjš 1 gejša
@@ -8470,12 +8003,13 @@ aegkv 1 kvage
 aeglo 1 ogale
 aeglu 1 ulega
 aeglš 1 legaš
+aeglž 1 glaže
 aegmp 1 pegam
 aegmv 1 vegam
 aegmy 1 gayem
 aegmš 1 šegam
-aegmž 1 žegam
 aegnp 1 penga
+aegnž 1 nažge
 aegor 1 agore
 aegov 1 agove
 aegpt 1 pegat
@@ -8485,17 +8019,11 @@ aegru 1 garue
 aegry 1 graye
 aegrž 1 greža
 aegsu 1 ugase
-aegsz 1 zaseg
 aegsš 1 segaš
 aegtt 1 tegat
-aegtz 1 zateg
-aegtž 1 žgeta
 aeguv 1 guave
 aegvv 1 vegav
 aegvy 1 gayev
-aegvz 1 zvega
-aegvž 1 žgeva
-aegzž 1 zažge
 aegšt 1 tegaš
 aehhk 1 kehah
 aehhn 1 henah
@@ -8504,18 +8032,23 @@ aehik 1 haike
 aehil 1 hilea
 aehit 1 hiate
 aehjn 1 nehaj
+aehjz 1 jezah
 aehjš 1 ješah
+aehjž 1 ježah
 aehkn 1 enkah
 aehkv 1 vekah
 aehll 1 halle
 aehlo 1 ohale
 aehlu 1 uhale
+aehlz 1 lezah
 aehmv 1 veham
+aehmz 1 mazeh
 aehmš 1 šemah
 aehno 1 aheno
 aehnu 1 uhane
 aehnv 1 venah
 aehnz 1 hazen
+aehnž 1 nežah
 aehop 1 epoha
 aehot 1 ohate
 aehpu 1 upeha
@@ -8523,10 +8056,12 @@ aehrt 1 retah
 aehru 1 ureah
 aehrž 1 režah
 aehst 1 setah
+aehtz 1 tezah
+aehtž 1 težah
+aehvz 1 vezah
 aehvž 1 vežah
 aehšt 1 šahte
 aehšv 1 vehaš
-aehšz 1 zehaš
 aeijk 1 akije
 aeijl 1 aleji
 aeijn 1 jiane
@@ -8550,15 +8085,16 @@ aejjr 1 jeraj
 aejjs 1 sejaj
 aejjt 1 jejta
 aejjz 1 zajej
+aejjž 1 ježaj
 aejkz 1 zajke
 aejlr 1 jeral
 aejlu 1 ujela
 aejlš 1 jelša
+aejmž 1 ježam
 aejno 1 enoja
 aejnu 1 juane
 aejnš 1 naješ
 aejov 1 oveja
-aejoz 1 zoeja
 aejož 1 ožeja
 aejps 1 pasje
 aejpu 1 upaje
@@ -8572,37 +8108,48 @@ aejuv 1 ujeva
 aejuž 1 užeja
 aejšt 1 šetaj
 aejšu 1 ujaše
+aejšz 1 zaješ
+aejšž 1 ježaš
 aekkm 1 kakem
 aekkn 1 nekak
 aekkr 1 krake
 aekkt 1 kakte
 aekmv 1 vekam
+aekmž 1 kažem
 aekno 1 enako
+aeknž 1 nežka
 aekor 1 areko
 aekov 1 akove
-aekpž 1 žepka
+aekpz 1 pazke
 aekru 1 ureka
 aeksu 1 useka
 aeksž 1 skaže
-aektz 1 zatke
 aekuz 1 ukaze
 aekuž 1 ukaže
 aekvv 1 vekav
-aekvž 1 žveka
+aekvz 1 kavze
 aekšž 1 kažeš
 aelln 1 llane
 aellu 1 alelu
 aellz 1 lezla
 aellž 1 ležal
 aelmo 1 omela
+aelmz 1 lezam
 aelnn 1 lanen
 aelož 1 ožela
 aelpy 1 playe
+aelrz 1 rezal
 aelrš 1 šlare
+aelrž 1 režal
+aeltž 1 ležat
 aeluz 1 ezula
 aeluž 1 užela
 aelvv 1 valve
+aelvž 1 vlaže
+aelzz 1 lazze
 aemmr 1 meram
+aemmz 1 mazem
+aemmž 1 mažem
 aemnn 1 namen
 aemoz 1 omaze
 aempp 1 pampe
@@ -8613,15 +8160,14 @@ aemsz 1 sezam
 aemtv 1 tevam
 aemuv 1 umeva
 aemuž 1 umaže
+aemšž 1 mažeš
 aenno 1 neona
 aenns 1 nesna
 aennt 1 anten
 aennv 1 naven
-aennz 1 znane
 aennž 1 nežna
 aenos 1 osena
 aenpu 1 peanu
-aenpž 1 žepna
 aenru 1 urane
 aensu 1 anuse
 aensz 1 sezna
@@ -8640,12 +8186,8 @@ aeošv 1 oveša
 aeppž 1 papež
 aepru 1 pareu
 aepsu 1 usape
-aepsz 1 zaspe
-aeptz 1 zapet
 aepuv 1 upeva
-aepuz 1 zaupe
 aepvž 1 pažev
-aepšz 1 zapše
 aerrs 1 resar
 aerrt 1 errat
 aerrv 1 raver
@@ -8653,25 +8195,20 @@ aerrz 1 rezar
 aerss 1 sarse
 aersu 1 urase
 aersš 1 raseš
-aerzž 1 zažre
+aertž 1 režat
 aeršu 1 ašure
 aeršž 1 šarže
 aessv 1 vsesa
 aessš 1 sesaš
 aestž 1 staže
-aesvz 1 zaves
 aesvž 1 sveža
 aesšt 1 šesta
 aesšu 1 ušesa
 aesšz 1 sezaš
 aettw 1 watte
-aettz 1 zatet
 aetuž 1 uteža
 aetvž 1 težav
-aetzz 1 zezat
-aetzž 1 zažet
 aevvz 1 vezav
-aešzz 1 zezaš
 aeššt 1 šetaš
 aeššv 1 šašev
 affij 1 fajfi
@@ -8702,14 +8239,12 @@ afhlu 1 halfu
 afhmo 1 fahom
 afhmu 1 mufah
 afhov 1 fahov
-afhoz 1 zofah
 afhru 1 furah
 afiil 1 fiali
 afiin 1 afini
 afiit 1 fiati
 afijm 1 mafij
 afijs 1 fasij
-afijž 1 žajfi
 afikn 1 fakin
 afikt 1 fakti
 afimt 1 mafit
@@ -8719,7 +8254,6 @@ afinv 1 favni
 afinz 1 fazni
 afinš 1 fašin
 afiot 1 ofita
-afirž 1 žiraf
 afist 1 fasti
 afitt 1 tafti
 afitu 1 fiatu
@@ -8730,7 +8264,6 @@ afjks 1 skajf
 afjlr 1 frajl
 afjop 1 fopaj
 afjor 1 ofraj
-afjož 1 žajfo
 afjrs 1 srfaj
 afjšu 1 fušaj
 afklm 1 klamf
@@ -8761,7 +8294,6 @@ afmop 1 fopam
 afmos 1 safom
 afmou 1 ufoma
 afmox 1 faxom
-afmoz 1 zofam
 afmrs 1 srfam
 afmru 1 furam
 afmtu 1 fatum
@@ -8794,7 +8326,6 @@ aggim 1 gigam
 aggin 1 gagni
 aggir 1 garig
 aggiv 1 gavgi
-aggiz 1 zgagi
 aggju 1 gugaj
 agglo 1 gloga
 aggmo 1 gagom
@@ -8802,7 +8333,6 @@ aggmu 1 gugam
 aggno 1 gonga
 aggoo 1 agogo
 aggor 1 groga
-aggoz 1 zgago
 aggrr 1 grgra
 aggtu 1 gugat
 agguv 1 gugav
@@ -8821,6 +8351,7 @@ aghmr 1 hrgam
 aghno 1 nogah
 aghot 1 togah
 aghoš 1 šogah
+aghož 1 gožah
 aghpr 1 prgah
 aghrv 1 hrgav
 aghtu 1 tugah
@@ -8838,10 +8369,11 @@ agikt 1 agitk
 agikv 1 kvagi
 agikš 1 giška
 agilo 1 ogali
+agilž 1 glaži
 agimu 1 imagu
 agimš 1 migaš
-agimž 1 žmiga
 agino 1 agoni
+aginž 1 nažgi
 agiop 1 igapo
 agior 1 agori
 agiož 1 ožiga
@@ -8854,9 +8386,10 @@ agisu 1 ugasi
 agitt 1 gatit
 agitu 1 aguti
 agitv 1 avgit
+agitz 1 gazit
 agiuv 1 guavi
 agiuž 1 užiga
-agizz 1 zgazi
+agivž 1 vžiga
 agišt 1 gatiš
 agišz 1 gaziš
 agjkr 1 grkaj
@@ -8869,16 +8402,13 @@ agjmr 1 grmja
 agjnn 1 gnanj
 agjns 1 gnajs
 agjnt 1 gnjat
-agjnž 1 žganj
 agjos 1 gosja
 agjot 1 tajgo
 agjoz 1 gazjo
+agjož 1 gožja
 agjrt 1 trgaj
-agjrz 1 zgraj
-agjuž 1 žugaj
 agjšv 1 švajg
 agklr 1 grkal
-agklž 1 žgalk
 agkmr 1 grkam
 agknn 1 nangk
 agkno 1 konga
@@ -8892,15 +8422,16 @@ aglnr 1 grlna
 aglns 1 slang
 aglop 1 galop
 aglou 1 ogalu
+agloz 1 zagol
 aglrv 1 vrgla
 agltu 1 gault
 agluv 1 lagvu
 aglvž 1 vžgal
 agmmu 1 gumam
 agmoš 1 šogam
+agmož 1 gožam
 agmtu 1 tugam
 agmuv 1 vugam
-agmuž 1 žugam
 agnnu 1 ugnan
 agnpš 1 špang
 agnrt 1 trgan
@@ -8914,31 +8445,27 @@ agnšt 1 štang
 agoor 1 agoro
 agoov 1 agovo
 agops 1 gospa
-agopz 1 zapog
 agoru 1 garuo
-agorž 1 žorga
 agott 1 togat
+agotž 1 ožgat
 agouv 1 guavo
 agovz 1 gazov
 agovž 1 gožva
-agozž 1 zažgo
-agošž 1 žogaš
 agppr 1 grapp
 agrrt 1 gartr
 agrst 1 strga
 agrsu 1 gusar
 agrtt 1 trgat
 agruy 1 grayu
-agrvz 1 zvrga
 agršt 1 trgaš
 agssu 1 gauss
 agstu 1 gusta
+agtuž 1 užgat
 agtvž 1 vžgat
 aguuž 1 užuga
 aguvv 1 vugav
 aguvž 1 gužva
 agšuv 1 gvašu
-agšuž 1 žugaš
 ahhil 1 lahih
 ahhim 1 mahih
 ahhin 1 hanih
@@ -8964,7 +8491,6 @@ ahijš 1 šijah
 ahikk 1 kakih
 ahiku 1 haiku
 ahikv 1 vikah
-ahikz 1 zikah
 ahill 1 halli
 ahilo 1 ohali
 ahilu 1 uhali
@@ -8973,7 +8499,6 @@ ahimo 1 omahi
 ahimp 1 piham
 ahimv 1 viham
 ahimš 1 hišam
-ahimž 1 žimah
 ahinu 1 uhani
 ahinv 1 navih
 ahiop 1 opiha
@@ -8982,10 +8507,12 @@ ahipp 1 pipah
 ahipu 1 upiha
 ahipž 1 pažih
 ahirr 1 irhar
+ahirz 1 razih
+ahirž 1 rižah
 ahisu 1 usiha
 ahiuv 1 uviha
+ahivz 1 vizah
 ahivž 1 vižah
-ahizz 1 zizah
 ahjkm 1 hmkaj
 ahjmo 1 hojam
 ahjnp 1 phanj
@@ -9011,10 +8538,10 @@ ahkos 1 kosah
 ahkoz 1 kozah
 ahkoš 1 hoška
 ahkož 1 kožah
-ahkrž 1 žrkah
 ahkuu 1 ukuha
 ahkuv 1 vkuha
 ahkuz 1 zakuh
+ahkuž 1 kužah
 ahllo 1 lolah
 ahlot 1 tohla
 ahlou 1 uhalo
@@ -9026,7 +8553,6 @@ ahlrt 1 trhla
 ahlrv 1 vrhal
 ahlrz 1 hrzal
 ahlst 1 hlast
-ahltž 1 žlaht
 ahluž 1 lužah
 ahlšt 1 šlaht
 ahmmo 1 mahom
@@ -9049,6 +8575,7 @@ ahmvz 1 vzmah
 ahnno 1 nonah
 ahnnu 1 nunah
 ahnos 1 snaho
+ahnoz 1 oznah
 ahnps 1 sphan
 ahnrs 1 srnah
 ahnsu 1 sunah
@@ -9058,21 +8585,24 @@ ahoov 1 ovoha
 ahopp 1 popah
 ahopv 1 pahov
 ahorv 1 ovrah
-ahorz 1 zorah
+ahorž 1 rožah
 ahosu 1 housa
 ahosv 1 sovah
 ahosw 1 showa
 ahotu 1 uhato
+ahovz 1 vozah
 ahošt 1 šotah
 ahppu 1 pupah
 ahprs 1 sprha
 ahpsu 1 spahu
 ahpsš 1 sphaš
+ahpuž 1 pužah
 ahrsv 1 svrha
 ahrtt 1 trtah
 ahrtz 1 hrzat
 ahruv 1 varuh
 ahruz 1 huzar
+ahrvz 1 hrzav
 ahršz 1 hrzaš
 ahsšu 1 sušah
 aiijk 1 akiji
@@ -9103,14 +8633,17 @@ aiivz 1 avizi
 aiišt 1 šiita
 aijjs 1 sijaj
 aijjt 1 jitja
-aijjz 1 zijaj
 aijku 1 akiju
+aijkz 1 zajki
 aijkž 1 kajži
 aijlo 1 aloji
 aijlr 1 jaril
+aijlz 1 zajli
 aijlš 1 lišaj
+aijlž 1 lažji
 aijmm 1 majim
 aijmu 1 amiju
+aijmz 1 zajmi
 aijnz 1 nizaj
 aijop 1 opija
 aijor 1 arijo
@@ -9118,56 +8651,57 @@ aijos 1 osaji
 aijov 1 ovija
 aijož 1 ažijo
 aijpp 1 pipaj
-aijpz 1 zapij
-aijsz 1 zasij
+aijrž 1 rajži
 aijtt 1 tajit
-aijtz 1 zijat
 aijuv 1 uvija
 aijuz 1 uzija
 aijvv 1 vijva
+aijvz 1 izjav
+aijvž 1 vižaj
 aijzz 1 jazzi
 aijšu 1 ujaši
 aikkm 1 kakim
 aikku 1 kuika
+aiklz 1 kazil
 aikmu 1 umika
+aikmz 1 kazim
+aikmž 1 mižka
 aiknn 1 kanin
 aiknž 1 nižka
 aikor 1 akori
 aikoz 1 azoik
 aikoš 1 ašiko
+aikpz 1 pazki
 aikrr 1 kirar
+aikrz 1 kriza
 aiksu 1 ukisa
 aiksž 1 skaži
-aiktž 1 žitka
+aiktz 1 kazit
 aikuz 1 ukazi
 aikuž 1 ukaži
 aikvv 1 vivka
+aikzz 1 izkaz
 aikšu 1 ašiku
 aikšz 1 kaziš
-aikšž 1 žiška
-aikžž 1 žižka
 aills 1 lisal
 aillu 1 ulila
 aillš 1 šalil
-aillž 1 žalil
 ailnn 1 ninal
 ailoz 1 liazo
 ailož 1 ožila
 ailpu 1 upali
 ailpy 1 playi
-ailrž 1 žaril
 ailsš 1 lisaš
 ailsž 1 silaž
 ailtu 1 ulita
+ailtž 1 litaž
 ailuz 1 azilu
+ailvz 1 valiz
 ailzz 1 lazzi
-ailzž 1 zlaži
 ailšu 1 ušila
 ailšš 1 šališ
-ailšž 1 žališ
 aimmm 1 mamim
 aimmt 1 mamit
-aimmž 1 žimam
 aimnž 1 nižam
 aimoz 1 omazi
 aimoš 1 šoami
@@ -9175,12 +8709,11 @@ aimpz 1 pazim
 aimpš 1 šipam
 aimrr 1 rimar
 aimtv 1 vitam
-aimtz 1 zmita
+aimtž 1 mižat
 aimuv 1 umiva
 aimuz 1 izuma
 aimuž 1 umaži
 aimšu 1 amišu
-aimšz 1 zmaši
 aimšš 1 mašiš
 ainno 1 anion
 ainnr 1 ranin
@@ -9189,11 +8722,12 @@ ainor 1 naori
 ainos 1 osina
 ainoz 1 oazni
 ainož 1 ožina
+ainpz 1 pazni
 ainsu 1 anusi
 ainsš 1 šansi
 ainsž 1 snaži
-ainzz 1 zizna
-ainzž 1 zniža
+aintz 1 nizat
+aintž 1 nižat
 ainšz 1 nizaš
 ainšš 1 šišan
 ainšž 1 nižaš
@@ -9207,16 +8741,20 @@ aiošt 1 otiša
 aippt 1 pipat
 aippš 1 pipaš
 aiprr 1 rapir
+aipsz 1 spazi
 aiptv 1 vpita
+aiptz 1 pazit
 aiptž 1 pažit
-aipuz 1 zaupi
 aipvz 1 pavzi
 aipzz 1 pizza
 aipšv 1 pšiva
+aipšz 1 paziš
 airuz 1 azuri
-airzž 1 zažri
+airvz 1 vrazi
+airzz 1 izraz
 airšu 1 ašuri
 airšz 1 raziš
+airšž 1 šarži
 aistu 1 suita
 aistž 1 staži
 aisvž 1 sviža
@@ -9231,9 +8769,7 @@ aiuvz 1 avizu
 aiuvž 1 uživa
 aištt 1 tišat
 aištu 1 utiša
-aištz 1 zašit
 aišuv 1 ušiva
-aišvz 1 zviša
 aiššt 1 tišaš
 ajjko 1 jokaj
 ajjku 1 kujaj
@@ -9254,6 +8790,7 @@ ajknp 1 knajp
 ajknt 1 tkanj
 ajkoo 1 okajo
 ajkou 1 ukajo
+ajkož 1 kajžo
 ajkpr 1 krpaj
 ajkps 1 spajk
 ajkpš 1 špajk
@@ -9264,7 +8801,9 @@ ajksv 1 javsk
 ajllu 1 lulaj
 ajlnp 1 planj
 ajloo 1 alojo
+ajloz 1 zajlo
 ajloš 1 šolaj
+ajlož 1 lažjo
 ajlpu 1 lupaj
 ajlrt 1 trlja
 ajlru 1 rjula
@@ -9274,25 +8813,22 @@ ajmrs 1 smraj
 ajmrt 1 trmaj
 ajmru 1 jarmu
 ajnno 1 nanjo
-ajnnz 1 znanj
 ajnps 1 spanj
 ajnrv 1 rvanj
-ajnrz 1 zrnja
 ajnst 1 stanj
-ajntz 1 znajt
 ajnuu 1 juanu
 ajnuž 1 južna
-ajnvz 1 zvanj
 ajoop 1 opoja
 ajoos 1 osoja
 ajoov 1 ovoja
 ajopu 1 upajo
-ajopz 1 zapoj
 ajort 1 troja
 ajoru 1 joura
+ajorz 1 razjo
 ajorš 1 šjora
 ajotu 1 utajo
 ajouv 1 uvoja
+ajovz 1 jazov
 ajovž 1 vožja
 ajošt 1 oštja
 ajppu 1 pupaj
@@ -9306,13 +8842,10 @@ ajrsš 1 sršaj
 ajrtt 1 trtja
 ajrtv 1 vrtaj
 ajrtz 1 trzaj
-ajrtž 1 žrtja
-ajruž 1 žuraj
 ajrvv 1 vrvja
 ajršu 1 rušja
 ajršv 1 vršaj
 ajstv 1 vstaj
-ajsuz 1 zasuj
 ajttu 1 tutaj
 ajuzz 1 jazzu
 ajšuv 1 šavju
@@ -9335,7 +8868,6 @@ aklls 1 sklal
 aklmv 1 mlavk
 aklnp 1 plank
 aklns 1 sklan
-aklnz 1 znalk
 aklou 1 ukalo
 aklpt 1 platk
 aklpv 1 plavk
@@ -9344,20 +8876,20 @@ aklrv 1 kravl
 aklrš 1 škrla
 aklsw 1 skwal
 akltv 1 vtkal
-akltz 1 zlatk
+akluž 1 kaluž
 aklvž 1 klavž
 akmnr 1 krmna
-akmnz 1 znamk
+akmoz 1 kozam
 akmpš 1 škamp
 akmrr 1 krmar
 akmrz 1 mrzka
 akmrš 1 mrkaš
 akmuv 1 vakum
 akmuz 1 kuzma
+akmuž 1 kužam
 akmšt 1 kamšt
 aknno 1 kanon
 aknnu 1 nunka
-aknnz 1 znank
 aknpš 1 špank
 aknrs 1 skarn
 aknrt 1 trnka
@@ -9366,7 +8898,6 @@ aknrš 1 kršna
 aknst 1 stkan
 aknuu 1 nauku
 aknuv 1 vnuka
-aknuz 1 znaku
 aknuž 1 kužna
 aknvz 1 vznak
 aknšt 1 škant
@@ -9377,25 +8908,25 @@ akopp 1 popka
 akorr 1 korar
 akosz 1 skazo
 akotu 1 utoka
-akotž 1 žokat
+akotz 1 zakot
 akouv 1 akovu
 akovv 1 kavov
 akošu 1 okuša
 akošš 1 šaško
-akošž 1 žokaš
 akppu 1 pupka
 akprr 1 krpar
 akprz 1 zakrp
 akpuz 1 zakup
 akrsš 1 srkaš
 akrvv 1 krvav
+akrvž 1 vržka
 akstt 1 stkat
 aksuu 1 usuka
+aksuz 1 kazus
 akttv 1 vtkat
 aktuu 1 akutu
 aktuv 1 avtku
 akuuz 1 ukazu
-akužž 1 žužka
 akštu 1 štuka
 alllu 1 lulal
 allmo 1 lolam
@@ -9412,10 +8943,13 @@ almoo 1 oloma
 almou 1 uloma
 almps 1 psalm
 almrt 1 trmal
+almrz 1 mrzla
 almst 1 smalt
+almuž 1 lužam
 almšu 1 mulaš
 alnor 1 ralno
 alnou 1 alonu
+alnoz 1 lazno
 alnpt 1 plant
 alnpu 1 planu
 alnrt 1 natrl
@@ -9428,6 +8962,7 @@ aloor 1 oralo
 alopp 1 popal
 alopy 1 playo
 alorr 1 rolar
+alorz 1 ozrla
 alorž 1 ožrla
 aloss 1 salso
 alosz 1 solza
@@ -9435,10 +8970,7 @@ alosš 1 losaš
 alosž 1 solaž
 alotu 1 atolu
 alozz 1 lazzo
-alozž 1 založ
-alošz 1 zašlo
 alošš 1 šolaš
-alprz 1 zaprl
 alprš 1 pršal
 alpst 1 plast
 alpsv 1 splav
@@ -9446,21 +8978,17 @@ alpuv 1 plavu
 alpvž 1 plavž
 alrst 1 strla
 alrsš 1 sršal
+alrtz 1 trzal
 alruv 1 ruval
-alruž 1 žural
-alrvz 1 zavrl
 alrvž 1 vžrla
-alrzz 1 zazrl
-alrzž 1 zažrl
 alršu 1 šlaru
 alršv 1 vršal
 alsst 1 slast
 alstt 1 stlat
 alstv 1 vstal
 alsuu 1 usula
-alsvž 1 žlavs
+alsuz 1 sluza
 alsšu 1 sluša
-altuz 1 zlatu
 aluuv 1 uvula
 aluvv 1 vulva
 aluzz 1 lazzu
@@ -9468,6 +8996,7 @@ alšvz 1 vzšla
 ammop 1 pomam
 ammos 1 somam
 ammou 1 umoma
+ammoz 1 mazom
 ammož 1 možma
 ammpu 1 pumam
 ammrr 1 mrmra
@@ -9489,7 +9018,6 @@ amntu 1 tunam
 amnuž 1 mužna
 amnšu 1 šumna
 amoot 1 omota
-amooz 1 zooma
 amopz 1 pozam
 amopš 1 šopam
 amorr 1 romar
@@ -9497,7 +9025,6 @@ amoru 1 umora
 amosv 1 sovam
 amotž 1 možat
 amouv 1 umova
-amozž 1 zamož
 amošv 1 mošav
 amprš 1 pršam
 amptu 1 putam
@@ -9505,22 +9032,16 @@ ampuv 1 vampu
 amrst 1 strma
 amrtz 1 trzam
 amruw 1 wurma
-amruž 1 žuram
-amrzz 1 zamrz
 amstu 1 musat
 amttu 1 tutam
 amuvž 1 mužav
-amuzz 1 zmazu
 amštu 1 šutam
-annoz 1 znano
 annož 1 nožna
 anoot 1 otona
 anoru 1 naoru
 anory 1 rayon
 anorš 1 norša
-anosz 1 zanos
 anott 1 tanto
-anotz 1 zaton
 anovv 1 navov
 anprt 1 trpna
 anpru 1 puran
@@ -9528,8 +9049,8 @@ anprš 1 pršna
 anpšu 1 španu
 anrru 1 urarn
 anrsu 1 usran
+anrtz 1 trzna
 anruu 1 uranu
-anruz 1 zurna
 anrvv 1 vrvna
 anršt 1 tranš
 anršu 1 rušna
@@ -9538,7 +9059,6 @@ ansst 1 snast
 anssu 1 snusa
 ansuu 1 anusu
 ansuv 1 suvan
-ansuz 1 zasun
 ansšu 1 sušna
 anttu 1 tantu
 antuž 1 tužna
@@ -9555,6 +9075,7 @@ aoprr 1 ropar
 aopsv 1 pasov
 aopsš 1 pasoš
 aoptv 1 patov
+aoptz 1 topaz
 aopuž 1 opažu
 aopvz 1 pavzo
 aopšš 1 šopaš
@@ -9562,11 +9083,12 @@ aorrt 1 torra
 aorrz 1 razor
 aorrž 1 rožar
 aortu 1 utora
+aortz 1 torza
+aorvž 1 vražo
 aoršu 1 ašuro
 aoršž 1 šaržo
 aosst 1 osast
 aosuv 1 osuva
-aosvz 1 zasov
 aosšt 1 štosa
 aottv 1 tatov
 aotuv 1 tauov
@@ -9576,35 +9098,32 @@ appšu 1 pupaš
 aprru 1 rurpa
 aprsy 1 spray
 aprty 1 party
-aprtz 1 zaprt
 apruz 1 prazu
 aprvv 1 vprav
 apsst 1 spast
 apstv 1 vpast
 apttu 1 putta
-apuuz 1 zaupu
 aqstu 1 squat
 aqsuw 1 squaw
 arruz 1 razur
 arssu 1 sarsu
-arstz 1 zrast
 arstž 1 straž
 arsuv 1 ravsu
 arsšv 1 sršav
 arttu 1 utrta
 arttv 1 vrtat
+arttz 1 trzat
 artuu 1 uratu
 artuz 1 uzrta
-artzz 1 zazrt
-artzž 1 zažrt
+artuž 1 turaž
 aruuv 1 uvaru
 aruuz 1 azuru
 aruuž 1 ažuru
 arštz 1 trzaš
+aršuž 1 šaržu
 arššv 1 vršaš
 asstu 1 stasu
 asttv 1 vstat
-astuz 1 zasut
 astuž 1 stažu
 astvv 1 vstav
 asuuz 1 uzusa
@@ -9624,7 +9143,6 @@ ačdil 1 čadil
 ačdim 1 čadim
 ačdio 1 idoča
 ačdit 1 čadit
-ačdiz 1 zdiča
 ačdjn 1 dnjač
 ačdjo 1 dojač
 ačdkr 1 drkač
@@ -9656,7 +9174,6 @@ ačeko 1 očake
 ačekž 1 čakež
 ačelo 1 očale
 ačelš 1 šaleč
-ačelž 1 žaleč
 ačemo 1 očema
 ačemp 1 pečam
 ačemu 1 učema
@@ -9666,13 +9183,15 @@ ačeor 1 orače
 ačeos 1 očesa
 ačeot 1 očeta
 ačeps 1 speča
+ačepz 1 pazeč
+ačerz 1 rezač
 ačerš 1 rašče
-ačerž 1 žareč
 ačess 1 sesač
 ačesv 1 sveča
-ačesz 1 zaseč
 ačetv 1 večat
+ačetz 1 začet
 ačetž 1 čatež
+ačevz 1 vezač
 ačfhr 1 frčah
 ačfir 1 frači
 ačfjo 1 čofaj
@@ -9708,7 +9227,6 @@ ačgop 1 pogač
 ačgor 1 rogač
 ačgov 1 gavčo
 ačgoš 1 gošča
-ačgož 1 žgoča
 ačgru 1 gruča
 ačgrv 1 grčav
 ačgrš 1 grčaš
@@ -9743,9 +9261,9 @@ ačhšu 1 čuhaš
 ačijj 1 jačji
 ačijp 1 pijač
 ačijv 1 vijač
-ačijz 1 zijač
 ačikk 1 kački
 ačiko 1 očaki
+ačikž 1 čižka
 ačilm 1 malič
 ačilo 1 očali
 ačilu 1 učila
@@ -9757,17 +9275,16 @@ ačimš 1 mašči
 ačino 1 očina
 ačins 1 časni
 ačinu 1 nauči
+ačinz 1 začni
+ačinž 1 činža
 ačior 1 orači
 ačiot 1 očita
 ačirs 1 srači
-ačirz 1 zrači
 ačisv 1 včasi
 ačisš 1 sačiš
 ačitu 1 učita
-ačitz 1 zatič
 ačiuv 1 učiva
 ačivv 1 čivav
-ačivz 1 zvači
 ačivž 1 važič
 ačjjo 1 jačjo
 ačjkm 1 majčk
@@ -9784,7 +9301,6 @@ ačklp 1 palčk
 ačklr 1 črkal
 ačklš 1 šalčk
 ačknu 1 čunka
-ačknz 1 značk
 ačkou 1 očaku
 ačkoz 1 kozač
 ačkož 1 kažoč
@@ -9799,7 +9315,6 @@ ačlmo 1 lomač
 ačlmr 1 mrčal
 ačlot 1 čotal
 ačloš 1 lošča
-ačlož 1 žolča
 ačlpr 1 črpal
 ačlpš 1 plašč
 ačlrt 1 črtal
@@ -9810,7 +9325,6 @@ ačluv 1 čuval
 ačluz 1 začul
 ačlšu 1 lučaš
 ačmmo 1 močam
-ačmoz 1 zamoč
 ačmoš 1 maščo
 ačmož 1 možač
 ačmpr 1 črpam
@@ -9834,7 +9348,6 @@ ačoor 1 oroča
 ačoos 1 sooča
 ačops 1 pasoč
 ačoru 1 oraču
-ačorz 1 zroča
 ačorš 1 raščo
 ačosv 1 časov
 ačott 1 čotat
@@ -9855,7 +9368,6 @@ ačršv 1 čvrša
 ačsšu 1 sušač
 ačtuv 1 čuvat
 ačtuz 1 začut
-ačuvz 1 zvaču
 aččeh 1 čečah
 aččem 1 čečam
 aččen 1 čenča
@@ -9884,7 +9396,6 @@ bbeek 1 bebke
 bbeij 1 bejbi
 bbeik 1 bebki
 bbeim 1 bimbe
-bbeiz 1 zbebi
 bbejo 1 bejbo
 bbelo 1 belob
 bbemo 1 bombe
@@ -9912,6 +9423,7 @@ bcehi 1 becih
 bceij 1 jebic
 bceim 1 bicem
 bcein 1 cebni
+bceiž 1 bežci
 bcemr 1 brcem
 bcemu 1 bucem
 bcenr 1 brcne
@@ -9930,14 +9442,12 @@ bchiu 1 bucih
 bciiv 1 cvibi
 bciiz 1 izbic
 bciiš 1 šibic
-bciiž 1 žbici
 bcilo 1 oblic
 bcino 1 bonci
 bcinr 1 brcni
 bcinu 1 bucni
 bciop 1 pobci
 bciov 1 cvibo
-bcioz 1 zobci
 bcioš 1 šobic
 bcipu 1 pubci
 bcirs 1 srbci
@@ -9950,7 +9460,6 @@ bcoor 1 cobro
 bcopu 1 pobcu
 bcorv 1 brvco
 bcosu 1 boscu
-bcouz 1 zobcu
 bcouž 1 božcu
 bcpuu 1 pubcu
 bcruu 1 brucu
@@ -9973,17 +9482,14 @@ bdemo 1 bodem
 bdemž 1 džemb
 bdenr 1 bedrn
 bdeoo 1 obode
-bdeoz 1 zbode
 bdeoš 1 bodeš
 bdery 1 derby
 bderz 1 brzde
 bdetu 1 debut
-bdeuz 1 zbude
 bdeuž 1 bedžu
 bdgio 1 godbi
 bdgoo 1 godbo
 bdgor 1 grdob
-bdgoz 1 zgodb
 bdhir 1 brdih
 bdhoo 1 obhod
 bdhou 1 hudob
@@ -9996,14 +9502,12 @@ bdimu 1 budim
 bdinr 1 brdin
 bdioo 1 obodi
 bdios 1 sodbi
-bdioz 1 zbodi
 bdioš 1 dobiš
 bdiož 1 obždi
 bdiru 1 budri
 bdirz 1 brzdi
 bdirž 1 bridž
 bditu 1 budit
-bdiuz 1 zbudi
 bdišu 1 budiš
 bdjoo 1 odboj
 bdjou 1 dobju
@@ -10011,7 +9515,6 @@ bdjov 1 dvojb
 bdjru 1 brdju
 bdkor 1 brdko
 bdlno 1 blond
-bdloz 1 zblod
 bdluu 1 dublu
 bdmor 1 brdom
 bdmov 1 dvomb
@@ -10022,6 +9525,7 @@ bdoou 1 obodu
 bdooš 1 doboš
 bdopu 1 pobud
 bdort 1 trdob
+bdorz 1 brzdo
 bdouv 1 vbodu
 bdrtu 1 utrdb
 bdruž 1 družb
@@ -10039,34 +9543,31 @@ beehr 1 bereh
 beehs 1 sebhe
 beein 1 ebeni
 beejv 1 bejev
-beejz 1 zjebe
 beejš 1 jebeš
 beekv 1 bevke
 beelm 1 belem
 beelv 1 velbe
+beelz 1 lezbe
 beelš 1 belše
+beelž 1 belež
 beemo 1 boeme
-beemz 1 zebem
 beeno 1 enobe
 beent 1 bente
 beenu 1 ebenu
-beenz 1 znebe
 beeor 1 obere
 beeot 1 obete
 beeoz 1 ozebe
 beeru 1 ubere
 beerš 1 bereš
-beerž 1 žrebe
 beeuž 1 ubeže
 beevž 1 vežbe
-beezž 1 zbeže
-beešz 1 zebeš
 beffu 1 buffe
 befil 1 blefi
 befjo 1 fojbe
 beghi 1 begih
 begil 1 glebi
 begio 1 iboge
+begiz 1 bezgi
 begjo 1 gobje
 beglu 1 belug
 begmu 1 gumbe
@@ -10078,6 +9579,7 @@ begru 1 bregu
 begrš 1 brgeš
 begrž 1 grbež
 beguu 1 ubegu
+beguz 1 bezgu
 behij 1 bejih
 behik 1 bekih
 behir 1 hribe
@@ -10088,7 +9590,6 @@ behmo 1 bohem
 behno 1 boneh
 behnu 1 buhne
 behos 1 sebho
-behoz 1 zobeh
 behrv 1 brveh
 behsu 1 bushe
 behtu 1 buhte
@@ -10099,7 +9600,10 @@ beijo 1 obije
 beiju 1 ubije
 beijv 1 vbije
 beikv 1 bevki
+beikz 1 bzike
 beilt 1 belit
+beilz 1 lezbi
+beilž 1 bliže
 beimn 1 nimbe
 beimž 1 bežim
 beins 1 besni
@@ -10111,13 +9615,12 @@ beipr 1 pribe
 beirr 1 rebri
 beiru 1 uberi
 beirw 1 webri
+beirž 1 ribež
 beist 1 biste
 beitt 1 tibet
 beitu 1 ubite
-beitz 1 zbite
 beiuž 1 ubeži
 beivž 1 vežbi
-beizž 1 zbeži
 beišt 1 šibet
 beišu 1 ušibe
 beišv 1 bivše
@@ -10142,11 +9645,11 @@ beksv 1 bevsk
 bekšu 1 buške
 bellr 1 brlel
 bellu 1 bulle
-bellz 1 zblel
 belmu 1 umbel
 belnr 1 brnel
 belos 1 obsel
 belou 1 obule
+beloz 1 lezbo
 belož 1 obžel
 belps 1 plebs
 belrs 1 srbel
@@ -10156,14 +9659,12 @@ belsu 1 blues
 beltu 1 tulbe
 beluv 1 velbu
 beluz 1 bluze
-beluž 1 žlebu
 bemmo 1 omemb
 bemno 1 nebom
 bemot 1 betom
 bemou 1 boemu
 bemow 1 webom
 bemoy 1 boyem
-bemoz 1 zobem
 bempu 1 bumpe
 bemrv 1 brvem
 bemtu 1 tumbe
@@ -10185,7 +9686,6 @@ beorž 1 obžre
 beoss 1 bosse
 beost 1 boste
 beosv 1 besov
-beosz 1 zbose
 beovw 1 webov
 beovy 1 boyev
 beovz 1 obvez
@@ -10196,9 +9696,7 @@ bertv 1 brtve
 bertz 1 brzet
 beruw 1 webru
 beruz 1 burze
-berzz 1 zbrze
 beršu 1 burše
-bestz 1 zebst
 betuv 1 betvu
 bešuv 1 bušev
 bffiu 1 buffi
@@ -10219,7 +9717,6 @@ bgiik 1 gibki
 bgiio 1 ibogi
 bgiir 1 brigi
 bgiiu 1 ugibi
-bgiiz 1 zgibi
 bgijo 1 gobji
 bgilr 1 grbil
 bgilu 1 gubil
@@ -10228,13 +9725,14 @@ bgimr 1 grbim
 bgioo 1 ibogo
 bgiou 1 ubogi
 bgiov 1 gibov
-bgioz 1 zgibo
 bgiož 1 obžgi
 bgirt 1 grbit
 bgiru 1 brigu
+bgirz 1 brizg
 bgirš 1 grbiš
 bgitu 1 gubit
 bgiuu 1 ugibu
+bgiuz 1 izgub
 bgivz 1 vzgib
 bgišu 1 gubiš
 bgjoo 1 gobjo
@@ -10242,7 +9740,6 @@ bgjou 1 boguj
 bgkou 1 bogku
 bglor 1 brlog
 bglou 1 blogu
-bgloz 1 zglob
 bgmor 1 grbom
 bgmou 1 bugom
 bgmuu 1 gumbu
@@ -10258,7 +9755,6 @@ bgorv 1 grbov
 bgorz 1 brozg
 bgost 1 gostb
 bgouv 1 bugov
-bgouz 1 zgubo
 bgruy 1 rugby
 bhhio 1 bohih
 bhhiu 1 buhih
@@ -10267,7 +9763,6 @@ bhiil 1 bilih
 bhiin 1 hibni
 bhiis 1 bisih
 bhiit 1 bitih
-bhiiz 1 zibih
 bhijo 1 bojih
 bhiko 1 bokih
 bhiku 1 kubih
@@ -10280,7 +9775,6 @@ bhios 1 bosih
 bhiot 1 hobit
 bhiox 1 boxih
 bhioy 1 boyih
-bhioz 1 zobih
 bhipu 1 pubih
 bhiru 1 hribu
 bhirz 1 brzih
@@ -10307,12 +9801,14 @@ biijz 1 izbij
 biikr 1 briki
 biiks 1 biksi
 biikt 1 bitki
+biikz 1 bziki
 biill 1 bilil
 biilo 1 obili
 biils 1 sibil
 biilt 1 bilit
 biilu 1 ubili
 biilv 1 vbili
+biilz 1 izbil
 biimn 1 nimbi
 biimo 1 biomi
 biimš 1 šibim
@@ -10321,10 +9817,12 @@ biinz 1 izbni
 biinš 1 šibin
 biioš 1 ošibi
 biipr 1 pribi
+biirz 1 izbir
 biist 1 bisti
 biisu 1 ibisu
 biisv 1 svibi
 biitu 1 ubiti
+biitz 1 izbit
 biišt 1 šibit
 biišu 1 ušibi
 biišv 1 bivši
@@ -10337,7 +9835,6 @@ bijos 1 obsij
 bijot 1 bitjo
 bijou 1 uboji
 bijov 1 obvij
-bijoz 1 zboji
 bijož 1 božji
 bijšu 1 šibju
 bikku 1 kubik
@@ -10346,16 +9843,17 @@ bikls 1 blisk
 bikoo 1 oboki
 bikot 1 bitko
 bikov 1 bikov
+bikoz 1 izbok
 bikoš 1 šibko
 bikpu 1 pubki
 bikrv 1 brivk
-bikrz 1 zbirk
 bikuv 1 bukvi
 bikuz 1 bziku
 bikšu 1 buški
 billo 1 oblil
 bilmr 1 brlim
 bilop 1 pobil
+biloz 1 izbol
 bilož 1 obliž
 bilrš 1 brliš
 bimno 1 binom
@@ -10381,17 +9879,13 @@ biopu 1 obupi
 biorr 1 robri
 biorž 1 obžri
 bioss 1 bossi
-biosz 1 zbosi
 biott 1 botit
 biotž 1 tožbi
-biovz 1 zibov
-biošz 1 zobiš
 biošš 1 šobiš
 birst 1 brsti
-birsz 1 zbris
 birsš 1 srbiš
 birtv 1 brtvi
-birzz 1 zbrzi
+biruz 1 burzi
 biršz 1 brziš
 bissu 1 bisus
 biššu 1 bušiš
@@ -10401,7 +9895,6 @@ bjklo 1 boljk
 bjkoo 1 obojk
 bjkou 1 obujk
 bjkuu 1 bujku
-bjloz 1 zbloj
 bjluu 1 lubju
 bjmoo 1 bojmo
 bjmou 1 jumbo
@@ -10409,13 +9902,10 @@ bjnor 1 brnjo
 bjooo 1 obojo
 bjoop 1 poboj
 bjoou 1 oboju
-bjooz 1 zobjo
 bjoož 1 božjo
-bjorz 1 zbroj
 bjosu 1 obsuj
 bjotu 1 bujto
 bjouu 1 uboju
-bjouz 1 zboju
 bjruv 1 vrbju
 bkklo 1 klobk
 bklnu 1 blunk
@@ -10431,7 +9921,6 @@ bkoov 1 bokov
 bkort 1 trobk
 bkorv 1 brkov
 bkosu 1 boksu
-bkouz 1 zobku
 bkouž 1 okužb
 bkovz 1 vzbok
 bkošu 1 buško
@@ -10454,7 +9943,6 @@ blost 1 stolb
 blotu 1 tulbo
 blouv 1 lubov
 blouz 1 bluzo
-blozž 1 zložb
 blsuž 1 služb
 bltuu 1 tubul
 bluuz 1 bluzu
@@ -10465,14 +9953,12 @@ bmoos 1 bosom
 bmoou 1 boomu
 bmoov 1 mobov
 bmoox 1 boxom
-bmooz 1 zobom
 bmopu 1 pubom
 bmort 1 tromb
 bmosu 1 busom
 bmoty 1 bytom
 bmpuu 1 bumpu
 bnoos 1 sobno
-bnooz 1 zobno
 bnooš 1 šobno
 bnors 1 brons
 bnort 1 botrn
@@ -10489,6 +9975,7 @@ booru 1 oboru
 boosv 1 bosov
 bootž 1 tožbo
 boovx 1 boxov
+boovz 1 obvoz
 bopuu 1 obupu
 bopuv 1 pubov
 borru 1 robru
@@ -10496,13 +9983,14 @@ borst 1 trbos
 bortv 1 tvorb
 bortž 1 obžrt
 boruv 1 burov
+boruz 1 burzo
+boruž 1 božur
 borvv 1 vrbov
 borvž 1 ovržb
 boršt 1 boršt
 bossu 1 bossu
 bostu 1 obsut
 bostv 1 vbost
-bostz 1 zbost
 bosuv 1 busov
 botuv 1 butov
 botvy 1 bytov
@@ -10541,7 +10029,6 @@ bčinu 1 bučni
 bčiop 1 pobič
 bčiot 1 bočit
 bčiov 1 vboči
-bčioz 1 zboči
 bčioš 1 bočiš
 bčiož 1 božič
 bčipu 1 pubič
@@ -10613,7 +10100,6 @@ cdiin 1 indic
 cdiio 1 odici
 cdiis 1 disci
 cdiiv 1 vidci
-cdiiz 1 zidci
 cdilu 1 dulci
 cdimo 1 domci
 cdimu 1 dimcu
@@ -10626,7 +10112,6 @@ cdipr 1 prdci
 cdirs 1 sidrc
 cdirv 1 drvci
 cdiuv 1 vidcu
-cdiuz 1 zidcu
 cdkor 1 kodrc
 cdlou 1 dolcu
 cdluu 1 dulcu
@@ -10664,7 +10149,6 @@ ceenn 1 cenen
 ceenp 1 cepne
 ceenr 1 nerce
 ceent 1 cente
-ceerž 1 žrece
 ceest 1 ceste
 ceetv 1 cvete
 ceetz 1 cezet
@@ -10682,13 +10166,11 @@ cegno 1 conge
 cehij 1 chije
 cehil 1 celih
 cehis 1 cesih
-cehiz 1 zehci
 cehjo 1 hojce
 cehmo 1 cehom
 cehno 1 hecno
 cehov 1 cehov
 cehru 1 hercu
-cehuz 1 zehcu
 ceiij 1 eciji
 ceiil 1 leici
 ceiin 1 enici
@@ -10704,16 +10186,16 @@ ceiku 1 iceku
 ceill 1 celil
 ceilo 1 leico
 ceilu 1 ulice
-ceilž 1 žlice
 ceimt 1 cimet
 ceimš 1 šemic
-ceimž 1 žmice
-ceinz 1 zenic
 ceinš 1 ceniš
+ceinž 1 nežic
 ceios 1 osice
 ceiot 1 oteci
 ceipu 1 upeci
 ceirv 1 revic
+ceirz 1 rezci
+ceirž 1 režic
 ceiss 1 sesci
 ceisu 1 useci
 ceisz 1 scize
@@ -10721,10 +10203,11 @@ ceitt 1 tetic
 ceitz 1 cizet
 ceitž 1 težci
 ceivv 1 vicev
+ceivz 1 vezic
+ceivž 1 vežic
 ceišu 1 ušice
 ceišv 1 švice
 ceišz 1 ceziš
-cejlz 1 zeljc
 cejmu 1 ujcem
 cejov 1 cevjo
 cejpu 1 cepju
@@ -10740,15 +10223,12 @@ cekuv 1 cveku
 cellu 1 celul
 celoo 1 coole
 celos 1 oslec
-celož 1 žolce
 celru 1 curel
 celrv 1 cvrle
-celrž 1 žrelc
 celuv 1 cvelu
 cemmu 1 mucem
 cemos 1 cesom
 cemou 1 ceomu
-cemoz 1 zocem
 cemrs 1 srcem
 cemrv 1 cvrem
 cemsu 1 mescu
@@ -10763,14 +10243,11 @@ cenuv 1 vencu
 ceopu 1 coupe
 ceopš 1 špeco
 ceort 1 terco
-ceovz 1 zocev
 ceptu 1 tepcu
 cepuv 1 pevcu
 cersv 1 scvre
 ceruv 1 ucvre
-ceruž 1 žrecu
 cervv 1 vrvce
-cervž 1 žverc
 ceršt 1 štrce
 cessu 1 sescu
 cestv 1 cvest
@@ -10798,11 +10275,10 @@ cfoov 1 cofov
 cforu 1 frocu
 cghiu 1 cugih
 cgiil 1 iglic
-cgiiž 1 žigci
 cgimu 1 gumic
+cgiož 1 gožic
 cgirt 1 trgci
 cgiru 1 igrcu
-cgiuž 1 žigcu
 cglou 1 golcu
 cglru 1 grlcu
 cgmou 1 cugom
@@ -10816,14 +10292,12 @@ chiip 1 hipci
 chiir 1 cirih
 chiis 1 cisih
 chiiv 1 vicih
-chiiz 1 zicih
 chiiš 1 hišic
 chiko 1 kocih
 chilo 1 colih
 chilv 1 cvilh
 chimr 1 mrhic
 chinu 1 inchu
-chioz 1 zocih
 chips 1 chips
 chirs 1 srcih
 chirž 1 hržic
@@ -10848,7 +10322,6 @@ ciikz 1 cizki
 ciilu 1 ulici
 ciimo 1 omici
 ciimt 1 cimit
-ciimž 1 žmici
 ciinp 1 pinci
 ciinr 1 ricin
 ciins 1 sinic
@@ -10907,7 +10380,6 @@ cimrt 1 trmic
 cimrv 1 mrvic
 cimtu 1 mutci
 cimuz 1 cuzim
-cimuž 1 žmicu
 cinno 1 nonic
 cinop 1 pinco
 cinot 1 notic
@@ -10916,12 +10388,12 @@ cinpr 1 princ
 cinrs 1 srnic
 cinru 1 curni
 cinrv 1 vrnic
-cinrz 1 zrnci
 cinuv 1 vincu
 cioos 1 osico
 ciops 1 psico
 ciors 1 rosic
 cioru 1 urico
+ciorz 1 ciroz
 ciorž 1 rožic
 ciosš 1 sošic
 ciotu 1 utico
@@ -10929,7 +10401,6 @@ ciovz 1 vozic
 ciošu 1 ušico
 ciprv 1 prvci
 cipuv 1 pivcu
-cipuž 1 župic
 cirst 1 stric
 cirsv 1 scvri
 cirtt 1 trtic
@@ -10937,12 +10408,10 @@ cirtv 1 vrtci
 cirtž 1 tržci
 ciruv 1 ucvri
 ciruž 1 ružic
-cirvž 1 žvirc
 ciršt 1 štrci
 ciršu 1 curiš
 cistu 1 sitcu
 cisuv 1 sivcu
-ciuvž 1 živcu
 cištu 1 štuci
 cišuv 1 švicu
 cišuz 1 cuziš
@@ -10979,7 +10448,6 @@ clnow 1 clown
 cloor 1 color
 cloou 1 coolu
 cloov 1 colov
-cloož 1 žolco
 clory 1 lycro
 clotu 1 coltu
 clouv 1 lovcu
@@ -11001,7 +10469,6 @@ cnoru 1 norcu
 cnouv 1 novcu
 cnpuu 1 puncu
 cnrtu 1 turnc
-cnruz 1 zrncu
 coopt 1 copot
 coost 1 costo
 cootv 1 octov
@@ -11120,13 +10587,14 @@ deekš 1 deške
 deelo 1 odele
 deelr 1 rdele
 deelu 1 duele
-deelz 1 zdele
 deemm 1 medem
 deemo 1 omede
 deemp 1 pedem
+deemz 1 mezde
 deemš 1 medeš
 deemž 1 džeme
 deenn 1 dnene
+deenz 1 dezen
 deenš 1 deneš
 deeot 1 odete
 deeov 1 odeve
@@ -11141,10 +10609,10 @@ deesš 1 sedeš
 deesž 1 sedež
 deett 1 detet
 deetw 1 tweed
+deetz 1 dzete
 deetž 1 džete
 deeuv 1 uvede
 deevv 1 vedve
-deevz 1 zvede
 deevž 1 vedež
 deezž 1 džeze
 deešv 1 vedeš
@@ -11161,7 +10629,6 @@ degiv 1 dvige
 degiz 1 gizde
 degku 1 gudek
 deglu 1 ugled
-deglz 1 zgled
 degmr 1 grdem
 degnr 1 drgne
 degnu 1 gnedu
@@ -11169,14 +10636,13 @@ degnz 1 gnezd
 degoo 1 geodo
 degos 1 doseg
 degov 1 goved
+degoz 1 gozde
 degoš 1 godeš
 degrt 1 drget
-degrz 1 zgrde
 degrž 1 grdež
 dehij 1 dejih
 dehik 1 dekih
 dehiv 1 vdihe
-dehiz 1 zdihe
 dehiš 1 šedih
 dehju 1 jeduh
 dehmu 1 hudem
@@ -11187,7 +10653,6 @@ dehov 1 vhode
 dehož 1 hodže
 dehrt 1 drhte
 dehru 1 deruh
-dehrž 1 žrdeh
 dehsu 1 shude
 dehtu 1 duhte
 deiim 1 imide
@@ -11199,10 +10664,12 @@ deijr 1 jedri
 deijt 1 dijte
 deijv 1 divje
 deijš 1 diješ
+deijž 1 dežji
 deikt 1 edikt
 deikš 1 deški
 deill 1 delil
 deilš 1 deliš
+deilž 1 dežil
 deimo 1 omedi
 deimp 1 pedmi
 deimt 1 medit
@@ -11211,10 +10678,12 @@ deioo 1 ooide
 deiop 1 poide
 deips 1 spide
 deipž 1 džipe
+deirz 1 izdre
 deirš 1 rediš
 deirž 1 dreži
 deist 1 deist
 deisu 1 usedi
+deitz 1 dzeti
 deiux 1 iudex
 deivv 1 vidve
 deivž 1 videž
@@ -11226,11 +10695,11 @@ deišš 1 dišeš
 deišž 1 dežiš
 dejju 1 judje
 dejmu 1 dujem
-dejnž 1 ždenj
 dejoo 1 odejo
 dejos 1 dosje
 dejot 1 dojet
 dejou 1 ujedo
+dejoz 1 dzoje
 dejtu 1 dujte
 dejuz 1 uzdje
 deklr 1 krdel
@@ -11239,23 +10708,23 @@ deknr 1 drkne
 dekop 1 dopek
 dekot 1 dotek
 dekrs 1 drske
-deloz 1 zdelo
 delpr 1 prdel
 delrs 1 drsel
 delrt 1 trdel
-delrz 1 zdrle
 delsv 1 vsled
 deluu 1 duelu
 deluv 1 veldu
-deluz 1 zdelu
+deluž 1 džule
 delvz 1 vzdel
 demnr 1 mrdne
 demou 1 doume
+demoz 1 mezdo
 demož 1 dožem
 demrs 1 smrde
 demrt 1 trdem
 demrv 1 vdrem
 demrš 1 drmeš
+demrž 1 drmež
 demsu 1 sedum
 demuz 1 meduz
 demuž 1 džemu
@@ -11281,16 +10750,12 @@ deovž 1 dožev
 deprs 1 spred
 deprt 1 prdet
 depuž 1 pudže
-dersz 1 zdrse
 dertt 1 trdet
 dertž 1 trdež
 deruz 1 druze
-dervz 1 zdrve
 dervž 1 drvež
-derzž 1 zdrže
 deršu 1 udreš
 deršv 1 vdreš
-deršz 1 zdreš
 destu 1 stude
 desuu 1 usedu
 desuž 1 džuse
@@ -11299,10 +10764,8 @@ detuv 1 vedut
 detuž 1 džetu
 detvz 1 vzdet
 deuzž 1 džezu
-devzz 1 zvezd
 dešuu 1 uduše
 dešuv 1 dušev
-dešuz 1 zduše
 dfiio 1 foidi
 dfilo 1 filod
 dfilu 1 fluid
@@ -11327,7 +10790,6 @@ dginu 1 dingu
 dgiot 1 godit
 dgioš 1 godiš
 dgirt 1 grdit
-dgirz 1 zgrdi
 dgirš 1 grdiš
 dgiuv 1 dvigu
 dgivz 1 vzdig
@@ -11336,7 +10798,6 @@ dglou 1 dolgu
 dgnru 1 grdun
 dgoou 1 goudo
 dgoov 1 godov
-dgooz 1 zgodo
 dgoož 1 odžgo
 dgors 1 sodrg
 dgort 1 grdot
@@ -11349,7 +10810,7 @@ dhiim 1 dimih
 dhiip 1 pidih
 dhiis 1 disih
 dhiit 1 dihti
-dhiiž 1 židih
+dhiiz 1 izdih
 dhiju 1 judih
 dhiky 1 dykih
 dhimu 1 hudim
@@ -11361,6 +10822,7 @@ dhipu 1 pudih
 dhirv 1 drvih
 dhiuv 1 vdihu
 dhiux 1 duxih
+dhiuz 1 izduh
 dhivz 1 vzdih
 dhjuu 1 huduj
 dhkuu 1 duhku
@@ -11387,8 +10849,6 @@ diikm 1 dimki
 diikr 1 dirki
 diiks 1 diski
 diikt 1 dikit
-diikz 1 zidki
-diikž 1 židki
 diilm 1 dimil
 diilp 1 lipid
 diilr 1 drili
@@ -11418,7 +10878,6 @@ diirz 1 izdri
 diist 1 stidi
 diiuv 1 uvidi
 diiuz 1 izidu
-diišz 1 zdiši
 diišš 1 dišiš
 dijko 1 dojki
 dijku 1 judki
@@ -11427,20 +10886,19 @@ dijlv 1 vdilj
 dijos 1 odsij
 dijot 1 dojit
 dijou 1 odiju
-dijož 1 ždijo
+dijoz 1 dzoji
 dikot 1 dotik
 dikoš 1 škodi
-dikož 1 židko
 dikrt 1 trdik
 dikru 1 dirku
 dikrv 1 krivd
+dikrz 1 drzki
 dikrž 1 držki
-dikuz 1 zidku
-dikuž 1 židku
 dilmr 1 mrdil
 diloo 1 odoli
 dilpu 1 dupli
 dilrt 1 trdil
+dilrz 1 izdrl
 diluz 1 dizlu
 diluž 1 džuli
 dilšu 1 dušil
@@ -11449,13 +10907,14 @@ dimmr 1 mrdim
 dimmu 1 mudim
 dimnr 1 mrdni
 dimpr 1 prdim
-dimrz 1 zmrdi
 dimrš 1 mrdiš
+dimrž 1 držim
 dimtu 1 mudit
 dimuv 1 vidmu
 dinnr 1 drnin
 dinnž 1 nindž
 dinou 1 udoni
+dinoz 1 dozni
 dinoš 1 doniš
 dinož 1 dožni
 dinpr 1 prdni
@@ -11468,7 +10927,6 @@ dioor 1 odori
 dioot 1 otodi
 dioou 1 ooidu
 dioov 1 ovoid
-diooz 1 zooid
 diopv 1 pidov
 diopš 1 podiš
 dioru 1 udori
@@ -11478,17 +10936,13 @@ diosz 1 sozdi
 diosš 1 sodiš
 diotz 1 tozdi
 diouv 1 uvodi
-diovž 1 židov
 diošt 1 došit
 diošv 1 vodiš
 diprš 1 prdiš
 dipsu 1 spidu
-dirsz 1 zdrsi
 dirtt 1 trdit
+dirtz 1 izdrt
 diruz 1 druzi
-dirvz 1 zdrvi
-dirzz 1 zdriz
-dirzž 1 zdrži
 diršt 1 trdiš
 diršu 1 udriš
 diršv 1 drviš
@@ -11499,21 +10953,18 @@ dituv 1 tvidu
 diuuv 1 uvidu
 dištu 1 dušit
 dišuu 1 uduši
-dišuz 1 zduši
 diššu 1 dušiš
 djkoo 1 dojko
 djkov 1 dvojk
 djkuu 1 judku
 djlsu 1 sljud
 djmoo 1 jodom
-djorž 1 žrdjo
 djouz 1 dzoju
 djuuz 1 uzdju
 dkloo 1 odlok
 dklou 1 dolku
 dkmos 1 smodk
 dkmoy 1 dykom
-dkmoz 1 zdomk
 dknuž 1 džunk
 dkoop 1 odkop
 dkoor 1 odrok
@@ -11524,15 +10975,13 @@ dkorž 1 drožk
 dkovy 1 dykov
 dkošu 1 duško
 dkrtv 1 tvrdk
-dkruz 1 zdrku
 dkruž 1 držku
 dkšuu 1 dušku
 dlmor 1 odmrl
 dloop 1 podlo
 dloos 1 solod
+dlorz 1 dozrl
 dlorž 1 odžrl
-dlouž 1 žoldu
-dlozž 1 zdolž
 dlpuu 1 duplu
 dlsuu 1 ludus
 dluuž 1 džulu
@@ -11540,7 +10989,6 @@ dmnor 1 drnom
 dmoos 1 sodom
 dmooz 1 ozdom
 dmorv 1 drvom
-dmorz 1 zmrdo
 dmouv 1 dvomu
 dmoux 1 duxom
 dmruu 1 durum
@@ -11569,7 +11017,6 @@ dopuz 1 pozdu
 dopuž 1 pudžo
 dorsu 1 surdo
 dortt 1 trdot
-dortz 1 zdrto
 doruu 1 udoru
 doruw 1 wordu
 doruz 1 druzo
@@ -11580,7 +11027,6 @@ douvx 1 duxov
 dovvz 1 vzvod
 dpruu 1 pudru
 drsuu 1 surdu
-drsuz 1 zdrsu
 drtuu 1 trudu
 dstuu 1 studu
 dsuuž 1 džusu
@@ -11603,7 +11049,6 @@ eefkt 1 efekt
 eeflm 1 felem
 eeflr 1 feler
 eefnr 1 nefer
-eefnz 1 zenfe
 eefor 1 efore
 eefrs 1 sfere
 eefrz 1 freze
@@ -11625,11 +11070,11 @@ eegmo 1 omege
 eegmr 1 meger
 eegno 1 eogen
 eegnp 1 penge
+eegnz 1 genez
 eegnš 1 geneš
 eegrš 1 greše
 eegrž 1 greže
 eegsž 1 sežge
-eegtž 1 žgete
 eehht 1 hehet
 eehil 1 hilee
 eehin 1 ehine
@@ -11638,13 +11083,11 @@ eehkr 1 heker
 eehkt 1 hekte
 eehlm 1 meleh
 eehlr 1 heler
-eehlz 1 zeleh
 eehmp 1 hempe
 eehnp 1 pehne
 eehnr 1 hrene
 eehns 1 sehne
 eehnt 1 tehne
-eehnz 1 zehne
 eehop 1 epohe
 eehpr 1 hrepe
 eehps 1 spehe
@@ -11657,7 +11100,7 @@ eehsv 1 seveh
 eehtt 1 thete
 eehtu 1 utehe
 eehtv 1 vehte
-eehtž 1 žehte
+eehvz 1 vezeh
 eeijp 1 jeepi
 eeijs 1 eseji
 eeijt 1 eteji
@@ -11680,7 +11123,6 @@ eejlp 1 pelje
 eejlr 1 lejer
 eejlu 1 ujele
 eejlš 1 jelše
-eejlž 1 želje
 eejmo 1 omeje
 eejmr 1 rejem
 eejmt 1 metje
@@ -11691,7 +11133,6 @@ eejno 1 enoje
 eejnp 1 penje
 eejnt 1 tenje
 eejov 1 oveje
-eejoz 1 zoeje
 eejpu 1 jeepu
 eejpv 1 vejpe
 eejru 1 ureje
@@ -11701,12 +11142,10 @@ eejsu 1 eseju
 eejsv 1 vseje
 eejsz 1 jezes
 eejtt 1 jette
-eejtz 1 zetje
+eejtž 1 težje
 eejuz 1 ujeze
 eejvz 1 vezje
 eejvž 1 ježev
-eejzz 1 zjeze
-eejzž 1 zježe
 eejšt 1 šteje
 eejšv 1 veješ
 eejšž 1 ježeš
@@ -11714,27 +11153,25 @@ eekkl 1 kleke
 eekks 1 kekse
 eekln 1 klene
 eeklv 1 vleke
-eeklz 1 zleke
 eekmp 1 kempe
-eekmž 1 žmeke
 eeknp 1 kepen
 eeknr 1 krene
 eeknu 1 neuke
 eeknv 1 kvene
 eeknz 1 kneze
+eeknž 1 nežke
 eekop 1 opeke
 eekos 1 oseke
 eekpš 1 peške
 eekrt 1 reket
 eekrv 1 ervek
+eekrž 1 režke
 eeksu 1 useke
 eektu 1 uteke
 eektv 1 evtek
-eekvz 1 zevke
 eekšv 1 kešev
 eellm 1 mlele
 eellv 1 velel
-eellž 1 želel
 eelmm 1 melem
 eelmo 1 omele
 eelno 1 onele
@@ -11747,16 +11184,11 @@ eelpu 1 upele
 eelpz 1 pleze
 eelpž 1 pleže
 eelrv 1 vrele
-eelrz 1 zrele
 eelss 1 sesel
 eelsz 1 sleze
 eelsž 1 sežel
-eeltz 1 zlete
-eeltž 1 želet
 eeluv 1 uvele
 eeluz 1 ezule
-eelvž 1 želve
-eelzz 1 zleze
 eelšt 1 štele
 eelšz 1 lezeš
 eelšž 1 ležeš
@@ -11764,7 +11196,6 @@ eemmn 1 nemem
 eemmr 1 merem
 eemmš 1 emšem
 eemnu 1 enemu
-eemnž 1 ženem
 eemop 1 poeme
 eemor 1 romee
 eemot 1 omete
@@ -11772,6 +11203,9 @@ eemrz 1 rezem
 eemrš 1 emšer
 eemsv 1 sevem
 eemtu 1 umete
+eemtz 1 mezet
+eemtž 1 metež
+eemvz 1 vezem
 eemšv 1 emšev
 eenno 1 neone
 eennv 1 neven
@@ -11782,7 +11216,6 @@ eenov 1 ovene
 eenoz 1 noeze
 eenpz 1 penez
 eenpš 1 šepne
-eensz 1 znese
 eensš 1 neseš
 eensž 1 sneže
 eentu 1 etenu
@@ -11790,7 +11223,6 @@ eenuv 1 uvene
 eenuž 1 užene
 eenšt 1 šente
 eenšv 1 veneš
-eenšž 1 ženeš
 eeopr 1 opere
 eeops 1 epose
 eeopž 1 ožepe
@@ -11810,13 +11242,10 @@ eeqru 1 queer
 eerrv 1 rever
 eersu 1 eseru
 eersz 1 sreze
-eertz 1 zrete
-eertž 1 žrete
 eeruv 1 uvere
 eeruz 1 ureze
 eeruž 1 ureže
 eervv 1 verve
-eerzž 1 zreže
 eeršv 1 revše
 eeršž 1 režeš
 eestz 1 steze
@@ -11825,8 +11254,6 @@ eesšž 1 sežeš
 eetuž 1 uteže
 eeuvz 1 uveze
 eeuvž 1 uveže
-eevzz 1 zveze
-eevzž 1 zveže
 eeštt 1 štete
 eeštu 1 uteše
 eeštv 1 vteše
@@ -11857,7 +11284,6 @@ efimr 1 firme
 efinn 1 nefin
 efinr 1 firne
 efint 1 finte
-efinz 1 zenfi
 efiot 1 ofite
 efirr 1 firer
 efist 1 fiest
@@ -11889,6 +11315,7 @@ efmuž 1 fužem
 efmšu 1 fušem
 efnor 1 freon
 efnov 1 fenov
+efnuz 1 fuzen
 efoov 1 oefov
 efopu 1 poufe
 efors 1 sfero
@@ -11932,9 +11359,9 @@ egill 1 legli
 egilm 1 megli
 egimo 1 omegi
 egimr 1 gremi
+egimz 1 mezgi
 eginu 1 ugine
 eginš 1 gineš
-eginž 1 žegni
 egiož 1 ožige
 egipr 1 gripe
 egips 1 gipse
@@ -11942,7 +11369,6 @@ egirs 1 serig
 egiru 1 guire
 egirš 1 greši
 egitz 1 izteg
-egitž 1 žgite
 egivž 1 vžige
 egizž 1 izžge
 egjlr 1 grlje
@@ -11951,7 +11377,7 @@ egjos 1 gosje
 egjou 1 ugoje
 egjov 1 gojev
 egjoš 1 gejšo
-egjrz 1 zgrej
+egjož 1 gožje
 egklr 1 grelk
 egknr 1 grkne
 egkos 1 goske
@@ -11963,19 +11389,18 @@ egllu 1 leglu
 eglmr 1 grmel
 eglns 1 sleng
 eglnv 1 vgnel
-eglnz 1 zgnel
 egloo 1 ogole
 eglop 1 poleg
+egloz 1 geloz
 egloš 1 golše
+eglož 1 golež
 eglrt 1 grlet
-eglrz 1 zgrel
 egluž 1 gulež
 eglšu 1 gluše
 egmmo 1 gemom
 egmoo 1 omego
 egmov 1 gemov
 egmru 1 grume
-egmrz 1 zgrme
 egmrš 1 gršem
 egmsu 1 smuge
 egmuž 1 užgem
@@ -11988,10 +11413,10 @@ egnoz 1 gnoze
 egnoš 1 ogneš
 egnpu 1 pengu
 egnrt 1 trgne
-egnrz 1 zgrne
 egnst 1 gnest
 egntu 1 nuget
 egnuv 1 gnevu
+egnuz 1 guzne
 egnšt 1 šteng
 egnšu 1 neguš
 egoor 1 ogore
@@ -12008,14 +11433,11 @@ egpru 1 grupe
 egprv 1 vpreg
 egrru 1 regur
 egrst 1 streg
-egrtz 1 zgret
 egruž 1 grežu
-egrvz 1 zvrge
 egršu 1 geruš
 egšuž 1 užgeš
 egšvž 1 vžgeš
 ehhis 1 hesih
-ehhiz 1 zehih
 ehhiš 1 šehih
 ehhrv 1 vrheh
 ehiil 1 hilei
@@ -12031,7 +11453,6 @@ ehiln 1 lenih
 ehilo 1 hileo
 ehilr 1 lerih
 ehilš 1 leših
-ehilž 1 želih
 ehimm 1 memih
 ehimp 1 hempi
 ehimš 1 emših
@@ -12042,13 +11463,10 @@ ehipp 1 pepih
 ehipv 1 pevih
 ehipz 1 pezih
 ehipš 1 špehi
-ehipž 1 žepih
 ehirs 1 serih
-ehirž 1 žiher
+ehirz 1 rezih
 ehisv 1 sevih
-ehitz 1 zetih
-ehitž 1 žehti
-ehivž 1 živeh
+ehivz 1 vezih
 ehjju 1 juhej
 ehjlm 1 hmelj
 ehjno 1 hojen
@@ -12073,10 +11491,8 @@ ehloo 1 ohole
 ehlos 1 soleh
 ehlru 1 hrule
 ehlsu 1 sluhe
-ehltž 1 žleht
 ehluv 1 hlevu
 ehmop 1 hempo
-ehmoz 1 zehom
 ehmoš 1 šehom
 ehmšu 1 mušeh
 ehnop 1 hopne
@@ -12095,7 +11511,7 @@ ehosu 1 house
 ehosw 1 showe
 ehotu 1 uteho
 ehotv 1 vehto
-ehotž 1 žehto
+ehovz 1 vozeh
 ehovž 1 vožeh
 ehošv 1 šehov
 ehprt 1 prhet
@@ -12105,7 +11521,6 @@ ehrsv 1 svrhe
 ehrsž 1 sržeh
 ehrtu 1 huert
 ehrtz 1 hertz
-ehruž 1 žeruh
 ehrvv 1 vrveh
 ehršž 1 hržeš
 ehsšu 1 sušeh
@@ -12114,7 +11529,6 @@ eiikt 1 etiki
 eiilm 1 imeli
 eiilr 1 ilire
 eiils 1 elisi
-eiilz 1 zelii
 eiimr 1 emiri
 eiinr 1 reini
 eiins 1 sieni
@@ -12132,7 +11546,9 @@ eijkš 1 šejki
 eijkž 1 ježki
 eijlp 1 pelji
 eijls 1 silje
+eijlž 1 ježil
 eijmp 1 pijem
+eijmž 1 ježim
 eijnn 1 njeni
 eijno 1 enoji
 eijnu 1 unije
@@ -12140,7 +11556,6 @@ eijnz 1 jezni
 eijop 1 opije
 eijos 1 ojesi
 eijov 1 ovije
-eijoz 1 zoeji
 eijpš 1 piješ
 eijru 1 ureji
 eijrž 1 režij
@@ -12151,34 +11566,34 @@ eijtu 1 ujeti
 eijtz 1 jezit
 eijuv 1 uvije
 eijuž 1 užije
-eijzz 1 zjezi
-eijzž 1 zježi
 eijšu 1 ušije
 eijšš 1 šiješ
+eijšž 1 ježiš
 eikkm 1 kemik
 eikkr 1 krike
 eikkt 1 kitke
 eikku 1 kuike
 eiklo 1 olike
+eiklz 1 lezik
 eikmo 1 omike
 eikmu 1 umike
 eikmv 1 mivke
-eikmz 1 zmike
 eiknn 1 nikne
 eikot 1 etiko
 eikpu 1 epiku
-eikpž 1 žepki
 eikru 1 ukeri
 eiksu 1 useki
 eiksz 1 izsek
 eiktz 1 iztek
+eiktž 1 težki
+eikvz 1 kvize
 eikšš 1 šiške
-eikšž 1 žiške
 eilln 1 lenil
 eillo 1 ollie
 eillr 1 lirel
 eills 1 selil
 eillu 1 ulile
+eillz 1 lezli
 eilmr 1 meril
 eilnr 1 lenir
 eilnu 1 uleni
@@ -12188,11 +11603,10 @@ eilos 1 eliso
 eilpu 1 upeli
 eilrs 1 resil
 eilru 1 urile
-eilrž 1 žreli
 eilsz 1 slezi
 eiltž 1 težil
 eilvv 1 vlive
-eilzz 1 zlezi
+eilzž 1 izžel
 eilšu 1 ušile
 eimmo 1 miome
 eimms 1 mesim
@@ -12207,10 +11621,8 @@ eimpz 1 pezim
 eimpš 1 pišem
 eimrx 1 remix
 eimsu 1 umesi
-eimsz 1 zmesi
 eimsž 1 sežmi
 eimuz 1 izume
-eimzz 1 zmezi
 eimzž 1 izžme
 eimšz 1 meziš
 eimšš 1 šemiš
@@ -12218,21 +11630,21 @@ eimšž 1 mežiš
 einno 1 neoni
 einnr 1 renin
 einns 1 nesni
+einnž 1 nežni
 einoš 1 ošine
 einpp 1 pipne
 einpu 1 upeni
 einpz 1 izpne
-einpž 1 žepni
 einss 1 sesni
-einsz 1 znesi
 einsš 1 sineš
 einsž 1 sneži
 einty 1 yenit
+eintz 1 tezni
 einuv 1 uveni
 einuž 1 uženi
 einšu 1 ušine
-einšz 1 zineš
 einšš 1 šineš
+einšž 1 nežiš
 eiopz 1 izope
 eiopš 1 opiše
 eiorz 1 ozire
@@ -12258,11 +11670,12 @@ eirsu 1 reisu
 eirsz 1 srezi
 eirsš 1 resiš
 eirtu 1 urite
+eirtz 1 tirze
 eiruz 1 urezi
 eiruž 1 ureži
 eirvv 1 vervi
 eirzz 1 izrez
-eiršz 1 zriše
+eirzž 1 izžre
 eiršž 1 režiš
 eistu 1 suite
 eistz 1 stezi
@@ -12272,14 +11685,12 @@ eisšu 1 ušesi
 eisšv 1 vesiš
 eittž 1 težit
 eituv 1 uvite
+eitvž 1 vežit
 eitzž 1 izžet
 eiuvz 1 uvezi
 eiuvž 1 uveži
 eivvz 1 veziv
 eivvž 1 vžive
-eivzz 1 zvezi
-eivzž 1 zveži
-eivžž 1 živež
 eištu 1 uteši
 eištž 1 težiš
 eišuv 1 ušive
@@ -12291,7 +11702,6 @@ ejjnu 1 jujen
 ejjop 1 pojej
 ejjou 1 ujejo
 ejjov 1 vjejo
-ejjoz 1 zjejo
 ejjuž 1 južje
 ejkmu 1 kujem
 ejknu 1 kunje
@@ -12314,14 +11724,11 @@ ejlnt 1 tlenj
 ejlnu 1 lunje
 ejlor 1 orlje
 ejloš 1 jelšo
-ejlož 1 željo
 ejlpr 1 prelj
 ejlpu 1 pluje
 ejlru 1 rjule
 ejlst 1 stelj
 ejluv 1 uljev
-ejluz 1 zelju
-ejluž 1 žulje
 ejmmo 1 mojem
 ejmmr 1 mrjem
 ejmnn 1 mnenj
@@ -12332,13 +11739,14 @@ ejmuz 1 muzej
 ejnno 1 njeno
 ejnoo 1 enojo
 ejnot 1 tenjo
+ejnoz 1 jezno
 ejnrv 1 vrenj
 ejnst 1 stenj
 ejoop 1 opoje
 ejoos 1 osoje
-ejooz 1 zoejo
 ejopp 1 popje
 ejopu 1 upoje
+ejorz 1 rezjo
 ejotv 1 tvoje
 ejotž 1 težjo
 ejouv 1 uvoje
@@ -12351,17 +11759,14 @@ ejrst 1 trsje
 ejrsu 1 resju
 ejrtt 1 trtje
 ejrtv 1 jetrv
-ejrtž 1 žrtje
 ejruz 1 rezju
 ejrvv 1 vrvje
 ejrvz 1 vzrej
 ejssu 1 sesuj
 ejstv 1 vjest
-ejstz 1 zjest
 ejsuu 1 usuje
 ejsuv 1 vsuje
 ejttu 1 jettu
-ejtuž 1 žetju
 ejštu 1 uštej
 ejštv 1 vštej
 ekkln 1 klenk
@@ -12379,7 +11784,6 @@ eklpt 1 pletk
 eklpv 1 plevk
 eklpš 1 plešk
 eklrs 1 skrle
-eklrz 1 zrkel
 eklrš 1 škrle
 eklst 1 tlesk
 eklsv 1 vkles
@@ -12398,10 +11802,9 @@ eknoo 1 enook
 eknrs 1 srkne
 eknrz 1 krzen
 eknrž 1 rženk
+eknsž 1 snežk
 ekntu 1 knute
 eknuz 1 knezu
-eknvz 1 zvenk
-eknvž 1 žvenk
 ekoor 1 okore
 ekoos 1 oseko
 ekoot 1 otoke
@@ -12417,9 +11820,7 @@ ekprž 1 krpež
 ekpss 1 skeps
 ekpst 1 spetk
 ekpuv 1 vkupe
-ekpuž 1 žepku
 ekrru 1 krure
-ekruž 1 žurke
 eksst 1 sekst
 ekstt 1 tekst
 ekstv 1 kvest
@@ -12429,7 +11830,6 @@ ektuu 1 uteku
 ektuž 1 kužet
 ekuvž 1 kužev
 ellmr 1 mrlel
-ellmz 1 zmlel
 ellot 1 tlelo
 elloz 1 lezlo
 ellps 1 splel
@@ -12440,20 +11840,20 @@ ellsu 1 slule
 elmmo 1 melom
 elmoo 1 omelo
 elmor 1 lerom
+elmoz 1 molze
 elmpu 1 lumpe
 elmrt 1 mrlet
 elmrv 1 vrlem
 elmst 1 mlest
 elmsu 1 slume
-elmtz 1 zmlet
 elmuu 1 ulemu
 elmuv 1 velum
-elmuz 1 zlemu
+elmuž 1 mužel
 elnoo 1 onole
 elnor 1 norel
+elnoz 1 lezno
 elnpt 1 plent
 elnpu 1 plenu
-elnrz 1 zrnel
 elnsu 1 snule
 elnuv 1 venul
 eloos 1 osole
@@ -12473,7 +11873,6 @@ elpsš 1 spleš
 elptv 1 vplet
 elpvz 1 vzpel
 elrsš 1 sršel
-elruž 1 žrelu
 elrvv 1 vrvel
 elrvz 1 vrzel
 elrvž 1 vžrle
@@ -12482,15 +11881,12 @@ elršv 1 vršel
 elssu 1 sesul
 elstt 1 stlet
 elstv 1 vlest
-elstz 1 zlest
 elsšu 1 slešu
 eltuu 1 leutu
-eltuz 1 zletu
 eltuž 1 tulež
 eluuv 1 uvule
 eluuz 1 ezulu
 eluvv 1 vulve
-eluzž 1 žezlu
 elštv 1 vštel
 emmmo 1 memom
 emmnu 1 umnem
@@ -12508,15 +11904,14 @@ emoop 1 poemo
 emoor 1 romeo
 emoot 1 omote
 emoov 1 ovemo
-emooz 1 zoome
 emoož 1 omože
 emopu 1 poemu
 emopz 1 pezom
-emopž 1 žepom
 emorš 1 moreš
 emotu 1 ometu
 emotž 1 možet
 emouv 1 umove
+emovz 1 vezom
 emošž 1 ožmeš
 emppu 1 pumpe
 emprv 1 prvem
@@ -12531,7 +11926,6 @@ emruž 1 ružem
 emrvv 1 vrvem
 emršt 1 tršem
 emršu 1 umreš
-emstz 1 zmest
 emsšt 1 stmeš
 emsšu 1 sušem
 emtuž 1 mužet
@@ -12544,11 +11938,9 @@ enoop 1 opone
 enoos 1 oseno
 enoov 1 eonov
 enopp 1 popne
-enopž 1 žepno
 enoss 1 sesno
 enosu 1 osenu
 enosz 1 sezon
-enozž 1 zožen
 enošv 1 šenov
 enpru 1 repnu
 enpsš 1 spneš
@@ -12558,15 +11950,11 @@ enpšv 1 vpneš
 enrsu 1 srenu
 enrsš 1 sršen
 enruv 1 nervu
-enruz 1 zurne
-enrvz 1 zvrne
 enrvž 1 vržen
 ensst 1 snest
 enssu 1 snuse
 enstt 1 stent
 enstv 1 vnest
-enstz 1 znest
-enuvz 1 zvenu
 enštu 1 šentu
 eoors 1 orose
 eoorž 1 orože
@@ -12578,9 +11966,9 @@ eoppv 1 pepov
 eopru 1 upore
 eopsž 1 sopež
 eoptt 1 topet
+eoptz 1 potez
 eoptž 1 požet
 eopuž 1 ožepu
-eopvž 1 žepov
 eopšš 1 opšeš
 eorrs 1 resor
 eorrv 1 rover
@@ -12599,8 +11987,7 @@ eosvž 1 svežo
 eosšu 1 osuše
 eotvv 1 vetov
 eouvz 1 uvoze
-eovzz 1 zvezo
-eošvz 1 zoveš
+eovvz 1 vezov
 eprru 1 rurpe
 eprtt 1 trpet
 eprtž 1 trpež
@@ -12614,18 +12001,15 @@ epsšš 1 spšeš
 epttu 1 putte
 eptvz 1 vzpet
 epštu 1 štupe
-erruž 1 žurer
 ersst 1 stres
 erstv 1 vrste
 ersuv 1 vresu
 ertuv 1 vetru
 ertuž 1 utrže
 ertvv 1 vrvet
-ertvz 1 zvrte
 eruuz 1 urezu
 eruvž 1 ružev
 ervvž 1 vrvež
-ervzž 1 zvrže
 erštž 1 tržeš
 eršuv 1 rušev
 eršuz 1 uzreš
@@ -12634,7 +12018,6 @@ esttu 1 testu
 esttv 1 tvest
 estuz 1 sezut
 estuž 1 ustež
-estvz 1 zvest
 esuuz 1 uzuse
 esštu 1 šuste
 etuuž 1 utežu
@@ -12804,7 +12187,6 @@ ghiir 1 rigih
 ghiis 1 gisih
 ghiiv 1 vigih
 ghiiw 1 whigi
-ghiiž 1 žigih
 ghijo 1 gojih
 ghijr 1 grjih
 ghiju 1 jugih
@@ -12831,11 +12213,11 @@ giilv 1 glivi
 giimm 1 migmi
 giimn 1 migni
 giims 1 sigmi
-giimz 1 zmigi
 giinp 1 pingi
 giins 1 sigin
 giinu 1 ugini
 giinv 1 vigni
+giinz 1 izgin
 giiož 1 ožigi
 giipr 1 gripi
 giips 1 gipsi
@@ -12848,7 +12230,6 @@ gijkn 1 knjig
 gijlr 1 grlji
 gijmo 1 gojim
 gijnr 1 grinj
-gijnz 1 zgnij
 gijos 1 gosji
 gijou 1 ugoji
 gijov 1 gojiv
@@ -12864,9 +12245,9 @@ gikot 1 gotik
 gikov 1 gikov
 gillo 1 golil
 gilmr 1 grlim
-gilnz 1 zgnil
 giloo 1 ogoli
 gilou 1 oguli
+gilož 1 gožil
 gilrs 1 girls
 gilrt 1 grlit
 gilrv 1 vrgli
@@ -12874,51 +12255,45 @@ gilrš 1 grliš
 gilst 1 glist
 gilsu 1 slugi
 giltu 1 gulit
-giluz 1 zguli
 gimmr 1 grmim
 gimop 1 pomig
 gimoz 1 mozgi
 gimru 1 grumi
-gimrz 1 zgrmi
 gimsu 1 smugi
+gimuz 1 muzgi
 ginoo 1 ogoni
 ginos 1 songi
 ginoš 1 goniš
 ginpu 1 pingu
 ginru 1 ringu
 ginrv 1 grivn
-ginrz 1 zgrni
 ginsu 1 gnusi
 ginsv 1 sving
 ginsw 1 swing
-gintz 1 zgnit
 ginuz 1 guzni
-ginuž 1 žugni
 gioor 1 ogori
 giops 1 gospi
 giors 1 grosi
 gioru 1 guiro
-giotz 1 zigot
 giotž 1 gožit
 giouž 1 ožigu
 giovv 1 vigov
+giovž 1 gožvi
 giozž 1 izžgo
 giošž 1 gožiš
 gipru 1 grupi
 gipsu 1 gipsu
 girsu 1 girus
 giruu 1 guiru
+girvz 1 izvrg
 giršt 1 štrig
 gistu 1 gusti
-giuzz 1 zguzi
-givžž 1 žvižg
 gjloo 1 goljo
 gjlor 1 ogrlj
 gjlru 1 grlju
 gjmou 1 jugom
 gjmru 1 grmju
 gjnoo 1 gonjo
-gjnoz 1 zgonj
 gjoop 1 pogoj
 gjoor 1 gorjo
 gjoos 1 gosjo
@@ -12946,6 +12321,7 @@ glopu 1 glupo
 glorv 1 vrglo
 gloss 1 gloss
 glotu 1 goltu
+glouz 1 guloz
 glpuu 1 plugu
 gmmor 1 grmom
 gmopu 1 pogum
@@ -12957,7 +12333,6 @@ gnoop 1 pogon
 gnoor 1 gorno
 gnoou 1 ogonu
 gnooz 1 gnozo
-gnotz 1 zgont
 gnouv 1 govnu
 gnovz 1 vzgon
 gnošu 1 šogun
@@ -12982,7 +12357,6 @@ gotuy 1 guyot
 gouvž 1 gužvo
 grstu 1 strug
 grtuu 1 utrgu
-gruvz 1 zvrgu
 hhiij 1 hijih
 hhiik 1 kihih
 hhiil 1 lihih
@@ -13038,11 +12412,10 @@ hiipv 1 pivih
 hiipz 1 izpih
 hiipš 1 piših
 hiirš 1 širih
+hiirž 1 rižih
 hiiss 1 sisih
 hiitt 1 ihtit
 hiitu 1 uhiti
-hiitž 1 žitih
-hiivž 1 živih
 hijmo 1 mojih
 hijov 1 vojih
 hijož 1 ožjih
@@ -13079,7 +12452,6 @@ himož 1 možih
 himrv 1 vrhmi
 himrš 1 hršim
 himtu 1 humit
-himuz 1 zumih
 hinno 1 nonih
 hinoš 1 hišno
 hinož 1 nožih
@@ -13087,20 +12459,18 @@ hinpr 1 prhni
 hinpu 1 puhni
 hinrt 1 trnih
 hinrv 1 vihrn
+hinrz 1 hrzni
 hinšu 1 hušni
 hiopp 1 popih
 hiopu 1 opihu
 hiopš 1 šopih
 hiorr 1 rorih
-hiorz 1 zorih
 hiost 1 hosti
 hiosu 1 housi
 hiosw 1 showi
-hiosz 1 zosih
 hiotu 1 outih
 hiouz 1 ouzih
 hiovv 1 hivov
-hiovz 1 zovih
 hiovž 1 vožih
 hiošt 1 šotih
 hiošv 1 šovih
@@ -13117,6 +12487,7 @@ hirsv 1 svrhi
 hirtt 1 trtih
 hirtv 1 vrtih
 hirtz 1 trzih
+hiruž 1 ružih
 hiršu 1 hišur
 hiršš 1 hršiš
 histw 1 whist
@@ -13205,6 +12576,7 @@ iijlm 1 milji
 iijlv 1 vilji
 iijlz 1 izlij
 iijms 1 misij
+iijmz 1 izmij
 iijmš 1 mišji
 iijno 1 ionij
 iijns 1 sinji
@@ -13214,7 +12586,6 @@ iijop 1 opiji
 iijpz 1 izpij
 iijrz 1 izrij
 iijrš 1 širji
-iijrž 1 žirij
 iijuz 1 uziji
 iijšt 1 tišji
 iijšv 1 višji
@@ -13233,6 +12604,7 @@ iikms 1 miksi
 iikmt 1 kitim
 iikmu 1 umiki
 iikmv 1 mivki
+iikmz 1 izmik
 iikmš 1 miški
 iikmž 1 mižki
 iikno 1 ikoni
@@ -13243,30 +12615,24 @@ iikot 1 okiti
 iikpp 1 pipik
 iikpv 1 pivki
 iiktt 1 kitit
-iiktž 1 žitki
 iikvv 1 vivki
 iikvz 1 kvizi
-iikvž 1 živik
-iikzz 1 zizki
 iikšv 1 viški
 iikšš 1 šiški
-iikšž 1 žiški
-iikžž 1 žižki
 iillm 1 milil
 iillp 1 pilil
 iillt 1 illit
 iillu 1 ulili
 iillv 1 vlili
+iillz 1 izlil
 iillš 1 šilil
-iillž 1 žilil
 iilmm 1 milim
 iilmo 1 omili
 iilmr 1 miril
-iilmž 1 žilim
+iilmz 1 izmil
 iilnr 1 rinil
 iilnt 1 litin
 iilnš 1 šinil
-iilnž 1 žilni
 iilor 1 orili
 iiloš 1 ošili
 iilpr 1 ripil
@@ -13277,21 +12643,18 @@ iilpz 1 izpil
 iilrs 1 siril
 iilrt 1 litri
 iilrv 1 livri
-iilrž 1 žiril
-iiltž 1 žilit
 iiluv 1 uvili
 iiluž 1 užili
 iilvv 1 vlivi
-iilzž 1 zliži
+iilvž 1 vižli
 iilšu 1 ušili
 iilšv 1 všili
+iilšz 1 izšli
 iilšš 1 šiliš
-iilšž 1 žiliš
 iimmn 1 minim
 iimmo 1 miomi
 iimmr 1 mirim
 iimms 1 misim
-iimmz 1 zimim
 iimmž 1 mižim
 iimno 1 onimi
 iimnp 1 pinim
@@ -13305,12 +12668,11 @@ iimps 1 pismi
 iimpž 1 pižmi
 iimrs 1 sirim
 iimru 1 umiri
-iimrž 1 žirim
 iimtu 1 umiti
 iimtv 1 vitim
+iimtz 1 izmit
 iimvz 1 vzimi
 iimzž 1 izžmi
-iimšz 1 zimiš
 iimšž 1 mižiš
 iinnš 1 nišni
 iinnž 1 nižin
@@ -13322,13 +12684,12 @@ iinpp 1 pipni
 iinpz 1 izpni
 iinpš 1 piniš
 iinrv 1 vrini
+iinrz 1 rizin
 iinrž 1 rižni
 iinsu 1 usini
 iintt 1 tinti
 iintu 1 uniti
-iintz 1 zinit
-iintž 1 žitni
-iinzz 1 zizni
+iinvz 1 izvin
 iinšu 1 ušini
 iiopr 1 opiri
 iiopz 1 izopi
@@ -13343,6 +12704,7 @@ iiosv 1 osivi
 iiotv 1 oviti
 iiotž 1 ožiti
 iiovv 1 ivovi
+iiovž 1 oživi
 iiošt 1 otiši
 iipps 1 pipsi
 iiprs 1 ripsi
@@ -13361,12 +12723,9 @@ iirsv 1 vrisi
 iirsz 1 izris
 iirsš 1 siriš
 iirtt 1 titri
-iirtž 1 žirit
 iiruz 1 izuri
 iirzž 1 izžri
 iiršv 1 vriši
-iiršz 1 zriši
-iiršž 1 žiriš
 iisst 1 stisi
 iistu 1 suiti
 iistz 1 iztis
@@ -13374,7 +12733,6 @@ iisvž 1 sviži
 iittv 1 tviti
 iituv 1 uviti
 iituž 1 užiti
-iitvž 1 živit
 iitzž 1 izžit
 iivvž 1 vživi
 iivzz 1 izziv
@@ -13383,12 +12741,10 @@ iištv 1 všiti
 iištz 1 izšit
 iišuv 1 ušivi
 iišvv 1 všivi
-iišvž 1 živiš
 iiššt 1 tišiš
 ijjlu 1 julij
 ijjot 1 jitjo
 ijkls 1 sklij
-ijklž 1 žiljk
 ijkmo 1 kojim
 ijknu 1 kunji
 ijkor 1 kroji
@@ -13401,21 +12757,19 @@ ijktu 1 tujki
 ijkuz 1 izkuj
 ijllo 1 oljil
 ijlms 1 smilj
-ijloz 1 zolji
 ijloš 1 oljiš
 ijlož 1 ožilj
 ijlpš 1 špilj
 ijlru 1 rjuli
+ijluž 1 južil
 ijmmu 1 mumij
 ijmno 1 jinom
-ijmoz 1 zmijo
+ijmož 1 ožjim
 ijmtu 1 tujim
-ijmuz 1 zimuj
 ijmuž 1 južim
 ijnno 1 nonij
 ijnop 1 pinjo
 ijnou 1 unijo
-ijnoz 1 znoji
 ijnoš 1 šojin
 ijnož 1 nižjo
 ijnpr 1 prnji
@@ -13436,7 +12790,6 @@ ijotu 1 otuji
 ijotv 1 tvoji
 ijouv 1 uvoji
 ijouž 1 ojuži
-ijovz 1 zvoji
 ijošt 1 tišjo
 ijošv 1 višjo
 ijptu 1 pitju
@@ -13445,9 +12798,9 @@ ijruz 1 izruj
 ijsuz 1 izsuj
 ijttu 1 tujit
 ijtuv 1 vitju
+ijtuž 1 južit
 ijuuz 1 uziju
 ijuuž 1 ujuži
-ijuzž 1 zjuži
 ijvvz 1 vzvij
 ijštu 1 tujiš
 ijšuž 1 južiš
@@ -13471,7 +12824,6 @@ iklnr 1 krnil
 iklož 1 kloži
 iklpt 1 plitk
 iklrt 1 litrk
-iklrz 1 zrkli
 iklst 1 sklit
 ikltv 1 tlivk
 ikluz 1 kuzli
@@ -13483,6 +12835,7 @@ ikmož 1 možki
 ikmrt 1 krmit
 ikmrz 1 mrzki
 ikmuu 1 umiku
+ikmuz 1 muzik
 ikmvz 1 vzmik
 ikmšu 1 mišku
 iknno 1 kinon
@@ -13505,9 +12858,9 @@ ikott 1 kotit
 ikotu 1 utoki
 ikouž 1 okuži
 ikovv 1 vikov
+ikovz 1 vozki
 ikošz 1 koziš
 ikošš 1 šiško
-ikošž 1 žiško
 ikppu 1 pupki
 ikprv 1 prvki
 ikprš 1 škrip
@@ -13522,21 +12875,24 @@ iksst 1 stisk
 ikssu 1 skusi
 ikstv 1 vtisk
 ikttu 1 tutki
+iktuž 1 kužit
 ikuvv 1 vivku
 ikuvz 1 kvizu
-ikuzz 1 zizku
 ikštu 1 štuki
 ikšuž 1 kužiš
 illos 1 solil
 illou 1 ulilo
+illoz 1 lizol
 illož 1 ložil
 illru 1 rulil
 illsu 1 sluli
 illtu 1 tulil
+illuž 1 lužil
 ilmmr 1 mrlim
 ilmmu 1 mulim
 ilmoo 1 omilo
 ilmor 1 moril
+ilmoz 1 molzi
 ilmrt 1 trmil
 ilmst 1 stlim
 ilnnu 1 lunin
@@ -13544,7 +12900,6 @@ ilnor 1 noril
 ilnot 1 tonil
 ilnoš 1 šolni
 ilnps 1 splin
-ilnrz 1 zrnil
 iloor 1 orilo
 iloos 1 osoli
 iloot 1 oolit
@@ -13557,9 +12912,10 @@ ilorž 1 ožrli
 iloss 1 silos
 ilosz 1 solzi
 ilosš 1 soliš
+ilotz 1 tiloz
 ilošu 1 ušilo
+ilošz 1 izšlo
 ilošž 1 ložiš
-iložž 1 žižol
 ilprt 1 prtil
 ilpru 1 uprli
 ilprz 1 izprl
@@ -13569,6 +12925,7 @@ ilpvv 1 vpliv
 ilrst 1 strli
 ilrsš 1 sršil
 ilrtž 1 tržil
+ilruž 1 ružil
 ilrvž 1 vžrli
 ilrzž 1 izžrl
 ilršt 1 štrli
@@ -13577,12 +12934,11 @@ ilsuu 1 usuli
 ilsuž 1 služi
 ilsšt 1 stliš
 ilsšu 1 sušil
+iltuž 1 lužit
 iltvz 1 vztli
 iluuv 1 uvuli
-iluvz 1 zlivu
-iluzž 1 zluži
-ilužž 1 žižul
 ilvvz 1 vzvil
+ilšuž 1 lužiš
 ilšvz 1 vzšli
 immmo 1 mimom
 immrt 1 trmim
@@ -13595,23 +12951,22 @@ imnno 1 ninom
 imnoo 1 ionom
 imnou 1 imuno
 imnoš 1 mišon
-imnrz 1 zrnim
 imntu 1 minut
 imnuž 1 mužni
 imnšu 1 šumni
 imoor 1 orimo
-imooz 1 zoomi
 imopp 1 pompi
 imopv 1 pivom
 imopš 1 pšimo
+imorž 1 mroži
 imoss 1 sisom
 imosu 1 osumi
 imotu 1 umito
+imotz 1 mitoz
 imouv 1 umovi
 imouž 1 omuži
 imovv 1 vimov
 imovž 1 vožmi
-imozž 1 zožim
 imošv 1 šivom
 imošž 1 možiš
 imppu 1 pumpi
@@ -13626,7 +12981,8 @@ imrsš 1 sršim
 imrsž 1 sržmi
 imrtž 1 tržim
 imruv 1 murvi
-imrvz 1 zmrvi
+imruž 1 ružim
+imršz 1 mrziš
 imršš 1 mršiš
 imtuž 1 mužit
 imuuz 1 izumu
@@ -13639,7 +12995,6 @@ innož 1 nožni
 innrs 1 srnin
 innrt 1 trnin
 innru 1 urnin
-innrz 1 zrnin
 inntu 1 tunin
 inoop 1 oponi
 inoos 1 osino
@@ -13650,27 +13005,22 @@ inoož 1 ožino
 inopz 1 pozni
 inopž 1 pinož
 inorv 1 rovni
-inovž 1 živno
-inozz 1 zizno
+inosz 1 iznos
+inotž 1 tožni
 inošv 1 šivno
 inprs 1 prsni
 inpru 1 purin
 inprv 1 prvin
 inprš 1 pršni
 inprž 1 pržin
-inpuž 1 župni
 inpvz 1 vzpni
 inrtt 1 trtni
+inrtz 1 trzni
 inrtž 1 tržni
 inruu 1 urinu
-inruz 1 zurni
-inruž 1 žurni
 inrvv 1 vrvni
-inrvz 1 zvrni
 inršt 1 štirn
-inršz 1 zrniš
 intuž 1 tužni
-inuvz 1 zvinu
 ioors 1 orosi
 ioorv 1 oviro
 ioorž 1 oroži
@@ -13697,7 +13047,7 @@ iortž 1 rižot
 ioruz 1 oziru
 ioruž 1 oruži
 iorvv 1 virov
-iorvž 1 žirov
+ioršz 1 ozrši
 ioršš 1 širšo
 iossv 1 sisov
 iostž 1 stoži
@@ -13706,15 +13056,14 @@ iosšu 1 osuši
 iottž 1 tožit
 iotuv 1 uvito
 iotuž 1 užito
-iotvž 1 život
-iotzž 1 zožit
+iotvz 1 vozit
 iouvz 1 uvozi
+iovzz 1 izvoz
 ioštu 1 otišu
 ioštž 1 tožiš
 iošuv 1 ušivo
 iošvv 1 šivov
 iošvz 1 voziš
-iošzž 1 zožiš
 ioššt 1 šotiš
 ippsu 1 pipsu
 iprru 1 rurpi
@@ -13732,14 +13081,11 @@ irsšu 1 rusiš
 irsšš 1 sršiš
 irttv 1 vrtit
 irttž 1 tržit
-irtvz 1 zvrti
-irtvž 1 žrtvi
 irtzž 1 izžrt
 iruvz 1 vizur
-irvzz 1 zvrzi
 irštu 1 rušit
 irštž 1 tržiš
-iršuz 1 zruši
+iršuž 1 ružiš
 iršvv 1 vrviš
 irššu 1 rušiš
 irššv 1 vršiš
@@ -13802,12 +13148,10 @@ jloru 1 rjulo
 jlosu 1 sloju
 jlotu 1 ljuto
 jlouu 1 joulu
-jlouz 1 zolju
 jlpsu 1 spluj
 jlpuv 1 vpluj
 jlruv 1 vrulj
 jltuu 1 tulju
-jluuž 1 žulju
 jmoop 1 pojmo
 jmoor 1 jorom
 jmoos 1 smojo
@@ -13823,11 +13167,9 @@ jnopu 1 ponju
 jnors 1 srnjo
 jnosu 1 osnuj
 jnouv 1 vonju
-jnouz 1 znoju
 jnouž 1 južno
 jnošu 1 jušno
 jnrtu 1 trnju
-jnruz 1 zrnju
 jnršu 1 šnjur
 jooos 1 osojo
 joopr 1 projo
@@ -13856,15 +13198,12 @@ josšu 1 sušjo
 jotuv 1 jutov
 jotuž 1 tožuj
 jouuv 1 uvoju
-jouvz 1 zvoju
 jouvž 1 vožju
-jouzž 1 zožuj
 jovvz 1 vzvoj
 jprsu 1 srpju
 jpsuu 1 pujsu
 jrttu 1 trtju
 jrtuu 1 jutru
-jrtuž 1 žrtju
 jruvv 1 vrvju
 jršuu 1 rušju
 jsšuu 1 sušju
@@ -13907,13 +13246,11 @@ klooš 1 loško
 kloož 1 kložo
 klopš 1 šklop
 klors 1 skrlo
-klorz 1 zrklo
 klorš 1 škrlo
 klosv 1 slovk
 klošu 1 luško
 klpšu 1 šlupk
 klrsu 1 skrlu
-klruz 1 zrklu
 klršu 1 škrlu
 klsuy 1 sulky
 kltuu 1 kultu
@@ -13931,10 +13268,8 @@ kmouž 1 možku
 kmošu 1 mošku
 kmpuu 1 kumpu
 kmrsu 1 smrku
-kmruž 1 žmurk
 knnou 1 nunko
 knoos 1 kosno
-knooz 1 zokno
 knooš 1 košno
 knops 1 sponk
 knopv 1 vponk
@@ -13942,7 +13277,6 @@ knorz 1 krzno
 knorš 1 kršno
 knouu 1 okunu
 knouv 1 vnuko
-knouz 1 zoknu
 knptu 1 punkt
 knpuu 1 punku
 knrsu 1 skrun
@@ -13968,7 +13302,6 @@ kopuu 1 pouku
 korru 1 kruro
 korsv 1 srkov
 korsš 1 skorš
-koruž 1 žurko
 korvz 1 vzrok
 koršv 1 ošvrk
 kostt 1 stotk
@@ -13979,6 +13312,7 @@ kosšv 1 skvoš
 kottu 1 tutko
 kotuu 1 utoku
 kotvz 1 vztok
+kouvz 1 vozku
 kppuu 1 pupku
 kpruu 1 krupu
 kpruv 1 prvku
@@ -13989,7 +13323,6 @@ krtuv 1 vrtku
 kruuz 1 kurzu
 kruvž 1 vržku
 kssuu 1 sukus
-kuužž 1 žužku
 kštuu 1 štuku
 llnuu 1 lunul
 llopu 1 plulo
@@ -14007,14 +13340,13 @@ lmosu 1 solum
 lmotu 1 tulom
 lmouu 1 ulomu
 lmoux 1 luxom
-lmouz 1 zlomu
-lmouž 1 žmulo
 lmpuu 1 lumpu
 lmruu 1 rumlu
 lmsuu 1 slumu
 lmtuu 1 tumul
 lnnoy 1 nylon
 lnoor 1 orlon
+lnoož 1 ložno
 lnopu 1 lupno
 lnouy 1 yulon
 lnouž 1 lužno
@@ -14044,12 +13376,11 @@ lopuž 1 polžu
 lopšu 1 špulo
 lorst 1 strlo
 lortv 1 vtrlo
+loruz 1 uzrlo
 lorvž 1 vžrlo
 loršu 1 šorlu
 lostt 1 tolst
-lostz 1 zlost
 losuz 1 sluzo
-lotuz 1 zlotu
 louvx 1 luxov
 louvz 1 vozlu
 loštu 1 štulo
@@ -14066,14 +13397,12 @@ mmoop 1 mopom
 mmoos 1 somom
 mmoov 1 momov
 mmoož 1 možmo
-mmouz 1 zumom
 mmošu 1 šumom
 mmpsu 1 mumps
 mnnoo 1 nonom
 mnoož 1 možno
 mnort 1 trnom
 mnoru 1 runom
-mnorz 1 zrnom
 mnosu 1 sumno
 mnotu 1 tunom
 mnouv 1 novum
@@ -14085,9 +13414,12 @@ moopv 1 mopov
 moopš 1 šopom
 moorr 1 rorom
 moors 1 sorom
+moorz 1 omrzo
 mooss 1 mosso
+moosz 1 osmoz
 moott 1 motto
-mootz 1 zmoto
+moouz 1 ouzom
+moovz 1 vozom
 moozz 1 ozmoz
 moošt 1 šotom
 moošv 1 šovom
@@ -14097,9 +13429,9 @@ mopšu 1 šupom
 morsu 1 rusom
 mortz 1 trzom
 moruu 1 umoru
+moruž 1 mrožu
 mottu 1 mottu
 motuv 1 votum
-mouvz 1 zumov
 mošuv 1 šumov
 mrstu 1 strum
 mruuw 1 wurmu
@@ -14113,27 +13445,26 @@ nooop 1 opono
 noopz 1 pozno
 noors 1 rosno
 noorv 1 rovno
-noorz 1 zorno
 noorš 1 noršo
+noorž 1 rožno
 noosš 1 sošno
 nootu 1 otonu
+nootž 1 tožno
 noouz 1 ozonu
 noovz 1 vozno
 noošt 1 šotno
 noprs 1 prsno
 noprt 1 trpno
-noprz 1 zoprn
 noprš 1 pršno
 noprž 1 pržon
 nopsu 1 snopu
 nopsš 1 šnops
-nopuž 1 župno
 nopvz 1 vzpon
 nopšu 1 šponu
 nortt 1 trtno
 nortz 1 trzno
 nortž 1 tržno
-noruž 1 žurno
+noruz 1 noruz
 norvv 1 vrvno
 noršu 1 rušno
 noršv 1 vršno
@@ -14142,7 +13473,6 @@ nosvz 1 vznos
 nosšu 1 sušno
 notuv 1 tunov
 notuž 1 tužno
-nouvz 1 zvonu
 nptuu 1 puntu
 nrtuu 1 turnu
 nssuu 1 snusu
@@ -14157,14 +13487,13 @@ oorrv 1 rorov
 oorsz 1 soroz
 oortt 1 torto
 oorvv 1 rovov
-oorvz 1 zorov
 oostt 1 stoto
 oostu 1 osuto
-oosvz 1 zosov
 oottv 1 ottov
 ootty 1 toyot
 ootuv 1 outov
 oouvz 1 ouzov
+oovvz 1 vozov
 ooštv 1 šotov
 oošvv 1 šovov
 oppru 1 popru
@@ -14191,7 +13520,6 @@ ortuy 1 ryotu
 ortvv 1 vrtov
 ortvz 1 trzov
 oruvz 1 vzoru
-oruvž 1 žurov
 orštt 1 trošt
 osttu 1 stotu
 osštu 1 štosu
@@ -14209,8 +13537,6 @@ pstuv 1 vpust
 pstuz 1 puszt
 pttuu 1 puttu
 rstuu 1 sutur
-rstvz 1 zvrst
-rtuvz 1 zvrtu
 suuuz 1 uzusu
 čddei 1 dedič
 čdeej 1 dečje
@@ -14221,7 +13547,6 @@ suuuz 1 uzusu
 čdeij 1 dečji
 čdeik 1 dečki
 čdeis 1 sčedi
-čdeiz 1 zdiče
 čdeko 1 dečko
 čdekr 1 rdečk
 čdeku 1 dečku
@@ -14229,7 +13554,6 @@ suuuz 1 uzusu
 čders 1 drseč
 čdert 1 trdeč
 čderv 1 drveč
-čderz 1 zdrče
 čderž 1 držeč
 čdesu 1 čudes
 čdeuž 1 čudež
@@ -14251,10 +13575,8 @@ suuuz 1 uzusu
 čdiop 1 podič
 čdior 1 dričo
 čdiov 1 vodič
-čdirz 1 zdrči
 čdirš 1 drčiš
 čditu 1 čudit
-čdiuz 1 zdiču
 čdišu 1 čudiš
 čdjou 1 čudjo
 čdmoo 1 domoč
@@ -14278,6 +13600,7 @@ suuuz 1 uzusu
 čeekv 1 čveke
 čeekš 1 češke
 čeelš 1 lešče
+čeelž 1 ležeč
 čeemm 1 mečem
 čeemo 1 omeče
 čeemp 1 pečem
@@ -14294,7 +13617,6 @@ suuuz 1 uzusu
 čeers 1 sreče
 čeert 1 črete
 čeeru 1 ureče
-čeerz 1 zreče
 čeerš 1 rečeš
 čeerž 1 režeč
 čeesu 1 useče
@@ -14324,7 +13646,6 @@ suuuz 1 uzusu
 čegmu 1 gučem
 čegor 1 goreč
 čegoš 1 gošče
-čegož 1 žgoče
 čegru 1 gruče
 čegrv 1 grčev
 čeguv 1 gučev
@@ -14347,6 +13668,7 @@ suuuz 1 uzusu
 čeijt 1 tičje
 čeikk 1 kečki
 čeilo 1 očeli
+čeilz 1 izleč
 čeimu 1 umeči
 čeino 1 očine
 čeinu 1 učeni
@@ -14356,9 +13678,9 @@ suuuz 1 uzusu
 čeioš 1 očeši
 čeipu 1 upeči
 čeipv 1 vpeči
-čeipž 1 žepič
 čeirs 1 sreči
 čeiru 1 ureči
+čeirz 1 izreč
 čeisu 1 useči
 čeitt 1 tetič
 čeitz 1 izteč
@@ -14369,7 +13691,6 @@ suuuz 1 uzusu
 čejno 1 ječno
 čejop 1 pečjo
 čejos 1 sečjo
-čejoz 1 zjoče
 čejru 1 rečju
 čejuv 1 ujčev
 čeklv 1 vlečk
@@ -14382,13 +13703,11 @@ suuuz 1 uzusu
 čeksv 1 svečk
 čekuv 1 čveku
 čekuž 1 čužke
-čekvž 1 žvečk
 čekšt 1 ščetk
 čekšu 1 ščuke
 čelmr 1 mrleč
 čelnr 1 črnel
 čeloš 1 lošče
-čelož 1 žolče
 čelpu 1 puleč
 čelrt 1 črtel
 čelru 1 ruleč
@@ -14397,8 +13716,6 @@ suuuz 1 uzusu
 čelsu 1 sleču
 čeltu 1 tuleč
 čeluv 1 uvleč
-čeluž 1 žuleč
-čelvz 1 zvleč
 čemmo 1 močem
 čemmr 1 mrčem
 čemnr 1 črnem
@@ -14409,14 +13726,12 @@ suuuz 1 uzusu
 čemtu 1 čumet
 čemuž 1 čemžu
 čenov 1 večno
-čenoz 1 znoče
-čenož 1 ženoč
 čenuv 1 vnuče
-čenšž 1 ženšč
 čeoor 1 oroče
 čeopu 1 pouče
 čeopz 1 počez
 čeoru 1 uroče
+čeorz 1 rezoč
 čeorž 1 režoč
 čeosu 1 očesu
 čeosv 1 svečo
@@ -14433,7 +13748,6 @@ suuuz 1 uzusu
 čertu 1 čretu
 čertv 1 vrteč
 čertž 1 črtež
-červz 1 zvreč
 česuu 1 usuče
 češuv 1 čušev
 čfhii 1 fičih
@@ -14457,15 +13771,12 @@ suuuz 1 uzusu
 čgikr 1 grčki
 čgimu 1 gučim
 čgioš 1 gošči
-čgiož 1 žgoči
-čgirz 1 zgrči
 čgirš 1 grčiš
 čgišu 1 gučiš
 čgkor 1 grčko
 čgmoo 1 mogoč
 čgnor 1 črnog
 čgooš 1 goščo
-čgoož 1 žgočo
 čgoru 1 gručo
 čgršu 1 grušč
 čhiij 1 čijih
@@ -14494,21 +13805,20 @@ suuuz 1 uzusu
 čiijš 1 ščiji
 čiikt 1 tički
 čiikv 1 čivki
+čiikž 1 čižki
 čiill 1 ličil
 čiilo 1 oliči
 čiilt 1 ličit
 čiilu 1 učili
 čiilš 1 ličiš
-čiilž 1 žičil
 čiimo 1 očimi
 čiimp 1 pičim
 čiims 1 sičim
 čiimt 1 tičim
-čiimz 1 zmiči
 čiinn 1 nični
 čiino 1 očini
 čiins 1 sčini
-čiinz 1 zniči
+čiinž 1 činži
 čiiop 1 opiči
 čiiot 1 očiti
 čiipp 1 pipič
@@ -14519,25 +13829,20 @@ suuuz 1 uzusu
 čiist 1 čisti
 čiisš 1 sičiš
 čiitu 1 učiti
-čiitž 1 žičit
 čiiuv 1 učivi
 čiiuz 1 izuči
-čiišž 1 žičiš
 čijko 1 kočij
 čijnu 1 čujni
 čijor 1 rijoč
 čijos 1 sijoč
 čijot 1 tičjo
-čijoz 1 zjoči
 čikko 1 kočki
 čikln 1 klinč
 čiklr 1 krčil
-čiklž 1 žličk
 čikmo 1 čikom
 čikmu 1 kučmi
 čiknš 1 ščink
 čikou 1 ukoči
-čikož 1 žičko
 čikps 1 psičk
 čikpt 1 ptičk
 čikpš 1 špičk
@@ -14553,6 +13858,7 @@ suuuz 1 uzusu
 čilor 1 orlič
 čilou 1 učilo
 čilov 1 volič
+čilož 1 ližoč
 čilrs 1 srčil
 čilrv 1 čvrli
 čilrš 1 ščrli
@@ -14562,16 +13868,14 @@ suuuz 1 uzusu
 čilšu 1 lušči
 čimmr 1 mrčim
 čimoo 1 omoči
-čimoz 1 zmoči
 čimru 1 ručim
 čimrv 1 vrčim
 čimsu 1 smuči
-čimuz 1 zmuči
 čimuž 1 čižmu
 činnr 1 črnin
 činoo 1 očino
 činou 1 onuči
-činoz 1 znoči
+činož 1 nožič
 činpr 1 črpni
 činrv 1 črvin
 činrš 1 črniš
@@ -14586,7 +13890,6 @@ suuuz 1 uzusu
 čiopv 1 čipov
 čiors 1 osrči
 čioru 1 uroči
-čiorz 1 zroči
 čiorš 1 rišoč
 čiorž 1 rožič
 čiott 1 točit
@@ -14648,7 +13951,6 @@ suuuz 1 uzusu
 člopš 1 plošč
 člost 1 stolč
 člotv 1 vtolč
-člouž 1 žolču
 člošt 1 tolšč
 člošu 1 lošču
 čmmor 1 črmom
@@ -14674,7 +13976,6 @@ suuuz 1 uzusu
 čnpuu 1 punču
 čoopv 1 čopov
 čoort 1 tročo
-čoorz 1 zročo
 čootž 1 čožot
 čopšu 1 puščo
 čortu 1 očrtu

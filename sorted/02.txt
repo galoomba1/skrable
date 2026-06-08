@@ -84,7 +84,7 @@ od | za izražanje premikanja iz položaja
 oh | izraža čustveno prizadetost, zaskrbljenost
 oj | izraža čustveno prizadetost, zaskrbljenost
 ok | OKA - turška, arabska utežna mera, 1,28 kg
-ol | (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa; PIVO
+ol | (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa
 om | OHM - enota za merjenje električnega upora, električne upornosti
 on | izraža osebo ali stvar, ki je govoreči ne enači s seboj in ne ogovarja
 op | izraža zavrnitev
@@ -134,6 +134,3 @@ ve | VI - izraža skupino oseb, ki jih govoreči ogovarja
 vi | izraža skupino oseb, ki jih govoreči ogovarja
 vš | (klic manjši živali) beži, pojdi
 za | za izražanje časa, v katerem se dejanje dogaja
-zk | posnema glas pri prerezu, preseku
-zz | posnema visok glas pri brenčanju ali sikanju
-že | izraža, da dejanje, stanje nastopi prej, kot se pričakuje

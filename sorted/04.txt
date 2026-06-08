@@ -1598,7 +1598,7 @@ džet | [gem.] fosilni rjavi premog, G = 1,30–1,35, T = 2½, n = 1,66
 džez | JAZZ - popolnoma ali delno improvizirana glasba, ki temelji na folklorni glasbi ameriških črncev
 džin | GIN - žganje z okusom po brinovih jagodah
 džip | majhen osebni terenski avtomobil, ki se uporablja predvsem v vojaške namene
-džul | [esskj] izpeljana merska enota za izražanje energije ali opravljenega dela, ki ustreza energiji ali delu, kot ga opravi sila enega njutna pri premiku telesa za en meter;
+džul | [esskj] izpeljana merska enota za izražanje energije ali opravljenega dela, ki ustreza energiji ali delu, kot ga opravi sila enega njutna pri premiku telesa za en meter
 džus | osvežujoča pijača iz drobno zmečkanega sadja, sladkorja in vode ali sodavice
 earl | plemič, za stopnjo nižji od markija
 eben |
@@ -2181,7 +2181,7 @@ gram | utežna mera, tisočina kilograma
 gran | angleška in ameriška utežna lekarniška enota, 0,06 g
 grap | GRAPA - jarek, ki ga je strmo v breg naredila voda
 gras | GRASA - veje iglavcev za pokrivanje (oglarske) kope
-gray | [esskj] izpeljana merska enota za izražanje absorbirane doze ionizirajočega sevanja, ki ustreza enemu joulu absorbirane energije na kilogram snovi;
+gray | [esskj] izpeljana merska enota za izražanje absorbirane doze ionizirajočega sevanja, ki ustreza enemu joulu absorbirane energije na kilogram snovi
 grba | večja izboklina na hrbtu zaradi skrivljene hrbtenice
 grbe | GRB - stalni simbolični znak države, mesta, plemiške rodbine
 grbi | GRB - stalni simbolični znak države, mesta, plemiške rodbine
@@ -3304,12 +3304,12 @@ kule | KULA - stolp, navadno obrambni
 kuli | nekvalificirani delavec, težak
 kulo | KULA - stolp, navadno obrambni
 kult | izkazovanje časti z molitvami ali obredi, češčenje
-kuma | (nar.) zastopnica otroka pri krstu ali priča pri birmi; BOTRA
-kume | KUMA - (nar.) zastopnica otroka pri krstu ali priča pri birmi; BOTRA
-kumi | KUMA - (nar.) zastopnica otroka pri krstu ali priča pri birmi; BOTRA
-kumo | KUMA - (nar.) zastopnica otroka pri krstu ali priča pri birmi; BOTRA
+kuma | (nar.) zastopnica otroka pri krstu ali priča pri birmi
+kume | KUMA - (nar.) zastopnica otroka pri krstu ali priča pri birmi
+kumi | KUMA - (nar.) zastopnica otroka pri krstu ali priča pri birmi
+kumo | KUMA - (nar.) zastopnica otroka pri krstu ali priča pri birmi
 kump | čolnu podobna priprava, ki drži mlin nad vodo
-kumu | KUM - (nar.) zastopnik otroka pri krstu ali priča pri birmi; BOTER
+kumu | KUM - (nar.) zastopnik otroka pri krstu ali priča pri birmi
 kuna | roparska žival vitkega telesa in kratkih nog
 kune | KUNA - roparska žival vitkega telesa in kratkih nog
 kuni | KUNA - roparska žival vitkega telesa in kratkih nog
@@ -4517,7 +4517,7 @@ okru | OKER - rumeno rjava barva
 okuj | OKOVATI - opremiti s kovinskim delom, ki varuje ali je za okras
 okun | manjša sladkovodna riba olivno zelene barve s temnejšimi lisami, Acerina cernua
 okus | čut za zaznavanje značilnosti snovi, zlasti jedi, s pomočjo okušalnega organa v ustih
-olih | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa; PIVO
+olih | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa
 olik | OLIKA - olikano, lepo vedenje
 oliv | OLIVA - sad oljke
 olja | OLJE - mastna, v vodi netopna tekočina, ki se pridobiva iz rastlin, živalskih maščob, nafte
@@ -4525,8 +4525,8 @@ olje | mastna, v vodi netopna tekočina, ki se pridobiva iz rastlin, živalskih 
 olji | OLJE - mastna, v vodi netopna tekočina, ki se pridobiva iz rastlin, živalskih maščob, nafte
 oljk | OLJKA - južno drevo ali njegovi jajčasti, koščičasti sadovi, iz katerih se pridobiva olje
 olju | OLJE - mastna, v vodi netopna tekočina, ki se pridobiva iz rastlin, živalskih maščob, nafte
-olom | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa; PIVO
-olov | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa; PIVO
+olom | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa
+olov | OL - (zastar.) alkoholna pijača iz slada, hmelja, vode in kvasa
 olša | (nar. koroško) drevo ali grm z nazobčanimi jajčastimi ali srčastimi listi in krogličastimi plodovi; JELŠA
 olše | OLŠA - (nar. koroško) drevo ali grm z nazobčanimi jajčastimi ali srčastimi listi in krogličastimi plodovi; JELŠA
 olši | OLŠA - (nar. koroško) drevo ali grm z nazobčanimi jajčastimi ali srčastimi listi in krogličastimi plodovi; JELŠA
@@ -5267,10 +5267,10 @@ pude | PUD - ruska utežna enota, približno 16,4 kg
 pudi | PUD - ruska utežna enota, približno 16,4 kg
 pudu | PUD - ruska utežna enota, približno 16,4 kg
 pudž | PUDŽA - [tolk.] udarjalka iz debelejše, kratke lesene palice, na eni strani navadno ovite v usnje ali gumo, ki se uporablja pri zvenečih posodah
-pufa | PUF - (nižje pog.) kar mora kdo vrniti, poravnati, zlasti v denarju; DOLG
-pufe | PUF - (nižje pog.) kar mora kdo vrniti, poravnati, zlasti v denarju; DOLG
-pufi | PUF - (nižje pog.) kar mora kdo vrniti, poravnati, zlasti v denarju; DOLG
-pufu | PUF - (nižje pog.) kar mora kdo vrniti, poravnati, zlasti v denarju; DOLG
+pufa | PUF - (nižje pog.) kar mora kdo vrniti, poravnati, zlasti v denarju
+pufe | PUF - (nižje pog.) kar mora kdo vrniti, poravnati, zlasti v denarju
+pufi | PUF - (nižje pog.) kar mora kdo vrniti, poravnati, zlasti v denarju
+pufu | PUF - (nižje pog.) kar mora kdo vrniti, poravnati, zlasti v denarju
 puha | PUHATI - v sunkih dajati, oddajati hiter, močen tok zraka, dima
 puhe | PUH - mehki dlaki podobno perje pri ptičjih mladičih
 puhi | PUH - mehki dlaki podobno perje pri ptičjih mladičih
@@ -5646,15 +5646,15 @@ rtin | RTINA - odebeljeni del debla nad panjem
 rtom | RT - skrajni, navadno ozki, skalnati del polotoka, otoka
 rtov | RT - skrajni, navadno ozki, skalnati del polotoka, otoka
 rubi | RUBITI - opravljati rubež
-ruča | (nar. štajersko) trakasta priprava za čez rame, na katero se pripenjajo hlače, krila; NARAMNICA
-ruče | RUČA - (nar. štajersko) trakasta priprava za čez rame, na katero se pripenjajo hlače, krila; NARAMNICA
-ruči | RUČA - (nar. štajersko) trakasta priprava za čez rame, na katero se pripenjajo hlače, krila; NARAMNICA
-ručo | RUČA - (nar. štajersko) trakasta priprava za čez rame, na katero se pripenjajo hlače, krila; NARAMNICA
+ruča | (nar. štajersko) trakasta priprava za čez rame, na katero se pripenjajo hlače, krila
+ruče | RUČA - (nar. štajersko) trakasta priprava za čez rame, na katero se pripenjajo hlače, krila
+ruči | RUČA - (nar. štajersko) trakasta priprava za čez rame, na katero se pripenjajo hlače, krila
+ručo | RUČA - (nar. štajersko) trakasta priprava za čez rame, na katero se pripenjajo hlače, krila
 ruda | zmes snovi, iz katere se pridobivajo zlasti kovine
 rude | RUDA - zmes snovi, iz katere se pridobivajo zlasti kovine
-rudi | RUDO - (nar.) drog na sprednjem delu voza, pluga, ob katerega se vprega žival; OJE
-rudo | (nar.) drog na sprednjem delu voza, pluga, ob katerega se vprega žival; OJE
-rudu | RUDO - (nar.) drog na sprednjem delu voza, pluga, ob katerega se vprega žival; OJE
+rudi | RUDO - (nar.) drog na sprednjem delu voza, pluga, ob katerega se vprega žival
+rudo | (nar.) drog na sprednjem delu voza, pluga, ob katerega se vprega žival
+rudu | RUDO - (nar.) drog na sprednjem delu voza, pluga, ob katerega se vprega žival
 ruga | [bot.] širša podolgasta izboklina na površini pelodnega zrna
 ruge | RUGA - [bot.] širša podolgasta izboklina na površini pelodnega zrna
 rugi | RUGA - [bot.] širša podolgasta izboklina na površini pelodnega zrna
@@ -7004,11 +7004,11 @@ tuša | TUŠ - kratek, bučen glasbeni uvod, pozdrav, navadno s pihalnimi glasbi
 tuše | TUŠ - kratek, bučen glasbeni uvod, pozdrav, navadno s pihalnimi glasbili in bobni
 tuši | TUŠ - kratek, bučen glasbeni uvod, pozdrav, navadno s pihalnimi glasbili in bobni
 tušu | TUŠ - kratek, bučen glasbeni uvod, pozdrav, navadno s pihalnimi glasbili in bobni
-tuta | (zlasti v primorskem okolju) enodelno, navadno zaščitno oblačilo iz hlač in bluze; KOMBINEZON
-tute | TUTA - (zlasti v primorskem okolju) enodelno, navadno zaščitno oblačilo iz hlač in bluze; KOMBINEZON
-tuti | TUTA - (zlasti v primorskem okolju) enodelno, navadno zaščitno oblačilo iz hlač in bluze; KOMBINEZON
+tuta | (zlasti v primorskem okolju) enodelno, navadno zaščitno oblačilo iz hlač in bluze
+tute | TUTA - (zlasti v primorskem okolju) enodelno, navadno zaščitno oblačilo iz hlač in bluze
+tuti | TUTA - (zlasti v primorskem okolju) enodelno, navadno zaščitno oblačilo iz hlač in bluze
 tutk | TUTKA - nezgovoren in bojazljiv človek
-tuto | TUTA - (zlasti v primorskem okolju) enodelno, navadno zaščitno oblačilo iz hlač in bluze; KOMBINEZON
+tuto | TUTA - (zlasti v primorskem okolju) enodelno, navadno zaščitno oblačilo iz hlač in bluze
 tutu | posnema glas hupe, trobljenje
 tvar | kar tvori, sestavlja stvari, predmetna telesa
 tvez | TVEZA - neresnična, izmišljena govorica, pripoved
@@ -7375,10 +7375,10 @@ vaza | navadno globlja posoda za rezano cvetje ali za okras
 vaze | VAZA - navadno globlja posoda za rezano cvetje ali za okras
 vazi | VAZA - navadno globlja posoda za rezano cvetje ali za okras
 vazo | VAZA - navadno globlja posoda za rezano cvetje ali za okras
-važa | (nar.) vrhnja plast zemlje z rastlinjem, zlasti s travo; RUŠA
-važe | VAŽA - (nar.) vrhnja plast zemlje z rastlinjem, zlasti s travo; RUŠA
-važi | VAŽA - (nar.) vrhnja plast zemlje z rastlinjem, zlasti s travo; RUŠA
-važo | VAŽA - (nar.) vrhnja plast zemlje z rastlinjem, zlasti s travo; RUŠA
+važa | (nar.) vrhnja plast zemlje z rastlinjem, zlasti s travo
+važe | VAŽA - (nar.) vrhnja plast zemlje z rastlinjem, zlasti s travo
+važi | VAŽA - (nar.) vrhnja plast zemlje z rastlinjem, zlasti s travo
+važo | VAŽA - (nar.) vrhnja plast zemlje z rastlinjem, zlasti s travo
 vbij | VBITI - z udarci narediti, da kaj s koničastim delom pride v kaj in tam ostane
 vbil | VBITI - z udarci narediti, da kaj s koničastim delom pride v kaj in tam ostane
 vbit | VBITI - z udarci narediti, da kaj s koničastim delom pride v kaj in tam ostane
@@ -7481,10 +7481,10 @@ viba | (knjiž.) spirala
 vibe | VIBA - (knjiž.) spirala
 vibi | VIBA - (knjiž.) spirala
 vibo | VIBA - (knjiž.) spirala
-vica | VIC - kratka, šaljiva zgodbica; ŠALA
+vica | VIC - kratka, šaljiva zgodbica
 vice | kraj, kjer omejen čas trpijo duše še ne zveličanih
-vici | VIC - kratka, šaljiva zgodbica; ŠALA
-vicu | VIC - kratka, šaljiva zgodbica; ŠALA
+vici | VIC - kratka, šaljiva zgodbica
+vicu | VIC - kratka, šaljiva zgodbica
 viče | VIKATI - oglašati se z visokim glasom
 viči | VIKATI - oglašati se z visokim glasom
 vida | VID - čut za zaznavanje svetlobnih dražljajev
@@ -7745,10 +7745,10 @@ vžre | VŽRETI SE - zajesti se, prodreti
 vžri | VŽRETI SE - zajesti se, prodreti
 vžrl | VŽRETI SE - zajesti se, prodreti
 watt | VAT - enota za merjenje moči ter toplotnega in energijskega toka
-weba | WEB - svetovni sistem medijskih vsebin, besednih, zvočnih, filmskih, ki so med seboj povezane z nadpovezavami; SPLET
-webe | WEB - svetovni sistem medijskih vsebin, besednih, zvočnih, filmskih, ki so med seboj povezane z nadpovezavami; SPLET
-webi | WEB - svetovni sistem medijskih vsebin, besednih, zvočnih, filmskih, ki so med seboj povezane z nadpovezavami; SPLET
-webu | WEB - svetovni sistem medijskih vsebin, besednih, zvočnih, filmskih, ki so med seboj povezane z nadpovezavami; SPLET
+weba | WEB - svetovni sistem medijskih vsebin, besednih, zvočnih, filmskih, ki so med seboj povezane z nadpovezavami
+webe | WEB - svetovni sistem medijskih vsebin, besednih, zvočnih, filmskih, ki so med seboj povezane z nadpovezavami
+webi | WEB - svetovni sistem medijskih vsebin, besednih, zvočnih, filmskih, ki so med seboj povezane z nadpovezavami
+webu | WEB - svetovni sistem medijskih vsebin, besednih, zvočnih, filmskih, ki so med seboj povezane z nadpovezavami
 whig | član liberalne stranke
 word | urejevalnik besedil ameriškega proizvajalca Microsoft
 wurm | WÜRM - [geog.] najmlajša pleistocenska poledenitev v Alpah, med okrog 100.000 in 10.000 leti pred sedanjostjo, primerljiva z viselsko poledenitvijo na severu Evrope in wisconsinsko poledenitvijo v Severni Ameriki
@@ -7762,395 +7762,3 @@ zait | ZAITI - spustiti se za obzorje, pod obzorje
 zaje | ZAJESTI - porabiti, zapraviti za jed, hrano
 zajk | ZAJKA - zajčja samica
 zajl | ZAJLA - [plan.] žična vrv, vita iz jeklenih žic
-zala | ZAL - (star.) ki ima v estetskem pogledu pozitivne lastnosti; LEP
-zale | ZAL - (star.) ki ima v estetskem pogledu pozitivne lastnosti; LEP
-zali | (zastar.) ki drugim želi in povzroča slabo, hudo; HUDOBEN
-zalo | ZAL - (star.) ki ima v estetskem pogledu pozitivne lastnosti; LEP
-zame | enklitika
-zanj | enklitika
-zank | ZANKA - navadno z vozlom sklenjen del, kos vrvi, traku
-zara | ZAR - dolgo, široko vrhnje oblačilo muslimank z ogrinjalom za glavo
-zarb | [tolk.] boben z lesenim obodom v obliki keliha in z eno opno, navadno premera 28 cm in višine 43 cm, na katerega se udarja z rokami, večji od darabuke in z bolj popuščeno opno, značilen za iransko glasbo
-zare | ZAR - dolgo, široko vrhnje oblačilo muslimank z ogrinjalom za glavo
-zari | ZAR - dolgo, široko vrhnje oblačilo muslimank z ogrinjalom za glavo
-zaro | ZARA
-zaru | ZAR - dolgo, široko vrhnje oblačilo muslimank z ogrinjalom za glavo
-zase | enklitika
-zate | enklitika
-zato | izraža vzrok dejanja, znan iz predhodnega besedila
-zaup |
-zave | ZAVEDETI SE - zbuditi se iz stanja brez zavesti, zavedanja
-zbal | ZBATI SE - začutiti strah
-zbat | ZBATI SE - začutiti strah
-zbij | ZBITI - s tolčenjem, udarjanjem narediti, da so zlasti leseni deli tesno skupaj, povezani
-zbil | ZBITI - s tolčenjem, udarjanjem narediti, da so zlasti leseni deli tesno skupaj, povezani
-zbir | kar se zbere in tvori celoto
-zbit | ZBITI - s tolčenjem, udarjanjem narediti, da so zlasti leseni deli tesno skupaj, povezani
-zbog |
-zboj | past za polhe s kamnom
-zbol | ZBOSTI - zaradi ostrosti povzročiti komu pekočo bolečino
-zbor | večja skupina ljudi, zbrana na kakem mestu, navadno z določenim namenom
-zdaj | izraža, da se dejanje zgodi v tem času, v tem trenutku
-zdel | ZDETI SE - imeti občutek, vtis, zaznavo česa brez prepričanosti o stvarni podlagi tega
-zdet | ZDETI SE - imeti občutek, vtis, zaznavo česa brez prepričanosti o stvarni podlagi tega
-zdič |
-zdih |
-zdim | ZDETI SE - imeti občutek, vtis, zaznavo česa brez prepričanosti o stvarni podlagi tega
-zdiš | ZDETI SE - imeti občutek, vtis, zaznavo česa brez prepričanosti o stvarni podlagi tega
-zdre | IZDRETI - z vlečenjem, potegovanjem spraviti kaj iz snovi, v kateri tiči
-zdri | IZDRETI - z vlečenjem, potegovanjem spraviti kaj iz snovi, v kateri tiči
-zdrk | glagolnik od zdrkniti
-zdrl | IZDRETI - z vlečenjem, potegovanjem spraviti kaj iz snovi, v kateri tiči
-zdrs | glagolnik od zdrsniti
-zdrt | IZDRETI - z vlečenjem, potegovanjem spraviti kaj iz snovi, v kateri tiči
-zeba | (nar.) manjša ptica pevka, katere samec je po prsih rdeče rjav; ŠČINKAVEC
-zebe | ZEBA - (nar.) manjša ptica pevka, katere samec je po prsih rdeče rjav; ŠČINKAVEC
-zebi | ZEBA - (nar.) manjša ptica pevka, katere samec je po prsih rdeče rjav; ŠČINKAVEC
-zebo | ZEBA - (nar.) manjša ptica pevka, katere samec je po prsih rdeče rjav; ŠČINKAVEC
-zebu | udomačeno govedo z veliko grbo na plečih, ki živi v Indiji, Bos indicus
-zeha | ZEHATI - nehotno široko odpirati usta ter globoko vdihavati in izdihavati zrak
-zehe | ZEH - nehotno široko odprtje ust ter globok vdih in izdih zraka
-zehi | ZEH - nehotno široko odprtje ust ter globok vdih in izdih zraka
-zehu | ZEH - nehotno široko odprtje ust ter globok vdih in izdih zraka
-zeli | ZEL - rastlina z neolesenelim steblom, pri kateri nadzemni del ob koncu rasti navadno odmre
-zelj | ZELJE - kulturna rastlina s tesno prilegajočimi se, gladkimi listi
-zelo | izraža veliko mero dejanja ali stanja
-zena | ZEN - smer v budizmu, razširjena zlasti na Japonskem, ki uči tehniko samoobvladovanja, notranje sprostitve
-zene | ZEN - smer v budizmu, razširjena zlasti na Japonskem, ki uči tehniko samoobvladovanja, notranje sprostitve
-zenf | [sprotni] (pogovorno) pikantna začimba, pripravljena iz semen bele gorčice in dodatkov
-zeni | ZEN - smer v budizmu, razširjena zlasti na Japonskem, ki uči tehniko samoobvladovanja, notranje sprostitve
-zenu | ZEN - smer v budizmu, razširjena zlasti na Japonskem, ki uči tehniko samoobvladovanja, notranje sprostitve
-zeta | cigareta slabše kakovosti z imenom Zeta
-zete | ZETA - cigareta slabše kakovosti z imenom Zeta
-zeti | ZETA - cigareta slabše kakovosti z imenom Zeta
-zeto | ZETA - cigareta slabše kakovosti z imenom Zeta
-zetu | ZET - hčerin mož v odnosu do njenih staršev
-zeva | ZEV - odprtina, ki nastane, če se prej prilegajoči se deli ne prilegajo (več)
-zeve | ZEV - odprtina, ki nastane, če se prej prilegajoči se deli ne prilegajo (več)
-zevi | ZEV - odprtina, ki nastane, če se prej prilegajoči se deli ne prilegajo (več)
-zevk | ZEVKA - kovinsko vodilo, ki daje priveznim vrvem želeno smer
-zevu | ZEV - odprtina, ki nastane, če se prej prilegajoči se deli ne prilegajo (več)
-zeza | ZEZATI - dražiti koga, norčevati se iz koga
-zgag | ZGAGA - pekoč občutek v želodcu ali požiralniku
-zgib | premik (dela) telesa iz enega položaja v drugega, zlasti kratkotrajen
-zgod | ZGODA
-zgor |
-zgub | IZGUBA - primanjkljaj izkupička glede na stroške ali prodajne cene glede na nakupno
-ziba | ZIBATI - enakomerno premikati kaj sem in tja ali navzgor in navzdol okrog njegove osi
-zibe | ZIB - premik telesa sem in tja ali navzgor in navzdol okrog njegove osi
-zibi | ZIB - premik telesa sem in tja ali navzgor in navzdol okrog njegove osi
-zibk | ZIBKA
-zibu | ZIB - premik telesa sem in tja ali navzgor in navzdol okrog njegove osi
-zica | ZIC - (pog.) kar je namenjeno za sedenje; SEDEŽ
-zice | ZIC - (pog.) kar je namenjeno za sedenje; SEDEŽ
-zici | ZIC - (pog.) kar je namenjeno za sedenje; SEDEŽ
-zicu | ZIC - (pog.) kar je namenjeno za sedenje; SEDEŽ
-zida | ZID - vsak od delov stavbe, narejen z gradbenim materialom, zlasti z zidaki, ki omejuje prostor, prostore ob straneh
-zide | ZITI SE - sniti se
-zidi | ZITI SE - sniti se
-zidu | ZID - vsak od delov stavbe, narejen z gradbenim materialom, zlasti z zidaki, ki omejuje prostor, prostore ob straneh
-zija | ZIJATI - biti v stanju, ko se prej prilegajoči se deli ne prilegajo (več)
-zika | [epravopis] virus, imenovan po gozdu Zika v Ugandi
-zike | [epravopis] ZIKA
-ziki | [epravopis] ZIKA
-ziko | [epravopis] ZIKA
-zima | del leta med jesenjo in pomladjo
-zime | ZIMA - del leta med jesenjo in pomladjo
-zimi | ZIMA - del leta med jesenjo in pomladjo
-zimo | ZIMA - del leta med jesenjo in pomladjo
-zine | ZINITI - odpreti usta, kljun
-zini | ZINITI - odpreti usta, kljun
-ziti | ZITI SE - sniti se
-ziza | (nar.) vzboklina na ženskem oprsju z mlečnimi žlezami; DOJKA
-zize | ZIZA - (nar.) vzboklina na ženskem oprsju z mlečnimi žlezami; DOJKA
-zizi | ZIZA - (nar.) vzboklina na ženskem oprsju z mlečnimi žlezami; DOJKA
-zizo | ZIZA - (nar.) vzboklina na ženskem oprsju z mlečnimi žlezami; DOJKA
-zjal | ZJALA - [pravopis]
-zjed | IZJED - kar ostane po uživanju hrane
-zjej | IZJESTI - z grizenjem uničiti
-zjel | IZJESTI - z grizenjem uničiti
-zjem | IZJESTI - z grizenjem uničiti
-zješ | IZJESTI - z grizenjem uničiti
-zlat | nanašajoč se na zlato
-zleč | IZLEČI - izločiti zaradi razmnoževanja
-zlek |
-zlem | ZEL - ki drugim želi in povzroča zlo, slabo
-zlet | slavnostna prireditev, na kateri množično nastopajo člani telovadnih društev
-zlih | ZLO - kar je v nasprotju z dobrim, zlasti z moralnega stališča
-zlij | ZLITI - z nagnjenjem posode narediti, da kaj tekočega kam pride
-zlil | ZLITI - z nagnjenjem posode narediti, da kaj tekočega kam pride
-zlim | ZEL - ki drugim želi in povzroča zlo, slabo
-zlit | ZLITI - z nagnjenjem posode narediti, da kaj tekočega kam pride
-zliv |
-zlob | ZLOBA - želja, da se komu namerno povzroča veliko trpljenje, velike težave
-zlog | izgovorna enota iz zlogotvornega glasu ali iz zlogotvornega glasu in enega ali več soglasnikov, ki tvori besedo ali del besede
-zlom | glagolnik od zlomiti
-zlot | denarna enota Poljske
-zmag | ZMAGA - da kdo zmaga
-zmaj | hudobna krilata žival z eno ali več glavami, levjimi kremplji in kačjim repom, ki navadno bruha ogenj
-zmam | ZMAMA - kar koga zmami
-zmaz | namaz, premaz iz blata, ilovice
-zmed | ZMEDA - stanje, ko nad stvarmi, položajem ni pregleda
-zmel | ZMESTI - povzročiti, da kdo nima urejenih, pravilnih misli, predstav
-zmen | IZMENA
-zmer |
-zmes | snov iz več snovi
-zmet | ZMETI - z metjem kakega dela telesa doseči določen učinek
-zmig | glagolnik od zmigniti
-zmij | IZMITI - z vodo ali drugo tekočino očistiti
-zmik | [geol.] v zvezi »mladoterciarni zmik«: zmični prelom v miocenu ali pliocenu
-zmil | IZMITI - z vodo ali drugo tekočino očistiti
-zmit | IZMITI - z vodo ali drugo tekočino očistiti
-zmoč | ZMOČI - izraža sposobnost osebka
-zmot | ZMOTA - prepričanje, ki ni v skladu s stvarnostjo
-zmrd | ZMRDA - nenaravne, spačene gube, poteze obraza, zlasti okrog ust in nosu
-znad | IZNAD - za izražanje usmerjenosti iz položaja nad čim
-znaj | ZNATI - imeti to, kar se uči, študira, vtisnjeno v zavest, spomin in biti sposoben povedati, uporabiti
-znak | dogovorjen lik, ki ima določen pomen
-znal | ZNATI - imeti to, kar se uči, študira, vtisnjeno v zavest, spomin in biti sposoben povedati, uporabiti
-znam | ZNATI - imeti to, kar se uči, študira, vtisnjeno v zavest, spomin in biti sposoben povedati, uporabiti
-znan | ki zanj zlasti zaradi kake lastnosti, značilnosti ve dosti ljudi
-znaš | ZNATI - imeti to, kar se uči, študira, vtisnjeno v zavest, spomin in biti sposoben povedati, uporabiti
-znat | ZNATI - imeti to, kar se uči, študira, vtisnjeno v zavest, spomin in biti sposoben povedati, uporabiti
-znes | kar je zneseno, dano skupaj
-znoj | tekočina, ki jo izločajo žleze znojnice
-zoba | ZOB - trd, bel izrastek v spodnji in zgornji čeljusti za grizenje, žvečenje hrane
-zobe | ZOB - trd, bel izrastek v spodnji in zgornji čeljusti za grizenje, žvečenje hrane
-zobi | ZOB - trd, bel izrastek v spodnji in zgornji čeljusti za grizenje, žvečenje hrane
-zobu | ZOB - trd, bel izrastek v spodnji in zgornji čeljusti za grizenje, žvečenje hrane
-zoca | ZOC - [sinonimni] kavna usedlina
-zoce | ZOC - [sinonimni] kavna usedlina
-zoci | ZOC - [sinonimni] kavna usedlina
-zocu | ZOC - [sinonimni] kavna usedlina
-zoej | ZOEJA - [geol.] larvalni stadij pri dekapodnih rakih
-zofa | oblazinjeno ležišče brez stranic, navadno ozko in z dvignjenim zglavjem
-zofe | ZOFA - oblazinjeno ležišče brez stranic, navadno ozko in z dvignjenim zglavjem
-zofi | ZOFA - oblazinjeno ležišče brez stranic, navadno ozko in z dvignjenim zglavjem
-zofo | ZOFA - oblazinjeno ležišče brez stranic, navadno ozko in z dvignjenim zglavjem
-zoih | ZOO - živalski vrt
-zolj |
-zona | neprijeten občutek z drhtenjem zaradi močnega vznemirjenja, odpora, strahu
-zone | ZONA - neprijeten občutek z drhtenjem zaradi močnega vznemirjenja, odpora, strahu
-zoni | ZONA - neprijeten občutek z drhtenjem zaradi močnega vznemirjenja, odpora, strahu
-zono | ZONA - neprijeten občutek z drhtenjem zaradi močnega vznemirjenja, odpora, strahu
-zoom | ZUM - objektiv s spremenljivim zornim kotom
-zoov | ZOO - živalski vrt
-zora | jasna svetloba na nebu pred sončnim vzhodom
-zore | ZOR - (knjiž.) jasna svetloba na nebu pred sončnim vzhodom; ZORA
-zori | ZOR - (knjiž.) jasna svetloba na nebu pred sončnim vzhodom; ZORA
-zoro | ZORA - jasna svetloba na nebu pred sončnim vzhodom
-zoru | ZOR - (knjiž.) jasna svetloba na nebu pred sončnim vzhodom; ZORA
-zosa | ZOS - neprijeten, zapleten položaj
-zose | ZOS - neprijeten, zapleten položaj
-zosi | ZOS - neprijeten, zapleten položaj
-zosu | ZOS - neprijeten, zapleten položaj
-zova | ZOV - (star.) klic, poziv
-zove | ZOV - (star.) klic, poziv
-zovi | ZOV - (star.) klic, poziv
-zovu | ZOV - (star.) klic, poziv
-zoži | ZOŽITI - narediti kaj (bolj) ozko
-zrak | zmes plinov, vodne pare in trdnih delcev, ki sestavlja ozračje
-zreč | ZREČI - reči, povedati, navadno brez obzirov
-zrej | ZREJA
-zrel | ki v rasti, razvoju doseže stopnjo, primerno za spravilo, razmnoževanje
-zrem | ZRETI - (knjiž.) upirati, usmerjati pogled kam; GLEDATI
-zreš | ZRETI - (knjiž.) upirati, usmerjati pogled kam; GLEDATI
-zret | ZRETI - (knjiž.) upirati, usmerjati pogled kam; GLEDATI
-zrij | ZRITI - narediti rove, jarke, jame z rilcem, gobcem
-zril | ZRITI - narediti rove, jarke, jame z rilcem, gobcem
-zrit | ZRITI - narediti rove, jarke, jame z rilcem, gobcem
-zrla | ZRETI - (knjiž.) upirati, usmerjati pogled kam; GLEDATI
-zrle | ZRETI - (knjiž.) upirati, usmerjati pogled kam; GLEDATI
-zrli | ZRETI - (knjiž.) upirati, usmerjati pogled kam; GLEDATI
-zrlo | ZRETI - (knjiž.) upirati, usmerjati pogled kam; GLEDATI
-zrna | ZRNO - vsako od semen, navadno v klasu, latu žit ali stroku stročnic, z nakopičenimi hranilnimi snovmi
-zrnc | ZRNCE - manjšalnica od zrno
-zrne | ZRNETI - delati zrna
-zrni | ZRNO - vsako od semen, navadno v klasu, latu žit ali stroku stročnic, z nakopičenimi hranilnimi snovmi
-zrno | vsako od semen, navadno v klasu, latu žit ali stroku stročnic, z nakopičenimi hranilnimi snovmi
-zrnu | ZRNO - vsako od semen, navadno v klasu, latu žit ali stroku stročnic, z nakopičenimi hranilnimi snovmi
-zroč | ZRETI
-zuma | ZUM - objektiv s spremenljivim zornim kotom
-zume | ZUM - objektiv s spremenljivim zornim kotom
-zumi | ZUM - objektiv s spremenljivim zornim kotom
-zumu | ZUM - objektiv s spremenljivim zornim kotom
-zurl | ZURLA - pihalni instrument z jezičkom
-zurn | ZURNA - pihalni instrument z jezičkom
-zvač | moški, ki vabi na gostijo ob poroki
-zval | ZVATI
-zvan | ZVATI
-zvar | zvarjeno mesto s snovjo, ki se ob varjenju pretali
-zvat | ZVATI
-zvel | ZVESTI - spraviti v ljubezensko, spolno razmerje
-zven | zlasti višji zvok, ki ga daje kak predmet, navadno kovinski, ob udarcu po njem ali trku ob kaj trdega
-zver | navadno velika štirinožna divja žival z močnim zobovjem, ki za hrano lovi in ubija druge živali
-zvez | ZVEZA - pojav ali stanje, ko je kaj povezano s čim
-zvij | ZVITI - narediti, da kaj prožnega, podolgovatega (večkrat) pride okrog kake osi in dobi valjasto, kroglasto obliko
-zvil | ZVITI - narediti, da kaj prožnega, podolgovatega (večkrat) pride okrog kake osi in dobi valjasto, kroglasto obliko
-zvin | natrganje ali pretrganje ovojnice in sklepnih vezi
-zvit | ZVITI - narediti, da kaj prožnega, podolgovatega (večkrat) pride okrog kake osi in dobi valjasto, kroglasto obliko
-zvoj |
-zvok | kar se zaznava s sluhom
-zvon | spodaj odprt in razširjen votel kovinski predmet, ki ob udarcih, trkih obenj daje močne, zveneče glasove
-zvrg | IZVRG - prekinitev brejosti
-zvrt | [sprotni] gibanje, pri katerem letalnik zaradi izgube vzgona ob krilih (namerno) omahne, pada in se pri tem dvojno vrti
-žaba | manjša dvoživka s široko glavo, širokim trupom in daljšimi zadnjimi okončinami
-žabe | ŽABA - manjša dvoživka s široko glavo, širokim trupom in daljšimi zadnjimi okončinami
-žabi | ŽABA - manjša dvoživka s široko glavo, širokim trupom in daljšimi zadnjimi okončinami
-žabo | okrasek, zlasti iz čipk, ki se nosi na sprednji strani ženskih bluz, moških srajc, nabornica
-žada | ŽAD - poldrag kamen, navadno zelene barve
-žade | ŽAD - poldrag kamen, navadno zelene barve
-žadi | ŽAD - poldrag kamen, navadno zelene barve
-žadu | ŽAD - poldrag kamen, navadno zelene barve
-žaga | orodje ali stroj z nazobčanim listom za žaganje
-žage | ŽAGA - orodje ali stroj z nazobčanim listom za žaganje
-žagi | ŽAGA - orodje ali stroj z nazobčanim listom za žaganje
-žago | ŽAGA - orodje ali stroj z nazobčanim listom za žaganje
-žajf | ŽAJFA - po okusu milu podobna jed
-žala | ŽALI - ki vsebuje, izraža negativen, odklonilen odnos do koga
-žale | ŽALI - ki vsebuje, izraža negativen, odklonilen odnos do koga
-žali | ki vsebuje, izraža negativen, odklonilen odnos do koga
-žalj | ŽALJE
-žalo | ŽALI - ki vsebuje, izraža negativen, odklonilen odnos do koga
-žalu | ŽAL - peščena (morska) obala
-žama | ŽAMATI - delati, da imajo kosi lesa ostre robove med ploskvami
-žame | ŽETI - (knjiž.) s stiskanjem, vitjem odstranjevati tekočino iz česa; OŽEMATI
-žanr | oblika umetniškega dela, zlasti filmskega, glede na ustaljen, značilen način obravnavanja določene vsebine
-žara | posoda za shranjevanje pepela mrličev
-žare | ŽARETI - oddajati svetlobo in toploto zaradi segretosti do določene temperature
-žari | ŽARETI - oddajati svetlobo in toploto zaradi segretosti do določene temperature
-žaro | ŽARA - posoda za shranjevanje pepela mrličev
-žaru | ŽAR - močna, zlasti rdečkasta svetloba
-žavb | ŽAVBA
-žbic | ŽBICA - žebljiček za podkovanje čevljev
-ždel | ŽDETI - negibno, tiho sedeti
-ždet | ŽDETI - negibno, tiho sedeti
-ždim | ŽDETI - negibno, tiho sedeti
-ždiš | ŽDETI - negibno, tiho sedeti
-žega | (zastar.) zelo visoka temperatura zaradi gretja, sijanja sonca; PRIPEKA
-žege | ŽEGA - (zastar.) zelo visoka temperatura zaradi gretja, sijanja sonca; PRIPEKA
-žegi | ŽEGA - (zastar.) zelo visoka temperatura zaradi gretja, sijanja sonca; PRIPEKA
-žego | ŽEGA - (zastar.) zelo visoka temperatura zaradi gretja, sijanja sonca; PRIPEKA
-žeht | ŽEHTA - zlasti ročno pranje navadno večje količine perila
-žeja | občutek potrebe po pijači
-žeje | ŽEJA - občutek potrebe po pijači
-žeji | ŽEJA - občutek potrebe po pijači
-žejo | ŽEJA - občutek potrebe po pijači
-žela | ŽETI - (knjiž.) s stiskanjem, vitjem odstranjevati tekočino iz česa; OŽEMATI
-žele | strjen sadni sok, ki se predhodno prekuha z dodatkom želatine ali pektina, zdriz
-želi | ŽETI - (knjiž.) s stiskanjem, vitjem odstranjevati tekočino iz česa; OŽEMATI
-želj | ŽELJA - čustvena potreba po čem
-želo | organ na zadku zlasti nekaterih žuželk, podoben koničasti cevki
-želu | ŽELO - organ na zadku zlasti nekaterih žuželk, podoben koničasti cevki
-želv | ŽELVA - plazilec s hrbtnim in trebušnim oklepom
-žemi | ŽETI - (knjiž.) s stiskanjem, vitjem odstranjevati tekočino iz česa; OŽEMATI
-žena | poročena ženska v odnosu do svojega moža
-žene | GNATI - delati, povzročati, da se kaj giblje, premika
-ženi | GNATI - delati, povzročati, da se kaj giblje, premika
-ženk | ŽENKA - manjšalnica od žena
-ženo | GNATI - delati, povzročati, da se kaj giblje, premika
-žepa | ŽEP - majhni vreči podoben del na oblačilu za spravljanje manjših predmetov
-žepe | ŽEP - majhni vreči podoben del na oblačilu za spravljanje manjših predmetov
-žepi | ŽEP - majhni vreči podoben del na oblačilu za spravljanje manjših predmetov
-žepu | ŽEP - majhni vreči podoben del na oblačilu za spravljanje manjših predmetov
-žerk | ŽERKA - ličinka nekaterih dvokrilcev in večine kožekrilcev, ki ima grizalo
-žeti | pospravljati žito s polja
-žgal | ŽGATI - delati, povzročati, da kaj gori
-žgan | ŽGATI - delati, povzročati, da kaj gori
-žgat | ŽGATI - delati, povzročati, da kaj gori
-žgem | ŽGATI - delati, povzročati, da kaj gori
-žgeš | ŽGATI - delati, povzročati, da kaj gori
-žgoč | ŽGATI - delati, povzročati, da kaj gori
-žica | dolg, tanek kovinski izdelek, navadno okroglega prereza
-žice | ŽICA - dolg, tanek kovinski izdelek, navadno okroglega prereza
-žici | ŽICA - dolg, tanek kovinski izdelek, navadno okroglega prereza
-žico | ŽICA - dolg, tanek kovinski izdelek, navadno okroglega prereza
-žiči | ŽIČITI - [čeb.] v zvezi »žičiti satnik«: napeljevati žico v satnik pred vtiranjem v satnico za njeno pritrditev, ojačitev izdelanega sata
-žičk | ŽIČKA - manjšalnica od žica
-žida | ŽID - pripadnik judovske vere
-žide | ŽID - pripadnik judovske vere
-židi | ŽID - pripadnik judovske vere
-žido | ŽIDA
-židu | ŽID - pripadnik judovske vere
-žiga | ŽIG - uradni znak z imenom organa, organizacije, z določenim besedilom kot dokaz pristnosti, verodostojnosti listine, akta
-žige | ŽIG - uradni znak z imenom organa, organizacije, z določenim besedilom kot dokaz pristnosti, verodostojnosti listine, akta
-žigi | ŽIG - uradni znak z imenom organa, organizacije, z določenim besedilom kot dokaz pristnosti, verodostojnosti listine, akta
-žigu | ŽIG - uradni znak z imenom organa, organizacije, z določenim besedilom kot dokaz pristnosti, verodostojnosti listine, akta
-žije | ŽITI - (star.) živeti
-žila | cevast organ, po katerem teče kri ali limfa
-žile | ŽILA - cevast organ, po katerem teče kri ali limfa
-žili | ŽILA - cevast organ, po katerem teče kri ali limfa
-žilj | ŽILJE - več žil, žile
-žilo | ŽILA - cevast organ, po katerem teče kri ali limfa
-žima | odrezana dolga dlaka zlasti iz konjskega repa, konjske grive
-žime | ŽIMA - odrezana dolga dlaka zlasti iz konjskega repa, konjske grive
-žimi | ŽIMA - odrezana dolga dlaka zlasti iz konjskega repa, konjske grive
-žimo | ŽIMA - odrezana dolga dlaka zlasti iz konjskega repa, konjske grive
-žira | ŽIR - plod bukve
-žire | ŽIR - plod bukve
-žiri | ŽIRITI - delati, roditi žir
-žiro | bančni račun, s katerega izplačuje banka samo toliko, kot je vloženo
-žiru | ŽIR - plod bukve
-žita | ŽITO - kulturne rastline s klasi, lati ali njihovo seme
-žiti | (star.) živeti
-žito | kulturne rastline s klasi, lati ali njihovo seme
-žitu | ŽITO - kulturne rastline s klasi, lati ali njihovo seme
-živa | ŽIV - sposoben rasti, razmnoževati se
-žive | ŽIVETI - imeti sposobnost presnavljanja, rasti, razmnoževanja
-živi | ŽIVETI - imeti sposobnost presnavljanja, rasti, razmnoževanja
-živo | ŽIV - sposoben rasti, razmnoževati se
-žlak | poškodba, rana (od udarca)
-žleb | podolgovata naprava, navadno polkrožne oblike, za prestrezanje deževnice na strehi
-žled | ledena obloga na drevju, električnih vodih, skalovju
-žlez | ŽLEZA - organ, skupina celic, ki proizvaja in izloča posebne snovi, pomembne za delovanje organizma
-žlic | ŽLICA - priprava iz daljšega ročaja in ovalnega vbočenega dela za dajanje v usta, zajemanje zlasti tekočih jedi
-žlot | ničvredni, malovredni ljudje
-žmek | lesena matica, pretaknjena skozi luknjo v tramu na vrhu stiskalnice
-žmem | ŽETI - (knjiž.) s stiskanjem, vitjem odstranjevati tekočino iz česa; OŽEMATI
-žmeš | ŽETI - (knjiž.) s stiskanjem, vitjem odstranjevati tekočino iz česa; OŽEMATI
-žmic | končni del biča iz vlaken lanu, konoplje, ki omogoča pokanje
-žmul | ŽMULA
-žnor | ŽNORA
-žoga | kroglast predmet, ki se pri igranju, športni igri meče, suva, odbija
-žoge | ŽOGA - kroglast predmet, ki se pri igranju, športni igri meče, suva, odbija
-žogi | ŽOGA - kroglast predmet, ki se pri igranju, športni igri meče, suva, odbija
-žogo | ŽOGA - kroglast predmet, ki se pri igranju, športni igri meče, suva, odbija
-žoka | ŽOKATI
-žolc | ŽOLCA - polprozorna, poltrda jed iz kuhanih svinjskih parkljev, glave
-žolč | grenka, zelenkasto rumena tekočina, ki jo izločajo jetra
-žold | vojaška služba
-žoln | ŽOLNA - ptica z močnim dletastim kljunom in nogami, prilagojenimi za plezanje po deblu
-žolt |
-žont | ŽONTA - z vodo zalite skisane vinske tropine
-žrdi | ŽRD - dolg, debelejši lesen drog, ki se vzdolžno položi na vrh s senom, snopi naloženega voza in na obeh koncih priveže, da je tovor trdneje nameščen
-žreb | določeno dejanje, s katerim se naključno izbira med več enakovrednimi možnostmi
-žrec |
-žrel | ŽRELO - del prebavne in dihalne cevi od nosne votline do grla in požiralnika
-žrem | ŽRETI - hlastno jesti
-žreš | ŽRETI - hlastno jesti
-žret | ŽRETI - hlastno jesti
-žrka | ličinka nekaterih dvokrilcev in večine kožekrilcev, ki imajo grizalo
-žrke | ŽRKA - ličinka nekaterih dvokrilcev in večine kožekrilcev, ki imajo grizalo
-žrki | ŽRKA - ličinka nekaterih dvokrilcev in večine kožekrilcev, ki imajo grizalo
-žrko | ŽRKA - ličinka nekaterih dvokrilcev in večine kožekrilcev, ki imajo grizalo
-žrla | ŽRETI - hlastno jesti
-žrle | ŽRETI - hlastno jesti
-žrli | ŽRETI - hlastno jesti
-žrlo | ŽRETI - hlastno jesti
-žuga | ŽUGATI - zamahovati z iztegnjenim kazalcem, navadno za svarilo, grožnjo
-žuka | šibasta obmorska grmičasta rastlina z rumenimi cveti, Spartium junceum
-žuke | ŽUKA - šibasta obmorska grmičasta rastlina z rumenimi cveti, Spartium junceum
-žuki | ŽUKA - šibasta obmorska grmičasta rastlina z rumenimi cveti, Spartium junceum
-žuko | ŽUKA - šibasta obmorska grmičasta rastlina z rumenimi cveti, Spartium junceum
-žuli | ŽULITI - delati, povzročati žulj, žulje
-žulj | mehur, ki nastane na koži zaradi pritiskanja, drgnjenja, zlasti na rokah, nogah
-župa | sladek sok iz mletega, mečkanega grozdja, sadja
-župe | ŽUPA - sladek sok iz mletega, mečkanega grozdja, sadja
-župi | ŽUPA - sladek sok iz mletega, mečkanega grozdja, sadja
-župo | ŽUPA - sladek sok iz mletega, mečkanega grozdja, sadja
-žura | ŽUR - družabna prireditev, namenjena zabavi, navadno v večernem času, pogosto v povezavi z glasbo, s plesom
-žure | ŽUR - družabna prireditev, namenjena zabavi, navadno v večernem času, pogosto v povezavi z glasbo, s plesom
-žuri | ŽUR - družabna prireditev, namenjena zabavi, navadno v večernem času, pogosto v povezavi z glasbo, s plesom
-žurk | ŽURKA - družabna prireditev, namenjena zabavi, navadno v večernem času, pogosto v povezavi z glasbo, s plesom
-žuru | ŽUR - družabna prireditev, namenjena zabavi, navadno v večernem času, pogosto v povezavi z glasbo, s plesom
-žval | ŽVALA - železo pri uzdi, ki ga ima konj v gobcu

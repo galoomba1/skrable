@@ -22,7 +22,8 @@ medicinskorehabilitacijski | [epravopis] nanašajoč se na medicinsko rehabilita
 medicinskorehabilitacijsko | MEDICINSKOREHABILITACIJSKI - [epravopis] nanašajoč se na medicinsko rehabilitacijo
 petinsedemdesetletničinega | PETINSEDEMDESETLETNIČIN - [pravopis]
 petinsedemdesetletničinemu | PETINSEDEMDESETLETNIČIN - [pravopis]
-petinsedemdesetletničinima | PETINSEDEMDESETLETNIČIN - [pravopis]petinsedemdesetletničinimi | PETINSEDEMDESETLETNIČIN - [pravopis]
+petinsedemdesetletničinima | PETINSEDEMDESETLETNIČIN - [pravopis]
+petinsedemdesetletničinimi | PETINSEDEMDESETLETNIČIN - [pravopis]
 starocerkvenoslovanščinama | STAROCERKVENOSLOVANŠČINA - stara cerkvena slovanščina
 starocerkvenoslovanščinami | STAROCERKVENOSLOVANŠČINA - stara cerkvena slovanščina
 vsezaverodomcesarjevstvoma | VSEZAVERODOMCESARJEVSTVO - miselnost konservativne smeri v slovenski politiki v 19. stoletju, ki se je izražala v geslu vse za vero, dom, cesarja
