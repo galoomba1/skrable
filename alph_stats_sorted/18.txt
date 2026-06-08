@@ -7,6 +7,7 @@ abiiiiklmmnnoopstt 3 inkompatibilnostim inkompatibilnostmi kompatibilnostnimi
 aeeejkmnnoopprrsvž 3 pravnopremoženjske premoženjskopraven premoženjskopravne
 čdeeiiiimnnorssttt 3 determinističnosti iredentističnostim iredentističnostmi
 aaaadikllmmnnoosst 2 samonakladalnostim samonakladalnostmi
+aaaaeejlmnnnprrtuz 2 zunajparlamentaren zunajparlamentarne
 aaaaiiillmnoprsttz 2 palataliziranostim palataliziranostmi
 aaabdeejllnnnoortv 2 obrtnonadaljevalen obrtnonadaljevalne
 aaabčdeefiilnnorst 2 fanerodiablastičen fanerodiablastične
@@ -130,6 +131,7 @@ aaiiiiilmmnorrsttz 2 militariziranostim militariziranostmi
 aaiiiiklmnorrssttz 2 kristaliziranostim kristaliziranostmi
 aaiiikmmnooprssttv 2 aproksimativnostim aproksimativnostmi
 aaiiikmnnooprrsstz 2 zakonspiriranostim zakonspiriranostmi
+aaiiimmnnoorrsttzz 2 zromantiziranostim zromantiziranostmi
 aaiimnnooprrrssttt 2 transportiranostim transportiranostmi
 aačdeefiilmnnnsttu 2 fundamentalističen fundamentalistične
 aačdeeiiiklnpprstt 2 predkapitalističen predkapitalistične
@@ -142,6 +144,7 @@ aačdeiilmmmnoorstt 2 melodramatičnostim melodramatičnostmi
 aačdiiijlmmooorstv 2 modrovijoličastima vijoličastomodrima
 aačeeeiiikllnpsttv 2 velekapitalističen velekapitalistične
 aačeegiiklmnnosstv 2 evangeličanskostim evangeličanskostmi
+aačeeiijlmnopstvvz 2 izpostavljenčevima zapostavljenčevimi
 aačeeiijmmnnooprst 2 poameričanjenostim poameričanjenostmi
 aačeeijllmnnorstvz 2 razčlenjevalnostim razčlenjevalnostmi
 aačeeimmnooossštvz 2 samoozaveščenostim samoozaveščenostmi
@@ -254,6 +257,7 @@ adegimnoooprsssttv 2 gospodarstvenostim gospodarstvenostmi
 adeiiiimmnnnoorstz 2 dimenzioniranostim dimenzioniranostmi
 adeiiikmnnnooorrst 2 nekoordiniranostim nekoordiniranostmi
 adeiiilmmnosstttuv 2 destimulativnostim destimulativnostmi
+adeiiimmnnoorrstzz 2 zmoderniziranostim zmoderniziranostmi
 adeiiimnnoopprrsst 2 predisponiranostim predisponiranostmi
 adeiijjllmnoopsštv 2 nepodaljšljivostim nepodaljšljivostmi
 adeiijlmnnoorssttv 2 neodstranljivostim neodstranljivostmi
@@ -269,6 +273,7 @@ adiikkmnnooorrsttt 2 kontradiktornostim kontradiktornostmi
 adiikmoooprrsssttz 2 prostozidarskostim prostozidarskostmi
 aeeefiiklnnnnoorst 2 interkonfesionalen interkonfesionalne
 aeeeiijlmnorsstvvz 2 nerazveseljivostim nerazveseljivostmi
+aeeeiijnnnrttuuvzz 2 zunajuniverziteten zunajuniverzitetne
 aeeeiiklnnnnnorttt 2 interkontinentalen interkontinentalne
 aeeeiimnnnnorssttt 2 neinteresantnostim neinteresantnostmi
 aeeeijlmnnorssttvz 2 nerazsvetljenostim nerazsvetljenostmi
@@ -450,6 +455,7 @@ deeiijlmnnooopstvž 2 nepodoživljenostim nepodoživljenostmi
 deeiikmnoprssttuvz 2 predizkustvenostim predizkustvenostmi
 deeijmnnoooorssttv 2 neverodostojnostim neverodostojnostmi
 deikmmnnnoooopsttv 2 dvokomponentnostim dvokomponentnostmi
+dgiiimnnoooopsstvz 2 zgodovinopisnostim zgodovinopisnostmi
 eeeeiijmmnnnoprstz 2 neizpremenjenostim neizpremenjenostmi
 eeegiiilmnnnnosttt 2 neinteligentnostim neinteligentnostmi
 eeeiijjlmmnoprsstv 2 nesprejemljivostim nesprejemljivostmi
@@ -462,6 +468,7 @@ eeeijkmmnnooprsstž 2 nepremoženjskostim nepremoženjskostmi
 eeeijlmnnnooopsstv 2 neposlovenjenostim neposlovenjenostmi
 eeeijlmnnooprssttv 2 neprosvetljenostim neprosvetljenostmi
 eeiiijjlmmnooprstv 2 neoprijemljivostim neoprijemljivostmi
+eeiiijjlmnnopsstvž 2 življenjepisnostim življenjepisnostmi
 eeiiijklmnnoorstvz 2 neizkorenljivostim neizkorenljivostmi
 eeiiijlmmnnorstvvz 2 nevznemirljivostim nevznemirljivostmi
 eeiijlmmnooprssttv 2 nepremostljivostim nepremostljivostmi
@@ -514,6 +521,7 @@ eijlmnnooooprssttv 2 neprostovoljnostim neprostovoljnostmi
 čiiilmmnnoooopsstt 2 monopolističnostim monopolističnostmi
 čiiimnnoooprsstttu 2 oportunističnostim oportunističnostmi
 aaaaaabgiklmnnoort 1 arabinogalaktanoma
+aaaaaačiklmnorrvvz 1 zavarovalničarkama
 aaaaabcgiijkklmors 1 gamakarboksilacija
 aaaaabciijmnnsttuz 1 bantustanizacijama
 aaaaabegijkmmnortt 1 bantamkategorijama
@@ -539,6 +547,7 @@ aaaaaegggiijmmmnot 1 gametangiogamijama
 aaaaaegiilmmmmnnos 1 gamaaminomaslenima
 aaaaaegjkmnoorrvvz 1 kargozavarovanjema
 aaaaaejkkmnoorsvvz 1 kaskozavarovanjema
+aaaaaejlmnnnprrtuz 1 zunajparlamentarna
 aaaaaemmmooostttvz 1 avtometasomatozama
 aaaaafgiijlmorrstt 1 alostratigrafijama
 aaaaagiimnnorrsttz 1 zagarantiranostima
@@ -547,6 +556,8 @@ aaaaaiillmnoprsttz 1 palataliziranostma
 aaaaačdeegklnprršu 1 arunačalpradeškega
 aaaaačdehiikmmnorr 1 radiomehaničarkama
 aaaaačdeiklmnprršu 1 arunačalpradeškima
+aaaaačeijlmnorrvvz 1 zavarovalničarjema
+aaaaačiiklmnorrvvz 1 zavarovalničarkami
 aaaabcdehiijknortz 1 dekarbonatizacijah
 aaaabcdeiijkklmors 1 dekarboksilacijama
 aaaabcdeiijkmnortz 1 dekarbonatizacijam
@@ -569,6 +580,7 @@ aaaabeijjkmnnrsštt 1 najabstraktnejšima
 aaaabeijkmnnooprsz 1 paraaminobenzojska
 aaaabfgiiijmorrstt 1 biostratigrafijama
 aaaabhiiiikllmnnrt 1 brahiantiklinalami
+aaaabiiilmnnorstzz 1 zbanaliziranostima
 aaaabiiklmmnoorrst 1 karamboliranostima
 aaaabikllmoorssttz 1 kristaloblastozama
 aaaabčddeeegjlnorv 1 naredbodajalčevega
@@ -629,6 +641,7 @@ aaaacefiijmmnnnors 1 samofinanciranjema
 aaaaceghiijlnorrtu 1 aerotriangulacijah
 aaaacegiiijkklmstz 1 aklimatizacijskega
 aaaacegiiijlmouvzz 1 geovizualizacijama
+aaaacegiiilnnorrzz 1 zracionaliziranega
 aaaacegiijlmnorrtu 1 aerotriangulacijam
 aaaacegiiknnorstvz 1 kvazistacionarnega
 aaaacehiijklmmpruu 1 hiperakumulacijama
@@ -656,6 +669,7 @@ aaaacgiiijmmnoorsz 1 samoorganizacijami
 aaaacgiijkmmoopprr 1 mikropropagacijama
 aaaacgiimnooorrstz 1 soorganizatoricama
 aaaaciiiijkklmmstz 1 aklimatizacijskima
+aaaaciiiilmnnorrzz 1 zracionaliziranima
 aaaaciiiklmnoorrtz 1 racionalizatorkami
 aaaaciiikmnnorstvz 1 kvazistacionarnima
 aaaaciilmoopprrtuz 1 popularizatoricama
@@ -714,6 +728,7 @@ aaaaeeelmmopprrttu 1 paleotemperaturama
 aaaaeefkkmoprrsttv 1 farmakoterapevtska
 aaaaeefnnoprrstttu 1 stefanoaperturatna
 aaaaeeghjlmnnoorsv 1 samoohranjevalnega
+aaaaeegiiilmnrrtzz 1 zmaterializiranega
 aaaaeegiikknorrrtz 1 okarakteriziranega
 aaaaeegilmmmmnnosu 1 gamaaminomaslenemu
 aaaaeegilmnnoprrtv 1 materialnopravnega
@@ -749,6 +764,7 @@ aaaaegiiilmmmmnnos 1 gamaaminomaslenimi
 aaaaegiikllmnnoprs 1 parageosinklinalam
 aaaaegiiklnnrrrttu 1 intraartikularnega
 aaaaegiimnnoprrstž 1 preangažiranostima
+aaaaegjkknnrrsstuz 1 zunajstrankarskega
 aaaaegjkllmoprssuv 1 samoupravljalskega
 aaaaegjklmnnoosstv 1 malostanovanjskega
 aaaaegjklmoprssuvv 1 samoupravljavskega
@@ -756,6 +772,7 @@ aaaaegklmnnnoorrtu 1 ramnogalakturonane
 aaaaegkmnnorsstttv 1 ekstravagantnostma
 aaaaehiijlmmnoortt 1 arheolitotamnijama
 aaaaehijlmmnnoorsv 1 samoohranjevalnima
+aaaaeiiiilmmnrrtzz 1 zmaterializiranima
 aaaaeiiijkmnoprrtz 1 poamerikanizirajta
 aaaaeiiijkmnoprrvz 1 poamerikanizirajva
 aaaaeiiikkmnorrrtz 1 okarakteriziranima
@@ -763,17 +780,20 @@ aaaaeiiikmmmnnortz 1 antiamerikanizmoma
 aaaaeiijklmoprrstt 1 kristaloterapijama
 aaaaeiilmmnnoprrtv 1 materialnopravnima
 aaaaeijjjlmmnoprsv 1 samoprijavljanjema
+aaaaeijlmnnnprrtuz 1 zunajparlamentarni
 aaaaeijlmnoossttvz 1 samozatajevalnosti
 aaaaeijnnppprrrstt 1 transparentpapirja
 aaaaeiklmmnnorsttz 1 zakramentalnostima
 aaaaeilmmnnoprrstt 1 parlamentarnostima
 aaaaeilmmnoopttvvz 1 avtopnevmatolizama
+aaaaeilmnorssšttvz 1 zastraševalnostima
 aaaaeimmmoooprsttz 1 pirometasomatozama
 aaaaeimmmooostttvz 1 avtometasomatozami
 aaaaeimmnnnoostvzz 1 nezaznamovanostima
 aaaaeimnnnnorstvvz 1 naravoznanstvenima
 aaaaejjjkknnorrštt 1 najkratkotrajnejša
 aaaaejlmmnooopssvz 1 samozaposlovanjema
+aaaaejlmnnnoprrtuz 1 zunajparlamentarno
 aaaaellmmnooostvvž 1 omalovaževalnostma
 aaaaemmnooorsstvvz 1 samozaverovanostma
 aaaaffgijkmmooorrt 1 makrofotografijama
@@ -808,10 +828,12 @@ aaaaiijllnooprsttz 1 palataliziranostjo
 aaaaiilmnnorrsttuz 1 naturaliziranostma
 aaaaiimmnoorstttvz 1 avtomatiziranostma
 aaaaiimmnorrstttvz 1 travmatiziranostma
+aaaaijkkmnnrrsstuz 1 zunajstrankarskima
 aaaaijkllmmoprssuv 1 samoupravljalskima
 aaaaijklmmnnoosstv 1 malostanovanjskima
 aaaaijklmmoprssuvv 1 samoupravljavskima
 aaaaijkmnorsstttvv 1 avstrijakantstvoma
+aaaaijlmnoopssttvz 1 zapostavljanostima
 aaaaikkmmorrsssttv 1 avstromarksistkama
 aaaaikmmnnoooprstt 1 antroponomastikama
 aaaailmmnnoorsstuv 1 samouravnalnostima
@@ -936,6 +958,7 @@ aaabeegiilmnoprrtz 1 problematiziranega
 aaabeegiinprrrrstu 1 superarbitriranega
 aaabeegijjjlnnnršt 1 najbriljantnejšega
 aaabeegijjmnnortzz 1 zabrazgotinjenjema
+aaabeegiklnnossštz 1 zasebnolastniškega
 aaabeegikmnnoorrst 1 armiranobetonskega
 aaabeehiklnnoooptt 1 paleoetnobotanikah
 aaabeeiijjlmnnnršt 1 najrentabilnejšima
@@ -954,6 +977,7 @@ aaabefiilmmnooprsz 1 alfamezosaprobnimi
 aaabefijlmnoooorrt 1 fonolaboratorijema
 aaabefijlmoooorrtt 1 fotolaboratorijema
 aaabeggillmnnoosst 1 neblagoglasnostima
+aaabegiiiknorrrtzz 1 zbirokratiziranega
 aaabegiikknnosšštv 1 banskoštiavniškega
 aaabegikllnnoosšzž 1 glasbenozaložniška
 aaabegillnnoooprrt 1 polarnoorbitalnega
@@ -974,6 +998,7 @@ aaabeiijjkmnnrsštt 1 najabstraktnejšimi
 aaabeiijkmnnooprsz 1 paraaminobenzojski
 aaabeiikkmnoorsstz 1 tiosemikarbazonska
 aaabeiikllmmnnrrtu 1 interambulakralnim
+aaabeiiklmnnossštz 1 zasebnolastniškima
 aaabeiikmmnnoorrst 1 armiranobetonskima
 aaabeiikmmnooorstz 1 tiosemikarbazonoma
 aaabeiilmmnoorsvzž 1 samoizobraževalnim
@@ -985,12 +1010,15 @@ aaabfgikmooorssttv 1 avtobiografskostma
 aaabgiiijkllmmooot 1 bioklimatologijama
 aaabgiiilmnnorsstt 1 instagramabilnosti
 aaabgiijlmnooooprt 1 antropobiologijama
+aaabiiiikmnorrrtzz 1 zbirokratiziranima
 aaabiiiilmnorssttz 1 stabiliziranostima
+aaabiiijloorrsttzž 1 žirostabilizatorja
 aaabiiijnrsstttuvz 1 substantivizirajta
 aaabiiijnrssttuvvz 1 substantivizirajva
 aaabiiikkmnnosšštv 1 banskoštiavniškima
 aaabiiiklmmnnoopst 1 samoinkompatibilna
 aaabiikllmoorssttz 1 kristaloblastozami
+aaabiikmnnoorrsttz 1 zbankrotiranostima
 aaabiillmnnoooprrt 1 polarnoorbitalnima
 aaabilmmnooorstuzž 1 maloburžoaznostima
 aaabkkkllnoooopsšt 1 balkanskopolotoška
@@ -1242,6 +1270,7 @@ aaacehiiijlmopprrz 1 hiperpolarizacijam
 aaacehiiilmnoprstz 1 hospitalizirancema
 aaacehiijkklmprsuu 1 hiperakumulacijska
 aaacehiilnoprrrstz 1 razparceliranostih
+aaacehijllnprstuvz 1 zastrupljevalnicah
 aaaceiiiiijlmmrrtz 1 remilitarizacijami
 aaaceiiiijklmmnrsz 1 mineralizacijskima
 aaaceiiiijklmrrstz 1 rekristalizacijami
@@ -1265,6 +1294,7 @@ aaaceiiijnopprrstv 1 evapotranspiraciji
 aaaceiiiklnnnorstt 1 internacionalistka
 aaaceiiillnoooprrz 1 operacionaliziralo
 aaaceiiilmnnnrrstt 1 intracisternalnima
+aaaceiiilmnnorruzz 1 zracionaliziranemu
 aaaceiiilmnoooprrz 1 operacionaliziramo
 aaaceiiilmnoprsstz 1 specializiranostma
 aaaceiiilnnoooprrz 1 operacionalizirano
@@ -1285,6 +1315,7 @@ aaaceijkklmmorstuu 1 termoakumulacijska
 aaaceijklmnnprsstt 1 transplantacijskem
 aaaceijklmnoorrtuv 1 kontrarevolucijama
 aaaceijkmoooopprrt 1 protokooperacijama
+aaaceijllmnprstuvz 1 zastrupljevalnicam
 aaaceijllnoopprtvv 1 avtopopravljalnice
 aaaceijlnooprrrstz 1 razparceliranostjo
 aaaceijmmnorrrstvz 1 razmrcvarjenostima
@@ -1315,6 +1346,7 @@ aaachiiiklnoorrstz 1 racionalizatorskih
 aaachiijkklmmoosty 1 oklahomacityjskima
 aaachiijklnnprsstt 1 transplantacijskih
 aaaciiiiijkklmmstz 1 aklimatizacijskimi
+aaaciiiiilmnnorrzz 1 zracionaliziranimi
 aaaciiiijkklmmrstu 1 imatrikulacijskima
 aaaciiiijkklmrsstz 1 kristalizacijskima
 aaaciiiijklmmossst 1 asimilacijskostima
@@ -1331,6 +1363,7 @@ aaaciiijkmmmoosstv 1 samomotivacijskima
 aaaciiijlmmmnostuu 1 imunostimulacijama
 aaaciiiklmnoorrstz 1 racionalizatorskim
 aaaciiilmoopprrtuz 1 popularizatoricami
+aaaciiilnnoorrstzz 1 zracionaliziranost
 aaaciiilnoorrsttvz 1 racionalizatorstvi
 aaaciijkkmnoorrstv 1 strokovnjakaricami
 aaaciijkkmnoorstvz 1 vazokonstrikcijama
@@ -1369,6 +1402,7 @@ aaaddeeiimnnnrrstz 1 nestandardiziranem
 aaaddeeiklmnorrsvz 1 delavskorazrednima
 aaaddeggijmnooprsu 1 surdopedagoginjama
 aaaddegiijkkllmorv 1 gladkodlakarjevimi
+aaaddegjklmnnoopsz 1 zgodnjepomladanska
 aaaddegknnoooprrss 1 denarnogospodarska
 aaaddehiiilmnooprt 1 diarilheptanoidoma
 aaaddehiiinnnrrstz 1 nestandardiziranih
@@ -1384,6 +1418,10 @@ aaaddgknoooprrssvž 1 državnogospodarska
 aaaddiiiiijlnnruvz 1 individualiziranja
 aaaddiiiiijlnrtuvz 1 individualizirajta
 aaaddiiiiijlnruvvz 1 individualizirajva
+aaaddiiiiillnruvzz 1 zindividualizirala
+aaaddiiiiilnnruvzz 1 zindividualizirana
+aaaddiiiiilnrtuvzz 1 zindividualizirata
+aaaddiiiiilnruvvzz 1 zindividualizirava
 aaaddiiiklmnnnoorr 1 narodnoradikalnimi
 aaaddiiinnorrssttz 1 standardiziranosti
 aaaddijlmmooopsstv 1 samodopadljivostma
@@ -1416,6 +1454,7 @@ aaadeeghijllmoprst 1 samopredlagateljih
 aaadeeghklnnoopssv 1 psevdoheksagonalna
 aaadeegiiiilmnrrtz 1 demilitariziranega
 aaadeegiijjjlnšvvz 1 najzavidljivejšega
+aaadeegiikmnorrtzz 1 zdemokratiziranega
 aaadeegijjlmnnoprš 1 najmalopridnejšega
 aaadeegijmnoorrtzz 1 dezorganizatorjema
 aaadeegikklmoorrrt 1 elektrokardiograma
@@ -1487,11 +1526,13 @@ aaadeiiiiilmmnrrtz 1 demilitariziranima
 aaadeiiiijklmnrrtz 1 dekriminalizirajta
 aaadeiiiijklmnrrvz 1 dekriminalizirajva
 aaadeiiiiklnnprrrt 1 intraperikardialni
+aaadeiiiilmnorstzz 1 zidealiziranostima
 aaadeiiijjjlmnšvvz 1 najzavidljivejšima
 aaadeiiijmnooprrtu 1 radioimunoterapija
 aaadeiiiklmnopprtz 1 podkapitaliziranem
 aaadeiiiklmnoprtuz 1 dokapitaliziranemu
 aaadeiiiklnnoprrrt 1 intraperikardialno
+aaadeiiikmmnorrtzz 1 zdemokratiziranima
 aaadeiijjlmmnnoprš 1 najmalopridnejšima
 aaadeiijkkmnorrrst 1 ekstraordinarijkam
 aaadeiijkllmnnorsv 1 vanilinsladkorjema
@@ -1514,6 +1555,7 @@ aaadeijmnnorstvvvz 1 javnozdravstvenima
 aaadeikklmnorrsuuv 1 kardiovaskularnemu
 aaadeikmnnooprstvz 1 predkaznovanostima
 aaadeikmnorrssttvž 1 ekstradržavnostima
+aaadeilmnooopstvvz 1 zapovedovalnostima
 aaadeilmnorrstuvzž 1 razdruževalnostima
 aaadeimnnnooorstvz 1 nenadzorovanostima
 aaadeimooopprrrstt 1 parastromatoporide
@@ -1553,6 +1595,11 @@ aaadiiiiiklmnoprtz 1 dokapitaliziranimi
 aaadiiiijlnrrsttuz 1 industrializirajta
 aaadiiiijlnrrstuvz 1 industrializirajva
 aaadiiiiklmnopprtz 1 podkapitaliziranim
+aaadiiiiklnorrstzz 1 zradikaliziranosti
+aaadiiiillnrrstuzz 1 zindustrializirala
+aaadiiiilnnrrstuzz 1 zindustrializirana
+aaadiiiilnrrsttuzz 1 zindustrializirata
+aaadiiiilnrrstuvzz 1 zindustrializirava
 aaadiiijklnoorrstz 1 radikaliziranostjo
 aaadiiijmmnooorrst 1 radioastronomijami
 aaadiiikklmnorrsuv 1 kardiovaskularnimi
@@ -1683,6 +1730,7 @@ aaaeeiiiklllnrttuz 1 intelektualizirala
 aaaeeiiikllnnrttuz 1 intelektualizirana
 aaaeeiiikllnrtttuz 1 intelektualizirata
 aaaeeiiikllnrttuvz 1 intelektualizirava
+aaaeeiiilmmnrrtuzz 1 zmaterializiranemu
 aaaeeiiilmnnorrstz 1 nerealiziranostima
 aaaeeiijjjlmnnsšvz 1 najzanesljivejšima
 aaaeeiijjjmnnnpršz 1 najneprijaznejšima
@@ -1812,6 +1860,7 @@ aaaegnnnoooprrstvž 1 požarnovarnostnega
 aaaehiiiiklmnprstt 1 antiimperialistkah
 aaaehiiijlmmnoortt 1 arheolitotamnijami
 aaaehiiijmnoprrstv 1 nevropsihiatrijama
+aaaehiiimmnnorstzz 1 zmehaniziranostima
 aaaehiiimmnorssttz 1 shematiziranostima
 aaaehiijjjlnpršvvz 1 najzapravljivejših
 aaaehiijkkllnnrvvz 1 razvlaknjevalnikih
@@ -1823,6 +1872,7 @@ aaaehijjjlnnrsštuv 1 najustvarjalnejših
 aaaehillmnooostvvž 1 omalovaževalnostih
 aaaehilmmnnoorsvzž 1 samorazmnoževalnih
 aaaehimnooorsstvvz 1 samozaverovanostih
+aaaeiiiiilmmnrrtzz 1 zmaterializiranimi
 aaaeiiiijlorrrtttz 1 teritorializirajta
 aaaeiiiijlorrrttvz 1 teritorializirajva
 aaaeiiiikkmnorrrtz 1 okarakteriziranimi
@@ -1892,6 +1942,8 @@ aaaeijllmnprrstuvz 1 razstrupljevalnima
 aaaeijlmmnnoopsštv 1 pomanjševalnostima
 aaaeijlmnnnorssttz 1 razlastninjenostma
 aaaeijlmnnorssttuv 1 neustvarjalnostima
+aaaeijlmnnosstuvzž 1 zasužnjevalnostima
+aaaeijlmnoopssttvz 1 zapostavljenostima
 aaaeijlmnorssttvvz 1 nerazstavljivostma
 aaaeijlmnossttuvvz 1 nezaustavljivostma
 aaaeijnnppprrrsttu 1 transparentpapirju
@@ -1918,6 +1970,7 @@ aaaeimnnnoprrssttt 1 transparentnostima
 aaaeinnoorrssttvvv 1 naravovarstvenosti
 aaaejjjkknnoorrštt 1 najkratkotrajnejšo
 aaaejjlnnooprštvvž 1 najpožrtvovalnejša
+aaaejkkmnnrrsstuuz 1 zunajstrankarskemu
 aaaejkllmmoprssuuv 1 samoupravljalskemu
 aaaejklmmnnoosstuv 1 malostanovanjskemu
 aaaejklmmoprssuuvv 1 samoupravljavskemu
@@ -1965,6 +2018,7 @@ aaagiiiijlmnnorrtt 1 antilogaritmiranji
 aaagiiiimmnnoorrsz 1 samoorganiziranimi
 aaagiiijlmmnoorrtt 1 antilogaritmirajmo
 aaagiiijlmnnorrttu 1 antilogaritmiranju
+aaagiiimnnoorrstzz 1 zorganiziranostima
 aaagiijkkllmmooort 1 makroklimatologija
 aaagiijlmmmooopstt 1 simptomatologijama
 aaagiikklmnoorssšt 1 rogaškoslatinskima
@@ -2013,6 +2067,7 @@ aaaiiiklmoopprsttv 1 parasimpatolitikov
 aaaiiikmmnnnoorstt 1 kontaminiranostima
 aaaiiikmnnosttttvv 1 kvantitativnostima
 aaaiiikmnopprrsttz 1 protipartizanskima
+aaaiiilmmnnoprstuz 1 zmanipuliranostima
 aaaiiilmmnnopsttuv 1 manipulativnostima
 aaaiiilmmnooorsstz 1 samoizoliranostima
 aaaiiimmnnoorrsttz 1 romantiziranostima
@@ -2020,6 +2075,7 @@ aaaiiimnooprrrtttv 1 protiavtoritarnima
 aaaiiimnoorsttttvv 1 avtoritativnostima
 aaaiiinnoorrsttttv 1 antiavtoritarnosti
 aaaiijkkkllnooorss 1 ariloksialkanojsko
+aaaiijkkmnnrrsstuz 1 zunajstrankarskimi
 aaaiijkllmmoprssuv 1 samoupravljalskimi
 aaaiijklmmnnoosstv 1 malostanovanjskimi
 aaaiijklmmnooprrtu 1 mikromanipulatorja
@@ -2039,6 +2095,7 @@ aaaiikmnnooprrsstz 1 zakonspiriranostma
 aaaiillmmnooossttž 1 samotolažilnostima
 aaaiilmnoopprrsstv 1 prvoplasiranostima
 aaaiilnnnoprrssttt 1 transplantiranosti
+aaaiimmnnoorrsttzz 1 zromantiziranostma
 aaaiimmnoopprrstuv 1 protisamoupravnima
 aaaiimnnnooprrsstt 1 transponiranostima
 aaaijkkkmnnoorrsšt 1 notranjskokraškima
@@ -2122,6 +2179,8 @@ aaačeeeeegllrštvvz 1 razteleševalčevega
 aaačeeeeghjlnprrvv 1 prehranjevalčevega
 aaačeeeegjjnnrrttv 1 tretjenagrajenčeva
 aaačeeeegjkllpprvv 1 prekapljevalčevega
+aaačeeeegjkllstvvz 1 zastekljevalčevega
+aaačeeeegjlllpsvvz 1 zaslepljevalčevega
 aaačeeeegjloprrvvz 1 razporejevalčevega
 aaačeeeeillmrštvvz 1 razteleševalčevima
 aaačeeeggijlloprvv 1 prilagojevalčevega
@@ -2133,11 +2192,14 @@ aaačeeegijllrrtuvv 1 ultralevičarjevega
 aaačeeegiklnoprstv 1 eksploatirančevega
 aaačeeegiknnnnorst 1 neenakostraničnega
 aaačeeegjlmmnnoopš 1 pomalomeščanjenega
+aaačeeegjlnopstvvz 1 zapostavljenčevega
 aaačeeegmnoprrstuv 1 supermaratončevega
 aaačeeehijlmnprrvv 1 prehranjevalčevima
 aaačeeehikklmnorrt 1 elektromehaničarka
 aaačeeeijkllmpprvv 1 prekapljevalčevima
+aaačeeeijkllmstvvz 1 zastekljevalčevima
 aaačeeeijklmorrttv 1 avtoelektričarjema
+aaačeeeijlllmpsvvz 1 zaslepljevalčevima
 aaačeeeijlloprvvvz 1 veleproizvajalčeva
 aaačeeeijlmoprrvvz 1 razporejevalčevima
 aaačeefgiikkmnnort 1 farmakokinetičnega
@@ -2147,6 +2209,7 @@ aaačeeggiijllnostv 1 sovlagateljičinega
 aaačeeggiimnnorrtz 1 germanizatoričnega
 aaačeeggijlmmoorsu 1 samoemulgirajočega
 aaačeeghjjlnnorštu 1 najrahločutnejšega
+aaačeegiiijlnsttvz 1 zastaviteljičinega
 aaačeegiiiklnnpstt 1 nekapitalističnega
 aaačeegiiiklnnrttu 1 antikaliuretičnega
 aaačeegiiikmnnorst 1 eksaminatoričinega
@@ -2154,6 +2217,7 @@ aaačeegiijjmnnpsšt 1 najsimpatičnejšega
 aaačeegiijknnopršt 1 poštenjakaričinega
 aaačeegiijknnprrst 1 spretnjakaričinega
 aaačeegiijllmoprvv 1 prilagojevalčevima
+aaačeegiijlnnostvz 1 zasnovateljičinega
 aaačeegiiklmnnnorš 1 angloamerikanščine
 aaačeegiimnnosstvz 1 samozavestničinega
 aaačeegijmnnoprrvv 1 prvonagrajenčevima
@@ -2175,6 +2239,7 @@ aaačeeiikmnnnnorst 1 neenakostraničnima
 aaačeeiilmnnoprstv 1 prenaveličanostima
 aaačeeijklmnnoopst 1 postajenačelnikoma
 aaačeeijlmmmnnoopš 1 pomalomeščanjenima
+aaačeeijlmnopstvvz 1 zapostavljenčevima
 aaačeeijmmnnooprst 1 poameričanjenostma
 aaačeeimmnoprrstuv 1 supermaratončevima
 aaačeeimnnnoprrstu 1 nepreračunanostima
@@ -2219,12 +2284,14 @@ aaačehijlmoprsuvvv 1 samoupravljavčevih
 aaačehiklmnoorršvz 1 razhroščevalnikoma
 aaačeiiiiikmmmnrtt 1 matematikaričinimi
 aaačeiiiijkmmnnprt 1 pametnjakaričinimi
+aaačeiiiijlmnsttvz 1 zastaviteljičinima
 aaačeiiiiklmnnpstt 1 nekapitalističnima
 aaačeiiiiklmnnrttu 1 antikaliuretičnima
 aaačeiiiikmmnnorst 1 eksaminatoričinima
 aaačeiiijjmmnnpsšt 1 najsimpatičnejšima
 aaačeiiijkmnnopršt 1 poštenjakaričinima
 aaačeiiijkmnnprrst 1 spretnjakaričinima
+aaačeiiijlmnnostvz 1 zasnovateljičinima
 aaačeiiimmnnosstvz 1 samozavestničinima
 aaačeiijlmnnoopstt 1 poitalijančenostma
 aaačeiikklmnorrvvz 1 razkrinkovalčevima
@@ -2321,6 +2388,7 @@ aabbeeiijjmnnrršzž 1 najbrezbrižnejšima
 aabbeeiimmmnoossuv 1 samoobsebiumevnima
 aabbeeiimmnooprstz 1 betamezosaprobnimi
 aabbeeijjkmnnrrsšz 1 najbrezskrbnejšima
+aabbeijjllmnoostuz 1 zaobljubljenostima
 aabbeilnnoooprsšzz 1 splošnoizobrazbena
 aabbhiiiillnossttz 1 stabilizabilnostih
 aabbiiijllnoossttz 1 stabilizabilnostjo
@@ -2495,6 +2563,8 @@ aabeefgikkllnnoors 1 fenolkarboksilnega
 aabeefhiijklnnostu 1 fontainebleaujskih
 aabeefiijklmnnostu 1 fontainebleaujskim
 aabeefijklmnnostuu 1 fontainbleaujskemu
+aabeeggjkknnoorrsz 1 zgornjekarbonskega
+aabeeggjknoorrrszz 1 zgornjerazborskega
 aabeeggkllnnorstuu 1 glasbenokulturnega
 aabeeghikknoorrstt 1 tehnobirokratskega
 aabeegiiiklmnopttt 1 kompatibilitetnega
@@ -2533,6 +2603,8 @@ aabeeijjllnosstuvz 1 vasezaljubljenosti
 aabeeijlmnnooprstu 1 neuporabljenostima
 aabeeijlnoorsttuvv 1 ustavobraniteljevo
 aabeeikkmnprrsšttu 1 sanktpeterburškima
+aabeeiklmnnnossstz 1 zasebnolastninskem
+aabeeiklmnnossštuz 1 zasebnolastniškemu
 aabeeikmmnnoorrstu 1 armiranobetonskemu
 aabefgiikmorrssttu 1 biostratigrafskemu
 aabefgilnnooossttt 1 fotostabilnostnega
@@ -2549,8 +2621,10 @@ aabegiikklooprsttt 1 kriptobatolitskega
 aabegiikkooprrrstt 1 protibirokratskega
 aabegiikllnnoosšzž 1 glasbenozaložniški
 aabegiiklmnnoopstt 1 kompatibilnostnega
+aabegijkkmnnoorrsz 1 zgornjekarbonskima
 aabegijkllnnnooost 1 blagonaklonjenosti
 aabegijklmooossttv 1 bogoiskateljstvoma
+aabegijkmnoorrrszz 1 zgornjerazborskima
 aabegikllmnnorstuu 1 glasbenokulturnima
 aabegikllnnooosšzž 1 glasbenozaložniško
 aabegiklmnooprsstt 1 tromboplastinskega
@@ -2565,6 +2639,7 @@ aabehiiijlmnoprrtz 1 problematiziranjih
 aabehiiijlnoorrstt 1 rehabilitiranostjo
 aabehiijjjlnrršuvz 1 najrazburljivejših
 aabehiikkmnoorrstt 1 tehnobirokratskima
+aabehiiklnnnossstz 1 zasebnolastninskih
 aabehijmmnnnoooprv 1 bronhopnevmonijama
 aabehikllmnooorstz 1 brezalkoholnostima
 aabeiiiiklmmnopttt 1 kompatibilitetnima
@@ -2578,10 +2653,13 @@ aabeiiijkkkmnorstt 1 aktinobakterijskim
 aabeiiijkkmoprrstt 1 protibakterijskima
 aabeiiijklmnoprruz 1 republikanizirajmo
 aabeiiijllnoorrstz 1 liberaliziranostjo
+aabeiiijloorrsttzž 1 žirostabilizatorje
 aabeiiijnrsstttuvz 1 substantivizirajte
 aabeiiikkmnoorsstz 1 tiosemikarbazonski
 aabeiiiklmmnnnoruz 1 inkomenzurabilnima
+aabeiiiklmnnossštz 1 zasebnolastniškimi
 aabeiiikmmnnoorrst 1 armiranobetonskimi
+aabeiiikmnorrrtuzz 1 zbirokratiziranemu
 aabeiiilnopprrsttu 1 intrabiopelsparitu
 aabeiijjjlmnrršuvz 1 najrazburljivejšim
 aabeiijjjlmnršuvvz 1 najvzburljivejšima
@@ -2595,6 +2673,7 @@ aabeiikklmnoosszzz 1 benzizoksazolskima
 aabeiikkmnnosšštuv 1 banskoštiavniškemu
 aabeiikkmnooorsstz 1 tiosemikarbazonsko
 aabeiiklmmnnoopstt 1 nekompatibilnostma
+aabeiiklmnnnossstz 1 zasebnolastninskim
 aabeiiklmnnooostvz 1 neizoblikovanostma
 aabeiiklmnoooprstv 1 preoblikovanostima
 aabeiiklmnorssšttz 1 brezlastniškostima
@@ -2618,16 +2697,20 @@ aabgiiijkklmooprst 1 gabropojkilitskima
 aabgiiijlmnooooprt 1 antropobiologijami
 aabhiiijklmmnorruu 1 mikroalbuminurijah
 aabhiiklmnoooprstz 1 bronhospazmolitika
+aabiiiiikmnorrrtzz 1 zbirokratiziranimi
 aabiiiiilmmnoorstz 1 imobiliziranostima
+aabiiiijloorrsttzž 1 žirostabilizatorji
 aabiiiikkmnnosšštv 1 banskoštiavniškimi
 aabiiiiklmmnnoopst 1 samoinkompatibilni
 aabiiiiknoorrrsttz 1 birokratiziranosti
 aabiiijklmmmnorruu 1 mikroalbuminurijam
+aabiiijloorrsttuzž 1 žirostabilizatorju
 aabiiijmnorssttuvz 1 substantivizirajmo
 aabiiikklmooprsttt 1 kriptobatolitskima
 aabiiikkmooprrrstt 1 protibirokratskima
 aabiiiklmmnnooopst 1 samoinkompatibilno
 aabiiikmnooprrrsst 1 proskribiranostima
+aabiiiknoorrrsttzz 1 zbirokratiziranost
 aabiiillmnnoooprrt 1 polarnoorbitalnimi
 aabiiinnorssstttuv 1 substantiviranosti
 aabiiklmmnooopsstt 1 kompostabilnostima
@@ -2690,6 +2773,7 @@ aabčegiiiklmnnorst 1 glasbenokritičnima
 aabčegiiillmnnostt 1 antiglobalističnem
 aabčegiiilmnoosttv 1 avtomobilističnega
 aabčegiijkllnoopst 1 pojkiloblastičnega
+aabčegiijlnnnnošuz 1 zunajbolnišničnega
 aabčehiiikmnnnrrtu 1 nahrbtnikaričinemu
 aabčeiiijllnoopstt 1 pooblastiteljičina
 aabčeiiikmnoprrrsv 1 proskribirančevima
@@ -2710,6 +2794,7 @@ aabčiiiijkmnnooprž 1 pobožnjakaričinimi
 aabčiiiilmmnoosttv 1 avtomobilističnima
 aabčiiiilnnosstttu 1 antiabsolutistični
 aabčiiijkllmnoopst 1 pojkiloblastičnima
+aabčiiijlmnnnnošuz 1 zunajbolnišničnima
 aabčiiikllmnorsstt 1 kristaloblastičnim
 aabčiiilmnnooosstt 1 silabotoničnostima
 aabčiiilnnoosstttu 1 antiabsolutistično
@@ -2929,6 +3014,7 @@ aaceeegiijknprrstt 1 interpretacijskega
 aaceeegijkklloortu 1 elektrokoagulacije
 aaceeegiklnnnnnoov 1 nekonvencionalnega
 aaceeegilnnnoorruv 1 nerevolucionarnega
+aaceeegjklnnooprsz 1 zgornjepaleocenska
 aaceeehhkmnnssssuu 1 sachsenhausenskemu
 aaceeehiijlnnoprvz 1 provalencienezijah
 aaceeehiijnpprrrtt 1 preinterpretacijah
@@ -2974,6 +3060,7 @@ aaceegiijklmmoorrs 1 agromelioracijskem
 aaceegiijklmoorstz 1 termoizolacijskega
 aaceegiijkmnorrsuz 1 reorganizacijskemu
 aaceegiillmmnnortu 1 terminoglacialnemu
+aaceegiilnnoorruvz 1 zrevolucioniranega
 aaceegiimnorrssttz 1 gastrorezistencami
 aaceegijkkllooortu 1 elektrokoagulacijo
 aaceegijklmmorssuu 1 samoregulacijskemu
@@ -3014,6 +3101,7 @@ aaceeiiiklmnossstt 1 eksistencialistoma
 aaceeiiiklmnpršuvz 1 preizkuševalnicami
 aaceeiiiklnnnorstt 1 internacionalistke
 aaceeiijkkklmnostu 1 telekomunikacijska
+aaceeiijkkkmorrssz 1 zimskorekreacijska
 aaceeiijkklmorrstt 1 elektrostrikcijama
 aaceeiijkklmorstuz 1 rekatolizacijskemu
 aaceeiijkllmorsttu 1 elektrostimulacija
@@ -3157,6 +3245,7 @@ aaceiiilmmnnnoortz 1 internacionalizmom
 aaceiiilmnnnnoostt 1 intencionalnostima
 aaceiiilmnnnoorstt 1 internacionalistom
 aaceiiilmnnnoortvz 1 internacionalizmov
+aaceiiilmnnoorruvz 1 zrevolucioniranima
 aaceiiilnnnnoorstt 1 internacionalnosti
 aaceiiilnnnoorrtuv 1 antirevolucionarni
 aaceiiilnnnoorsttv 1 internacionalistov
@@ -3339,6 +3428,7 @@ aaddeeeiikmnrrsttv 1 dvaintrideseterkam
 aaddeeeijkmnnoprsv 1 predsednikovanjema
 aaddeeeklmnorrsuvz 1 delavskorazrednemu
 aaddeegiilmnnnoovz 1 dvodimenzionalnega
+aaddeegjklmnnoopsz 1 zgodnjepomladanske
 aaddeegknnoooprrss 1 denarnogospodarske
 aaddeehiiiknnrsttv 1 dvaintridesetinkah
 aaddeehiimnnnprrtu 1 hiperredundantnima
@@ -3363,15 +3453,21 @@ aaddeffiinnooostvz 1 adenozindifosfatov
 aaddefiiikmnnoorsu 1 deoksinufaridinoma
 aaddeggiijmnooprsu 1 surdopedagoginjami
 aaddeggknooooprssv 1 vodnogospodarskega
+aaddegijklmnnoopsz 1 zgodnjepomladanski
 aaddegiknnoooprrss 1 denarnogospodarski
 aaddegimnoorrrstuz 1 drugorazrednostima
+aaddegjklmnnooopsz 1 zgodnjepomladansko
+aaddegjklnnoooppsz 1 zgodnjepopoldanska
 aaddegknoooprrssvž 1 državnogospodarske
 aaddehiijjjlnnnošv 1 najdaljnovidnejših
 aaddehijmnoooopsvv 1 samoodpovedovanjih
 aaddehinnnooorstvz 1 narodnozavednostih
 aaddeiiiiijlnnruvz 1 individualiziranje
 aaddeiiiiijlnrtuvz 1 individualizirajte
+aaddeiiiiillnruvzz 1 zindividualizirale
 aaddeiiiiilmnnruvz 1 individualiziranem
+aaddeiiiiilnnruvzz 1 zindividualizirane
+aaddeiiiiilnrtuvzz 1 zindividualizirate
 aaddeiiikmnorrsstt 1 diskreditiranostma
 aaddeiiilmmnnnoovz 1 dvodimenzionalnima
 aaddeiiilmnnnostuv 1 neindividualnostma
@@ -3393,9 +3489,16 @@ aaddgknooooprrssvž 1 državnogospodarsko
 aaddhiiiiiilnnruvz 1 individualiziranih
 aaddhiijlmooopsstv 1 samodopadljivostih
 aaddiiiiiijlnnruvz 1 individualiziranji
+aaddiiiiiillnruvzz 1 zindividualizirali
 aaddiiiiiilmnnruvz 1 individualiziranim
+aaddiiiiiilnnruvzz 1 zindividualizirani
+aaddiiiiiilnrtuvzz 1 zindividualizirati
 aaddiiiiijlmnoruvz 1 individualizirajmo
 aaddiiiiijlnnruuvz 1 individualiziranju
+aaddiiiiijlnoruvzz 1 zindividualizirajo
+aaddiiiiillnoruvzz 1 zindividualiziralo
+aaddiiiiilmnoruvzz 1 zindividualiziramo
+aaddiiiiilnnoruvzz 1 zindividualizirano
 aaddiiikklmoooprst 1 diktioklamidospora
 aaddiiikklnnooossz 1 oksazolidindionska
 aaddijjlmoooopsstv 1 samodopadljivostjo
@@ -3466,9 +3569,11 @@ aadeefiiijjkmmorsv 1 fidejkomisarjevima
 aadeefiilnpprrsttz 1 peptidiltransferaz
 aadeefikmnnoorsttv 1 konfederativnostma
 aadeefimmmmnnoortu 1 dinamometamorfnemu
+aadeegghijjknnorsz 1 zgornjehajdinskega
 aadeeggiikklnoppst 1 peptidoglikanskega
 aadeeggiikmnnrrssu 1 grandseigneurskima
 aadeeggikklnooopšv 1 likovnopedagoškega
+aadeeggjklnnoossvz 1 zgodnjeslovanskega
 aadeeghiiilmnoorrr 1 hidromelioriranega
 aadeeghijlmnooprsv 1 samopregledovanjih
 aadeeghiklnnoopssv 1 psevdoheksagonalni
@@ -3534,6 +3639,7 @@ aadeeiijlmnooprrsz 1 depersonalizirajmo
 aadeeiijlmnppprrrv 1 predpripravljenima
 aadeeiiklmmnnnnott 1 medkontinentalnima
 aadeeiiklmmnoorstz 1 modrikastozelenima
+aadeeiikmmnorrtuzz 1 zdemokratiziranemu
 aadeeiilmnoprrsstt 1 predestiliranostma
 aadeeiimmnnorstttv 1 determinativnostma
 aadeeiimnnoorrsttz 1 dezorientiranostma
@@ -3586,6 +3692,7 @@ aadeggiijknorrsstu 1 agroindustrijskega
 aadeggikkmnooorrtu 1 drugokategornikoma
 aadeggknoooprrsstž 1 tržnogospodarskega
 aadeghiiikklmnorss 1 hidroksilaminskega
+aadeghiijjkmnnorsz 1 zgornjehajdinskima
 aadeghiijlmorssttv 1 samograditeljstvih
 aadeghiijlnorrstvz 1 nerazgradljivostih
 aadeghijjjlnnooršt 1 najdolgotrajnejših
@@ -3593,11 +3700,13 @@ aadeghiknooprsstuv 1 duhovnopastirskega
 aadeghklnnooossvvz 1 vzhodnoslovanskega
 aadegiiikklmnoppst 1 peptidoglikanskima
 aadegiiikkmnorrsst 1 diskriminatorskega
+aadegiiiknnoršvvzž 1 živinozdravniškega
 aadegiiinnoorrstzz 1 dezorganiziranosti
 aadegiijjmnnooprsš 1 najgospodarnejšimi
 aadegiikklmnooopšv 1 likovnopedagoškima
 aadegijjjlmnnooršt 1 najdolgotrajnejšim
 aadegijjlnoorrstvz 1 nerazgradljivostjo
+aadegijklmnnoossvz 1 zgodnjeslovanskima
 aadegijlmmoorssttv 1 samograditeljstvom
 aadegikllnnooosvvž 1 valovnodolžinskega
 aadegikmnnoooprsvv 1 domovinskopravnega
@@ -3626,10 +3735,14 @@ aadeiiiijjjlmnšvvz 1 najzavidljivejšimi
 aadeiiiijklmmnorrz 1 dekriminalizirajmo
 aadeiiiijlnrrsttuz 1 industrializirajte
 aadeiiiijmnooprrtu 1 radioimunoterapiji
+aadeiiiikmmnorrtzz 1 zdemokratiziranimi
+aadeiiiillnrrstuzz 1 zindustrializirale
 aadeiiiilmmnnnortz 1 tridimenzionalnima
 aadeiiiilmnnnorštz 1 štiridimenzionalna
 aadeiiiilmnnrrstuz 1 industrializiranem
 aadeiiiilmnorrsttz 1 demilitariziranost
+aadeiiiilnnrrstuzz 1 zindustrializirane
+aadeiiiilnrrsttuzz 1 zindustrializirate
 aadeiiijjjlmnršvzž 1 najizdržljivejšima
 aadeiiijjkmnnopssz 1 spodnjeanizijskima
 aadeiiijjlmmnnoprš 1 najmalopridnejšimi
@@ -3646,6 +3759,7 @@ aadeiiillmmmnosttu 1 multimedialnostima
 aadeiiilmmnnnoortz 1 trodimenzionalnima
 aadeiiilmmnnnoostz 1 dimenzionalnostima
 aadeiiilmmnnooprst 1 nediplomiranostima
+aadeiiilmnoorrstzz 1 zdemoraliziranosti
 aadeiiimmnnnoorstz 1 dimenzioniranostma
 aadeiiimmnnoorrstz 1 moderniziranostima
 aadeiijjjlmnnoošvz 1 najzadovoljnejšimi
@@ -3679,9 +3793,11 @@ aadeiikmmnorssttuv 1 samodestruktivnima
 aadeiikmnnnooorrst 1 nekoordiniranostma
 aadeiikmnnorsštvvž 1 državnosvetniškima
 aadeiikmnnossttuvz 1 nadizkustvenostima
+aadeiikmnoorrsttzz 1 zdemokratiziranost
 aadeiikmnorstttuvv 1 avtodestruktivnima
 aadeiiknnoorrrsstt 1 ekstraordinarnosti
 aadeiilmmnosstttuv 1 destimulativnostma
+aadeiimmnnoorrstzz 1 zmoderniziranostma
 aadeiimmnooopsstvz 1 samoizpovednostima
 aadeiimnnoopprrsst 1 predisponiranostma
 aadeijjllmnoopsštv 1 nepodaljšljivostma
@@ -3697,6 +3813,7 @@ aadeikllmmnnoopruu 1 kardiopulmonalnemu
 aadeikmmnooorrsstu 1 radioastronomskemu
 aadeikmnnoooopsštv 1 nepoškodovanostima
 aadeikmnnoorsssstt 1 desnostranskostima
+aadeikmnnoosstvzzz 1 zvezdoznanskostima
 aadeillnooopssttvw 1 psevdowollastonita
 aadeilmnnoooprstvv 1 delovnopravnostima
 aadeilmnnoorrsttvz 1 dorziventralnostma
@@ -3745,11 +3862,19 @@ aadhikknnooopsstvz 1 vzhodnopakistansko
 aadhikknoorrsssttv 1 dvostrankarskostih
 aadhiklmnnooossvvz 1 vzhodnoslovanskima
 aadhinnnnooorrstvz 1 varnostnonadzornih
+aadiiiiillnrrstuzz 1 zindustrializirali
 aadiiiiilmnnrrstuz 1 industrializiranim
+aadiiiiilnnrrstuzz 1 zindustrializirani
+aadiiiiilnrrsttuzz 1 zindustrializirati
 aadiiiijlmnorrstuz 1 industrializirajmo
+aadiiiijlnorrstuzz 1 zindustrializirajo
 aadiiiikkmmnorrsst 1 diskriminatorskima
 aadiiiikmmnnorrsst 1 diskriminiranostma
 aadiiiikmmnorrsstt 1 administratorskimi
+aadiiiikmnnoršvvzž 1 živinozdravniškima
+aadiiiillnorrstuzz 1 zindustrializiralo
+aadiiiilmnorrstuzz 1 zindustrializiramo
+aadiiiilnnorrstuzz 1 zindustrializirano
 aadiiiimnnnooprsst 1 indisponiranostima
 aadiiiimnnorsstttv 1 administrativnosti
 aadiiijkmnoprrstvž 1 državnopartijskimi
@@ -3780,6 +3905,7 @@ aaeeeeggkklmnorstt 1 elektromagnetskega
 aaeeeeggkmnnorrssv 1 severnogermanskega
 aaeeeegijjjnnnpršt 1 najneprijetnejšega
 aaeeeegijllrsttvvz 1 razsvetliteljevega
+aaeeeegklmnnorstuz 1 zelenkastorumenega
 aaeeeehijjlmnnnršt 1 najelementarnejših
 aaeeeehjjlmnnnšuvž 1 najnehvaležnejšemu
 aaeeeehjkkmprsssuv 1 shakespearjevskemu
@@ -3798,6 +3924,7 @@ aaeeefiijklmoprrst 1 refleksoterapijami
 aaeeefiimmnnorrsuz 1 nesemaforiziranemu
 aaeeefijjkmnnnrštv 1 najfrekventnejšima
 aaeeefikkllmortttu 1 elektrofakultetami
+aaeeeggjjknorrsštz 1 zgornještajerskega
 aaeeeggklmoooorršt 1 agrometeorološkega
 aaeeeggmmnnoooosst 1 sagenogenetosomoma
 aaeeeghhiiijmmnprz 1 hipermagneziemijah
@@ -3874,6 +4001,7 @@ aaeeeikkllnorršttt 1 elektroinštalaterk
 aaeeeikklmnorrrštt 1 termoelektrarniška
 aaeeeikkmmnoprrstt 1 eksperimentatorkam
 aaeeeikkmnoprrsstt 1 eksperimentatorska
+aaeeeiklmmnnorstuz 1 zelenkastorumenima
 aaeeeiklnoorrrsttt 1 literarnoteoretska
 aaeeeillmnopprrttu 1 lumpenproletariate
 aaeeeimmmnnoprsttt 1 temperamentnostima
@@ -3919,8 +4047,12 @@ aaeefkkkmmmnooorsu 1 farmakoekonomskemu
 aaeefkklmmopprstuv 1 pluskvamperfektoma
 aaeefklmnnoooprstt 1 stefanokolporatnem
 aaeefkmnoooooprstt 1 aerofotoposnetkoma
+aaeegggjjknnoorrsz 1 zgornjegorjanskega
 aaeegghijlmoooorrt 1 agrometeorologijah
 aaeeggiiillnopprrv 1 polprivilegiranega
+aaeeggiijjknnorszz 1 zgornjeanizijskega
+aaeeggiikllnnoosuz 1 zeugogeosinklinala
+aaeeggijjkknnorrsz 1 zgornjekarnijskega
 aaeeggijjknorrsstv 1 gornjeavstrijskega
 aaeeggijklmnorrstu 1 granulometrijskega
 aaeeggijlmmoooorrt 1 agrometeorologijam
@@ -3974,6 +4106,8 @@ aaeegiimnnorrrsstt 1 neregistriranostma
 aaeegiimnoorrssttt 1 gastroenteritisoma
 aaeegiinnooprsttvz 1 protizanositvenega
 aaeegijjjlnopsšštv 1 najspoštljivejšega
+aaeegijjkmnorrsštz 1 zgornještajerskima
+aaeegijjknnoortvzz 1 znotrajjezikovnega
 aaeegijjlmnnopštuv 1 najpoglavitnejšemu
 aaeegijkklmopršštu 1 puškomitralješkega
 aaeegijklmmoooorrt 1 makrometeorologija
@@ -4034,12 +4168,18 @@ aaeeiiijjklmnnšttv 1 najkvalitetnejšimi
 aaeeiiijjlmnprsšvz 1 prizanesljivejšima
 aaeeiiijjmnnnnštvz 1 najintenzivnejšima
 aaeeiiijkllnorttuz 1 intelektualizirajo
+aaeeiiijkllnrttuzz 1 zintelektualiziraj
 aaeeiiijklnnorsstv 1 severnoitalijanski
 aaeeiiijklprrrsttz 1 prekristalizirajte
 aaeeiiikkllmnstttu 1 intelektualistkami
 aaeeiiiklllnorttuz 1 intelektualiziralo
+aaeeiiiklllnrttuzz 1 zintelektualiziral
 aaeeiiikllmnorttuz 1 intelektualiziramo
+aaeeiiikllmnrttuzz 1 zintelektualiziram
 aaeeiiikllnnorttuz 1 intelektualizirano
+aaeeiiikllnnrttuzz 1 zintelektualiziran
+aaeeiiikllnrtttuzz 1 zintelektualizirat
+aaeeiiikllnršttuzz 1 zintelektualiziraš
 aaeeiiiklmnnnnoptt 1 epikontinentalnima
 aaeeiiiklmnnrrstuz 1 nekristaliziranemu
 aaeeiiiklmnorrsttz 1 elektriziranostima
@@ -4074,6 +4214,7 @@ aaeeiijlnoprrssttt 1 tretjeplasiranosti
 aaeeiijlnorsttvvvz 1 razveljavitvenosti
 aaeeiijmmnnrrsttuv 1 instrumentarjevima
 aaeeiijmnorštttuvv 1 avtoritativnejšemu
+aaeeiijnnnrttuuvzz 1 zunajuniverzitetna
 aaeeiijnnoorrssttz 1 zainteresiranostjo
 aaeeiikklmmnorsštu 1 latinskoameriškemu
 aaeeiikklmnoorrttž 1 elektrokarotažnimi
@@ -4221,6 +4362,7 @@ aaefmnooooprrstttž 1 fotoreportažnostma
 aaegghiijlloopsstt 1 gestaltpsihologija
 aaegghiijlloopsštt 1 geštaltpsihologija
 aaeggiiikkllmnnooz 1 glikozaminoglikane
+aaeggijjkmnnoorrsz 1 zgornjegorjanskima
 aaeggijklmnnoooort 1 magnetokronologija
 aaeggjklnoooprssuv 1 projugoslovanskega
 aaeghiiijlmnooprsz 1 psihologiziranjema
@@ -4238,6 +4380,7 @@ aaegiiiijjlmnnnorš 1 najoriginalnejšimi
 aaegiiiikllmmnnoos 1 miogeosinklinalami
 aaegiiiillmnopprrv 1 polprivilegiranima
 aaegiiiilmnoprrstv 1 privilegiranostima
+aaegiiijjkmnnorszz 1 zgornjeanizijskima
 aaegiiijjlmnnopštv 1 najpoglavitnejšimi
 aaegiiijklllmooopt 1 paleoklimatologiji
 aaegiiikklmnorsštv 1 velikoštangarskimi
@@ -4246,6 +4389,7 @@ aaegiiilmnnoorsttz 1 antireligioznostma
 aaegiiilnnnorssttt 1 gastrointestinalni
 aaegiiimnnnooprrtz 1 antropogeniziranim
 aaegiiimnnoorstttv 1 interogativnostima
+aaegiijjkkmnnorrsz 1 zgornjekarnijskima
 aaegiijjkmnorrsstv 1 gornjeavstrijskima
 aaegiijjlmnoorsuvv 1 jugoslovanarjevimi
 aaegiijkkklmoooost 1 ekotoksikologijama
@@ -4279,6 +4423,7 @@ aaegikkooopprrsttu 1 protiokupatorskega
 aaegikllnnoooopptz 1 polizonokolpatnega
 aaegilmnnnnoorsstv 1 signalnovarnostnem
 aaegimnoossstttuvv 1 avtosugestivnostma
+aaegjkkmmnooorssuz 1 zunajkromosomskega
 aaegjklnooorssstuv 1 starojugoslovanske
 aaegjlmnooorsstuvv 1 jugoslovenarstvoma
 aaegkllnnooopsssšv 1 splošnoslovanskega
@@ -4340,6 +4485,7 @@ aaeiiiiklmopprrstt 1 protiimperialistka
 aaeiiiikmmnnstttvv 1 semikvantitativnim
 aaeiiiilmnoprrrstz 1 sproletariziranimi
 aaeiiiilmnorrssttz 1 steriliziranostima
+aaeiiiilnorrsttvzz 1 zrelativiziranosti
 aaeiiiimmnorsssttz 1 sistemiziranostima
 aaeiiiimnnorsstttz 1 sintetiziranostima
 aaeiiiimnorssstttz 1 sistematiziranosti
@@ -4386,9 +4532,11 @@ aaeiijjjlmnopsšštv 1 najspoštljivejšima
 aaeiijjjlnnooopstt 1 poitalijanjenostjo
 aaeiijjjmmnnoossšt 1 najsamostojnejšimi
 aaeiijjkkmnnoosštv 1 najkakovostnejšimi
+aaeiijjkmnnoortvzz 1 znotrajjezikovnima
 aaeiijjkmnnoprrstt 1 notranjepartijskim
 aaeiijjknnorrssttv 1 notranjeavstrijski
 aaeiijjlmnnoopsstv 1 nepojasnljivostima
+aaeiijkkllmnosšštz 1 zemljiškolastniška
 aaeiijkkllnnoorstt 1 antiklerikalnostjo
 aaeiijkklmmopršštu 1 puškomitralješkima
 aaeiijkkmoorsššttv 1 vojaškostrateškimi
@@ -4577,11 +4725,13 @@ aahiiiimnnooprsttz 1 hipnotiziranostima
 aahiiiinnorrrssttz 1 transistoriziranih
 aahiiiinnorrrsttzz 1 tranzistoriziranih
 aahiiijklnnoorrstt 1 horstantiklinorija
+aahiiikllnooorstzz 1 zalkoholiziranosti
 aahiiiklmnnnoošzzž 1 namiznozaložniških
 aahiiiklnnoprsšttv 1 privatnolastniških
 aahiiikmnooprssttv 1 aproksimativnostih
 aahiiiknnooprrsstz 1 zakonspiriranostih
 aahiiimnnnoorrsstz 1 sinhroniziranostma
+aahiiimnnoorrsttzz 1 zromantiziranostih
 aahiijjlnoopprsttv 1 protipostavljanjih
 aahiijkkknoorstvvz 1 kvazistrokovnjakih
 aahiijkllnoooorstz 1 alkoholiziranostjo
@@ -4639,6 +4789,7 @@ aaiijkmnoooprssttv 1 aproksimativnostjo
 aaiijkmoopprrssttt 1 protipartijskostma
 aaiijknnoooprrsstz 1 zakonspiriranostjo
 aaiijllmoooprstvzž 1 razpoložljivostima
+aaiijmnnooorrsttzz 1 zromantiziranostjo
 aaiikkklnnopsssštu 1 skupinskolastniška
 aaiikkkmnoooosstvv 1 visokokakovostnima
 aaiikkkmnorsstttuv 1 konstruktivistkama
@@ -4664,6 +4815,7 @@ aaijkkkmnooorstvvz 1 kvazistrokovnjakom
 aaijkkknooorstvvvz 1 kvazistrokovnjakov
 aaijkkllmmoooopsšt 1 malajskopolotoškim
 aaijkkllooprssuvvv 1 lovskoupravljavski
+aaijkkmmmnooorssuz 1 zunajkromosomskima
 aaijnnoooprrrssttt 1 transportiranostjo
 aaikllmnnooopsssšv 1 splošnoslovanskima
 aaiklmmnoooooosštv 1 salomonovootoškima
@@ -4711,6 +4863,7 @@ aačdeeggiijlloprvv 1 prilagodljivčevega
 aačdeeggiinorrrstt 1 retrogardističnega
 aačdeeggijmnnorruv 1 drugonagrajenčevim
 aačdeeggjjlnnooorš 1 najdolgoročnejšega
+aačdeeggjkknnorsšz 1 zgodnjekrščanskega
 aačdeeghiiijllnprt 1 predlagateljičinih
 aačdeegiiiijjlnntz 1 iznajditeljičinega
 aačdeegiiijllmnprt 1 predlagateljičinim
@@ -4771,6 +4924,7 @@ aačdegiilnnooprtvž 1 državnopolitičnega
 aačdegiimnnopprstu 1 propagandističnemu
 aačdegiinnooprsstv 1 gospodarstveničina
 aačdegijjlmnnooorš 1 najdolgoročnejšima
+aačdegijkkmnnorsšz 1 zgodnjekrščanskima
 aačdegilmnoooprsst 1 predolgočasnostima
 aačdehiiiijjlnostz 1 soizdajateljičinih
 aačdehiiiimnrsttvv 1 administrativčevih
@@ -4854,6 +5008,7 @@ aačeeeegiklpršuvvz 1 preizkuševalčevega
 aačeeeegikmnoprttv 1 kemoterapevtičnega
 aačeeeegilopprštvv 1 prišepetovalčevega
 aačeeeegjjnnorrttv 1 tretjenagrajenčevo
+aačeeeegjlmnnosvvz 1 znamenjeslovčevega
 aačeeeehijllrsvvvz 1 razveseljevalčevih
 aačeeeehikklmnorrt 1 elektromehaničarke
 aačeeeehjlmnprruvv 1 prehranjevalčevemu
@@ -4865,6 +5020,8 @@ aačeeeeijlloprvvvz 1 veleproizvajalčeve
 aačeeeeijlmnoprvvv 1 poneverjevalčevima
 aačeeeeijlmnpprsvv 1 prepesnjevalčevima
 aačeeeejkllmppruvv 1 prekapljevalčevemu
+aačeeeejkllmstuvvz 1 zastekljevalčevemu
+aačeeeejlllmpsuvvz 1 zaslepljevalčevemu
 aačeeeejllmrrstvvz 1 razstreljevalčevem
 aačeeeejllmrstvvvz 1 razsvetljevalčevem
 aačeeeejlmnnorsstv 1 staronaseljenčevem
@@ -4897,7 +5054,9 @@ aačeeeiijjmnnssštt 1 najsistematičnejše
 aačeeeiijkknrrsštt 1 karakterističnejše
 aačeeeiijkllmnprvv 1 preklinjevalčevima
 aačeeeiijkllmpprvv 1 prekapljevalčevimi
+aačeeeiijkllmstvvz 1 zastekljevalčevimi
 aačeeeiijkmnnnorvz 1 zakoreninjenčevima
+aačeeeiijlllmpsvvz 1 zaslepljevalčevimi
 aačeeeiijllmmpršvv 1 premišljevalčevima
 aačeeeiijlloprvvvz 1 veleproizvajalčevi
 aačeeeiijlmmnprsvv 1 spreminjevalčevima
@@ -4915,6 +5074,7 @@ aačeeeijllmrrstvvz 1 razstreljevalčevim
 aačeeeijllmrrtuuvv 1 ultralevičarjevemu
 aačeeeijllmrstvvvz 1 razsvetljevalčevim
 aačeeeijllooprvvvz 1 veleproizvajalčevo
+aačeeeijlmmnnosvvz 1 znamenjeslovčevima
 aačeeeijlmmnoopsvv 1 samopoveličevanjem
 aačeeeijlmnnnorstz 1 nerazčlenjenostima
 aačeeeijlmnnorsstv 1 staronaseljenčevim
@@ -4925,7 +5085,9 @@ aačeeeiklmnoprstuv 1 eksploatirančevemu
 aačeeeikmnnnnorstu 1 neenakostraničnemu
 aačeeeillmmnoopsvv 1 samopoveličevalnem
 aačeeeilmnopprrstv 1 preprečevalnostima
+aačeeejllmprstuvvz 1 zastrupljevalčevem
 aačeeejlmmmnnoopšu 1 pomalomeščanjenemu
+aačeeejlmnopstuvvz 1 zapostavljenčevemu
 aačeeellmnopprrtuv 1 lumpenproletarčeva
 aačeeemmnoprrstuuv 1 supermaratončevemu
 aačeeemnnnoprrsttz 1 reprezentančnostma
@@ -4935,6 +5097,7 @@ aačeefiikkmmnnortu 1 farmakokinetičnemu
 aačeeggiiilmnnsttv 1 metalingvističnega
 aačeeghhiiiikmnnor 1 geomehanikaričinih
 aačeeghiiiikmmnnor 1 geomehanikaričinim
+aačeeghiiijllnnttž 1 žlahtniteljičinega
 aačeeghiiikllmnnos 1 lahkomiselničinega
 aačeeghiiinnoprtvz 1 hipnotizirančevega
 aačeeghiiklnnosstv 1 evangeličanskostih
@@ -4953,6 +5116,7 @@ aačeegiiinnorrsttt 1 antiterorističnega
 aačeegiijjknnoštuv 1 najučinkovitejšega
 aačeegiijllmnostuv 1 sovlagateljičinemu
 aačeegiijlmnoosttv 1 temnovijoličastega
+aačeegiijlnnnoptuz 1 zunanjepolitičnega
 aačeegiijmnnoprrvv 1 prvonagrajenčevimi
 aačeegiilmnoprsttt 1 tetraplegičnostima
 aačeegiimmnnorrtuz 1 germanizatoričnemu
@@ -4981,6 +5145,7 @@ aačeehiijmnopprrsv 1 samoprepričevanjih
 aačeehiillmnoopsvv 1 samopoveličevalnih
 aačeehiilmnoorsttt 1 heterotaličnostima
 aačeehijllnnorstvz 1 razčlenjevalnostih
+aačeehijllprstuvvz 1 zastrupljevalčevih
 aačeehimnooossštvz 1 samoozaveščenostih
 aačeehjjlmnnorštuu 1 najrahločutnejšemu
 aačeeiiiijlmnssttv 1 sestaviteljičinima
@@ -4993,6 +5158,7 @@ aačeeiiijllmmršvvz 1 razmišljevalčevimi
 aačeeiiijllmrrtuvv 1 ultralevičarjevimi
 aačeeiiijllnrsttvz 1 razsvetliteljičina
 aačeeiiijlmnoortvv 1 overovateljičinima
+aačeeiiijlmnsttuvz 1 zastaviteljičinemu
 aačeeiiikklnorrttv 1 avtoelektrikaričin
 aačeeiiikllnnstttu 1 intelektualistična
 aačeeiiikllnopsttv 1 velekapitalistično
@@ -5012,7 +5178,7 @@ aačeeiijkknorrsštt 1 karakterističnejšo
 aačeeiijkmnnoprštu 1 poštenjakaričinemu
 aačeeiijkmnnprrstu 1 spretnjakaričinemu
 aačeeiijlmmmnnoopš 1 pomalomeščanjenimi
-aačeeiijlmnopstvvz 1 izpostavljenčevima
+aačeeiijlmnnostuvz 1 zasnovateljičinemu
 aačeeiijlnnnssšttt 1 šestnajstletničina
 aačeeiijlnnooprstv 1 preosnovateljičina
 aačeeiikklmnorsttu 1 elektroakustičnima
@@ -5036,6 +5202,7 @@ aačeeiimnnorrssštt 1 šesterostraničnima
 aačeeijjmnnoooprst 1 poameričanjenostjo
 aačeeijklmoprštuvž 1 puškomitralježčeva
 aačeeijllmnopprstv 1 nepreplačljivostma
+aačeeijllmprstuvvz 1 zastrupljevalčevim
 aačeeijlmnnoorsstv 1 narečjeslovnostima
 aačeeijmoosstuvvzz 1 vsezavezujočostima
 aačeeikklmnorruvvz 1 razkrinkovalčevemu
@@ -5076,6 +5243,7 @@ aačegiillmnnoooprt 1 moralnopolitičnega
 aačegiilmnnooprrtu 1 agrarnopolitičnemu
 aačegikknnooprrsuz 1 nizkoproračunskega
 aačehhiikklmnorruu 1 lahkokruharičinemu
+aačehiiiijllmnnttž 1 žlahtniteljičinima
 aačehiiiikllmmnnos 1 lahkomiselničinima
 aačehiiiiklnnopstt 1 neokapitalističnih
 aačehiiiilnoprstvz 1 hospitalizirančevi
@@ -5096,6 +5264,7 @@ aačehikkmnnrrsstuv 1 kristanvrhčanskemu
 aačehikmmnooossttt 1 hematotoksičnostma
 aačehikmnooopssttt 1 hepatotoksičnostma
 aačeiiiiijjlmnprtv 1 prijaviteljičinima
+aačeiiiiijlmnsttvz 1 zastaviteljičinimi
 aačeiiiiiklmnnpstt 1 nekapitalističnimi
 aačeiiiiiklmnnrttu 1 antikaliuretičnimi
 aačeiiiiikmmnnorst 1 eksaminatoričinimi
@@ -5103,6 +5272,7 @@ aačeiiiijjllmnopšt 1 pošiljateljičinima
 aačeiiiijjmmnnpsšt 1 najsimpatičnejšimi
 aačeiiiijkmnnopršt 1 poštenjakaričinimi
 aačeiiiijkmnnprrst 1 spretnjakaričinimi
+aačeiiiijlmnnostvz 1 zasnovateljičinimi
 aačeiiiijlmnrsttuv 1 ustvariteljičinima
 aačeiiiiklmmnnrstt 1 merkantilističnima
 aačeiiiiklmnnopstt 1 neokapitalističnim
@@ -5117,6 +5287,7 @@ aačeiiijjklmnoošvz 1 alojzijeviščnikoma
 aačeiiijjkmnnoštuv 1 najučinkovitejšima
 aačeiiijllmnopstvz 1 neizplačljivostima
 aačeiiijlmmnoosttv 1 temnovijoličastima
+aačeiiijlmnnnoptuz 1 zunanjepolitičnima
 aačeiiijmnnnossttz 1 janzenističnostima
 aačeiiijnnnoprsttz 1 protijanzenistična
 aačeiiikklmmnorstt 1 klimakteričnostima
@@ -5248,6 +5419,7 @@ aačiiillmmnnoooprt 1 moralnopolitičnima
 aačiiillmnoprssttu 1 pluralističnostima
 aačiiillmnprrrsttu 1 larpurlartističnim
 aačiiilmmnoopprttz 1 protoplazmatičnimi
+aačiiilmnnorssttuž 1 žurnalističnostima
 aačiiilnooopprrtuz 1 popularizatoričino
 aačiiimnooprsstttt 1 protistatičnostima
 aačiijkknnooorrstv 1 strokovnjakaričino
@@ -5278,6 +5450,7 @@ aaččeeeejllmnruvvz 1 razčlenjevalčevemu
 aaččeeegiikloršvvz 1 izkoriščevalčevega
 aaččeeegijlnprruvv 1 preračunljivčevega
 aaččeeegiloopprrvv 1 priporočevalčevega
+aaččeeeglnoooprtvz 1 zlatoporočenčevega
 aaččeeeiijllmnrvvz 1 razčlenjevalčevimi
 aaččeeeiijlnnnopst 1 postajenačelničine
 aaččeefginnnoosttv 1 stavčnofonetičnega
@@ -5288,6 +5461,7 @@ aaččeeiijlmnprruvv 1 preračunljivčevima
 aaččeeiijlnnnoopst 1 postajenačelničino
 aaččeeiilmoopprrvv 1 priporočevalčevima
 aaččeeijjmnoorstuz 1 jezičastoročajnemu
+aaččeeilmnoooprtvz 1 zlatoporočenčevima
 aaččefiimnnnoosttv 1 stavčnofonetičnima
 aaččeggiiijnnosštv 1 gostivanjščičinega
 aaččeiiijjmnoorstz 1 jezičastoročajnimi
@@ -5539,6 +5713,8 @@ abeegiiklmmnnosštu 1 glasbenoumetniškim
 abeegiinnopprrstuz 1 izbirnoprepustnega
 abeegikklooooprsšt 1 iberskopolotoškega
 abeegilmnnooprsstv 1 glasbenoprosvetnim
+abeegjkkmnnoorrsuz 1 zgornjekarbonskemu
+abeegjkmnoorrrsuzz 1 zgornjerazborskemu
 abeegjllmnooopprst 1 prepoglobljenostma
 abeegjlnnooopssstu 1 usposobljenostnega
 abeegkllmnnorstuuu 1 glasbenokulturnemu
@@ -5591,7 +5767,9 @@ abegiiiikklorrssšt 1 ilirskobistriškega
 abegiiijkllmmnooru 1 makroglobulinemiji
 abegiiikkllnnoorrs 1 ergolinkarboksilni
 abegiijkklmooprstu 1 gabropojkilitskemu
+abegiijkkmnnoorrsz 1 zgornjekarbonskimi
 abegiijkllmmnoooru 1 makroglobulinemijo
+abegiijkmnoorrrszz 1 zgornjerazborskimi
 abegiijlmnnooostuv 1 neugonobljivostima
 abegiikkllnnooorrs 1 ergolinkarboksilno
 abegiikkloopsššttu 1 stubiškotopliškega
@@ -5767,6 +5945,7 @@ abčeiiijlmnooprstv 1 nepriobčljivostima
 abčeiiikklmnooosvv 1 kinoobiskovalčevim
 abčeiiilmmnoosttuv 1 avtomobilističnemu
 abčeiijkllmnoopstu 1 pojkiloblastičnemu
+abčeiijlmnnnnošuuz 1 zunajbolnišničnemu
 abčeiijlmooprsttuv 1 preobčutljivostima
 abčeiikkmnnoorsštz 1 brezkončniškostima
 abčeijkkmnopssšuuv 1 nubijskopuščavskem
@@ -5779,6 +5958,7 @@ abčhiiilnoossstttu 1 absolutističnostih
 abčhiijkknopssšuuv 1 nubijskopuščavskih
 abčiiiiilmmnoosttv 1 avtomobilističnimi
 abčiiiijkllmnoopst 1 pojkiloblastičnimi
+abčiiiijlmnnnnošuz 1 zunajbolnišničnimi
 abčiiijklmooostuvv 1 visokoobčutljivima
 abčiijkkmnopssšuuv 1 nubijskopuščavskim
 abčiijlnooossstttu 1 absolutističnostjo
@@ -5969,6 +6149,7 @@ aceeeegghikklnnrss 1 gelsenkirchenskega
 aceeeeghiiklnnsstt 1 liechtensteinskega
 aceeeegiijknnnrstv 1 neintervencijskega
 aceeeegiklnnosštzž 1 cestnoželezniškega
+aceeeegjklnnooprsz 1 zgornjepaleocenske
 aceeeeiijklmnnsuvz 1 valencienezijskemu
 aceeeeiijknnprrstt 1 interpenetracijske
 aceeeeijkmnprrstuz 1 reprezentacijskemu
@@ -5981,10 +6162,13 @@ aceeefiiijkkklmrst 1 elektrifikacijskem
 aceeefiijklmmnorst 1 teleinformacijskem
 aceeefiikmnoprsšuv 1 severnopacifiškemu
 aceeefijlnnooprrst 1 preferencialnostjo
+aceeeggijkmnnoorsz 1 zgornjemiocenskega
 aceeeghiikklmnnrss 1 gelsenkirchenskima
 aceeeghikmnnorssuw 1 neoschwagerinskemu
 aceeegiijkmnorsstt 1 scientometrijskega
+aceeegijklnnooprsz 1 zgornjepaleocenski
 aceeegikklnooprssv 1 celinskoevropskega
+aceeegjklnnoooprsz 1 zgornjepaleocensko
 aceeehiiiklmnnsstt 1 liechtensteinskima
 aceeehiijjllmosttu 1 soutemeljiteljicah
 aceeehikklnnorsstv 1 rekonvalescentskih
@@ -5994,6 +6178,7 @@ aceeeiiijkmnprrstz 1 reprezentacijskimi
 aceeeiiijknnprrstt 1 interpenetracijski
 aceeeiijjllmmosttu 1 soutemeljiteljicam
 aceeeiijkkklmnostu 1 telekomunikacijske
+aceeeiijkkkmorrssz 1 zimskorekreacijske
 aceeeiijkllmorsttu 1 elektrostimulacije
 aceeeiijklmmmnpstu 1 implementacijskemu
 aceeeiijkmnprrsttu 1 interpretacijskemu
@@ -6027,6 +6212,7 @@ aceefilmnnoorssttu 1 fluorescentnostima
 aceegggkklnoorrsss 1 grossglocknerskega
 aceeghiiikmnnorssw 1 neoschwagerinskimi
 aceegiijkknorssttu 1 rekonstitucijskega
+aceegiijkmmnnoorsz 1 zgornjemiocenskima
 aceegijkkknnorsstu 1 nekonstrukcijskega
 aceegijkkknorrsstu 1 rekonstrukcijskega
 aceehiiiklnnoorsst 1 selekcioniranostih
@@ -6043,6 +6229,7 @@ aceeiiiijklmmmnpst 1 implementacijskimi
 aceeiiiijkmnprrstt 1 interpretacijskimi
 aceeiiijkkkllmoosv 1 velikokoalicijskem
 aceeiiijkkklmnostu 1 telekomunikacijski
+aceeiiijkkkmorrssz 1 zimskorekreacijski
 aceeiiijkklmorrstt 1 elektrostrikcijami
 aceeiiijkllmorsttu 1 elektrostimulaciji
 aceeiiijkmmnorsstt 1 scientometrijskima
@@ -6057,6 +6244,7 @@ aceeiiimnnnoorsttv 1 intervencionistoma
 aceeiijjmmnnnošuuz 1 najminucioznejšemu
 aceeiijkkkkmmnossu 1 ekskomunikacijskem
 aceeiijkkklmnoostu 1 telekomunikacijsko
+aceeiijkkkmoorrssz 1 zimskorekreacijsko
 aceeiijkkmopprrssu 1 ekspropriacijskemu
 aceeiijkllmoorsttu 1 elektrostimulacijo
 aceeiijklmmoorstuz 1 termoizolacijskemu
@@ -6068,6 +6256,7 @@ aceeiijlmnnoorršuv 1 revolucionarnejšim
 aceeiikklmnooprssv 1 celinskoevropskima
 aceeiikmnooprrsttv 1 proticerkvenostima
 aceeiilmmoooprsttt 1 protosteliomicetam
+aceeiilmnnoorruuvz 1 zrevolucioniranemu
 aceeijklnnnooopsst 1 eksponencialnostjo
 aceeijllnnoorrsttu 1 intercelularnostjo
 aceeikkllmnoooosšu 1 socialnoekološkemu
@@ -6115,6 +6304,7 @@ aceiiiijkkmopprrss 1 ekspropriacijskimi
 aceiiiijklmmoorstz 1 termoizolacijskimi
 aceiiiijlnnoorstvz 1 neciviliziranostjo
 aceiiiilmnnnnosttu 1 neinstitucionalnim
+aceiiiilmnnoorruvz 1 zrevolucioniranimi
 aceiiijkkkkmmnossu 1 ekskomunikacijskim
 aceiiijkkmnorssttu 1 rekonstitucijskima
 aceiiijkkmoopssstz 1 ekspozicijskostima
@@ -6136,6 +6326,7 @@ aceiikklmmnnooooss 1 socialnoekonomskim
 aceiiklmnnnoosttuu 1 konstitucionalnemu
 aceiiklnoooprrrtuv 1 protirevolucionark
 aceiilnnoooprrstuv 1 postrevolucionarni
+aceiilnnooorrstuvz 1 zrevolucioniranost
 aceijklnnnnoooostv 1 konvencionalnostjo
 aceijknnnooorrsstt 1 skoncentriranostjo
 aceijlnnoooorrstuv 1 revolucionarnostjo
@@ -6237,6 +6428,7 @@ acčeiiilmnnooprstt 1 policentričnostima
 acčeiiilmnooprsstu 1 prosocialističnemu
 acčeiiilmnoopssstt 1 postsocialističnem
 acčeiiimnnnooprrtt 1 antropocentričnimi
+acčeiijklmnooosvzz 1 zvočnoizolacijskem
 acčeiijlmoooprstvz 1 sopovzročiteljicam
 acčeiijlnnoorssttt 1 centralističnostjo
 acčeinnnoooprrsttt 1 antropocentričnost
@@ -6248,6 +6440,7 @@ acčhiiiiklnnooprst 1 carinskopolitičnih
 acčhiiiiknoprssttt 1 prakticističnostih
 acčhiiiillnnooopst 1 socialnopolitičnih
 acčhiiiilnoopssstt 1 postsocialističnih
+acčhiiijklnooosvzz 1 zvočnoizolacijskih
 acčiiiiiilmnnoostz 1 izolacionističnimi
 acčiiiiiklmnnoorst 1 socialnokritičnimi
 acčiiiiilmnooprsst 1 prosocialističnimi
@@ -6259,6 +6452,7 @@ acčiiiillmnnooopst 1 socialnopolitičnim
 acčiiiilmnoopssstt 1 postsocialističnim
 acčiiiilnoooprsstt 1 protisocialistično
 acčiiiinnooprssttt 1 protinacističnosti
+acčiiijklmnooosvzz 1 zvočnoizolacijskim
 acčiiijknooprssttt 1 prakticističnostjo
 acčiiilnoooprssstt 1 prosocialističnost
 acččiiiiilnnnoštvz 1 civilnozaščitničin
@@ -6297,6 +6491,7 @@ addeeekmnnoprssuuv 1 psevdosekundarnemu
 addeefhiiilmmnnoor 1 hindeodeliformnima
 addeegiiiiknnopprs 1 piperidindionskega
 addeegiijknprrsstu 1 predindustrijskega
+addeegjklnnoooppsz 1 zgodnjepopoldanske
 addeehiiimnnnprrtu 1 hiperredundantnimi
 addeehilmnoossttuv 1 hudodelstvenostima
 addeeiiiiimnrsšttv 1 dvainštiridesetimi
@@ -6315,6 +6510,8 @@ addeggkmnooooprssz 1 gozdnogospodarskem
 addeghijklnnoooorr 1 dendrokronologijah
 addegiijkllmnooort 1 dendroklimatologij
 addegijklmnnoooorr 1 dendrokronologijam
+addegijklnnoooppsz 1 zgodnjepopoldanski
+addegjklnnooooppsz 1 zgodnjepopoldansko
 addegkmnnorrsstuuv 1 sturmunddrangovske
 addegkmnooooprssuv 1 vodnogospodarskemu
 addehiiiiknorrsstt 1 diskreditiranostih
@@ -6439,6 +6636,7 @@ adeeeiklmmnoorstuz 1 modrikastozelenemu
 adeeeikmnooorssttt 1 deseterokotnostima
 adeeeilllmnnooprsv 1 lesnopredelovalnim
 adeeeillmmnnooprsv 1 mesnopredelovalnim
+adeeeillmnnooprtvž 1 žitnopredelovalnem
 adeeeimnnooprrsttv 1 prevrednotenostima
 adeeejjjnnooorsštv 1 najverodostojnejše
 adeeejjkmnoprssštu 1 spodnještajerskemu
@@ -6460,6 +6658,7 @@ adeeggiikllnnoootu 1 oligonukleotidnega
 adeeghiiiilnorrstt 1 teledirigiranostih
 adeeghiijlmoooorrt 1 hidrometeorologija
 adeeghiiknopprrtuv 1 hiperproduktivnega
+adeeghijjkmnnorsuz 1 zgornjehajdinskemu
 adeeghklnnooossvvz 1 vzhodnoslovenskega
 adeegiiijlnoorrstt 1 teledirigiranostjo
 adeegiiikklnoorstt 1 elektrodiagnostiki
@@ -6475,6 +6674,7 @@ adeegijmnnoooorstv 1 nedogovorjenostima
 adeegikklmnooopšuv 1 likovnopedagoškemu
 adeegikkloooprrsst 1 elektrogospodarski
 adeegilmnoooprstvz 1 predolgoveznostima
+adeegjklmnnoossuvz 1 zgodnjeslovanskemu
 adeegjklnooprsstuv 1 ljudskoprosvetnega
 adeegjlmnnoooosttv 1 nedogotovljenostma
 adeegkklooooprrsst 1 elektrogospodarsko
@@ -6496,6 +6696,7 @@ adeehiijlnnoopstvv 1 nenapovedljivostih
 adeehiijnoooprvvvz 1 veroizpovedovanjih
 adeehiiklnnooprsst 1 neeksplodiranostih
 adeehiikmmnopprssv 1 psevdoparenhimskim
+adeehiillnnooprtvž 1 žitnopredelovalnih
 adeehilnooopprstvv 1 prepovedovalnostih
 adeehimmnooopprsvz 1 psevdoprozenhimoma
 adeehinnnoprssttvz 1 predznanstvenostih
@@ -6539,6 +6740,7 @@ adeeiiklmnnoosstvž 1 deželnostanovskimi
 adeeiiklmnoorssstv 1 levosredinskostima
 adeeiikmnnnoorsttu 1 nedokumentiranosti
 adeeiikmnnoopštuvz 1 umetniškoizpovedna
+adeeiillmnnooprtvž 1 žitnopredelovalnim
 adeeiilmmnnnoortuz 1 trodimenzionalnemu
 adeeiilmnnnnooostz 1 enodimenzionalnost
 adeeiilmnnnprršttu 1 predinštrumentalni
@@ -6597,6 +6799,7 @@ adeggijknnoooosvvz 1 vojnozgodovinskega
 adeggijknnoorsuvzž 1 družinskovzgojnega
 adeggiknnnoooorsvž 1 nižnonovgorodskega
 adeghiiiikklnorssz 1 hidroksilizinskega
+adeghiiijjkmnnorsz 1 zgornjehajdinskimi
 adeghiiijknnoorsvz 1 zahodnovirginijske
 adeghiiiknoorrrttt 1 trigontrioktaedrih
 adeghiimnnooorstuv 1 drugoimenovanostih
@@ -6607,6 +6810,7 @@ adegiiijllnooprstv 1 neprilagodljivosti
 adegiiijmnnoprstvz 1 privzdignjenostima
 adegiiikklmnooopšv 1 likovnopedagoškimi
 adegiiikllmnnoootu 1 oligonukleotidnima
+adegiijklmnnoossvz 1 zgodnjeslovanskimi
 adegiijkmnorrsstuu 1 agroindustrijskemu
 adegiijknoprsssttu 1 postindustrijskega
 adegiikmnnooosstvz 1 nezgodovinskostima
@@ -6626,6 +6830,7 @@ adehiiikklmmnorssu 1 hidroksilaminskemu
 adehiiikmnopprrtuv 1 hiperproduktivnima
 adehiiiknnnooorrst 1 nekoordiniranostih
 adehiiilmnosstttuv 1 destimulativnostih
+adehiiimnnoorrstzz 1 zmoderniziranostih
 adehiiinnoopprrsst 1 predisponiranostih
 adehiijjknnoprštuv 1 najproduktivnejših
 adehiijjknoprssstv 1 spodnjeavstrijskih
@@ -6668,6 +6873,7 @@ adeiiikkmnooorrstt 1 kortikosteroidnima
 adeiiiklllmmnnoosž 1 dolžinskolamelnimi
 adeiiikmmnorssttuv 1 samodestruktivnimi
 adeiiikmnnorsštvvž 1 državnosvetniškimi
+adeiiikmnnoršuvvzž 1 živinozdravniškemu
 adeiiikmnoopprsštv 1 pripovedniškostima
 adeiiikmnorstttuvv 1 avtodestruktivnimi
 adeiiilmnnnoorsttz 1 tridimenzionalnost
@@ -6684,6 +6890,7 @@ adeiijknnnoooorrst 1 nekoordiniranostjo
 adeiijlmnoopssttuv 1 neodpustljivostima
 adeiijlmnoosstttuv 1 destimulativnostjo
 adeiijlmoooprsstvv 1 samoprevodljivosti
+adeiijmnnooorrstzz 1 zmoderniziranostjo
 adeiijnnooopprrsst 1 predisponiranostjo
 adeiikmnnooprsttuv 1 neproduktivnostima
 adeiikmnooprrsttuv 1 reproduktivnostima
@@ -6732,6 +6939,7 @@ adgiijkmnnoorsuvzž 1 družinskovzgojnima
 adgiikmnnnoooorsvž 1 nižnonovgorodskima
 adgiikmnnoooprsvvz 1 pravnozgodovinskim
 adgiikmnoooprrsstž 1 tržnogospodarskimi
+adgiimnnoooopsstvz 1 zgodovinopisnostma
 adgijkknooooosšvvz 1 vojaškozgodovinsko
 adgikklmooooprsssv 1 lovskogospodarskim
 adhiiiiikklmmnorss 1 hidroksilaminskimi
@@ -6744,6 +6952,7 @@ adhiikknnooorrsttt 1 kontradiktornostih
 adhiiklmnnooossvvz 1 vzhodnoslovanskimi
 adhiikoooprrsssttz 1 prostozidarskostih
 adiiiiikkmmnorrsst 1 diskriminatorskimi
+adiiiiikmnnoršvvzž 1 živinozdravniškimi
 adiiiijkmnnoorrsst 1 diskriminiranostjo
 adiiiiklllmnoooprv 1 polivinilkloridoma
 adiiiikmnnoorrsstt 1 diskriminatornosti
@@ -6805,6 +7014,7 @@ aeeeejjklmnorssštv 1 slovenještajerskem
 aeeeejjkmmnnnopštt 1 najkompetentnejšem
 aeeeekkllmmorršttu 1 elektrometalurškem
 aeeeeklllmoprsssuv 1 superveleslalomske
+aeeeeklmmnnorstuuz 1 zelenkastorumenemu
 aeeefggkmnooorrsst 1 gnomostereografske
 aeeefghikmnooorrtt 1 mikoheterotrofnega
 aeeefghimnnooorstt 1 stereomagnetofonih
@@ -6817,8 +7027,10 @@ aeeefiikmoprsttuvz 1 fizioterapevtskemu
 aeeefiimnnnorrsttt 1 interferentnostima
 aeeefiklmnooorrtuz 1 imunoelektroforeza
 aeeeggiijkknoorssv 1 visokoenergijskega
+aeeeggiikllnnoosuz 1 zeugogeosinklinale
 aeeeggiilnnnnosttt 1 inteligentnostnega
 aeeeggijlnooorrstt 1 gastroenterologije
+aeeeggjkklnoorsšvz 1 zgornjeleskovškega
 aeeeghiijkknorrttt 1 tretjekategornikih
 aeeeghiiklmmnnnost 1 mentalnohigienskem
 aeeeghiiklmmnorttz 1 elektromagnetizmih
@@ -6848,6 +7060,7 @@ aeeegiklmmnoorttvz 1 elektromagnetizmov
 aeeegiklmnnoorsttt 1 elektromagnetnosti
 aeeegiknnooprrttvv 1 nevroprotektivnega
 aeeegimnnorrsstttz 1 gastrorezistentnem
+aeeegjjkmnorrsštuz 1 zgornještajerskemu
 aeeegkklmnoorssttt 1 elektromagnetskost
 aeeegklmmoooorrštu 1 agrometeorološkemu
 aeeehhiiimnnprrtuz 1 hipertehniziranemu
@@ -6894,6 +7107,7 @@ aeeeiijlmnoprssttv 1 presenetljivostima
 aeeeiijmnopprrrrtt 1 preinterpretirajmo
 aeeeiikklmnorrrštt 1 termoelektrarniški
 aeeeiikkmnoprrsstt 1 eksperimentatorski
+aeeeiiklmmnnorstuz 1 zelenkastorumenimi
 aeeeiiklmnnnnopttu 1 epikontinentalnemu
 aeeeiiklmnnoprsstt 1 eksperimentalnosti
 aeeeiiklmnnorršttu 1 literarnoumetniške
@@ -6987,13 +7201,17 @@ aeefkmmooooprrsttt 1 spektrofotometroma
 aeegghiijlloopsstt 1 gestaltpsihologije
 aeegghiijlloopsštt 1 geštaltpsihologije
 aeegghiikllnoorttv 1 gigaelektronvoltih
+aeegghijjknnorstuz 1 zgornjetuhinjskega
+aeeggiiikllnnoosuz 1 zeugogeosinklinali
 aeeggiijkmnoorrstt 1 trigonometrijskega
 aeeggiijlnooorrstt 1 gastroenterologiji
+aeeggiikllnnooosuz 1 zeugogeosinklinalo
 aeeggijklmnnoooort 1 magnetokronologije
 aeeggijlnoooorrstt 1 gastroenterologijo
 aeeggikklnooorssšv 1 slovenskogoriškega
 aeeggikllmnooorttv 1 gigaelektronvoltom
 aeeggikllnooorttvv 1 gigaelektronvoltov
+aeeggjjkmnnoorrsuz 1 zgornjegorjanskemu
 aeeghhiiiklmnnnost 1 mentalnohigienskih
 aeeghiiiklmmnnnost 1 mentalnohigienskim
 aeeghiiimnoorrsttz 1 geometriziranostih
@@ -7007,7 +7225,10 @@ aeegiiijkkmnoorssv 1 visokoenergijskima
 aeegiiijkkmnoprstt 1 aktinopterigijskem
 aeegiiillmnopprruv 1 polprivilegiranemu
 aeegiiilmnnnnosttt 1 inteligentnostnima
+aeegiijjkklmnnošzž 1 zemljiškoknjižnega
 aeegiijjkknnnoovzž 1 knjižnojezikovnega
+aeegiijjkmnnorsuzz 1 zgornjeanizijskemu
+aeegiijjkmnorrsštz 1 zgornještajerskimi
 aeegiijkmnoooprsst 1 opisnogeometrijska
 aeegiijlmnooprrstv 1 nepregorljivostima
 aeegiijlmnooprsštv 1 nepogrešljivostima
@@ -7018,9 +7239,12 @@ aeegiijnnoorrrsstt 1 neregistriranostjo
 aeegiikklnnooorsšž 1 inženirskogeološka
 aeegiiklmmoooorršt 1 agrometeorološkimi
 aeegiimnnorrsstttz 1 gastrorezistentnim
+aeegijjkkmnnorrsuz 1 zgornjekarnijskemu
 aeegijjkmnorrsstuv 1 gornjeavstrijskemu
+aeegijkklmnoorsšvz 1 zgornjeleskovškima
 aeegijklmmnorrstuu 1 granulometrijskemu
 aeegijklmmooooorrt 1 makrometeorologijo
+aeegijkmnnnorstuvz 1 zunanjetrgovinskem
 aeegijlmnnooosttuv 1 neugotovljenostima
 aeegikkllmnnoooprv 1 generalpolkovnikom
 aeegikkllnnoooprvv 1 generalpolkovnikov
@@ -7029,6 +7253,7 @@ aeegikkmnnooprssuž 1 omrežnoskupinskega
 aeegikkmnooprrštuv 1 prvokategorniškemu
 aeegikknooopssššvv 1 spišskonovoveškega
 aeegjkkknoooorsšty 1 orkneyjskootoškega
+aeegjkklmnooprssvz 1 zgornjepolskavskem
 aeegjklmnoosssuuvv 1 vsejugoslovanskemu
 aeegkkklmooorrsssu 1 gorskokolesarskemu
 aeegkkklnoooorssšv 1 slovenskokoroškega
@@ -7096,6 +7321,7 @@ aeeiiijlmmnoprrstv 1 neprimerljivostima
 aeeiiijlmnopprsstv 1 nepriposestljivima
 aeeiiijlnnoprsstvz 1 neprizanesljivosti
 aeeiiijmmnnrrsttuv 1 instrumentarjevimi
+aeeiiijnnnrttuuvzz 1 zunajuniverzitetni
 aeeiiikklmnorrrštt 1 literarnokritiškem
 aeeiiiklmnnorršttu 1 literarnoumetniški
 aeeiiiklnnnnnorttt 1 interkontinentalni
@@ -7117,6 +7343,8 @@ aeeiijjkknoorrsstz 1 ontarijskojezerski
 aeeiijjklmnnosstvž 1 neživljenjskostima
 aeeiijjlmmnnpšuuvz 1 najimpulzivnejšemu
 aeeiijjlmmnooprstv 1 neoprijemljivostma
+aeeiijjlmnnopsstvž 1 življenjepisnostma
+aeeiijkkllmnosšštz 1 zemljiškolastniške
 aeeiijklmnnoorstvz 1 neizkorenljivostma
 aeeiijklmnooprsstv 1 neprekosljivostima
 aeeiijklmnoprrsštv 1 neprekršljivostima
@@ -7132,6 +7360,7 @@ aeeiijlmmnopssuuzz 1 suspenzoemulzijami
 aeeiijlmnnooprsstv 1 neprenosljivostima
 aeeiijlmnorssttuvž 1 neustrežljivostima
 aeeiijmmnoorsssttu 1 uistosmerjenostima
+aeeiijnnnorttuuvzz 1 zunajuniverzitetno
 aeeiijnnoooprrrstt 1 preorientiranostjo
 aeeiikkklnnooprrst 1 kriptolekanorinske
 aeeiikklmnnoorrssv 1 severnokarolinskim
@@ -7169,6 +7398,7 @@ aeeijjjlnoopprštvž 1 najpotrpežljivejšo
 aeeijjjmnnorssštvv 1 najsvojevrstnejšim
 aeeijjkknooorrsstz 1 ontarijskojezersko
 aeeijjkmnnnorssštv 1 najskrivnostnejšem
+aeeijjkmnnoortuvzz 1 znotrajjezikovnemu
 aeeijjlnnoopprrstv 1 nepripravljenostjo
 aeeijkklmmoopršššt 1 šmarješkotopliškem
 aeeijkklmmopršštuu 1 puškomitralješkemu
@@ -7264,6 +7494,7 @@ aegghiiijlloopsstt 1 gestaltpsihologiji
 aegghiiijlloopsštt 1 geštaltpsihologiji
 aegghiijllooopsstt 1 gestaltpsihologijo
 aegghiijllooopsštt 1 geštaltpsihologijo
+aeggiijjkmnnoorrsz 1 zgornjegorjanskimi
 aeggiijklmnnoooort 1 magnetokronologiji
 aeggiillnnooooorrt 1 otorinolaringologe
 aeggijklmnnooooort 1 magnetokronologijo
@@ -7272,14 +7503,19 @@ aeghhiiimnnooorstz 1 homogeniziranostih
 aeghiiiijkknoprstt 1 aktinopterigijskih
 aeghiiiilnnoorsttz 1 antireligioznostih
 aeghiiijlmnoooprsv 1 nevropsihologijami
+aeghiijjkmnnorstuz 1 zgornjetuhinjskima
 aeghiijklmnnoootuz 1 etnomuzikologinjah
+aeghiijknnnorstuvz 1 zunanjetrgovinskih
 aeghiijmnnoooorstz 1 homogeniziranostjo
 aeghiiknooprršttvv 1 prvokategorništvih
 aeghiinoossstttuvv 1 avtosugestivnostih
+aeghijkklnooprssvz 1 zgornjepolskavskih
 aegiiiiiiklnnortvz 1 izolikviritigenina
 aegiiiiillmnopprrv 1 polprivilegiranimi
+aegiiiijjkmnnorszz 1 zgornjeanizijskimi
 aegiiiijkkmnoprstt 1 aktinopterigijskim
 aegiiiiklmnnorstvv 1 nevrolingvistikami
+aegiiijjkkmnnorrsz 1 zgornjekarnijskimi
 aegiiijjkmnorrsstv 1 gornjeavstrijskimi
 aegiiijkkklmoooost 1 ekotoksikologijami
 aegiiijkkllmmooort 1 mikroklimatologije
@@ -7292,6 +7528,7 @@ aegiiikkmnooprrštv 1 prvokategorniškimi
 aegiijkllmnooooprt 1 mikropaleontologij
 aegiijklmmnnoootuz 1 etnomuzikologinjam
 aegiijklmnoosssuvv 1 vsejugoslovanskimi
+aegiijkmnnnorstuvz 1 zunanjetrgovinskim
 aegiijlmnooorstvvz 1 neizgovorljivostma
 aegiijlmnooosttuvv 1 neugotovljivostima
 aegiijlmoooprrstvv 1 pregovorljivostima
@@ -7300,6 +7537,7 @@ aegiikklmnooorssšv 1 slovenskogoriškima
 aegiikmnnnnoorsttu 1 inkongruentnostima
 aegiillmmnnnooortt 1 montmorillonitnega
 aegiilmmnnooosšttv 1 mnogoštevilnostima
+aegijkklmnooprssvz 1 zgornjepolskavskim
 aegijkklnnooprtuuu 1 akupunkturologinje
 aegijklnoooprsstuv 1 protijugoslovanske
 aegijlnooopsssttvž 1 gospostvaželjnosti
@@ -7371,9 +7609,12 @@ aeiiiilmnnnopsstvz 1 posiliznanstvenimi
 aeiiiilmoopprrsttv 1 protiimperialistov
 aeiiiimnnooprsttvz 1 protizanositvenimi
 aeiiijjjlmnopsšštv 1 najspoštljivejšimi
+aeiiijjkklmmnnošzž 1 zemljiškoknjižnima
 aeiiijjkkmnnnoovzž 1 knjižnojezikovnima
 aeiiijjklmmnooprrt 1 kriptomilijonarjem
 aeiiijjklmnooprrtv 1 kriptomilijonarjev
+aeiiijjkmnnoortvzz 1 znotrajjezikovnimi
+aeiiijkkllmnosšštz 1 zemljiškolastniški
 aeiiijkklmmopršštu 1 puškomitralješkimi
 aeiiijklmmmnooprtz 1 izkomplimentirajmo
 aeiiijklmnnorsšttt 1 štirinajstletnikom
@@ -7401,6 +7642,7 @@ aeiiilmnoopprsstvv 1 priposestvovalnimi
 aeiiimnoooprssttvz 1 seropozitivnostima
 aeiijjjlmnoppsštuv 1 najpopustljivejšim
 aeiijjkmnnnorssštv 1 najskrivnostnejšim
+aeiijkkllmnoosšštz 1 zemljiškolastniško
 aeiijkklmmoopršššt 1 šmarješkotopliškim
 aeiijkkmmmoooprrst 1 termomikroskopijam
 aeiijklmnnooošuvwž 1 novojužnowaleškimi
@@ -7479,6 +7721,7 @@ aeikmnnnoooprrsštv 1 športnonovinarskem
 aeiknoprrrrsstttuu 1 prestrukturiranost
 aeimmnnnoooprrsttv 1 prometnovarnostnim
 aejjklnooooprsstzž 1 razpoloženjskostjo
+aejkkmmmnooorssuuz 1 zunajkromosomskemu
 aejlmnnooooprssttv 1 neprostovoljnostma
 aejlnnnoooossttuvv 1 novoustanovljenost
 aejnnoooprrrssttvz 1 preraznovrstnostjo
@@ -7564,6 +7807,7 @@ aiijjkknoooorssttz 1 antikorozijskostjo
 aiijjkooopprrssttt 1 protipartijskostjo
 aiijkkkmooorrssštv 1 avstrijskokoroškim
 aiijkklooooprsšttt 1 protikatoliškostjo
+aiijkkmmmnooorssuz 1 zunajkromosomskimi
 aiijkkmnnnooopprsv 1 pokojninskopravnim
 aiijkmmnooooprrstt 1 kompromitiranostjo
 aiijknnooorrssttuz 1 izkonstruiranostjo
@@ -7611,6 +7855,7 @@ ačdeeeeejllmopruvv 1 opredeljevalčevemu
 ačdeeeefgiknnnoorv 1 videokonferenčnega
 ačdeeeegghiiijmnrv 1 heideggerjančevimi
 ačdeeeegiijlnnoptv 1 velepodjetničinega
+ačdeeeegjmnnnnorsz 1 zgodnjerenesančnem
 ačdeeeeiijllmoprvv 1 opredeljevalčevimi
 ačdeeeeiiklmnrttuv 1 devetletkaričinemu
 ačdeeeeiillnrstuvv 1 veleindustrialčeve
@@ -7622,9 +7867,11 @@ ačdeeefgiiiinnnnrt 1 indiferentničinega
 ačdeeefgiiiknnortz 1 dezinfektoričinega
 ačdeeefiikmnnnoorv 1 videokonferenčnima
 ačdeeeghiinnostuvž 1 hudožestveničinega
+ačdeeeghijnnnnorsz 1 zgodnjerenesančnih
 ačdeeegiiiijlnprrt 1 prirediteljičinega
 ačdeeegiiijlnoprrt 1 preroditeljičinega
 ačdeeegiijnnoprrsš 1 srednjeprogašičine
+ačdeeegijmnnnnorsz 1 zgodnjerenesančnim
 ačdeeegjjlnnopsstu 1 spodnječeljustnega
 ačdeeehiikllnorrtv 1 elektrohidravlične
 ačdeeehijloprstvvz 1 strahopezdljivčeve
@@ -7654,6 +7901,7 @@ ačdeefiiiikmnnortz 1 dezinfektoričinima
 ačdeefiiijkmmnorsu 1 fidejkomisaričnemu
 ačdeefiijlnoorsstt 1 federalističnostjo
 ačdeeggiiknnoorrtu 1 drugokategorničine
+ačdeeggiinooopšvvz 1 zgodovinopiščevega
 ačdeeghiinooprsstv 1 psevdohistoričnega
 ačdeegiiijklnoorst 1 soodkriteljičinega
 ačdeegiiijlmnorstu 1 sograditeljičinemu
@@ -7663,7 +7911,9 @@ ačdeegiijllmopruvv 1 prilagodljivčevemu
 ačdeegiijnnooprrsš 1 srednjeprogašičino
 ačdeegiimnorrrsttu 1 retrogardističnemu
 ačdeegiinnooprsstv 1 gospodarstveničine
+ačdeegijmmnnnoortz 1 zgodnjeromantičnem
 ačdeegjjlmnnoooršu 1 najdolgoročnejšemu
+ačdeegjkkmnnorsšuz 1 zgodnjekrščanskemu
 ačdeehiiijlnrtvvzž 1 vzdrževateljičinih
 ačdeehiiikllnorrtv 1 elektrohidravlični
 ačdeehiiimnnostuvž 1 hudožestveničinima
@@ -7712,11 +7962,15 @@ ačdeggiiiknnoorrtu 1 drugokategorničini
 ačdeggiiknnooorrtu 1 drugokategorničino
 ačdeggiilmnooopršu 1 dolgoprogašičinemu
 ačdeghiijlnorrsttv 1 črnograditeljstvih
+ačdeghiijmnnnoortz 1 zgodnjeromantičnih
 ačdegiiiiijlmnorst 1 sograditeljičinimi
 ačdegiiiijllmoprvv 1 prilagodljivčevimi
 ačdegiiiimnorrrstt 1 retrogardističnimi
+ačdegiiimnooopšvvz 1 zgodovinopiščevima
 ačdegiiinnooprsstv 1 gospodarstveničini
 ačdegiijjlmnnooorš 1 najdolgoročnejšimi
+ačdegiijkkmnnorsšz 1 zgodnjekrščanskimi
+ačdegiijmmnnnoortz 1 zgodnjeromantičnim
 ačdegiinnoooprsstv 1 gospodarstveničino
 ačdegijlmnoorrsttv 1 črnograditeljstvom
 ačdegimnoorrsštuuv 1 drugouvrščenostima
@@ -7734,6 +7988,7 @@ ačdeiiiijklmnoorst 1 soodkriteljičinima
 ačdeiiiijlmnnnoovz 1 nezadovoljničinimi
 ačdeiiiikmmnprrsst 1 predmarksističnimi
 ačdeiiiilmnnooptvz 1 deviznopolitičnima
+ačdeiiiimnnnorvvzž 1 živinozdravničinem
 ačdeiiijjllnooopšt 1 odpošiljateljičino
 ačdeiiijnnnoossttv 1 dostojanstveničini
 ačdeiiiklnooprsttt 1 protidialektičnost
@@ -7762,10 +8017,12 @@ ačdgijnnnooorssttu 1 drugoinstančnostjo
 ačdhhiiiimnnoopsst 1 psihodinamičnostih
 ačdhhiiiknoorssttu 1 hidroakustičnostih
 ačdhhiiimnnoooprst 1 hipohondričnostima
+ačdhiiiiinnnorvvzž 1 živinozdravničinih
 ačdhiiijmnnooopsst 1 psihodinamičnostjo
 ačdhiiikknooorsstt 1 kardiotoksičnostih
 ačdhiijknooorssttu 1 hidroakustičnostjo
 ačdiiiiikmnnooorrt 1 koordinatoričinimi
+ačdiiiiimnnnorvvzž 1 živinozdravničinim
 ačdiiiilmnnooprtvž 1 državnopolitičnimi
 ačdiiiinnooprssttt 1 protidinastičnosti
 ačdiijkknoooorsstt 1 kardiotoksičnostjo
@@ -7774,6 +8031,7 @@ ačeeeeejlmnopruvvv 1 poneverjevalčevemu
 ačeeeeejlmnpprsuvv 1 prepesnjevalčevemu
 ačeeeeemnnnoršuvvv 1 neuravnovešenčevem
 ačeeeeghiiklnnortt 1 elektrotehničinega
+ačeeeegiijjlnpšvvž 1 življenjepiščevega
 ačeeeegiijknnnorvz 1 izkoreninjenčevega
 ačeeeegiikklnnortt 1 elektrokinetičnega
 ačeeeegiilnnopsstv 1 veleposestničinega
@@ -7795,10 +8053,12 @@ ačeeeeiklmpršuuvvz 1 preizkuševalčevemu
 ačeeeeikmmnoprttuv 1 kemoterapevtičnemu
 ačeeeeilmopprštuvv 1 prišepetovalčevemu
 ačeeeeimnnnoršuvvv 1 neuravnovešenčevim
+ačeeeejlmmnnosuvvz 1 znamenjeslovčevemu
 ačeeeellmnopprrtuv 1 lumpenproletarčeve
 ačeeefgikknnoorsvv 1 visokofrekvenčnega
 ačeeefiimnnnorrstt 1 interferenčnostima
 ačeeefiklmnoorrstt 1 feroelektričnostma
+ačeeeggjjlnnorstuz 1 zgornječeljustnega
 ačeeegiiiijlnnprst 1 prinesiteljičinega
 ačeeegiiijklnprršt 1 prekršiteljičinega
 ačeeegiiijllnnostv 1 sloveniteljičinega
@@ -7812,6 +8072,7 @@ ačeeehiiiklmnnortt 1 elektrotehničinima
 ačeeehiimmnnorsttv 1 hermenevtičnostima
 ačeeehiimnopprsttv 1 psihoterapevtičnem
 ačeeehinnnoprrsttz 1 reprezentančnostih
+ačeeeiiijjlmnpšvvž 1 življenjepiščevima
 ačeeeiiijkllmnprvv 1 preklinjevalčevimi
 ačeeeiiijllmmpršvv 1 premišljevalčevimi
 ačeeeiiijllnrsttvz 1 razsvetliteljičine
@@ -7826,6 +8087,7 @@ ačeeeiiilmmnnnnstt 1 sentimentalničinem
 ačeeeiiilmnnopsstv 1 veleposestničinima
 ačeeeiiilmopprštvv 1 prišepetovalčevimi
 ačeeeiijjjlnpprršv 1 najprepričljivejše
+ačeeeiijlmmnnosvvz 1 znamenjeslovčevimi
 ačeeeiijlmmnopprvv 1 pripominjevalčevem
 ačeeeiijlmnnnpsttt 1 petnajstletničinem
 ačeeeiijlmnoortuvv 1 overovateljičinemu
@@ -7873,9 +8135,11 @@ ačeegiikllnnnooprv 1 generalpolkovničin
 ačeegiikmnnooprrtv 1 prvokategorničinem
 ačeegiikmnnoorstuv 1 evrokomunističnega
 ačeegiiknnnoorsstz 1 nitrozosečninskega
+ačeegijjlmnnorstuz 1 zgornječeljustnima
 ačeegkllmnnooortuz 1 glukozotolerančnem
 ačeehhiiinopprsttv 1 psihoterapevtičnih
 ačeehiiiilmnnnnstt 1 sentimentalničinih
+ačeehiiijllmnnttuž 1 žlahtniteljičinemu
 ačeehiiijlmnopprvv 1 pripominjevalčevih
 ačeehiiijlnnnpsttt 1 petnajstletničinih
 ačeehiiikllmmnnosu 1 lahkomiselničinemu
@@ -7938,6 +8202,7 @@ ačeeiijllmoossttvv 1 svetlovijoličastem
 ačeeiijlmmnooprstv 1 nepremočljivostima
 ačeeiijlmmnoosttuv 1 temnovijoličastemu
 ačeeiijlmnnnooprtt 1 notranjepolitičnem
+ačeeiijlmnnnoptuuz 1 zunanjepolitičnemu
 ačeeiijlmnnorsstuv 1 neuresničljivostma
 ačeeiijlmnopprrstv 1 neprepričljivostma
 ačeeiijlnnnossšttt 1 šestnajstletničino
@@ -8002,6 +8267,7 @@ ačegikllmnnooortuz 1 glukozotolerančnim
 ačehhiiiinnoprrstv 1 nevropsihiatričnih
 ačehhiikmnooossttt 1 hematotoksičnostih
 ačehhiiknooopssttt 1 hepatotoksičnostih
+ačehiiiiijllmnnttž 1 žlahtniteljičinimi
 ačehiiiiikllmmnnos 1 lahkomiselničinimi
 ačehiiiiimnnoprtvz 1 hipnotizirančevimi
 ačehiiiijlnnnrsttt 1 trinajstletničinih
@@ -8044,6 +8310,7 @@ ačeiiiijjkmnnoštuv 1 najučinkovitejšimi
 ačeiiiijjlmnoopstv 1 posvojiteljičinima
 ačeiiiijklmnooprtv 1 pokroviteljičinima
 ačeiiiijlmmnoosttv 1 temnovijoličastimi
+ačeiiiijlmnnnoptuz 1 zunanjepolitičnimi
 ačeiiiijlmnnnrsttt 1 trinajstletničinim
 ačeiiiijlmnnosttuv 1 ustanoviteljičinim
 ačeiiiijlnnnrsšttt 1 štirinajstletničin
@@ -8189,6 +8456,7 @@ aččeeegiilnnnooprr 1 generalporočničine
 aččeeeiiklmoršuvvz 1 izkoriščevalčevemu
 aččeeeijlmnprruuvv 1 preračunljivčevemu
 aččeeeilmoopprruvv 1 priporočevalčevemu
+aččeeelmnoooprtuvz 1 zlatoporočenčevemu
 aččeefimnnnoosttuv 1 stavčnofonetičnemu
 aččeegiiijlnoooprt 1 oporočiteljičinega
 aččeegiiilnnnooprr 1 generalporočničini
@@ -8198,6 +8466,7 @@ aččeeiiiiklmoršvvz 1 izkoriščevalčevimi
 aččeeiiijlmmmnostu 1 samomučiteljičinem
 aččeeiiijlmnprruvv 1 preračunljivčevimi
 aččeeiiilmoopprrvv 1 priporočevalčevimi
+aččeeiilmnoooprtvz 1 zlatoporočenčevimi
 aččefiiimnnnoosttv 1 stavčnofonetičnimi
 aččegiiijmnnosštuv 1 gostivanjščičinemu
 aččegiinnnnossttuu 1 ustničnoustničnega
@@ -8427,6 +8696,8 @@ ceeeehiiklmnnssttu 1 liechtensteinskemu
 ceeeeiijkmnnnrstuv 1 neintervencijskemu
 ceeeeiklmnnosštuzž 1 cestnoželezniškemu
 ceeeghiiikklmnnrss 1 gelsenkirchenskimi
+ceeegijklmnnooprsz 1 zgornjepliocenskem
+ceeegijkmmnnoorsuz 1 zgornjemiocenskemu
 ceeehiiiiklmnnsstt 1 liechtensteinskimi
 ceeehiinnnooprsttz 1 nepretencioznostih
 ceeeiiiijkmnnnrstv 1 neintervencijskimi
@@ -8437,6 +8708,9 @@ ceeeikklmnooprssuv 1 celinskoevropskemu
 ceeffhinnooorssstt 1 fosforescentnostih
 ceeffjnnoooorssstt 1 fosforescentnostjo
 ceeggkklmnoorrsssu 1 grossglocknerskemu
+ceeghiijklnnooprsz 1 zgornjepliocenskih
+ceegiiijkmmnnoorsz 1 zgornjemiocenskimi
+ceegiijklmnnooprsz 1 zgornjepliocenskim
 ceehiiikklmnnoosst 1 holecistokininskem
 ceeiiiijkmmnorsstt 1 scientometrijskimi
 ceeiiikklmnooprssv 1 celinskoevropskimi
@@ -8680,12 +8954,14 @@ dfhijkklnooorsstuv 1 ljudskofrontovskih
 dfiikknnoooostttuv 1 fotokonduktivnosti
 dfijkklmnooorsstuv 1 ljudskofrontovskim
 dghiiijkllmnooprsu 1 poldrugmilijonskih
+dghiiinnoooopsstvz 1 zgodovinopisnostih
 dghiikkmnnoooosvvz 1 vzhodnokongovskimi
 dgiiiikkklmnooortu 1 glukokortikoidnimi
 dgiiijkllmmnooprsu 1 poldrugmilijonskim
 dgiiijkmnnoooosvvz 1 vojnozgodovinskimi
 dgiiijkmnnoorsuvzž 1 družinskovzgojnimi
 dgiiikmnnnoooorsvž 1 nižnonovgorodskimi
+dgiijnnooooopsstvz 1 zgodovinopisnostjo
 dhiiiiiikklmnorssz 1 hidroksilizinskimi
 dhiiiiiklllnnooprv 1 polivinilkloridnih
 dhiiiknoooprsšttuv 1 protiduhovniškosti
@@ -8726,6 +9002,7 @@ eeegiijkmnoooprsst 1 opisnogeometrijske
 eeegiijlnnnnoosttt 1 neinteligentnostjo
 eeegiikklnnooorsšž 1 inženirskogeološke
 eeegiilmnnnnostttu 1 inteligentnostnemu
+eeegjkklmnoorsšuvz 1 zgornjeleskovškemu
 eeehhiikkllmnoprst 1 skleroplektenhimih
 eeehiijjlmnoprsstv 1 nesprejemljivostih
 eeehiijklmoprrsttv 1 protihitlerjevskem
@@ -8751,6 +9028,7 @@ eeeijjknnnoooprrst 1 prekoreninjenostjo
 eeeijjllnoopprstvz 1 nepreplezljivostjo
 eeeijjlmnnooprsstv 1 nespremenljivostjo
 eeeijjlmnooprssttv 1 nepremestljivostjo
+eeeijklmmnoopssštz 1 zemljiškoposestnem
 eeeijkmnnopsssštuž 1 sužnjeposestniškem
 eeeijkmnooopršštuz 1 širokopoteznejšemu
 eeeijknnoopprssttv 1 neperspektivnostjo
@@ -8768,6 +9046,7 @@ eefgiklmmoooprrrsu 1 glomeroporfirskemu
 eefhiiikmmnooorrtt 1 mikoheterotrofnimi
 eefikooooprrrssttt 1 fotoreporterskosti
 eeghiiiikllllnoopt 1 polietilenglikolih
+eeghijjkmnnorstuuz 1 zgornjetuhinjskemu
 eegiiiiiiklnnortvz 1 izolikviritigenine
 eegiiiijkkmnoorssv 1 visokoenergijskimi
 eegiiiilmnnnnosttt 1 inteligentnostnimi
@@ -8776,19 +9055,23 @@ eegiiijkmnoooprsst 1 opisnogeometrijski
 eegiiikklnnooorsšž 1 inženirskogeološki
 eegiiikllllmnooopt 1 polietilenglikolom
 eegiiikllllnoooptv 1 polietilenglikolov
+eegiijkklmnoorsšvz 1 zgornjeleskovškimi
 eegiijklmmooooorrt 1 mikrometeorologijo
 eegiijkmmnoorrsttu 1 trigonometrijskemu
 eegiijkmnooooprsst 1 opisnogeometrijsko
 eegiikklnnoooorsšž 1 inženirskogeološko
+eegijkklmmooopssšz 1 zemljiškogosposkem
 eegikklmnooorssšuv 1 slovenskogoriškemu
 eehhiiijkloprrsttv 1 protihitlerjevskih
 eehiiiinnoprssttvz 1 hipersenzitivnosti
 eehiiijjlmnooprstv 1 neoprijemljivostih
+eehiiijjlnnopsstvž 1 življenjepisnostih
 eehiiijklmoprrsttv 1 protihitlerjevskim
 eehiiijklnnoorstvz 1 neizkorenljivostih
 eehiiijlmnnorstvvz 1 nevznemirljivostih
 eehiiijloprrstttvv 1 protihitlerjevstvi
 eehiiikmmnnooprštt 1 prometnotehniškimi
+eehiijklmnoopssštz 1 zemljiškoposestnih
 eehiijknnopsssštuž 1 sužnjeposestniških
 eehiijlmnooprssttv 1 nepremostljivostih
 eehiijlnoopprsttvž 1 nepotrpežljivostih
@@ -8806,9 +9089,12 @@ eeiiijkmnooopršštz 1 širokopoteznejšimi
 eeiiikklmnooorsttv 1 likovnoteoretskimi
 eeiiikmnnooprrttvv 1 nevroprotektivnimi
 eeiijjjlmnoooprstv 1 neoprijemljivostjo
+eeiijjjlnnoopsstvž 1 življenjepisnostjo
+eeiijjkklmmnnošuzž 1 zemljiškoknjižnemu
 eeiijjkkmnnnoouvzž 1 knjižnojezikovnemu
 eeiijjklnnooorstvz 1 neizkorenljivostjo
 eeiijjlmnnoorstvvz 1 nevznemirljivostjo
+eeiijklmmnoopssštz 1 zemljiškoposestnim
 eeiijklnnooooppsvz 1 visokoizpopolnjene
 eeiijkmnnopsssštuž 1 sužnjeposestniškim
 eeiikkkkllmnnosuvv 1 kvinkvelokulinskem
@@ -8837,13 +9123,16 @@ efggijklmnoooooorr 1 geomorfokronologij
 efgiiiklmmoooprrrs 1 glomeroporfirskimi
 efhiikllmmnoooooru 1 homoioklorofilnemu
 efiiikklllmnoooopr 1 poikiloklorofilnem
+eghiiijjkmnnorstuz 1 zgornjetuhinjskimi
 eghiiijlnooorstvvz 1 neizgovorljivostih
+eghiijkklmooopssšz 1 zemljiškogosposkih
 egiiiiiiiklnnortvz 1 izolikviritigenini
 egiiiiiiklnnortuvz 1 izolikviritigeninu
 egiiiijkmmnoorrstt 1 trigonometrijskimi
 egiiiilnoooprrsttz 1 protireligioznosti
 egiiikklmnooorssšv 1 slovenskogoriškimi
 egiijjlnoooorstvvz 1 neizgovorljivostjo
+egiijkklmmooopssšz 1 zemljiškogosposkim
 egikmnoooprrssttuv 1 prostotrgovinskemu
 ehiiiiknoprrsštvvž 1 krivoprisežništvih
 ehiiiimmnoopprsstz 1 postimpresionizmih
@@ -8862,6 +9151,7 @@ ehiiklmnnnooosttuv 1 likovnoumetnostnih
 ehiiklnoooprsssttv 1 protislovenskostih
 ehijlnnooooprssttv 1 neprostovoljnostih
 ehikklmnnooooopssv 1 ekonomskoposlovnih
+eiiiijjkklmmnnošzž 1 zemljiškoknjižnimi
 eiiiijjkkmnnnoovzž 1 knjižnojezikovnimi
 eiiijklnnooooppsvz 1 visokoizpopolnjeni
 eiiikkkkllmnnosuvv 1 kvinkvelokulinskim
@@ -8937,6 +9227,7 @@ iiillmmmnnoooorttv 1 montmorillonitovim
 čdeeejjlmnnopsstuu 1 spodnječeljustnemu
 čdeefiiiiiimnnnnrt 1 indiferentničinimi
 čdeefiiiiikmnnortz 1 dezinfektoričinimi
+čdeegiimnooopšuvvz 1 zgodovinopiščevemu
 čdeehiiiiimnnnrstt 1 indeterminističnih
 čdeehiiiimnnostuvž 1 hudožestveničinimi
 čdeehiiiinnorssttt 1 iredentističnostih
@@ -8954,6 +9245,7 @@ iiillmmmnnoooorttv 1 montmorillonitovim
 čdeeiimmnnooprsstt 1 postmodernističnem
 čdefhiiinooooprstt 1 fotoperiodičnostih
 čdefiijnoooooprstt 1 fotoperiodičnostjo
+čdegiiiimnooopšvvz 1 zgodovinopiščevimi
 čdehiiiiilnnostuzz 1 deziluzionističnih
 čdehiiiimnooprsstv 1 psevdohistoričnimi
 čdehiiimnnooprsstt 1 postmodernističnih
@@ -8971,6 +9263,7 @@ iiillmmmnnoooorttv 1 montmorillonitovim
 čeeeehiiklmnnorttu 1 elektrotehničinemu
 čeeeehimnoorsttvvv 1 monteverestovčevih
 čeeeeiiijjllmmnttu 1 utemeljiteljičinem
+čeeeeiijjlmnpšuvvž 1 življenjepiščevemu
 čeeeeiijkmnnnoruvz 1 izkoreninjenčevemu
 čeeeeiikklmnnorttu 1 elektrokinetičnemu
 čeeeeiilmnnopsstuv 1 veleposestničinemu
@@ -8981,6 +9274,7 @@ iiillmmmnnoooorttv 1 montmorillonitovim
 čeeefijklnooorrstt 1 feroelektričnostjo
 čeeefikkmnnoorsuvv 1 visokofrekvenčnemu
 čeeegiimmnnoooprst 1 opisnogeometričnem
+čeeegjjlmnnorstuuz 1 zgornječeljustnemu
 čeeehiiiijjllmnttu 1 utemeljiteljičinih
 čeeehiiiiklmnnortt 1 elektrotehničinimi
 čeeehiiimnnnosttuz 1 neizumetničenostih
@@ -8988,6 +9282,7 @@ iiillmmmnnoooorttv 1 montmorillonitovim
 čeeehiikklmnoorstt 1 elektrokemičnostih
 čeeehijnorrsštttuv 1 tretjeuvrščenostih
 čeeeiiiijjllmmnttu 1 utemeljiteljičinim
+čeeeiiiijjlmnpšvvž 1 življenjepiščevimi
 čeeeiiiijkmnnnorvz 1 izkoreninjenčevimi
 čeeeiiiijlmnnprstu 1 prinesiteljičinemu
 čeeeiiiikklmnnortt 1 elektrokinetičnimi
@@ -9019,6 +9314,8 @@ iiillmmmnnoooorttv 1 montmorillonitovim
 čeeghiijmnnooosstt 1 hegemonističnostjo
 čeegiiilmnnnorstvv 1 nevrolingvističnem
 čeegiiimmnnoooprst 1 opisnogeometričnim
+čeegiijjlmnnorstuz 1 zgornječeljustnimi
+čeegiijklmnnoorsvz 1 zgornjevoličinskem
 čeehiiiiinnnrttuvz 1 univerzitetničinih
 čeehiiiijlnoprsttv 1 prosvetiteljičinih
 čeehiiiiknnoprssst 1 ekspresionističnih
@@ -9066,7 +9363,9 @@ iiillmmmnnoooorttv 1 montmorillonitovim
 čeghiiiilmnnopsstv 1 psiholingvističnem
 čeghiiiilnnnorstvv 1 nevrolingvističnih
 čeghiiijklmnooopst 1 hipoglikemičnostjo
+čeghiiijklnnoorsvz 1 zgornjevoličinskih
 čegiiiilmnnnorstvv 1 nevrolingvističnim
+čegiiijklmnnoorsvz 1 zgornjevoličinskim
 čegiiilmnnoooprstt 1 prometnologistični
 čegiiimnnoooprrtuv 1 protigovorničinemu
 čegiijlmnnoooptuvz 1 političnovzgojnemu

@@ -1345,3 +1345,65 @@ vojaškoindustrijskega | VOJAŠKOINDUSTRIJSKI - nanašajoč se na vojaško indus
 vojaškoindustrijskemu | VOJAŠKOINDUSTRIJSKI - nanašajoč se na vojaško industrijo
 vojaškoindustrijskima | VOJAŠKOINDUSTRIJSKI - nanašajoč se na vojaško industrijo
 vojaškoindustrijskimi | VOJAŠKOINDUSTRIJSKI - nanašajoč se na vojaško industrijo
+zasebnokapitalističen | [pravopis]
+zasebnokapitalistična | ZASEBNOKAPITALISTIČEN - [pravopis]
+zasebnokapitalistične | ZASEBNOKAPITALISTIČEN - [pravopis]
+zasebnokapitalistični | ZASEBNOKAPITALISTIČEN - [pravopis]
+zasebnokapitalistično | ZASEBNOKAPITALISTIČEN - [pravopis]
+zbirokratiziranostima | ZBIROKRATIZIRANOST - [pravopis]
+zdemokratiziranostima | ZDEMOKRATIZIRANOST - [pravopis]
+zdraviliškoturističen | [pravopis]
+zdraviliškoturistična | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zdraviliškoturistične | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zdraviliškoturistični | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zdraviliškoturistično | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zemljiškokatastrskega | ZEMLJIŠKOKATASTRSKI - [urb.] v zvezi »zemljiškokatastrski načrt«: grafični prikaz zemljiških in gradbenih parcel, ki so evidentirane s koordinatami zemljiškokatastrskih točk v državnem koordinatnem sistemu in s parcelno številko
+zemljiškokatastrskemu | ZEMLJIŠKOKATASTRSKI - [urb.] v zvezi »zemljiškokatastrski načrt«: grafični prikaz zemljiških in gradbenih parcel, ki so evidentirane s koordinatami zemljiškokatastrskih točk v državnem koordinatnem sistemu in s parcelno številko
+zemljiškokatastrskima | ZEMLJIŠKOKATASTRSKI - [urb.] v zvezi »zemljiškokatastrski načrt«: grafični prikaz zemljiških in gradbenih parcel, ki so evidentirane s koordinatami zemljiškokatastrskih točk v državnem koordinatnem sistemu in s parcelno številko
+zemljiškokatastrskimi | ZEMLJIŠKOKATASTRSKI - [urb.] v zvezi »zemljiškokatastrski načrt«: grafični prikaz zemljiških in gradbenih parcel, ki so evidentirane s koordinatami zemljiškokatastrskih točk v državnem koordinatnem sistemu in s parcelno številko
+zemljiškolastninskega | ZEMLJIŠKOLASTNINSKI - nanašajoč se na zemljiško lastnino
+zemljiškolastninskemu | ZEMLJIŠKOLASTNINSKI - nanašajoč se na zemljiško lastnino
+zemljiškolastninskima | ZEMLJIŠKOLASTNINSKI - nanašajoč se na zemljiško lastnino
+zemljiškolastninskimi | ZEMLJIŠKOLASTNINSKI - nanašajoč se na zemljiško lastnino
+zgodnjebronastodobnem | ZGODNJEBRONASTODOBEN - nanašajoč se na zgodnjo bronasto dobo
+zgodnjebronastodobnih | ZGODNJEBRONASTODOBEN - nanašajoč se na zgodnjo bronasto dobo
+zgodnjebronastodobnim | ZGODNJEBRONASTODOBEN - nanašajoč se na zgodnjo bronasto dobo
+zgodnjekapitalističen | nanašajoč se na zgodnji kapitalizem
+zgodnjekapitalistična | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapitalizem
+zgodnjekapitalistične | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapitalizem
+zgodnjekapitalistični | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapitalizem
+zgodnjekapitalistično | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapitalizem
+zgodnjepleistocenskem | ZGODNJEPLEISTOCENSKI - > TEGELENSKI - [geog.] v zvezi »tegelenska otoplitev«: zgodnjepleistocenska otoplitev na severu Evrope, med eburonsko in predtegelensko ohladitvijo
+zgodnjepleistocenskih | ZGODNJEPLEISTOCENSKI - > TEGELENSKI - [geog.] v zvezi »tegelenska otoplitev«: zgodnjepleistocenska otoplitev na severu Evrope, med eburonsko in predtegelensko ohladitvijo
+zgodnjepleistocenskim | ZGODNJEPLEISTOCENSKI - > TEGELENSKI - [geog.] v zvezi »tegelenska otoplitev«: zgodnjepleistocenska otoplitev na severu Evrope, med eburonsko in predtegelensko ohladitvijo
+zgodnjesrednjeveškega | ZGODNJESREDNJEVEŠKI - nanašajoč se na zgodnji srednji vek
+zgodnjesrednjeveškemu | ZGODNJESREDNJEVEŠKI - nanašajoč se na zgodnji srednji vek
+zgodnjesrednjeveškima | ZGODNJESREDNJEVEŠKI - nanašajoč se na zgodnji srednji vek
+zgodnjesrednjeveškimi | ZGODNJESREDNJEVEŠKI - nanašajoč se na zgodnji srednji vek
+zgodovinskopolitičnem | ZGODOVINSKOPOLITIČEN - [pravopis]
+zgodovinskopolitičnih | ZGODOVINSKOPOLITIČEN - [pravopis]
+zgodovinskopolitičnim | ZGODOVINSKOPOLITIČEN - [pravopis]
+zgornjekostrivniškega | ZGORNJEKOSTRIVNIŠKI - [pravopis]
+zgornjekostrivniškemu | ZGORNJEKOSTRIVNIŠKI - [pravopis]
+zgornjekostrivniškima | ZGORNJEKOSTRIVNIŠKI - [pravopis]
+zgornjekostrivniškimi | ZGORNJEKOSTRIVNIŠKI - [pravopis]
+zindividualiziranosti | ZINDIVIDUALIZIRANOST - [pravopis]
+zintelektualiziranega | ZINTELEKTUALIZIRATI - uveljaviti, poudariti um, razum v kaki dejavnosti
+zintelektualiziranemu | ZINTELEKTUALIZIRATI - uveljaviti, poudariti um, razum v kaki dejavnosti
+zintelektualiziranima | ZINTELEKTUALIZIRATI - uveljaviti, poudariti um, razum v kaki dejavnosti
+zintelektualiziranimi | ZINTELEKTUALIZIRATI - uveljaviti, poudariti um, razum v kaki dejavnosti
+zintelektualiziranost | [pravopis]
+znanstvenofantastičen | nanašajoč se na znanstveno fantastiko
+znanstvenofantastična | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
+znanstvenofantastične | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
+znanstvenofantastični | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
+znanstvenofantastično | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
+zracionaliziranostima | ZRACIONALIZIRANOST - [pravopis]
+zrevolucioniranostima | ZREVOLUCIONIRANOST - [pravopis]
+živilskopredelovalnem | ŽIVILSKOPREDELOVALEN - nanašajoč se na predelovanje živil
+živilskopredelovalnih | ŽIVILSKOPREDELOVALEN - nanašajoč se na predelovanje živil
+živilskopredelovalnim | ŽIVILSKOPREDELOVALEN - nanašajoč se na predelovanje živil
+življenjskonazorskega | ŽIVLJENJSKONAZORSKI - [pravopis]
+življenjskonazorskemu | ŽIVLJENJSKONAZORSKI - [pravopis]
+življenjskonazorskima | ŽIVLJENJSKONAZORSKI - [pravopis]
+življenjskonazorskimi | ŽIVLJENJSKONAZORSKI - [pravopis]

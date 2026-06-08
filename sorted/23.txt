@@ -385,3 +385,28 @@ visokokvalificiranostim | VISOKOKVALIFICIRANOST - [pravopis]
 visokokvalificiranostjo | VISOKOKVALIFICIRANOST - [pravopis]
 visokokvalificiranostma | VISOKOKVALIFICIRANOST - [pravopis]
 visokokvalificiranostmi | VISOKOKVALIFICIRANOST - [pravopis]
+zasebnokapitalističnega | ZASEBNOKAPITALISTIČEN - [pravopis]
+zasebnokapitalističnemu | ZASEBNOKAPITALISTIČEN - [pravopis]
+zasebnokapitalističnima | ZASEBNOKAPITALISTIČEN - [pravopis]
+zasebnokapitalističnimi | ZASEBNOKAPITALISTIČEN - [pravopis]
+zdraviliškoturističnega | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zdraviliškoturističnemu | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zdraviliškoturističnima | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zdraviliškoturističnimi | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zgodnjekapitalističnega | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapitalizem
+zgodnjekapitalističnemu | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapitalizem
+zgodnjekapitalističnima | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapitalizem
+zgodnjekapitalističnimi | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapitalizem
+zindividualiziranostima | ZINDIVIDUALIZIRANOST - [pravopis]
+zintelektualiziranostih | ZINTELEKTUALIZIRANOST - [pravopis]
+zintelektualiziranostim | ZINTELEKTUALIZIRANOST - [pravopis]
+zintelektualiziranostjo | ZINTELEKTUALIZIRANOST - [pravopis]
+zintelektualiziranostma | ZINTELEKTUALIZIRANOST - [pravopis]
+zintelektualiziranostmi | ZINTELEKTUALIZIRANOST - [pravopis]
+znanstvenofantastičnega | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
+znanstvenofantastičnemu | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
+znanstvenofantastičnima | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
+znanstvenofantastičnimi | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
+znanstvenoraziskovalnem | ZNANSTVENORAZISKOVALEN - nanašajoč se na znanstveno raziskovanje
+znanstvenoraziskovalnih | ZNANSTVENORAZISKOVALEN - nanašajoč se na znanstveno raziskovanje
+znanstvenoraziskovalnim | ZNANSTVENORAZISKOVALEN - nanašajoč se na znanstveno raziskovanje

@@ -755,3 +755,42 @@ varnostnoobveščevalnem | VARNOSTNOOBVEŠČEVALEN - [pravopis]
 varnostnoobveščevalnih | VARNOSTNOOBVEŠČEVALEN - [pravopis]
 varnostnoobveščevalnim | VARNOSTNOOBVEŠČEVALEN - [pravopis]
 visokokvalificiranosti | VISOKOKVALIFICIRANOST - [pravopis]
+zasebnokapitalističnem | ZASEBNOKAPITALISTIČEN - [pravopis]
+zasebnokapitalističnih | ZASEBNOKAPITALISTIČEN - [pravopis]
+zasebnokapitalističnim | ZASEBNOKAPITALISTIČEN - [pravopis]
+zdraviliškoturističnem | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zdraviliškoturističnih | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zdraviliškoturističnim | ZDRAVILIŠKOTURISTIČEN - [pravopis]
+zgodnjebronastodobnega | ZGODNJEBRONASTODOBEN - nanašajoč se na zgodnjo bronasto dobo
+zgodnjebronastodobnemu | ZGODNJEBRONASTODOBEN - nanašajoč se na zgodnjo bronasto dobo
+zgodnjebronastodobnima | ZGODNJEBRONASTODOBEN - nanašajoč se na zgodnjo bronasto dobo
+zgodnjebronastodobnimi | ZGODNJEBRONASTODOBEN - nanašajoč se na zgodnjo bronasto dobo
+zgodnjekapitalističnem | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapitalizem
+zgodnjekapitalističnih | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapitalizem
+zgodnjekapitalističnim | ZGODNJEKAPITALISTIČEN - nanašajoč se na zgodnji kapitalizem
+zgodnjepleistocenskega | ZGODNJEPLEISTOCENSKI - > TEGELENSKI - [geog.] v zvezi »tegelenska otoplitev«: zgodnjepleistocenska otoplitev na severu Evrope, med eburonsko in predtegelensko ohladitvijo
+zgodnjepleistocenskemu | ZGODNJEPLEISTOCENSKI - > TEGELENSKI - [geog.] v zvezi »tegelenska otoplitev«: zgodnjepleistocenska otoplitev na severu Evrope, med eburonsko in predtegelensko ohladitvijo
+zgodnjepleistocenskima | ZGODNJEPLEISTOCENSKI - > TEGELENSKI - [geog.] v zvezi »tegelenska otoplitev«: zgodnjepleistocenska otoplitev na severu Evrope, med eburonsko in predtegelensko ohladitvijo
+zgodnjepleistocenskimi | ZGODNJEPLEISTOCENSKI - > TEGELENSKI - [geog.] v zvezi »tegelenska otoplitev«: zgodnjepleistocenska otoplitev na severu Evrope, med eburonsko in predtegelensko ohladitvijo
+zgodovinskopolitičnega | ZGODOVINSKOPOLITIČEN - [pravopis]
+zgodovinskopolitičnemu | ZGODOVINSKOPOLITIČEN - [pravopis]
+zgodovinskopolitičnima | ZGODOVINSKOPOLITIČEN - [pravopis]
+zgodovinskopolitičnimi | ZGODOVINSKOPOLITIČEN - [pravopis]
+zindividualiziranostih | ZINDIVIDUALIZIRANOST - [pravopis]
+zindividualiziranostim | ZINDIVIDUALIZIRANOST - [pravopis]
+zindividualiziranostjo | ZINDIVIDUALIZIRANOST - [pravopis]
+zindividualiziranostma | ZINDIVIDUALIZIRANOST - [pravopis]
+zindividualiziranostmi | ZINDIVIDUALIZIRANOST - [pravopis]
+zintelektualiziranosti | ZINTELEKTUALIZIRANOST - [pravopis]
+znanstvenofantastičnem | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
+znanstvenofantastičnih | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
+znanstvenofantastičnim | ZNANSTVENOFANTASTIČEN - nanašajoč se na znanstveno fantastiko
+znanstvenoraziskovalen | nanašajoč se na znanstveno raziskovanje
+znanstvenoraziskovalna | ZNANSTVENORAZISKOVALEN - nanašajoč se na znanstveno raziskovanje
+znanstvenoraziskovalne | ZNANSTVENORAZISKOVALEN - nanašajoč se na znanstveno raziskovanje
+znanstvenoraziskovalni | ZNANSTVENORAZISKOVALEN - nanašajoč se na znanstveno raziskovanje
+znanstvenoraziskovalno | ZNANSTVENORAZISKOVALEN - nanašajoč se na znanstveno raziskovanje
+živilskopredelovalnega | ŽIVILSKOPREDELOVALEN - nanašajoč se na predelovanje živil
+živilskopredelovalnemu | ŽIVILSKOPREDELOVALEN - nanašajoč se na predelovanje živil
+živilskopredelovalnima | ŽIVILSKOPREDELOVALEN - nanašajoč se na predelovanje živil
+živilskopredelovalnimi | ŽIVILSKOPREDELOVALEN - nanašajoč se na predelovanje živil

@@ -12,6 +12,7 @@ ert 4 ret rte ter tre
 iks 4 iks kis ksi sik
 ikt 4 ikt kit tik tki
 irt 4 rit rti tir tri
+irž 4 riž rži žir žri
 kot 4 kot otk tko tok
 abl 3 alb bal bla
 abo 3 bao boa oba
@@ -35,7 +36,9 @@ akt 3 akt kat tak
 akv 3 kav kva vak
 als 3 las sal sla
 alv 3 avl lav val
+alz 3 laz zal zla
 amo 3 amo moa oma
+aoz 3 azo oaz zoa
 aps 3 pas psa sap
 apt 3 apt pat tap
 ast 3 sat sta tas
@@ -53,6 +56,7 @@ eko 3 eko koe oke
 eks 3 eks kes sek
 els 3 les sel sle
 elt 3 let tel tle
+elz 3 lez zel zle
 elš 3 leš šel šle
 emo 3 emo moe ome
 emr 3 mer mre rem
@@ -64,6 +68,7 @@ epr 3 per pre rep
 erv 3 rev ver vre
 esv 3 sev ves vse
 glu 3 glu gul lug
+gož 3 gož žgo žog
 hit 3 hit iht tih
 ijn 3 inj jin nji
 ils 3 lis sil sli
@@ -94,6 +99,7 @@ abh 2 bah hab
 abm 2 amb bam
 abr 2 bar rab
 abs 2 bas sab
+abž 2 baž žab
 acf 2 caf fac
 acp 2 cap pac
 acr 2 car rac
@@ -112,6 +118,7 @@ agl 2 alg gal
 agm 2 gam mag
 ags 2 gas sag
 agt 2 gat tag
+agž 2 gaž žag
 ahl 2 hal lah
 aij 2 aji ija
 ail 2 ali ila
@@ -133,6 +140,7 @@ alo 2 alo ola
 alp 2 lap pal
 alr 2 lar ral
 alš 2 šal šla
+alž 2 laž žal
 amm 2 amm mam
 amn 2 man nam
 amr 2 mar ram
@@ -143,13 +151,15 @@ ano 2 aon ona
 anp 2 nap pan
 ans 2 nas sna
 aot 2 ato tao
-aoz 2 azo oaz
 apr 2 par rap
 apš 2 paš šap
 ars 2 ars ras
 art 2 rta tar
 aru 2 aru ura
+arz 2 raz zar
 arš 2 raš šar
+arž 2 raž žar
+avž 2 važ žav
 ačd 2 čad dač
 ačg 2 čag gač
 ačk 2 čak kač
@@ -163,18 +173,21 @@ bdo 2 bod dob
 bej 2 bej jeb
 ben 2 ben neb
 beo 2 boe obe
+bez 2 bez zeb
 bgi 2 big gib
 bgo 2 bog gob
 bgu 2 bug gub
 bhu 2 buh hub
 bio 2 boi ibo
 bir 2 bir rib
+biz 2 izb zib
 bku 2 buk kub
 blo 2 bol lob
 blu 2 bul lub
 bmo 2 bom mob
 bor 2 bor rob
 bos 2 bos sob
+boz 2 boz zob
 boš 2 boš šob
 brv 2 brv vrb
 bsu 2 bus sub
@@ -187,6 +200,7 @@ ces 2 ces esc
 cip 2 cip pic
 cir 2 cir cri
 cis 2 cis sic
+ciz 2 ciz zic
 cko 2 cok koc
 ckr 2 crk krc
 dei 2 die ide
@@ -197,12 +211,15 @@ den 2 den dne
 des 2 des sed
 deu 2 due ude
 deš 2 deš šed
+dež 2 dež žde
 dgo 2 dog god
 dhu 2 duh hud
 dii 2 dii idi
 din 2 din dni
 dio 2 ido odi
 div 2 div vid
+diz 2 zdi zid
+diž 2 ždi žid
 dju 2 duj jud
 dmo 2 dom mod
 dmr 2 drm mrd
@@ -212,6 +229,7 @@ dor 2 dro rod
 dot 2 dot tod
 drs 2 drs srd
 dru 2 dur rud
+drž 2 drž žrd
 duu 2 duu udu
 eeg 2 ege gee
 eej 2 eje jee
@@ -221,6 +239,7 @@ egi 2 egi gei
 egl 2 gel leg
 egn 2 gen neg
 ego 2 ego geo
+egž 2 žeg žge
 ehj 2 hej jeh
 ehk 2 hek keh
 ehl 2 hel leh
@@ -237,6 +256,8 @@ ejn 2 jen nje
 ejt 2 jet tej
 eju 2 eju uje
 ejv 2 vej vje
+ejz 2 jez zje
+ejž 2 jež žej
 ekl 2 kel lek
 ekm 2 kem mek
 ekn 2 enk nek
@@ -248,22 +269,30 @@ ekš 2 keš šek
 elm 2 lem mel
 elp 2 lep pel
 elv 2 lev vel
+elž 2 lež žel
 emm 2 emm mem
 emn 2 men nem
 emt 2 met tem
 emu 2 emu ume
 emv 2 mev vem
 ent 2 net ten
+enž 2 než žen
 eov 2 evo ove
 ept 2 pet tep
 epu 2 epu upe
 epš 2 peš pše
 ers 2 res ser
+erz 2 rez zre
+erž 2 rež žre
 est 2 set ste
 etv 2 tev vet
+etz 2 tez zet
+etž 2 tež žet
+evz 2 vez zev
 fil 2 fil lif
 fot 2 fot tof
 gis 2 gis sig
+giž 2 žgi žig
 gjo 2 goj jog
 glo 2 gol log
 gno 2 gon nog
@@ -292,19 +321,22 @@ ilp 2 lip pil
 ilr 2 lir ril
 ilu 2 ilu uli
 ilv 2 liv vil
+ilz 2 liz zli
 ilš 2 šil šli
 imo 2 moi omi
 ims 2 mis sim
 imt 2 mit tim
+imz 2 miz zim
+imž 2 žim žmi
 inp 2 pin pni
 ins 2 sin sni
 int 2 nit tin
 ior 2 ori rio
 ipr 2 pir pri
 ipt 2 pit tip
-irž 2 riž rži
 ist 2 sit tis
 itu 2 uit uti
+ivž 2 viž živ
 išv 2 šiv viš
 jko 2 jok koj
 jku 2 juk kuj
@@ -327,11 +359,13 @@ koš 2 koš šok
 krs 2 rsk srk
 krt 2 krt trk
 kru 2 kur ruk
+kuž 2 kuž žuk
 kšu 2 kuš ušk
 lmo 2 lom mol
 lop 2 lop pol
 lot 2 lot tlo
 lov 2 lov vol
+loz 2 loz zlo
 lsu 2 slu sul
 ltu 2 tlu tul
 mno 2 mon nom
@@ -341,6 +375,7 @@ mor 2 mor rom
 mos 2 smo som
 mru 2 mur rum
 msu 2 mus sum
+muz 2 muz zum
 mšu 2 muš šum
 nos 2 nos son
 not 2 not ton
@@ -353,12 +388,16 @@ ort 2 rot tor
 ost 2 ost sto
 osu 2 osu sou
 otu 2 out uto
+ouz 2 uzo zou
+ovz 2 voz zov
 prs 2 prs srp
 pru 2 pur rup
 ptu 2 put tup
+puž 2 puž žup
 pšu 2 puš šup
 rst 2 srt trs
 rsu 2 rus sur
+ruž 2 ruž žur
 ršu 2 ruš urš
 stu 2 sut ust
 sšu 2 suš šus
@@ -401,7 +440,6 @@ abn 1 ban
 abt 1 bat
 abz 1 baz
 abš 1 baš
-abž 1 baž
 acd 1 dac
 aci 1 ica
 ack 1 cak
@@ -416,6 +454,7 @@ ads 1 sad
 adt 1 dat
 adz 1 zad
 adš 1 daš
+adž 1 žad
 aeh 1 eha
 aek 1 ake
 ael 1 ale
@@ -444,7 +483,6 @@ agv 1 vag
 agy 1 gay
 agz 1 gaz
 agš 1 šag
-agž 1 gaž
 ahh 1 hah
 ahn 1 han
 aho 1 oha
@@ -461,8 +499,6 @@ akk 1 kak
 alm 1 lam
 aln 1 lan
 alu 1 alu
-alz 1 laz
-alž 1 laž
 amp 1 map
 amu 1 uma
 amz 1 maz
@@ -471,6 +507,7 @@ amž 1 maž
 anr 1 ran
 ant 1 nat
 anv 1 nav
+anz 1 zna
 anš 1 naš
 aop 1 opa
 aor 1 aro
@@ -481,8 +518,6 @@ apu 1 upa
 apv 1 pav
 apž 1 paž
 arv 1 var
-arz 1 raz
-arž 1 raž
 asu 1 asu
 att 1 tat
 auu 1 uau
@@ -490,7 +525,6 @@ auv 1 vau
 auz 1 uza
 avv 1 vav
 avz 1 vaz
-avž 1 važ
 ačf 1 fač
 ačj 1 čaj
 ačm 1 mač
@@ -519,7 +553,6 @@ bes 1 bes
 bet 1 bet
 bev 1 bev
 bew 1 web
-bez 1 bez
 bež 1 bež
 bfo 1 fob
 bgr 1 grb
@@ -534,7 +567,6 @@ bip 1 bip
 bis 1 bis
 bit 1 bit
 biv 1 vib
-biz 1 izb
 biš 1 šib
 bjo 1 boj
 bko 1 bok
@@ -549,7 +581,6 @@ bop 1 pob
 bot 1 bot
 box 1 box
 boy 1 boy
-boz 1 boz
 bpu 1 pub
 brr 1 brr
 brz 1 brz
@@ -584,7 +615,7 @@ cin 1 cin
 cio 1 ico
 cit 1 tic
 civ 1 vic
-ciz 1 ciz
+ciž 1 žic
 cku 1 cuk
 clo 1 col
 clu 1 cul
@@ -594,6 +625,7 @@ cop 1 cop
 cor 1 roc
 cot 1 cot
 cov 1 ovc
+coz 1 zoc
 cpu 1 cup
 crs 1 src
 ctu 1 tuc
@@ -608,7 +640,7 @@ dek 1 dek
 deo 1 ode
 dep 1 ped
 det 1 det
-dež 1 dež
+dez 1 zde
 dgr 1 grd
 dhi 1 dih
 dho 1 hod
@@ -637,7 +669,6 @@ dpu 1 pud
 drr 1 drr
 drt 1 trd
 drv 1 drv
-drž 1 drž
 dsu 1 sud
 dtu 1 dut
 dux 1 dux
@@ -675,6 +706,7 @@ ehp 1 hep
 ehs 1 hes
 ehu 1 ehu
 ehv 1 veh
+ehz 1 zeh
 ehš 1 šeh
 ein 1 eni
 eip 1 epi
@@ -684,37 +716,32 @@ ejj 1 jej
 ejo 1 oje
 ejp 1 pje
 ejs 1 sej
-ejz 1 jez
 ejš 1 ješ
-ejž 1 jež
 ekk 1 kek
 ekv 1 vek
+ekz 1 zek
 eln 1 len
 elo 1 ole
 elr 1 ler
-elz 1 lez
-elž 1 lež
 emš 1 šem
+emž 1 žme
 enr 1 ren
 env 1 ven
+enz 1 zen
 enš 1 šen
-enž 1 než
 eor 1 ero
 eos 1 ose
 eot 1 eto
+eoz 1 zoe
 eoš 1 šoe
 epv 1 pev
 epz 1 pez
+epž 1 žep
 eru 1 ure
-erz 1 rez
-erž 1 rež
 esu 1 esu
 ett 1 tet
 etu 1 ute
-etz 1 tez
-etž 1 tež
 euz 1 uze
-evz 1 vez
 evž 1 vež
 ešv 1 veš
 ffo 1 off
@@ -738,6 +765,7 @@ fno 1 fon
 fop 1 pof
 for 1 for
 fou 1 ufo
+foz 1 zof
 fpu 1 puf
 frr 1 frr
 frs 1 srf
@@ -765,7 +793,6 @@ gnu 1 gnu
 gos 1 gos
 got 1 tog
 goš 1 šog
-gož 1 gož
 gpr 1 prg
 grr 1 grr
 grt 1 trg
@@ -814,35 +841,40 @@ ijp 1 pij
 ijs 1 sij
 ijv 1 vij
 ijš 1 šij
+ijž 1 žij
 ikm 1 mik
 iku 1 uki
 ikv 1 vik
+ikz 1 zik
 ill 1 lil
 iln 1 lin
-ilz 1 liz
+ilž 1 žil
 imm 1 mim
 imn 1 min
 imu 1 umi
 imv 1 vim
-imz 1 miz
 imš 1 miš
 inv 1 vin
 inz 1 niz
 inš 1 niš
 ios 1 osi
 iov 1 ivo
+ioz 1 zoi
 ioš 1 šoi
 iož 1 oži
 ipp 1 pip
 ipu 1 upi
 ipv 1 piv
 iru 1 uri
+irz 1 zri
 irš 1 šir
 iss 1 sis
 itv 1 vit
+itz 1 zit
+itž 1 žit
 iuz 1 uzi
 ivz 1 viz
-ivž 1 viž
+izz 1 ziz
 išt 1 šit
 išu 1 uši
 jjo 1 joj
@@ -863,10 +895,10 @@ kpr 1 krp
 kpu 1 kup
 krr 1 krr
 krš 1 krš
+krž 1 žrk
 ksu 1 suk
 ktu 1 kut
 kuu 1 uku
-kuž 1 kuž
 llo 1 lol
 llu 1 lul
 lmr 1 mrl
@@ -874,13 +906,15 @@ lmu 1 mul
 lno 1 lon
 lor 1 rol
 lou 1 olu
-loz 1 loz
 lož 1 lož
 lpu 1 lup
 lrt 1 trl
 lru 1 rul
 lrv 1 vrl
+lrz 1 zrl
+lrž 1 žrl
 lux 1 lux
+luz 1 zlu
 luž 1 luž
 mmm 1 mmm
 mmo 1 mom
@@ -892,7 +926,6 @@ mrs 1 mrs
 mrt 1 trm
 mrv 1 mrv
 muu 1 umu
-muz 1 muz
 muž 1 muž
 nno 1 non
 nnu 1 nun
@@ -900,13 +933,16 @@ noo 1 ono
 nop 1 pon
 nor 1 nor
 nov 1 nov
+noz 1 zon
 noš 1 noš
 nož 1 nož
 npu 1 pun
 nrs 1 srn
 nrt 1 trn
+nrz 1 zrn
 ntu 1 tun
 oos 1 oso
+ooz 1 zoo
 ooš 1 šoo
 opp 1 pop
 ops 1 ops
@@ -915,9 +951,9 @@ opš 1 šop
 orr 1 ror
 oru 1 uro
 orv 1 rov
+orz 1 zor
 orž 1 rož
-ouz 1 uzo
-ovz 1 voz
+osz 1 zos
 ovž 1 vož
 ošt 1 šot
 ošv 1 šov
@@ -926,7 +962,6 @@ prt 1 prt
 prš 1 prš
 pst 1 pst
 puu 1 upu
-puž 1 puž
 pšt 1 pšt
 rrr 1 rrr
 rrt 1 trr
@@ -934,7 +969,6 @@ rsž 1 srž
 rtt 1 trt
 rtv 1 vrt
 rtz 1 trz
-ruž 1 ruž
 rvv 1 vrv
 ršt 1 trš
 ršv 1 vrš
@@ -942,6 +976,7 @@ ttu 1 tut
 tuv 1 vut
 uuu 1 uuu
 uuz 1 uzu
+zzz 1 zzz
 čde 1 čed
 čdr 1 drč
 čdu 1 čud
